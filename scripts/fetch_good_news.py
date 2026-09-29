@@ -15,21 +15,26 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "goodnews.json"
 SEED = ROOT / "data" / "verified_seed.json"
 
-UA = "DopafountainNewsBot/0.3 (+https://github.com/matthew4yang/Dopafountain)"
+UA = "DopafountainScienceBot/0.4 (+https://github.com/matthew4yang/Dopafountain)"
 
-# Narrow queries.  Discovery is broad enough to stay fresh, but the second-stage
-# gate below is deliberately much stricter than the search query itself.
+ALLOWED_CATEGORIES = {"宇宙探索", "粒子物理", "古生物学"}
+
+# Discovery is deliberately narrow: only authoritative institutions / journals,
+# then a second-stage semantic gate rejects administrative or vague items.
 QUERIES = [
-    ("医学", 'site:fda.gov/news-events/press-announcements ("FDA approves" OR "FDA grants accelerated approval" OR "first treatment") when:35d'),
-    ("医学", 'site:nih.gov/news-events/news-releases ("clinical trial" OR patients) (remission OR reduced OR improved OR effective) when:45d'),
-    ("医学", 'site:nature.com/articles/d41586 (trial OR patients) (remission OR reduced OR improved OR effective) when:45d'),
-    ("科学", 'site:science.org/content/article ("first ever" OR discovery OR discovered OR breakthrough) when:45d'),
-    ("航天", 'site:nasa.gov (spacecraft OR telescope OR probe OR mission OR engine OR thruster) (successfully OR record OR discovered OR "first") when:45d'),
-    ("航天", 'site:jpl.nasa.gov (spacecraft OR telescope OR probe OR mission OR engine) (successfully OR record OR discovered OR "first") when:45d'),
-    ("航天", 'site:esa.int (spacecraft OR telescope OR probe OR mission OR launcher) (successfully OR record OR discovered OR "first") when:45d'),
-    ("健康", 'site:who.int (eliminated OR certified OR "cases declined" OR "cases fell" OR reduction) (malaria OR trachoma OR cholera OR measles OR disease) when:90d'),
-    ("能源", 'site:iea.org (record OR surpassed OR overtook OR growth) (renewable OR solar OR wind OR battery OR electricity) when:120d'),
-    ("生态", 'site:noaa.gov (recovered OR recovery OR rebound OR restored OR increased) (species OR population OR habitat OR coral OR whale OR turtle OR salmon) when:120d'),
+    ("宇宙探索", 'site:nasa.gov (spacecraft OR telescope OR probe OR mission OR asteroid OR exoplanet OR galaxy OR "black hole") (discovered OR detected OR confirmed OR landed OR launched OR "first image" OR "first observation" OR orbit) when:45d'),
+    ("宇宙探索", 'site:jpl.nasa.gov (spacecraft OR telescope OR probe OR mission OR asteroid OR exoplanet OR Mars OR Jupiter) (discovered OR detected OR confirmed OR landed OR launched OR flyby OR orbit) when:45d'),
+    ("宇宙探索", 'site:esa.int (spacecraft OR telescope OR probe OR mission OR asteroid OR exoplanet OR galaxy OR "black hole") (discovered OR detected OR confirmed OR landed OR launched OR flyby OR orbit) when:45d'),
+
+    ("粒子物理", 'site:home.cern (particle OR collision OR LHC OR antimatter OR Higgs OR neutrino OR quark OR muon OR boson) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
+    ("粒子物理", 'site:fnal.gov (particle OR neutrino OR muon OR collider OR antimatter OR dark matter) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
+    ("粒子物理", 'site:bnl.gov (particle OR collider OR RHIC OR quark OR gluon OR neutrino) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
+    ("粒子物理", 'site:desy.de (particle OR collider OR photon OR axion OR dark matter OR neutrino) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
+
+    ("古生物学", 'site:nature.com (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
+    ("古生物学", 'site:science.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
+    ("古生物学", 'site:pnas.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
+    ("古生物学", 'site:si.edu (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
 ]
 
 ADMIN_REJECT = [
@@ -37,82 +42,56 @@ ADMIN_REJECT = [
     r"\bmeeting\b", r"\bconference\b", r"\bworkshop\b", r"\bforum\b",
     r"\bfunding opportunity\b", r"\bgrant opportunity\b", r"\bcall for\b",
     r"\bguideline(?:s)?\b", r"\bguidance\b", r"\broadmap\b", r"\bstrategy\b",
-    r"\bpolicy\b", r"\bplan\b", r"\bprogram(?:me)?\b", r"\bregulation(?:s)?\b",
-    r"\bappendix\b", r"\brepository\b", r"\bassessment\b", r"\boverview\b",
+    r"\bpolicy\b", r"\bplan\b", r"\bprogramme?\b", r"\bregulation(?:s)?\b",
     r"\banniversary\b", r"\bhistory of\b", r"\bparticipation\b",
     r"\bcase report\b", r"\bprotocol\b", r"\bsystematic review\b",
     r"\bmeta-analysis\b", r"\bperspective\b", r"\beditorial\b",
-    r"\binterview\b", r"\bcontroversy\b", r"\bdebate\b",
-    r"\bhow to\b", r"\bexplainer\b", r"\bwhat to know\b",
-]
-
-NEGATIVE_REJECT = [
-    r"\bwarning\b", r"\brecall\b", r"\bshortage\b", r"\boutbreak worsens\b",
-    r"\bdeaths? rise\b", r"\bcases? rise\b", r"\bdeclared emergency\b",
-]
-
-MED_ACTION = [
-    r"\bfda approv", r"\bapproved\b", r"\baccelerated approval\b",
-    r"\bfirst (?:drug|treatment|therapy|gene therapy)\b",
-    r"\bphase (?:2|3|ii|iii)\b", r"\bclinical trial\b",
-    r"\bremission\b", r"\breduced\b", r"\bimproved\b", r"\beffective\b",
-]
-MED_OBJECT = [
-    r"\bdrug\b", r"\btreatment\b", r"\btherapy\b", r"\bvaccine\b",
-    r"\bpatients?\b", r"\bdisease\b", r"\bcancer\b", r"\bsyndrome\b",
-    r"\bdeficien", r"\bmultiple sclerosis\b", r"\btransplant\b",
-]
-
-HEALTH_ACTION = [
-    r"\beliminat", r"\bcertif", r"\bcases? (?:declined|fell|reduced)\b",
-    r"\b(?:decline|reduction) in cases\b",
-]
-HEALTH_OBJECT = [
-    r"\bmalaria\b", r"\btrachoma\b", r"\bcholera\b", r"\bmeasles\b",
-    r"\bpolio\b", r"\bdisease\b", r"\boutbreak\b",
+    r"\binterview\b", r"\bdebate\b", r"\bexplainer\b", r"\bwhat to know\b",
+    r"\bjob\b", r"\bvacancy\b", r"\baward\b", r"\bprize\b",
 ]
 
 SPACE_ACTION = [
-    r"\bsuccess", r"\bfirst\b", r"\brecord\b", r"\bdiscover",
-    r"\bdetect", r"\bconfirm", r"\bentered orbit\b", r"\blanded\b",
-    r"\bseparation\b", r"\bflyby\b", r"\blaunched\b",
+    r"\bdiscover", r"\bdetect", r"\bconfirm", r"\bobserv",
+    r"\bfirst image\b", r"\bfirst observation\b", r"\blanded\b",
+    r"\blaunched\b", r"\bentered orbit\b", r"\bflyby\b",
+    r"\bsample return\b", r"\bseparation\b", r"\brecord\b",
 ]
 SPACE_OBJECT = [
     r"\bspacecraft\b", r"\btelescope\b", r"\bprobe\b", r"\bmission\b",
-    r"\bengine\b", r"\bthruster\b", r"\brocket\b", r"\borbit\b",
-    r"\basteroid\b", r"\bplanet\b", r"\bexoplanet\b", r"\bgalaxy\b",
-    r"\bblack hole\b", r"\bmoon\b", r"\bmars\b", r"\bmercury\b",
-    r"\bjupiter\b",
+    r"\basteroid\b", r"\bcomet\b", r"\bplanet\b", r"\bexoplanet\b",
+    r"\bgalaxy\b", r"\bblack hole\b", r"\bmoon\b", r"\bmars\b",
+    r"\bmercury\b", r"\bjupiter\b", r"\bsaturn\b", r"\buniverse\b",
 ]
 
-SCIENCE_ACTION = [
-    r"\bdiscover", r"\bbreakthrough\b", r"\bfirst ever\b",
-    r"\bfirst in the world\b", r"\bdemonstrat", r"\bachiev",
+PARTICLE_ACTION = [
+    r"\bdiscover", r"\bobserv", r"\bdetect", r"\bmeasur", r"\bevidence\b",
+    r"\bfirst\b", r"\bprecision\b", r"\bconstraint", r"\bexcess\b",
+    r"\bdecay\b", r"\bcollision",
 ]
-SCIENCE_OBJECT = [
-    r"\bexperiment\b", r"\bmaterial\b", r"\bcell\b", r"\bprotein\b",
-    r"\bgene\b", r"\borgan\b", r"\bquantum\b", r"\bfossil\b",
-    r"\bparticle\b", r"\btransplant\b", r"\bmathemat",
-]
-
-ENERGY_ACTION = [
-    r"\brecord\b", r"\bsurpass", r"\bovertook\b", r"\bovertake\b",
-    r"\bgrew\b", r"\bgrowth\b", r"\breduced\b",
-]
-ENERGY_OBJECT = [
-    r"\brenewable", r"\bsolar\b", r"\bwind\b", r"\bbattery\b",
-    r"\belectricity\b", r"\bstorage\b", r"\bfusion\b",
+PARTICLE_OBJECT = [
+    r"\bparticle\b", r"\blhc\b", r"\bcollider\b", r"\bneutrino\b",
+    r"\bhiggs\b", r"\bmuon\b", r"\bquark\b", r"\bgluon\b",
+    r"\bboson\b", r"\bantimatter\b", r"\bdark matter\b", r"\baxion\b",
+    r"\bmeson\b", r"\bbaryon\b", r"\bproton\b", r"\bion\b",
 ]
 
-ECO_ACTION = [
-    r"\brecover", r"\brebound\b", r"\brestor", r"\bincreased\b",
-    r"\bpopulation grew\b", r"\breturned\b",
+PALEO_ACTION = [
+    r"\bdiscover", r"\breveal", r"\bevidence\b", r"\boldest\b",
+    r"\bearliest\b", r"\bnew species\b", r"\breconstruct",
+    r"\bdated\b", r"\bidentif", r"\btrace fossil\b",
 ]
-ECO_OBJECT = [
-    r"\bspecies\b", r"\bpopulation\b", r"\bhabitat\b", r"\bcoral\b",
-    r"\bwhale\b", r"\bturtle\b", r"\bsalmon\b", r"\bbird\b",
-    r"\bforest\b", r"\bwetland\b",
+PALEO_OBJECT = [
+    r"\bfossil\b", r"\bdinosaur\b", r"\bpaleontolog", r"\bpalaeontolog",
+    r"\bextinct\b", r"\bhominin\b", r"\bCambrian\b", r"\bJurassic\b",
+    r"\bCretaceous\b", r"\bPleistocene\b", r"\bMesozoic\b",
+    r"\bvertebrate\b", r"\bichnofossil\b",
 ]
+
+TRUSTED_SOURCE_HINTS = {
+    "宇宙探索": ("NASA", "JPL", "European Space Agency", "ESA"),
+    "粒子物理": ("CERN", "Fermilab", "Brookhaven", "DESY"),
+    "古生物学": ("Nature", "Science", "PNAS", "Smithsonian"),
+}
 
 def request_bytes(url, timeout=18):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -140,51 +119,39 @@ def google_news_url(query):
 
 def any_match(text, patterns):
     low = text.lower()
-    return any(re.search(p, low) for p in patterns)
+    return any(re.search(p, low, re.I) for p in patterns)
 
 def gate_for(category):
-    if category == "医学":
-        return MED_ACTION, MED_OBJECT
-    if category == "健康":
-        return HEALTH_ACTION, HEALTH_OBJECT
-    if category == "航天":
+    if category == "宇宙探索":
         return SPACE_ACTION, SPACE_OBJECT
-    if category == "科学":
-        return SCIENCE_ACTION, SCIENCE_OBJECT
-    if category == "能源":
-        return ENERGY_ACTION, ENERGY_OBJECT
-    return ECO_ACTION, ECO_OBJECT
+    if category == "粒子物理":
+        return PARTICLE_ACTION, PARTICLE_OBJECT
+    if category == "古生物学":
+        return PALEO_ACTION, PALEO_OBJECT
+    return [], []
 
-def qualifies(category, title):
-    low = title.lower()
-    if "?" in title:
+def qualifies(category, title, source):
+    if category not in ALLOWED_CATEGORIES or "?" in title:
         return False
-    if any_match(low, ADMIN_REJECT) or any_match(low, NEGATIVE_REJECT):
+    low = title.lower()
+    if any_match(low, ADMIN_REJECT):
         return False
     action, obj = gate_for(category)
-    return any_match(low, action) and any_match(low, obj)
+    if not (any_match(low, action) and any_match(low, obj)):
+        return False
+    hints = TRUSTED_SOURCE_HINTS[category]
+    return any(h.lower() in source.lower() for h in hints)
 
 def score_title(category, title, source):
     action, obj = gate_for(category)
     low = title.lower()
-    a = sum(1 for p in action if re.search(p, low))
-    b = sum(1 for p in obj if re.search(p, low))
-    score = 58 + min(a, 3) * 8 + min(b, 2) * 5
-
-    # Hard numbers are especially useful for "core fact" notifications.
+    a = sum(1 for p in action if re.search(p, low, re.I))
+    b = sum(1 for p in obj if re.search(p, low, re.I))
+    score = 64 + min(a, 3) * 7 + min(b, 2) * 6
     if re.search(r"\b\d+(?:\.\d+)?\s*%|\b\d{2,}\b", title):
-        score += 7
-    if re.search(r"\bfirst (?:drug|treatment|therapy|gene therapy)\b", low):
-        score += 10
-
-    trusted = (
-        "FDA" in source or "NIH" in source or "NASA" in source or
-        "European Space Agency" in source or "World Health Organization" in source or
-        "IEA" in source or "NOAA" in source or "Nature" in source or
-        "Science" in source
-    )
-    if trusted:
-        score += 5
+        score += 6
+    if any(h.lower() in source.lower() for h in TRUSTED_SOURCE_HINTS[category]):
+        score += 6
     return min(score, 99)
 
 def translate_zh(text):
@@ -198,8 +165,7 @@ def translate_zh(text):
     for attempt in range(2):
         try:
             data = json.loads(request_bytes(url, timeout=12).decode("utf-8"))
-            result = "".join(part[0] for part in data[0] if part and part[0])
-            return clean_text(result)
+            return clean_text("".join(part[0] for part in data[0] if part and part[0]))
         except Exception:
             if attempt == 0:
                 time.sleep(0.6)
@@ -227,13 +193,13 @@ def collect():
             if source and title.endswith(" - " + source):
                 title = title[:-(len(source) + 3)].strip()
 
-            if not title or not link or not qualifies(category, title):
+            if not title or not link or not qualifies(category, title, source):
                 continue
             if (now - published).days > 125:
                 continue
 
             score = score_title(category, title, source)
-            if score < 75:
+            if score < 78:
                 continue
 
             key = re.sub(r"\W+", "", title.lower())
@@ -244,21 +210,27 @@ def collect():
             rows.append({
                 "category": category,
                 "title_raw": title,
-                "source": source or "Web",
+                "source": source,
                 "url": link,
                 "published": published,
                 "score": score,
             })
 
     rows.sort(key=lambda x: (x["published"], x["score"]), reverse=True)
-    return rows[:36]
+
+    # Prevent one field from drowning out the others.
+    balanced = []
+    for category in ("宇宙探索", "粒子物理", "古生物学"):
+        balanced.extend([r for r in rows if r["category"] == category][:16])
+    balanced.sort(key=lambda x: (x["published"], x["score"]), reverse=True)
+    return balanced[:48]
 
 def generated_items(rows):
     items = []
     for row in rows:
         fact_cn = translate_zh(row["title_raw"])
         ident = hashlib.sha256(
-            (row["source"] + "|" + row["title_raw"]).encode("utf-8")
+            (row["category"] + "|" + row["source"] + "|" + row["title_raw"]).encode("utf-8")
         ).hexdigest()[:16]
         items.append({
             "id": ident,
@@ -275,7 +247,8 @@ def generated_items(rows):
 
 def load_seed():
     try:
-        return json.loads(SEED.read_text("utf-8")).get("items", [])
+        raw = json.loads(SEED.read_text("utf-8")).get("items", [])
+        return [x for x in raw if x.get("category") in ALLOWED_CATEGORIES]
     except Exception:
         return []
 
@@ -283,17 +256,14 @@ def merge_items(seed, generated):
     out = []
     seen_ids = set()
     seen_titles = set()
-
-    # Verified seeds stay first in preference when dates are equal, but both
-    # manual and automatic items must carry a concrete fact.
     for item in seed + generated:
+        if item.get("category") not in ALLOWED_CATEGORIES:
+            continue
         ident = item.get("id", "")
         title = clean_text(item.get("title", ""))
         text = clean_text(item.get("text", "")) or title
         key = re.sub(r"\W+", "", title.lower())
-        if not ident or not key or ident in seen_ids or key in seen_titles:
-            continue
-        if len(title) < 8:
+        if not ident or not key or ident in seen_ids or key in seen_titles or len(title) < 8:
             continue
         item = dict(item)
         item["text"] = text
@@ -301,8 +271,14 @@ def merge_items(seed, generated):
         seen_titles.add(key)
         out.append(item)
 
-    out.sort(key=lambda x: (x.get("published_at", ""), x.get("score", 0)), reverse=True)
-    return out[:48]
+    # Balance the final feed too.
+    final = []
+    for category in ("宇宙探索", "粒子物理", "古生物学"):
+        bucket = [x for x in out if x.get("category") == category]
+        bucket.sort(key=lambda x: (x.get("published_at", ""), x.get("score", 0)), reverse=True)
+        final.extend(bucket[:16])
+    final.sort(key=lambda x: (x.get("published_at", ""), x.get("score", 0)), reverse=True)
+    return final[:48]
 
 def same_content(old, new_items):
     old_items = old.get("items", []) if isinstance(old, dict) else []
@@ -317,8 +293,8 @@ def main():
     auto = generated_items(rows)
     items = merge_items(seed, auto)
 
-    if len(items) < 5:
-        raise RuntimeError("Quality gate produced too few items; keeping previous feed.")
+    if len(items) < 2:
+        raise RuntimeError("Strict science gate produced too few items; keeping previous feed.")
 
     old = {}
     if OUT.exists():
@@ -336,7 +312,7 @@ def main():
         "count": len(items),
         "auto_count": len(auto),
         "verified_seed_count": len(seed),
-        "policy": "core facts only; strict object+result gate; no motivational or administrative filler",
+        "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
         "items": items,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", "utf-8")
