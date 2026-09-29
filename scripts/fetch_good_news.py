@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import datetime as dt
 import email.utils
+import difflib
 import hashlib
 import html
 import json
