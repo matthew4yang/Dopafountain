@@ -13,45 +13,85 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "goodnews.json"
+SEED = ROOT / "data" / "verified_seed.json"
 
 UA = "DopafountainNewsBot/0.2 (+https://github.com/matthew4yang/Dopafountain)"
 
 QUERIES = [
-    ("医学", "site:nih.gov (trial OR treatment OR remission OR vaccine OR successful) when:30d"),
-    ("医学", "site:fda.gov (approves OR approval OR authorized OR clearance) when:30d"),
-    ("医学", "site:nature.com (trial OR treatment OR remission OR breakthrough) when:30d"),
-    ("科学", "site:science.org (breakthrough OR discovery OR discovered OR first) when:30d"),
-    ("航天", "site:nasa.gov (successful OR discovery OR discovered OR first OR launched) when:30d"),
-    ("航天", "site:esa.int (successful OR discovery OR discovered OR first OR launched) when:30d"),
-    ("健康", "site:who.int (eliminated OR reduction OR vaccine OR certified OR approved) when:45d"),
-    ("能源", "site:iea.org (renewable OR solar OR battery OR efficiency OR record) when:45d"),
-    ("生态", "site:noaa.gov (recovery OR restored OR rebound OR protected OR record) when:45d"),
+    ("医学", 'site:fda.gov/news-events/press-announcements ("FDA approves" OR "FDA grants accelerated approval" OR "first treatment" OR "first therapy") when:45d'),
+    ("医学", 'site:nih.gov/news-events/news-releases (reverses OR improves OR reduced OR remission OR effective OR recovery) when:45d'),
+    ("医学", 'site:nature.com/articles/d41586 (remission OR reverses OR eases OR improves OR "first trial") when:45d'),
+    ("科学", 'site:science.org/content/article (breakthrough OR discovery OR discovered OR record OR successful) when:45d'),
+    ("航天", 'site:nasa.gov (discovery OR discovered OR successful OR record OR "first ever") when:45d'),
+    ("航天", 'site:jpl.nasa.gov (discovery OR discovered OR successful OR record OR "first") when:45d'),
+    ("航天", 'site:esa.int (successful OR discovery OR discovered OR record OR "first") when:45d'),
+    ("健康", 'site:who.int (eliminated OR certified OR reduction OR reduced OR decline OR recovery) when:60d'),
+    ("能源", 'site:iea.org (record OR "fastest growing" OR surpassed OR overtook OR reduced) when:120d'),
+    ("生态", 'site:noaa.gov (recovery OR restored OR rebound OR protected OR record) when:60d'),
 ]
 
-POSITIVE = {
-    "approved": 20, "approves": 20, "authorized": 18, "clearance": 15,
-    "breakthrough": 18, "successful": 16, "success": 14, "first": 10,
-    "remission": 22, "effective": 18, "efficacy": 16, "survival": 14,
-    "recovery": 16, "recovered": 16, "restored": 16, "rebound": 14,
-    "eliminated": 22, "eradicated": 24, "reduction": 12, "reduced": 12,
-    "discovery": 12, "discovered": 12, "record": 12, "improved": 12,
-    "improves": 12, "protect": 10, "protected": 10, "renewable": 10,
-    "solar": 8, "battery": 8, "efficiency": 10, "vaccine": 10,
-    "treatment": 8, "trial": 8, "launched": 8, "landed": 14,
-}
-
-HARD = [
-    "phase 3", "phase iii", "randomized", "clinical trial", "fda",
-    "who", "percent", "%", "patients", "participants", "published",
-    "study", "mission", "megawatt", "gigawatt", "efficiency"
+MED_STRONG = [
+    r"\bapprov(?:e|es|ed|al)\b",
+    r"\bauthoriz(?:e|es|ed|ation)\b",
+    r"\bremission\b",
+    r"\brevers(?:e|es|ed)\b",
+    r"\beas(?:e|es|ed)\b",
+    r"\bimprov(?:e|es|ed|ement)\b",
+    r"\breduc(?:e|es|ed|tion)\b",
+    r"\brecover(?:y|ed|s)?\b",
+    r"\brestor(?:e|es|ed|ation)\b",
+    r"\beffective(?:ness)?\b",
+    r"\bprevent(?:s|ed|ion)?\b",
+    r"\bsurvival\b",
+    r"\bfirst (?:drug|treatment|therapy|gene therapy)\b",
 ]
 
-CLICKBAIT = [
-    "shocking", "stunning", "you won't believe", "miracle",
-    "game changer", "mind-blowing", "secret"
+SCIENCE_STRONG = [
+    r"\bdiscover(?:y|ed|s)?\b",
+    r"\bbreakthrough\b",
+    r"\bsuccess(?:ful|fully)?\b",
+    r"\brecord\b",
+    r"\bfirst ever\b",
+    r"\bfirst in the world\b",
+    r"\bachiev(?:e|es|ed)\b",
+    r"\bdetect(?:s|ed)\b",
+    r"\bconfirm(?:s|ed)\b",
 ]
 
-def request_bytes(url, timeout=15):
+ENERGY_ECO_STRONG = [
+    r"\brecord\b",
+    r"\brecover(?:y|ed|s)?\b",
+    r"\brestor(?:e|es|ed|ation)\b",
+    r"\brebound\b",
+    r"\bprotect(?:s|ed|ion)?\b",
+    r"\beliminat(?:e|es|ed|ion)\b",
+    r"\bcertif(?:y|ies|ied)\b",
+    r"\breduc(?:e|es|ed|tion)\b",
+    r"\bdeclin(?:e|es|ed)\b",
+    r"\bsurpass(?:es|ed)?\b",
+    r"\bovert(?:ake|akes|ook)\b",
+    r"\bfastest growing\b",
+]
+
+REJECT = [
+    r"\bcase report\b",
+    r"\bprotocol\b",
+    r"\bsystematic review\b",
+    r"\bmeta-analysis\b",
+    r"\bcomparison\b",
+    r"\bnational trends\b",
+    r"\bassociation between\b",
+    r"\bperspective\b",
+    r"\beditorial\b",
+    r"\byears ago\b",
+    r"\banniversary\b",
+    r"\bhistory of\b",
+    r"\bwarning\b",
+    r"\brecall\b",
+    r"\bshortage\b",
+]
+
+def request_bytes(url, timeout=18):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
@@ -75,21 +115,34 @@ def google_news_url(query):
     q = urllib.parse.quote(query)
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 
-def score_title(title):
+def has_pattern(title, patterns):
     low = title.lower()
-    score = 18
-    for word, points in POSITIVE.items():
-        if word in low:
-            score += points
-    for word in HARD:
-        if word in low:
-            score += 6
-    if re.search(r"\b\d+(?:\.\d+)?\s*%|\b\d{2,}\b", low):
-        score += 8
-    for word in CLICKBAIT:
-        if word in low:
-            score -= 40
-    return score
+    return any(re.search(p, low) for p in patterns)
+
+def qualifies(category, title):
+    low = title.lower()
+    if "?" in title:
+        return False
+    if any(re.search(p, low) for p in REJECT):
+        return False
+
+    if category in ("医学", "健康"):
+        return has_pattern(title, MED_STRONG + ENERGY_ECO_STRONG)
+    if category in ("航天", "科学"):
+        return has_pattern(title, SCIENCE_STRONG)
+    return has_pattern(title, ENERGY_ECO_STRONG)
+
+def score_title(category, title):
+    patterns = MED_STRONG if category in ("医学", "健康") else (
+        SCIENCE_STRONG if category in ("航天", "科学") else ENERGY_ECO_STRONG
+    )
+    hits = sum(1 for p in patterns if re.search(p, title.lower()))
+    score = 55 + hits * 10
+    if re.search(r"\b\d+(?:\.\d+)?\s*%|\b\d{2,}\b", title):
+        score += 5
+    if re.search(r"\bfirst (?:drug|treatment|therapy|gene therapy)\b", title.lower()):
+        score += 12
+    return min(score, 99)
 
 def translate_zh(text):
     text = clean_text(text)[:900]
@@ -110,39 +163,8 @@ def translate_zh(text):
             return clean_text(result)
         except Exception:
             if attempt == 0:
-                time.sleep(0.8)
+                time.sleep(0.6)
     return text
-
-META_PATTERNS = [
-    re.compile(r'<meta[^>]+(?:name|property)=["\'](?:description|og:description)["\'][^>]+content=["\']([^"\']+)["\']', re.I),
-    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:name|property)=["\'](?:description|og:description)["\']', re.I),
-]
-
-def page_description(url):
-    try:
-        raw = request_bytes(url, timeout=12)[:900000]
-        page = raw.decode("utf-8", errors="ignore")
-        for pattern in META_PATTERNS:
-            m = pattern.search(page)
-            if not m:
-                continue
-            text = clean_text(m.group(1))
-            low = text.lower()
-            if 45 <= len(text) <= 700 and "google news" not in low and "comprehensive up-to-date" not in low:
-                return text
-    except Exception:
-        pass
-    return ""
-
-def trim_sentences(text, max_chars=260):
-    text = clean_text(text)
-    if not text:
-        return ""
-    chunks = re.split(r"(?<=[.!?。！？])\s+", text)
-    out = " ".join(chunks[:2]).strip()
-    if len(out) > max_chars:
-        out = out[:max_chars].rsplit(" ", 1)[0].rstrip(" ,;:") + "…"
-    return out
 
 def collect():
     now = dt.datetime.now(dt.timezone.utc)
@@ -151,7 +173,7 @@ def collect():
 
     for category, query in QUERIES:
         try:
-            root = ET.fromstring(request_bytes(google_news_url(query), timeout=18))
+            root = ET.fromstring(request_bytes(google_news_url(query)))
         except Exception as exc:
             print(f"skip query: {query}: {exc}")
             continue
@@ -166,19 +188,15 @@ def collect():
             if source and title.endswith(" - " + source):
                 title = title[:-(len(source) + 3)].strip()
 
-            if not title or not link:
+            if not title or not link or not qualifies(category, title):
                 continue
-            if (now - published).days > 50:
+            if (now - published).days > 125:
                 continue
 
             key = re.sub(r"\W+", "", title.lower())
-            if key in seen_titles:
+            if not key or key in seen_titles:
                 continue
             seen_titles.add(key)
-
-            score = score_title(title)
-            if score < 34:
-                continue
 
             rows.append({
                 "category": category,
@@ -186,38 +204,54 @@ def collect():
                 "source": source or "Web",
                 "url": link,
                 "published": published,
-                "score": score,
+                "score": score_title(category, title),
             })
 
     rows.sort(key=lambda x: (x["published"], x["score"]), reverse=True)
-    return rows[:60]
+    return rows[:50]
 
-def build_items(rows):
+def generated_items(rows):
     items = []
-    for i, row in enumerate(rows):
+    for row in rows:
         title_cn = translate_zh(row["title_raw"])
-        desc_raw = page_description(row["url"]) if i < 28 else ""
-        text_cn = translate_zh(trim_sentences(desc_raw)) if desc_raw else ""
-
-        if text_cn == title_cn:
-            text_cn = ""
-
         ident = hashlib.sha256(
             (row["source"] + "|" + row["title_raw"]).encode("utf-8")
         ).hexdigest()[:16]
-
         items.append({
             "id": ident,
             "category": row["category"],
             "title": title_cn,
-            "text": text_cn,
+            "text": "",
             "source": row["source"],
             "url": row["url"],
             "published_at": row["published"].isoformat().replace("+00:00", "Z"),
             "score": row["score"],
         })
-        time.sleep(0.08)
+        time.sleep(0.05)
     return items
+
+def load_seed():
+    try:
+        return json.loads(SEED.read_text("utf-8")).get("items", [])
+    except Exception:
+        return []
+
+def merge_items(seed, generated):
+    out = []
+    seen_ids = set()
+    seen_titles = set()
+
+    for item in seed + generated:
+        ident = item.get("id", "")
+        key = re.sub(r"\W+", "", item.get("title", "").lower())
+        if not ident or not key or ident in seen_ids or key in seen_titles:
+            continue
+        seen_ids.add(ident)
+        seen_titles.add(key)
+        out.append(item)
+
+    out.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    return out[:60]
 
 def same_content(old, new_items):
     old_items = old.get("items", []) if isinstance(old, dict) else []
@@ -227,13 +261,13 @@ def same_content(old, new_items):
     return canon(old_items) == canon(new_items)
 
 def main():
+    seed = load_seed()
     rows = collect()
-    if not rows:
-        raise RuntimeError("No qualifying hard-good-news items found; keeping previous feed.")
+    auto = generated_items(rows)
+    items = merge_items(seed, auto)
 
-    items = build_items(rows)
-    if not items:
-        raise RuntimeError("No usable items after processing; keeping previous feed.")
+    if len(items) < 5:
+        raise RuntimeError("Quality gate produced too few items; keeping previous feed.")
 
     old = {}
     if OUT.exists():
@@ -249,12 +283,13 @@ def main():
     payload = {
         "updated_at": dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
         "count": len(items),
-        "policy": "core facts only; no motivational filler",
+        "auto_count": len(auto),
+        "verified_seed_count": len(seed),
+        "policy": "core facts only; strong positive result required; no motivational filler",
         "items": items,
     }
-    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", "utf-8")
-    print(f"Wrote {len(items)} items to {OUT}")
+    print(f"Wrote {len(items)} items ({len(auto)} auto + {len(seed)} verified seeds).")
 
 if __name__ == "__main__":
     main()

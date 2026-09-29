@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": "seed-fda-mct8-20260928",
+      "category": "医学",
+      "title": "FDA批准首个MCT8缺陷治疗药物 Emcitate",
+      "text": "2026年9月28日，FDA批准tiratricol（Emcitate）用于MCT8缺陷患者的外周甲状腺毒症；这是该罕见遗传病首个FDA批准治疗。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
+      "published_at": "2026-09-28T00:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "seed-nih-k9-ms-20260923",
+      "category": "医学",
+      "title": "实验药K-9在多发性硬化动物模型中逆转既有视力丧失和瘫痪",
+      "text": "NIH资助研究显示，kamuvudine-9在多发性硬化动物模型中促进既有神经功能损伤恢复；一项超过300万人的数据分析还发现，使用NRTI类抗病毒药者的MS及复发率较低，但这不是人体疗效试验。",
+      "source": "NIH",
+      "url": "https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model",
+      "published_at": "2026-09-23T00:00:00Z",
+      "score": 88
+    },
+    {
+      "id": "seed-nature-ms-inbody-20260903",
+      "category": "医学",
+      "title": "体内生成免疫细胞的实验疗法在小型自身免疫病试验中改善症状",
+      "text": "Nature报道，一项小型临床试验中，16名多发性硬化或其他自身免疫病患者接受能在体内生成治疗性免疫细胞的方案后症状改善；研究仍需更大样本验证。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02765-1",
+      "published_at": "2026-09-03T00:00:00Z",
+      "score": 86
+    },
+    {
+      "id": "seed-fda-sanfilippo-20260917",
+      "category": "医学",
+      "title": "FDA批准首个Sanfilippo A型综合征基因疗法",
+      "text": "2026年9月17日，FDA批准基因疗法Fayuvi用于儿童MPS IIIA（Sanfilippo A型综合征）；此前该病没有FDA批准的疾病修饰治疗。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+      "published_at": "2026-09-17T00:00:00Z",
+      "score": 92
+    },
+    {
+      "id": "seed-fda-alexander-20260903",
+      "category": "医学",
+      "title": "FDA批准Alexander病首个药物 Zanvastro",
+      "text": "2026年9月3日，FDA批准zilganersen（Zanvastro）用于儿童和成人Alexander病；这是该病首个获批疗法，也是首个直接针对致病GFAP蛋白积聚的治疗。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+      "published_at": "2026-09-03T00:00:00Z",
+      "score": 92
+    },
+    {
+      "id": "seed-nature-osteoporosis-20260911",
+      "category": "医学",
+      "title": "10名重度骨质疏松女性接受改造自体骨髓细胞后骨折显著减少",
+      "text": "Nature报道的一项小型试验中，10名高骨折风险女性接受一次经处理、提高骨组织归巢能力的自体骨髓细胞输注后，后续骨折大幅减少；结果仍需更大试验确认。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02828-3",
+      "published_at": "2026-09-11T00:00:00Z",
+      "score": 82
+    },
+    {
+      "id": "seed-nasa-prima-20260923",
+      "category": "航天",
+      "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
+      "text": "PRIMA成为NASA新设Probe Explorers任务类别的首个项目，将利用远红外观测研究行星、恒星、黑洞形成以及宇宙中水的演化。",
+      "source": "NASA/JPL",
+      "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "published_at": "2026-09-23T00:00:00Z",
+      "score": 78
+    },
+    {
+      "id": "seed-esa-bepicolombo-20260903",
+      "category": "航天",
+      "title": "BepiColombo完成MTM推进模块分离，进入水星抵达阶段",
+      "text": "ESA确认BepiColombo的水星转移模块已于2026年9月3日成功分离；任务计划在2026年12月把两艘探测器送入水星轨道。",
+      "source": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+      "published_at": "2026-09-03T00:00:00Z",
+      "score": 82
+    },
+    {
+      "id": "seed-iea-renewables-2026",
+      "category": "能源",
+      "title": "2025年全球新增可再生能源装机达到创纪录的800 GW",
+      "text": "IEA统计显示，2025年全球可再生能源新增装机同比增长16%至800 GW，连续第23年创纪录；太阳能占新增装机逾75%，电池储能新增容量约110 GW、同比增长约40%。",
+      "source": "IEA",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/key-findings",
+      "published_at": "2026-01-01T00:00:00Z",
+      "score": 84
+    }
+  ]
+}
