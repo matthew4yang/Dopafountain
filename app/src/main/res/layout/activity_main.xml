@@ -65,7 +65,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="科研、医学、航天、工程、能源、生态；来源不够硬或事实不够具体就不推送。"
+            android:text="只推送：宇宙探索、粒子物理、古生物学。来源不够硬或事实不够具体就不推送。"
             android:textSize="15sp" />
 
         <TextView
