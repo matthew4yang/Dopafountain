@@ -38,16 +38,16 @@ jobs:
       - name: Build debug APK
         run: gradle :app:assembleDebug --stacktrace
       - name: Rename APK
-        run: cp app/build/outputs/apk/debug/app-debug.apk Dopafountain-v0.4.${{ github.run_number }}.apk
+        run: cp app/build/outputs/apk/debug/app-debug.apk Dopafountain-v0.5.${{ github.run_number }}.apk
       - name: Upload workflow artifact
         uses: actions/upload-artifact@v4
         with:
           name: Dopafountain-apk
-          path: Dopafountain-v0.4.${{ github.run_number }}.apk
+          path: Dopafountain-v0.5.${{ github.run_number }}.apk
       - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v0.4.${{ github.run_number }}
-          name: Dopafountain v0.4.${{ github.run_number }}
-          files: Dopafountain-v0.4.${{ github.run_number }}.apk
+          tag_name: v0.5.${{ github.run_number }}
+          name: Dopafountain v0.5.${{ github.run_number }}
+          files: Dopafountain-v0.5.${{ github.run_number }}.apk
           generate_release_notes: true
