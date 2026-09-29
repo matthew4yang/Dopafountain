@@ -1,4 +1,5 @@
 name: Update hard good-news feed
+# v0.2 online hard-news pipeline
 
 on:
   schedule:
