@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:01:20.586496Z",
+  "updated_at": "2026-09-29T16:31:54.079596Z",
   "count": 11,
   "auto_count": 9,
   "verified_seed_count": 2,
@@ -32,14 +32,14 @@
       "text": "美国宇航局的发现揭示了早期火星上复杂的水系统",
       "source": "NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0lfRXFPQmFmTndEM1huY1U1ZkJSUkhLRlRudG1ZREozNTNSaGZ6VzhtWU8xT0VOWlRqcUtjY0hGTXR1TTllbmpVbmxnRVVPajcwQmtjZDN2UkRBQnFSQ042RWhjRXJmUTJNTVJCeUpNWFY3cmZmb2loRG1NVi1oNWVaTVk1MWdDUTFwcUdZR0ZVb2pvOVJuYzZJblRqYUtWdnhPRlhoTkhXQQ?oc=5",
-      "published_at": "2026-09-21T16:54:43Z",
+      "published_at": "2026-09-21T07:00:00Z",
       "score": 83
     },
     {
       "id": "bcd29924f7a16786",
       "category": "宇宙探索",
-      "title": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
-      "text": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
+      "title": "BepiColombo 成功抵达水星并成功分离 MTM",
+      "text": "BepiColombo 成功抵达水星并成功分离 MTM",
       "source": "European Space Agency",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXl2MTgtUWpTdjhUb3Zwa2ZGNm1mcTNYVVFqRXZxa0dKZUd2bmc0YkhqYUNyaDk5VzNVcWFqMDNQY29sdkF0NC10aWwtVG9aY2d0NFE5WUJ3Q1dpaXZydF9NaHF3RzBVZ3JQNjhoZy1fbThodmRjRmZrZHkwVDgtbElsNlQtOE1UTWE4VWdCS0lMV0dtbHFXRHVCM0NHZTd0QTk0VGJqLXZ1LWRudUtz?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
@@ -106,11 +106,11 @@
       "score": 83
     },
     {
-      "id": "554768f7e8ebce81",
+      "id": "72a70eed65a6d6d6",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
       "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "bib-pubdb1.desy.de",
+      "source": "desy pubdb",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
