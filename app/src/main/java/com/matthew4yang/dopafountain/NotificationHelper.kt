@@ -16,7 +16,7 @@ import androidx.core.content.ContextCompat
 object NotificationHelper {
     private const val CHANNEL_ID = "dopafountain_hard_news"
 
-    fun show(context: Context, item: GoodNews) {
+    fun show(context: Context, item: GoodNews): Boolean {
         val manager = context.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             manager.createNotificationChannel(
@@ -29,7 +29,7 @@ object NotificationHelper {
         if (Build.VERSION.SDK_INT >= 33 &&
             ContextCompat.checkSelfPermission(context, Manifest.permission.POST_NOTIFICATIONS)
             != PackageManager.PERMISSION_GRANTED
-        ) return
+        ) return false
 
         val openIntent = if (item.url.isNotBlank()) {
             PendingIntent.getActivity(
@@ -58,5 +58,7 @@ object NotificationHelper {
 
         NotificationManagerCompat.from(context)
             .notify(item.id.hashCode(), builder.build())
+        HistoryStore.add(context, item)
+        return true
     }
 }
