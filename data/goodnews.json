@@ -1,99 +1,599 @@
 {
-  "updated_at": "2026-09-29T10:00:00Z",
-  "count": 9,
-  "auto_count": 0,
+  "updated_at": "2026-09-29T09:54:41.031041Z",
+  "count": 59,
+  "auto_count": 50,
   "verified_seed_count": 9,
   "policy": "core facts only; strong positive result required; no motivational filler",
   "items": [
-  {
-    "id": "seed-fda-mct8-20260928",
-    "category": "医学",
-    "title": "FDA批准首个MCT8缺陷治疗药物 Emcitate",
-    "text": "2026年9月28日，FDA批准tiratricol（Emcitate）用于MCT8缺陷患者的外周甲状腺毒症；这是该罕见遗传病首个FDA批准治疗。",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
-    "published_at": "2026-09-28T00:00:00Z",
-    "score": 90
-  },
-  {
-    "id": "seed-nih-k9-ms-20260923",
-    "category": "医学",
-    "title": "实验药K-9在多发性硬化动物模型中逆转既有视力丧失和瘫痪",
-    "text": "NIH资助研究显示，kamuvudine-9在多发性硬化动物模型中促进既有神经功能损伤恢复；一项超过300万人的数据分析还发现，使用NRTI类抗病毒药者的MS及复发率较低，但这不是人体疗效试验。",
-    "source": "NIH",
-    "url": "https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model",
-    "published_at": "2026-09-23T00:00:00Z",
-    "score": 88
-  },
-  {
-    "id": "seed-nature-ms-inbody-20260903",
-    "category": "医学",
-    "title": "体内生成免疫细胞的实验疗法在小型自身免疫病试验中改善症状",
-    "text": "Nature报道，一项小型临床试验中，16名多发性硬化或其他自身免疫病患者接受能在体内生成治疗性免疫细胞的方案后症状改善；研究仍需更大样本验证。",
-    "source": "Nature",
-    "url": "https://www.nature.com/articles/d41586-026-02765-1",
-    "published_at": "2026-09-03T00:00:00Z",
-    "score": 86
-  },
-  {
-    "id": "seed-fda-sanfilippo-20260917",
-    "category": "医学",
-    "title": "FDA批准首个Sanfilippo A型综合征基因疗法",
-    "text": "2026年9月17日，FDA批准基因疗法Fayuvi用于儿童MPS IIIA（Sanfilippo A型综合征）；此前该病没有FDA批准的疾病修饰治疗。",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
-    "published_at": "2026-09-17T00:00:00Z",
-    "score": 92
-  },
-  {
-    "id": "seed-fda-alexander-20260903",
-    "category": "医学",
-    "title": "FDA批准Alexander病首个药物 Zanvastro",
-    "text": "2026年9月3日，FDA批准zilganersen（Zanvastro）用于儿童和成人Alexander病；这是该病首个获批疗法，也是首个直接针对致病GFAP蛋白积聚的治疗。",
-    "source": "FDA",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
-    "published_at": "2026-09-03T00:00:00Z",
-    "score": 92
-  },
-  {
-    "id": "seed-nature-osteoporosis-20260911",
-    "category": "医学",
-    "title": "10名重度骨质疏松女性接受改造自体骨髓细胞后骨折显著减少",
-    "text": "Nature报道的一项小型试验中，10名高骨折风险女性接受一次经处理、提高骨组织归巢能力的自体骨髓细胞输注后，后续骨折大幅减少；结果仍需更大试验确认。",
-    "source": "Nature",
-    "url": "https://www.nature.com/articles/d41586-026-02828-3",
-    "published_at": "2026-09-11T00:00:00Z",
-    "score": 82
-  },
-  {
-    "id": "seed-nasa-prima-20260923",
-    "category": "航天",
-    "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
-    "text": "PRIMA成为NASA新设Probe Explorers任务类别的首个项目，将利用远红外观测研究行星、恒星、黑洞形成以及宇宙中水的演化。",
-    "source": "NASA/JPL",
-    "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-    "published_at": "2026-09-23T00:00:00Z",
-    "score": 78
-  },
-  {
-    "id": "seed-esa-bepicolombo-20260903",
-    "category": "航天",
-    "title": "BepiColombo完成MTM推进模块分离，进入水星抵达阶段",
-    "text": "ESA确认BepiColombo的水星转移模块已于2026年9月3日成功分离；任务计划在2026年12月把两艘探测器送入水星轨道。",
-    "source": "ESA",
-    "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
-    "published_at": "2026-09-03T00:00:00Z",
-    "score": 82
-  },
-  {
-    "id": "seed-iea-renewables-2026",
-    "category": "能源",
-    "title": "2025年全球新增可再生能源装机达到创纪录的800 GW",
-    "text": "IEA统计显示，2025年全球可再生能源新增装机同比增长16%至800 GW，连续第23年创纪录；太阳能占新增装机逾75%，电池储能新增容量约110 GW、同比增长约40%。",
-    "source": "IEA",
-    "url": "https://www.iea.org/reports/global-energy-review-2026/key-findings",
-    "published_at": "2026-01-01T00:00:00Z",
-    "score": 84
-  }
-]
+    {
+      "id": "8359f81cef10bbf2",
+      "category": "医学",
+      "title": "FDA 批准首个治疗 MCT8 缺乏症的药物",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWZyeTZaNTNkMGUxbGRkcnM0U3FqS28tUDJsR1FpT0hpd1RxZWVlczdyYXl6RXh1dkMwQ3hpa2trOEZpYnQ5VkZMa1kwdWpJWk80YmtQMHZiQkxhbmJOOXEzMVBHaUtFSEhDTXVyVkpGcDhkWHlCY0FWVXJqTFBxR09MdVBWeURkQUM3bm9XQW41ekdxY3hLc1dzVW0?oc=5",
+      "published_at": "2026-09-28T21:45:00Z",
+      "score": 87
+    },
+    {
+      "id": "527d3035d1333de6",
+      "category": "健康",
+      "title": "关于加沙地带卫生系统早日恢复和重建的对话",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUJxS3NiWGVUV2Rxblp6RTVja2VxNnloRGtZeW1JZkZQcjZYNExRanpkVFBTZWlEanR0VlJxTmlRYjF6c1h5Q1VwdVFRUlp0XzV4ZDE2UF9BdkhxaVhwVXo3UVlROXBCcmxQQlJqekRtT3RyM3pKSXl1Q1NOZWJsakhYQQ?oc=5",
+      "published_at": "2026-09-28T16:49:11Z",
+      "score": 65
+    },
+    {
+      "id": "328813096ecc265e",
+      "category": "航天",
+      "title": "离子推进器创造世界纪录",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WalhsdjRzT2lmNDl3QTZyUk96dlNmdUs4NkRPR2hVMGRkMnhFeGFhXzJDZmRua2RkYmR0TlhLX1lUbHduWnlRSFg4d2FmQzJTXzRiLU1VdE4zT3NrYS1XNVlWMFBMdDQ2ZjNhMDJjbEVhS3BY?oc=5",
+      "published_at": "2026-09-28T16:45:00Z",
+      "score": 65
+    },
+    {
+      "id": "bf691710dd9206f1",
+      "category": "航天",
+      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjh5c3JtWUtGS1Fva0c0dnhLOUhjeXh5bjVkOEZaQWlndDUtQ1RSUkhGR25ERENiRXY0Y0lTRlU5aHcyTHJ5NzN0U2pTM1k2UFE5WHJoRm9iM2xwclBXZXByTzhPNVJTTTdkSTdJZGh3MGxHSkZaalA2dmZJWmpXN2k3dENPZ1dVYi1hOW45YVZaSW1walFvNUg0XzFtMzRjZV9jcmkweHJCb05sZmdweVZHc2FlYXZ4?oc=5",
+      "published_at": "2026-09-28T16:11:15Z",
+      "score": 65
+    },
+    {
+      "id": "cfa03aa6294bf5ef",
+      "category": "生态",
+      "title": "NOAA 宣布提供资金机会以推进沿海防洪",
+      "text": "",
+      "source": "National Centers for Coastal Ocean Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDFuNGQ4TmhtOVlLU3piRU54QzRIUURZNXlBZG56YnFqbWtZdUFOWXJJM3h2djFNUnNEUHFrT2QtQ2hwZE9Mdk5POThGbVh0NktldnpiRDhpamJ1cUtUaHN5TGhRbXdzX0FGSHFoc3U5aldldi1ZV2FlMS1RbFlUeFJTVnRCNlFXQkFDaEFkQ19hRDhaR19xa2lmaEtKNl9yZUJXSW1BODQtaWw5?oc=5",
+      "published_at": "2026-09-28T11:52:15Z",
+      "score": 65
+    },
+    {
+      "id": "9e100e81e1c6bade",
+      "category": "健康",
+      "title": "绘制复苏之路",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNXlSQ1JJcVJueEpGdG9GUndBdHZ4X2VUbGtpaXBLc1N1WERTeVB2Z3RaVGV3QURoQmNfcTZnZDhsN2ZtUGp6ZjJYa1hicFVMZDB0Q2oxVW5rMGNwMUpUdXRXeTRfWUk1N21ncjJXTWVhLWU1dl9PeEFIeFdHTExDaFZqRXdXUQ?oc=5",
+      "published_at": "2026-09-28T11:14:43Z",
+      "score": 65
+    },
+    {
+      "id": "seed-fda-mct8-20260928",
+      "category": "医学",
+      "title": "FDA批准首个MCT8缺陷治疗药物 Emcitate",
+      "text": "2026年9月28日，FDA批准tiratricol（Emcitate）用于MCT8缺陷患者的外周甲状腺毒症；这是该罕见遗传病首个FDA批准治疗。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
+      "published_at": "2026-09-28T00:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "e1ac126f9be6780c",
+      "category": "健康",
+      "title": "代表世界卫生组织和粮农组织在狂犬病预防和演习会议上的讲话",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLVY1dlktRGlyOUhudGlfQnQwTVB1eExZOGh2andoWF96X012Mm5ZcTVCOThxU3Z1d2FGelBjWlZlRTRiX296bjBQZ1ZaU205bTBKSkUzak1JZEZUNFZLdVJhVTRvTTMtdTFaTEFrcnRUeDlpVUdHUU9MQ0RIU2VaNTlydElVcUsycWwtOHd0enpWcHoxRXZ4NldHcW90cnhLd0VtZHVGZ1ZISDc4LXhJeXhNQXl0OTNnQmFVN0g0OXNab3VieWc?oc=5",
+      "published_at": "2026-09-26T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "0783008e27744c5b",
+      "category": "航天",
+      "title": "美国宇航局罗马团队确认地面站接收数据",
+      "text": "",
+      "source": "NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNy1NWDRKWm9sM2hLZ3Z3WTNFVUFBMGx1TDA2R1N0S3RrRk9DYmJvUENMajVBbHRCSWRULTEycWE1RmlkeGsxYndDX2ZkOVlnTlR0aXJtWHlPMXRvd3ZUZDFqTXlVNW8zcFNyQ0prR0ZZczVHYlJUTlAtbGxsNzlNU1pMNUFZcHZnNFpqWEQtUGVOd25TdVZFcElzY2FnaFZOb21SdkpoMVc?oc=5",
+      "published_at": "2026-09-25T15:17:19Z",
+      "score": 65
+    },
+    {
+      "id": "a29b9c26b4129c3a",
+      "category": "健康",
+      "title": "随着应对工作的继续，苏丹霍乱病例急剧下降",
+      "text": "",
+      "source": "emro.who.int",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1I5VkxmdXkxNmZTVWxiZmlzbWNRX0VKMk5QTjlWMnZKbHJ1XzB4RVRzcWxEcTlpOUNXMGx2OXA4OHJha21CREpBLVJUbDh6UnhmVnI3UVRiVTkwZkotN09reXN0VUM2MTRkc0NDUzc3VmIwbFg2cWVCOXdZbFZRM3RZWG9YTXB1NFlnT2JVMElIc2V5RzJTX3o3Si1WNEJBWEIwOU83ekx2V1dQMGxhSHByTHZWZw?oc=5",
+      "published_at": "2026-09-24T17:49:39Z",
+      "score": 55
+    },
+    {
+      "id": "f8f859769a60abd4",
+      "category": "航天",
+      "title": "2026 年 ESA 工业航天日参与人数创历史新高",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzRtT0ZmM1FvS084Tk1SdGNSZ3hUQ0FtVEtrZU9rbXE2bG9mNDFnSmJiU0FCV1gxd3pwRXFKXzhGSXRYY3RSZDJsQjc4VDhMekJGeVljN1NNTDFuc3l3TGdxeW1HU2F4MlExM0F3eXl2Tmx6V1BaSUZIWHNaTlpGcWxZMzRPLTVYMWRVeTk2aUV3d2lYQnVyc2RyTTZteHl5Zzg4?oc=5",
+      "published_at": "2026-09-24T07:18:57Z",
+      "score": 70
+    },
+    {
+      "id": "852988c1c7d62f0a",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划补充：2019-2025 附录 C 小型鲸类泛化添加剂",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GTTFMZ1RJampySTFLZ0Z1ZWpZbElKY1hPX3V3SEFVclVyRmpjQ3NjRFZ6ZDFQamVXdXJoSEpMME15STc3WE1ZNWFGaFlUNE5MM3ZDenI2d1oyVllTQWM0dGR3c1NfelBEYkl6NUFmZEtMMXJVNTcwajRn?oc=5",
+      "published_at": "2026-09-23T21:13:05Z",
+      "score": 70
+    },
+    {
+      "id": "20dac00e00ecdc22",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划补充：2019-2025 附录 B 鲸鱼广义附加密度-H",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nNGp3Vm5DdWtJdkozYnQ2VGlQNXpuUGtSU3RZU2VMWUQ5THg1eDlPVGlKUmhKRC1PTnNUQk5mV0JFNTlNZWNZNkNJQkcwQlZVSHVaOXhDSVl2YkFjdXJOa2xMMEY1Tzd2Ym9VUGtPSURtTjVZSG9ubFJB?oc=5",
+      "published_at": "2026-09-23T21:11:59Z",
+      "score": 70
+    },
+    {
+      "id": "e98d30e78a650e30",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划补充：2019-2025 附录 D 海龟泛化添加剂巢穴",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU3FKUmhYWFpleFhTMUhpTGxTQk40ZGV3R0NzM1BZSHptY0kwNmR5blFDYU90MjBodEJmQVRMV2VMU05vYlhyeFRfMkFaeGxja3c1bFlvTjRCMHIwRHlscktuVWZPYlRPN1JDOEJ4N0oya1o0eGF0T0NB?oc=5",
+      "published_at": "2026-09-23T21:10:54Z",
+      "score": 70
+    },
+    {
+      "id": "bfc84aa46c43cd56",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划：2020 财年 - 25 财年",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXZTNGbC1PNVpERExHal9xREpyb1VZRGNSQU5tam13VUt6M1lMaHNiM1I0MDMycWhmemZKZEh3bjRZX21EVGx4Y2c5M0dOci1yM1pPdVNNTVlvRXdUZTUtXw?oc=5",
+      "published_at": "2026-09-23T20:16:25Z",
+      "score": 65
+    },
+    {
+      "id": "2fa5e8b63c7b1c99",
+      "category": "医学",
+      "title": "改良 HIV 药物可逆转多发性硬化症模型中的视力丧失和瘫痪",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3FOaTVSeDRqWmJ5MFpsT01mTXhPb1Z2NTUycVdBZm1MT0dra01IeHRBMk41WU9pbXJQcUlkNnFmTVdnX0xnMmRsLXBzU3lGR3dhemptSDh0bm5wb3BSdmczZUNHM3dHTE51ZERNb1lFemsxY0t5U0h0SDlaT21UWkl4c3l5bXd1amRLVUgyMVBDandUaDFpX3E3cDJTVExhQkdHVXBZeGVCV3RhSEdfb2ZSWnRFbUUtbUZz?oc=5",
+      "published_at": "2026-09-23T18:25:57Z",
+      "score": 65
+    },
+    {
+      "id": "cab0bb75554b4ca0",
+      "category": "生态",
+      "title": "来自综合地面数据的破纪录野火的辐射影响",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oV1hQcUkzZlduR1lBYzV2T2g3RTJHOHFfazZnVnQ0bkhxWnh5MU5VdnFWQnBILWVvaWlEY3lyOWRNb29XZzNnV3hjWUNYdkZzNGtWUjF2dGpjS3M4WnlycQ?oc=5",
+      "published_at": "2026-09-23T18:15:07Z",
+      "score": 65
+    },
+    {
+      "id": "5f94be182a9bddce",
+      "category": "航天",
+      "title": "香农·露西德 (Shannon Lucid) 在和平号上创纪录的任务",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXFlRm9Wa1hUTXhtaWhqMi1udUZRcTJuVHcwLWZOdWV2TDRxRmk3bE5lbEFYVklUVFRtQ0ZLNWVaZzl4WWdHT20zbktFSHAzTlh4U2lxWFNURkUwbjdhbTdKbEtzVzJ1R09BYWlCcGxJQXpqcXo1QkNvU050ZEk3eU1tUmFjTzFnaGdIMA?oc=5",
+      "published_at": "2026-09-23T16:17:08Z",
+      "score": 65
+    },
+    {
+      "id": "seed-nih-k9-ms-20260923",
+      "category": "医学",
+      "title": "实验药K-9在多发性硬化动物模型中逆转既有视力丧失和瘫痪",
+      "text": "NIH资助研究显示，kamuvudine-9在多发性硬化动物模型中促进既有神经功能损伤恢复；一项超过300万人的数据分析还发现，使用NRTI类抗病毒药者的MS及复发率较低，但这不是人体疗效试验。",
+      "source": "NIH",
+      "url": "https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model",
+      "published_at": "2026-09-23T00:00:00Z",
+      "score": 88
+    },
+    {
+      "id": "seed-nasa-prima-20260923",
+      "category": "航天",
+      "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
+      "text": "PRIMA成为NASA新设Probe Explorers任务类别的首个项目，将利用远红外观测研究行星、恒星、黑洞形成以及宇宙中水的演化。",
+      "source": "NASA/JPL",
+      "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "published_at": "2026-09-23T00:00:00Z",
+      "score": 78
+    },
+    {
+      "id": "cf49f827859f262d",
+      "category": "航天",
+      "title": "美国宇航局资助的研究发现复杂生命可以抵抗创纪录的高温",
+      "text": "",
+      "source": "NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFduM2VHa1VOZkdhN09tRXJ6OWkzRnFDbmMtU2d1dU1PcEhpVkd3M3hBWTJTTkVGdUJleGVrOUNLR2dRbDZiR0N0Vk9rck5WODI3YVJuQkVMNnl1SHdsVEJzRkkxRkRENVNTc3VNU0RpMWlKV29JYjlQSXkzM0xCVk9hNTFwYWJodm1ST0xZOWU0T25oOHU2TkwzZ2s2UlFTXzFnQmp4aS1WNU56SmwyU1hKTXRZbUNLbHVBSg?oc=5",
+      "published_at": "2026-09-22T17:33:10Z",
+      "score": 65
+    },
+    {
+      "id": "2a542487037bca58",
+      "category": "生态",
+      "title": "一般回收项目完成：华盛顿州西雅图杜瓦米什河下游鱼类和野生动物栖息地恢复 |损害评估、补救和恢复计划",
+      "text": "",
+      "source": "NOAA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXBLYlFid0hhcU1GRVA0TzNydFhPMW8wbFR1Sy1zSlJlSkNuWlk2NGtoZEFnZFIzYlJMSkM2TjI5SXpsTGJkNU8yUk9lWnNibU1ySHhVdGY0U2NxcFZHTDY2SmZYUjlRQS1QYlFZZHNLRWJpem41a0FXOGZGSmMyT1l2TS00YVNTLW13MHVjM0pJR1Z2Tjl2NExYVEppT1VoZl9yX1poZkl1UklYQTBIUHhwd1R6TGJTZDN1N3hMbE4?oc=5",
+      "published_at": "2026-09-22T15:02:16Z",
+      "score": 65
+    },
+    {
+      "id": "10bee96dfc234c67",
+      "category": "航天",
+      "title": "美国宇航局的发现揭示了早期火星上复杂的水系统",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0lfRXFPQmFmTndEM1huY1U1ZkJSUkhLRlRudG1ZREozNTNSaGZ6VzhtWU8xT0VOWlRqcUtjY0hGTXR1TTllbmpVbmxnRVVPajcwQmtjZDN2UkRBQnFSQ042RWhjRXJmUTJNTVJCeUpNWFY3cmZmb2loRG1NVi1oNWVaTVk1MWdDUTFwcUdZR0ZVb2pvOVJuYzZJblRqYUtWdnhPRlhoTkhXQQ?oc=5",
+      "published_at": "2026-09-21T16:54:43Z",
+      "score": 65
+    },
+    {
+      "id": "8db498b7a4c099d5",
+      "category": "生态",
+      "title": "每周更新记录",
+      "text": "",
+      "source": "Office of Coast Survey (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1BiOVZra2FmRnRnWC1DSldqdlVmeGQybjBTcEk5LUwwbVVZdkFxNGFJSkJxUVZSb3czcjhCZElHeXFTdGZRUkJhU3p3RThmYkpSZlN6NVhaNDA5VXRrNFJIbTRIbVI1SE1jQ3hoNklmdG82aHgtZmZOX2s0U2tsM3FuZFlOcDVGelFB?oc=5",
+      "published_at": "2026-09-20T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "9b93b09bca4b1faf",
+      "category": "医学",
+      "title": "首例 RNA 疗法：患有罕见运动神经元疾病的男子治疗后病情有所改善",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNzBCT3pSV2MydVhyZjg0aTNTX3EzYnc5N0FIRGRYV1NKVjN4dXBBbzk5ZTUtUlhDNjV4SDlSMjNVX3M1d1NMcWlfc2tZNExJeWs3emtLeVM2cFhYSGlF?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "153d3f73c1d4f5f5",
+      "category": "科学",
+      "title": "ScienceAdviser：月球上发现百年一遇的陨石坑科学|美国科学促进会",
+      "text": "",
+      "source": "Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX1MtdTlvUk0xVkc1WG5PZXBwT3hNb0F6TVNSYkFON3lWSTdncXdzMGctT0V3Zy1PYnZ2M3hveWgtUG51Wk5RcnV4UFRKd19mQmgtMXdUQlg5c25VNS1zZFhEUzdUVjY5QjNhREt3VlBaWVI3ZXF0NHR5YUItMzdqcEtfd3ZDWnJNRFAwSlhmY09yb3pt?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "55ba06b4050099cd",
+      "category": "航天",
+      "title": "鲍威尔湖降至历史最低水平",
+      "text": "",
+      "source": "NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXRkQ0JBNVpKY0UwOWVKRkVsT0lTazFrTkc4cGJ4WmotVjg1UzYtX1Y1M2ItZnpFMTk4aDRBTjVEejdTaXhQOEdEUVdKSXRDZDYyOG5LWUt6S2lIQzA1SDFJNFI3VWhnaUp6TUNKdzQ2V29xRFplSHR3M0NMeWxoZ2RSdmxWWEJReVkyU2ltZXR0Zw?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "6897f0b0d1cdb836",
+      "category": "医学",
+      "title": "FDA 批准首个针对 A 型 Sanfilippo 综合征儿科患者的基因疗法",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakdZWVFYR2VSZ3QtdGxHc2hLTGEtby01aHFUemR2ZGJKM010OWtjYmhYY05YSXNHTVNSSmd6a2ZfT2o1WTlaSU5SdmVocnlqSFRDcjdEY290NUM1UXZVYzQzZFpmc2dKM1k2MzBERHJ6cTZKV0oxM2V2QUVmQzRBLWhXaG9Jc2JUUFFONmFvcWJHZ1V1VS1WNlpLWWpQQTQzcTVsUzJwckhXbWZMSmp5S2ZyOUJOOF8xSU9jbnRXaFJfTVk1RWc?oc=5",
+      "published_at": "2026-09-17T07:00:00Z",
+      "score": 87
+    },
+    {
+      "id": "ebbf61e54096c6c0",
+      "category": "生态",
+      "title": "利用合作伙伴关系评估波多黎各和佛罗里达州红树林的破坏和恢复",
+      "text": "",
+      "source": "NOAA Office for Coastal Management (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04a3hKSno1cUxubDhQc1pvM2FjODNucVBQMTVIRHdnVVZmSWNyaVRnZURRbGk3QUhoTFpZZlVDam83bUlKSW5kaXN2aUdSWGxGYzRhOFRRbWdvQks5emxUM29QT0dBeUVJX2c?oc=5",
+      "published_at": "2026-09-17T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "11184ba402d851c2",
+      "category": "医学",
+      "title": "肿瘤细胞塑造它们的环境以保护它们免受免疫系统的侵害",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByNE44ajk1TE41VVZTZ2ZwQS1IN3hTUG5fNkNfeXdaNjFjZ283VGRERnlMS2hVamxpdnFyUlRXVklNVWZ6a2pxU00yZ19STnJMTDlYZFY2NGIyTzlyRDdJ?oc=5",
+      "published_at": "2026-09-17T04:04:24Z",
+      "score": 55
+    },
+    {
+      "id": "seed-fda-sanfilippo-20260917",
+      "category": "医学",
+      "title": "FDA批准首个Sanfilippo A型综合征基因疗法",
+      "text": "2026年9月17日，FDA批准基因疗法Fayuvi用于儿童MPS IIIA（Sanfilippo A型综合征）；此前该病没有FDA批准的疾病修饰治疗。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+      "published_at": "2026-09-17T00:00:00Z",
+      "score": 92
+    },
+    {
+      "id": "785f933d74ee9607",
+      "category": "航天",
+      "title": "意外发现的撞击坑",
+      "text": "",
+      "source": "NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcURHOFg5aW5qVWxKZDNZa0ZwVWpLU3dwR1ZraXVDWDBmSEpwX3FrUUdwUkptLTl1OE0wWms1NjV2bTFxSFZkME1MS2RVZkwzTUlTaWxlelZnVTQwRE5MclBJbXg3R1FPYm1zNGNHbXFtZjNvdVE2TkNmUC1BTVE5SFo4Ql9mVGE2UERlaEJZRmM?oc=5",
+      "published_at": "2026-09-16T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "33df02b7bea6f5e4",
+      "category": "航天",
+      "title": "新发现的“婴儿”行星打破了已知世界最年轻的记录",
+      "text": "",
+      "source": "NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWURWS0dUQ0s0azVvbnRCYjdjbE8zRUlSb0tpVkQyb2VZWjdkY0NCSVJic21uWm05QWJ1NVMyOV9sUVhhM0g2eDYzOWZ5MEZtcEpQd3JvMzRMYlEzYUgtZmlLUVNLZ0RhUExRNGllbXZPOVRDYnF1d2tHcDliTlRObHk2OXlRVGMwQnhjaExid2NKc2JJSmtlZXgydw?oc=5",
+      "published_at": "2026-09-16T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "f1778854494ca2e9",
+      "category": "生态",
+      "title": "NOAA 渔业部宣布更新大大西洋地区的渔获份额成本回收计划法规",
+      "text": "",
+      "source": "fisheries.noaa.gov",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1ZybUhqNkhRYk9jSmYtbUVNSTZPN2dlc1RYUW43MGZLX2ZqcjJBbHNCS09NRHFBT2dQUE12SXJhTUZ2eFdvWU9GaU9iMjVfVVVOWlVaejdZOFRDVndKTkRWcXdPZElYOGZtcEJhZTMwTVZXckNJbzRGd0xMaWJaMlhiVFpxZUk3SE8tcG96UG45THFlNzhRdXdMYkEtenJySXM1SWVvdk9ubVNxQ01ReTVhREE1U3ZpdmlQNE1VZw?oc=5",
+      "published_at": "2026-09-11T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "seed-nature-osteoporosis-20260911",
+      "category": "医学",
+      "title": "10名重度骨质疏松女性接受改造自体骨髓细胞后骨折显著减少",
+      "text": "Nature报道的一项小型试验中，10名高骨折风险女性接受一次经处理、提高骨组织归巢能力的自体骨髓细胞输注后，后续骨折大幅减少；结果仍需更大试验确认。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02828-3",
+      "published_at": "2026-09-11T00:00:00Z",
+      "score": 82
+    },
+    {
+      "id": "6c957d231c3e1c08",
+      "category": "生态",
+      "title": "NOAA 和斯卡吉特河系统合作社共同评估鲑鱼栖息地恢复效益",
+      "text": "",
+      "source": "NOAA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZHJ6RGNBR1p1LUdlaktrUWVacEhHWEZHZThqNURrYTFqZmwzZ283NWx2VjhUQU9RVDQtUjREc0pyaVR6OFg1Tl92Z205WDZqZkp2NmZXa1Y2dnRVQTF0NkZTTko5U0JCdG1LS0U5QjJJNS15YWhNMk9zYw?oc=5",
+      "published_at": "2026-09-10T21:25:22Z",
+      "score": 65
+    },
+    {
+      "id": "c848ec3a8fd57b64",
+      "category": "航天",
+      "title": "伊萨尔宇航公司首次从欧洲大陆发射入轨",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlMtZUR5cGhMLVhHTzQ5Z25YMzhwU1YzTFNxbjluNlFoNldVVVBHcUQzNENwN182WUx3UWRhMWw4NlVSc2FucWpHQnJwbkVxN0I5eklIX0Z4UDRWemtWSWF6aDYyWnlPQno3eXlUaTd6T2VsZTVFaEZrLUI4amxfUkc4ZHNKcmlrZWlKQUFLM3ViNFVXUXFKRkFKWV9UM2ZTTW5fZzBXdFZtcDlHaHpYMVpyUFB0Rk9SMzFRaQ?oc=5",
+      "published_at": "2026-09-10T11:23:14Z",
+      "score": 65
+    },
+    {
+      "id": "4523a8cbf0bf7832",
+      "category": "医学",
+      "title": "基于电话的辅导可改善学校停课期间的学习",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSDVPRzh4UHprQTdBSTU5U1hpYjVBdWRRSWZXN0JjUXFHSUY5M1hET1RJd25uMk95czdlV3F1QXJ2VWZRNGZVOFpWcjUyYUgtdTZXdjJ4Z01ObGFHdkZr?oc=5",
+      "published_at": "2026-09-09T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "cf2a8ad1c090b373",
+      "category": "医学",
+      "title": "电话辅导可在教育紧急情况下经济高效地提高学习效果",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aZGlVSHFHaTNxU1NMX21ySVA2UE5vdGhHdFQ5UWJvVTVobVhKY2NUaG1TYUE0eU4yNXpycHBsWjI4dUxxVm5GSGtrMUJlY3RPLTlvVWJGY3BHSGZBaU9B?oc=5",
+      "published_at": "2026-09-09T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "6a369fde08fb7083",
+      "category": "科学",
+      "title": "人工智能数学突破如何引发争议",
+      "text": "",
+      "source": "Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkJTYW00endvV2JWV3ZvS2g1NVdScVZFTzE2Rm92dzRzVzJzR1ZzTEJfVGRtN0FfcDdyQTBNVGxyRkJ0UDRxRV9BNmREcEVUX2JxMVdfZ1VRdW8zSlMxcGxBTVQzeFotQ3BmU2ZFNXlDUzZnOFMySjU5ZHJQVnJONmp2ejBhY1EzRmNJcQ?oc=5",
+      "published_at": "2026-09-08T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "0bc76861280afa77",
+      "category": "航天",
+      "title": "哈勃和韦伯发现的微小世界",
+      "text": "",
+      "source": "NASA SVS (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YSGs3OG9JbVdLZS1YeFR5bE9lS2I1X0VkQ1daVmJ6VVRUR0IwNXZVc0lTd3d0N0tMVFhIN3hXeHNLR0tjZlE?oc=5",
+      "published_at": "2026-09-08T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "39f33f16b2bb6c24",
+      "category": "医学",
+      "title": "FDA 加速批准一种新的乳腺癌治疗方法",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUUxU2cxb1p1VThZaE1aNEJOSkhyZ0ZfUkxuZ2w0M0Z0VGFuZkRIYTVURW1OcWFoWGd4OExZNjhtQlZBSFFlWGVPZTY1TzN2bUNNZUctdWdoRjY5ZHZDM1p3Nnd3MXhYa2JVcUJNcDh6dzYzLTEzRk41LWRaN1NsZHBqekRWOTJHX0g2ZjE5Z1JHLTVaUlF5akgxSktQdm5YMHM3NW9JYmlCOW9xMG1tbQ?oc=5",
+      "published_at": "2026-09-04T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "d4fe9704f8105b2e",
+      "category": "科学",
+      "title": "基因编辑猪肾移植创下纪录，并为人体器官搭建桥梁",
+      "text": "",
+      "source": "Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPelF0YlVjcDBSVnZGZ1hGdWd5a2Z6ZWY2T0dqY0otS2ZFNTRNajhKY1NSNEF0SXM5LS1FazRjSnlxa1I4OThiM2FFUlhwbFhUQm5Jenlzc0RsRGQyUWtaOVB2TURzbXJwcG03LXQwOW92QjR3U2dLQm9HNloyakZuTEVwV3V5dlBoaHF4eG9DUW9QS1h4bHVQWjNBWFhCUE5GOC1IZV9hYXZSZHhWVjJWVkFvNUw2bXc?oc=5",
+      "published_at": "2026-09-04T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "6e60c8c3b3880994",
+      "category": "医学",
+      "title": "FDA 批准首个治疗亚历山大病的药物",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjNLeEx4RlpobjdPMnAzdWdGRzVPeGVnOXpNU0IzX2ptYzhUMjg3RjVhcXh3SHZKWm11cXJzQnlTc0hSaHVrbEZrQmJNQVkxald4Q1BkTFZuZ0R4U1o1bTBrTnZ6c3J5NEY0MHRUS1dUMTlXUXVNQTV5b3JnWEUzdkRGaEZpY1ExOENxR2tnVHhrb080Vm1LcVBUemZQSFJO?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 87
+    },
+    {
+      "id": "a6f5620c9b19b0a2",
+      "category": "医学",
+      "title": "体内设计的免疫疗法可缓解多发性硬化症",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UYnJZSjgyUmtsRmx1eHVzdmZweWstLWtxbmM1ZnV6UE1VazgwWGxqcnNmVDIyOTdSRWNjUVFQOTgxVWVwSE9sQldhWGNyNTBIelhaT3dDeWVuMi1PQUYw?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "ae53119272ddb428",
+      "category": "航天",
+      "title": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXl2MTgtUWpTdjhUb3Zwa2ZGNm1mcTNYVVFqRXZxa0dKZUd2bmc0YkhqYUNyaDk5VzNVcWFqMDNQY29sdkF0NC10aWwtVG9aY2d0NFE5WUJ3Q1dpaXZydF9NaHF3RzBVZ3JQNjhoZy1fbThodmRjRmZrZHkwVDgtbElsNlQtOE1UTWE4VWdCS0lMV0dtbHFXRHVCM0NHZTd0QTk0VGJqLXZ1LWRudUtz?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "1f01c6c1777a07dc",
+      "category": "健康",
+      "title": "世界卫生组织确认东帝汶消除沙眼是一个公共卫生问题",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzJ1MG1qTkVKWExnOWVfNjFkZDF5WUZldnEwVzk1OEVQbnkyUmxvYThIX25YdUpYU3NuZGR5ck1TZW9LSjQxWWQzakJaZU5QSmdPY0ZwZmUxNTM3WUxuS29yWEQ5czdTRDNMZm5BY0lTS0FvQ08wTDdER1hsUExmQzFldkJjNXQ0M0NUd3pxMWZiRlp3NXZvQW85TllNdUJuRUZfQzdVVmdrOFlzbzF0YkZBTHJteHFVTDQyZHVJWlFkTzVxaHg5NGVyRkY?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 55
+    },
+    {
+      "id": "seed-nature-ms-inbody-20260903",
+      "category": "医学",
+      "title": "体内生成免疫细胞的实验疗法在小型自身免疫病试验中改善症状",
+      "text": "Nature报道，一项小型临床试验中，16名多发性硬化或其他自身免疫病患者接受能在体内生成治疗性免疫细胞的方案后症状改善；研究仍需更大样本验证。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02765-1",
+      "published_at": "2026-09-03T00:00:00Z",
+      "score": 86
+    },
+    {
+      "id": "seed-fda-alexander-20260903",
+      "category": "医学",
+      "title": "FDA批准Alexander病首个药物 Zanvastro",
+      "text": "2026年9月3日，FDA批准zilganersen（Zanvastro）用于儿童和成人Alexander病；这是该病首个获批疗法，也是首个直接针对致病GFAP蛋白积聚的治疗。",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+      "published_at": "2026-09-03T00:00:00Z",
+      "score": 92
+    },
+    {
+      "id": "seed-esa-bepicolombo-20260903",
+      "category": "航天",
+      "title": "BepiColombo完成MTM推进模块分离，进入水星抵达阶段",
+      "text": "ESA确认BepiColombo的水星转移模块已于2026年9月3日成功分离；任务计划在2026年12月把两艘探测器送入水星轨道。",
+      "source": "ESA",
+      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+      "published_at": "2026-09-03T00:00:00Z",
+      "score": 82
+    },
+    {
+      "id": "b676f7b7d6aa98f6",
+      "category": "科学",
+      "title": "福奇畅谈疫情、全球健康以及他自己的记录",
+      "text": "",
+      "source": "Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORkxRSHA2Vi01NkhDQTVXSTd0MVJldDF2cHA0S1JKVERVNG0yUlRwcklmdFRoZHdQN1lpY0V4alM5QjFEMHZpbEx1elFlLW5UR1l3QWNDYmlzWFE3MzNnc1A2MjFLQXQzNUtoYUlTLTNBLTJ2ZmhNMjN3eFFUV1o5Qk1zOW43TTZVdEZzRm1yTFZ6a0d5RUlGZHJBZG9nazA4UWYwRkhqOA?oc=5",
+      "published_at": "2026-09-02T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "992c3686f8ce701c",
+      "category": "健康",
+      "title": "降低认知能力下降和痴呆的风险：世界卫生组织指南：执行摘要，第二版。",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVzBpSGV4aC11N3V5Y2F6SjJGNE1qOUhzNG82MkxYZU1tSnpBbkQ4MUtubEd5aDJPTFBRcEs4dFZnaXpJb3JiTnZJTS1QM2p4Q1M3c0RTNzdaUQ?oc=5",
+      "published_at": "2026-09-02T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "a4875ef31f417e95",
+      "category": "健康",
+      "title": "世卫组织突发卫生事件 EPI-WIN 网络研讨会：提高丝状病毒病（包括埃博拉和马尔堡病毒）的生存率：推出世卫组织临床管理指南",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNbngyeWRJUHB0QThXamM3VnNIb1NqWVdfX0xQazdwOUxTTUkzVWZTeW1hWUlMNXMyVmp6THVZTmlyNWREQmEzbHFaTXNCaG12SVVPMjQ4VjVEQ21YdWZQVEpDbXZXeDJWSlRVcnprWXdYM19PLXBPbUNBU0RQT3pnS1VvR1JsOFpiaEViVnp6V0dyYzJ1MkcyMlZsODNoNlVFdEJCMUdlb09JWG1LS2pOcko3LUpBYVk4SDVlckl0TTBaNmRNem1HWDNMU2ctTlFwZ3EyZmZvZk5QZWZqYUc4OVlybmVZb3dkR3JNT2tQajVIQU1Fb2U4UEktb1dDVE5PNmZHdFVHV01DN2p2NEk2ZmNnV0lBU0hSN2VXZWgyYnI2VkZUUGFJTVBCZ1BLX2xkckxYU0l3NXdSV3lDaE9zeTFOMDFPbEc2Z0Fr?oc=5",
+      "published_at": "2026-09-02T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "c8b6d72854728d99",
+      "category": "医学",
+      "title": "秘鲁冰层保持了全球甲烷记录",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13S19vZVdzWUc4SlZyZEY0bWoyekNTeE5NeXFCYklHQmlBR3pCYk51aWNybnlHQ1l3a3hSMXk0Yy14ZHBkWkdEa0lCQWhGTFdzWnlRWVllV3lhQ0E5eEY4?oc=5",
+      "published_at": "2026-09-02T07:00:00Z",
+      "score": 55
+    },
+    {
+      "id": "5cd0065047d4960e",
+      "category": "健康",
+      "title": "世界卫生组织通过关键医疗设备加强坦桑尼亚从马尔堡疫情中的恢复",
+      "text": "",
+      "source": "WHO | Regional Office for Africa",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU1SR1phei1sdDMyaXpGZnJURDBvM1RTaU00eHBqZGNhbWJLSE1kZVNHM2hnc0ZzdDZvWmNCT3hPT1p3aDFHYWg2UG5jUHJudE1tY1p0eDlMaE9hVG1xYzZFSnd2Z0stNzFSMENIRW9DeVhFSWxub29LNE4wc3ZMMjRwb0xXbG9xckhnOUFDNDhfdmNyWkMwMG81SVg1bUNzX1dJSmlScExvYUdXb3FoSmJ0T2UzeGs?oc=5",
+      "published_at": "2026-09-01T18:31:37Z",
+      "score": 65
+    },
+    {
+      "id": "cad9704c63c638aa",
+      "category": "科学",
+      "title": "ScienceAdviser：根据珊瑚记录，气候变化正在加剧厄尔尼诺现象 |科学|美国科学促进会",
+      "text": "",
+      "source": "Science | AAAS",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamZOQWlMNVM3RGppR3FmZm5kMnJpR2tWbFhLcVRlOVVOV0lxZDR4U0MwRzU2ZldwYXVUWXdveTlBejZKOHMyWkFQV0xGb3MxZjFFazhiR2VCT1B2VUZocjMtaC1GUklzcW1hWi04NWdXUlEzX1ZqcG84YmpsRGVHamRjeGVMekR2X2JBdVhJeFNQWTlnN3RwUW1fZC1mZjZjNFVuTFZXRkliTVFlS1BQZ19EZnNJUmpTQjFzRA?oc=5",
+      "published_at": "2026-09-01T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "32aa1e973287837a",
+      "category": "生态",
+      "title": "气候观测记录",
+      "text": "",
+      "source": "NOAA National Centers for Environmental Information (NCEI) (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaWtSaDZJdElEM01fVjdQZS1wOG5DdDRsb2UwYXQ5YTlHT2NLNHNqajd1TTJwNF9sVXhabzRwWE1XWllpSVBuWHlWaVJWbXNUUkZ2c2doODluLWZ6ZVBSaDNVYjlNN0tjY0ZrWVd6U20xNG9jTHpmSmpNWW5RMEwycF9Lb2o0Z0NXR0VLakVhcDBUMDNwT09zT0xhWWx2elROWUZNU2tsT1k3X000WlNma3c1UHUtQWlyNHd0YjlLVFJiazVoUFFsMGxBZ3lZR0Y5STlmVFA4YkJ1UlFnUkE?oc=5",
+      "published_at": "2026-09-01T07:00:00Z",
+      "score": 65
+    },
+    {
+      "id": "bcec9095d8df5ae4",
+      "category": "健康",
+      "title": "尽管全球烟草产量下降，但非洲烟草产量仍在增长",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzJCQW8xM1BuTjNDNkFScnBTMmFRTnVDeGNFUGdPd1BNSXRaTElDMzFfZmhXQmRsYXJwUTdITXpEdUw4Zlc5Z1NaelcwN2FTWXJKemZjZDNzMTN0TXNqZkZNTkNKRDd3bEJPR0QySnBoY0JjbUxUOWZ1dXlic2lPRnFhdG5GNGpQcTJYaFdWVmNnTUprb1dBYUVDVVY?oc=5",
+      "published_at": "2026-08-31T07:00:00Z",
+      "score": 55
+    },
+    {
+      "id": "seed-iea-renewables-2026",
+      "category": "能源",
+      "title": "2025年全球新增可再生能源装机达到创纪录的800 GW",
+      "text": "IEA统计显示，2025年全球可再生能源新增装机同比增长16%至800 GW，连续第23年创纪录；太阳能占新增装机逾75%，电池储能新增容量约110 GW、同比增长约40%。",
+      "source": "IEA",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/key-findings",
+      "published_at": "2026-01-01T00:00:00Z",
+      "score": 84
+    }
+  ]
 }
