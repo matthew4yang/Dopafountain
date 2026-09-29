@@ -30,7 +30,11 @@ object GoodNewsRepository {
             } ?: cached
         } ?: return null
 
-        val items = parse(raw)
+        val items = parse(raw).filter {
+            it.category == "宇宙探索" ||
+            it.category == "粒子物理" ||
+            it.category == "古生物学"
+        }
         if (items.isEmpty()) return null
 
         val seen = prefs.getStringSet(SEEN_IDS, emptySet())?.toMutableSet() ?: mutableSetOf()
