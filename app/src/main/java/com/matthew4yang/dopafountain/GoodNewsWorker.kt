@@ -12,9 +12,14 @@ class GoodNewsWorker(appContext: Context, params: WorkerParameters) : Worker(app
         val now = LocalTime.now()
         val quiet = now >= LocalTime.of(23, 0) || now < LocalTime.of(8, 0)
 
-        if (!quiet) {
-            val item = GoodNewsRepository.next(applicationContext)
-            if (item != null) NotificationHelper.show(applicationContext, item)
+        if (quiet) {
+            NotificationScheduler.scheduleAfterQuietHours(applicationContext)
+            return Result.success()
+        }
+
+        val item = GoodNewsRepository.next(applicationContext)
+        if (item != null) {
+            NotificationHelper.show(applicationContext, item)
         }
 
         NotificationScheduler.scheduleNext(applicationContext)
