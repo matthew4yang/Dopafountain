@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:59:56.077084Z",
+  "updated_at": "2026-09-29T10:01:20.586496Z",
   "count": 11,
   "auto_count": 9,
   "verified_seed_count": 2,
@@ -38,8 +38,8 @@
     {
       "id": "bcd29924f7a16786",
       "category": "宇宙探索",
-      "title": "BepiColombo 成功抵达水星并成功分离 MTM",
-      "text": "BepiColombo 成功抵达水星并成功分离 MTM",
+      "title": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
+      "text": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
       "source": "European Space Agency",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXl2MTgtUWpTdjhUb3Zwa2ZGNm1mcTNYVVFqRXZxa0dKZUd2bmc0YkhqYUNyaDk5VzNVcWFqMDNQY29sdkF0NC10aWwtVG9aY2d0NFE5WUJ3Q1dpaXZydF9NaHF3RzBVZ3JQNjhoZy1fbThodmRjRmZrZHkwVDgtbElsNlQtOE1UTWE4VWdCS0lMV0dtbHFXRHVCM0NHZTd0QTk0VGJqLXZ1LWRudUtz?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
@@ -98,19 +98,19 @@
     {
       "id": "d7c806b41770d9a7",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "Home | CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
       "score": 83
     },
     {
-      "id": "72a70eed65a6d6d6",
+      "id": "554768f7e8ebce81",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
       "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "desy pubdb",
+      "source": "bib-pubdb1.desy.de",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
