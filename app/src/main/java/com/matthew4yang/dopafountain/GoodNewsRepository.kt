@@ -86,6 +86,7 @@ object GoodNewsRepository {
                     add(
                         GoodNews(
                             id = id,
+                            category = o.optString("category").trim(),
                             title = title,
                             text = o.optString("text").trim(),
                             source = o.optString("source").trim(),
