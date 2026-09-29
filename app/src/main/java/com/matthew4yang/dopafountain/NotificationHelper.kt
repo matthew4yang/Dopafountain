@@ -21,7 +21,7 @@ object NotificationHelper {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             manager.createNotificationChannel(
                 NotificationChannel(CHANNEL_ID, "硬核好消息", NotificationManager.IMPORTANCE_DEFAULT).apply {
-                    description = "来自互联网权威来源的事实型好消息"
+                    description = "互联网权威来源的事实型消息"
                 }
             )
         }
@@ -40,19 +40,20 @@ object NotificationHelper {
             )
         } else null
 
+        val fact = item.text.ifBlank { item.title }
+        val header = listOf(item.category, item.source)
+            .filter { it.isNotBlank() }
+            .joinToString(" · ")
+            .ifBlank { "Dopafountain" }
+
         val builder = NotificationCompat.Builder(context, CHANNEL_ID)
             .setSmallIcon(android.R.drawable.ic_dialog_info)
-            .setContentTitle(item.title)
+            .setContentTitle(header)
+            .setContentText(fact)
+            .setStyle(NotificationCompat.BigTextStyle().bigText(fact))
             .setAutoCancel(true)
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
 
-        if (item.text.isNotBlank() && item.text != item.title) {
-            builder
-                .setContentText(item.text)
-                .setStyle(NotificationCompat.BigTextStyle().bigText(item.text))
-        }
-
-        if (item.source.isNotBlank()) builder.setSubText(item.source)
         if (openIntent != null) builder.setContentIntent(openIntent)
 
         NotificationManagerCompat.from(context)
