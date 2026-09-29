@@ -3,23 +3,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="24dp">
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Dopafountain"
             android:textSize="34sp"
             android:textStyle="bold" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
-            android:text="让好消息自己偶尔冒出来。"
+            android:text="互联网硬核好消息 · 只留核心事实"
             android:textSize="17sp" />
+
         <com.google.android.material.materialswitch.MaterialSwitch
             android:id="@+id/switchEnabled"
             android:layout_width="match_parent"
@@ -27,6 +31,7 @@
             android:layout_marginTop="28dp"
             android:text="开启多巴胺喷泉"
             android:textSize="18sp" />
+
         <TextView
             android:id="@+id/intervalLabel"
             android:layout_width="wrap_content"
@@ -35,35 +40,48 @@
             android:text="平均间隔：30 分钟"
             android:textSize="18sp"
             android:textStyle="bold" />
+
         <SeekBar
             android:id="@+id/intervalSeek"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:max="75"
             android:progress="15" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="实际时间会随机波动，不会像闹钟一样规律。"
+            android:text="每次重新随机下一次时间，不形成固定节律。"
             android:textSize="14sp" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:text="静默时间"
+            android:text="规则"
             android:textSize="18sp"
             android:textStyle="bold" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="23:00 – 08:00 默认不弹消息"
+            android:text="科研、医学、航天、工程、能源、生态；来源不够硬或事实不够具体就不推送。"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="静默时间：23:00 – 08:00"
             android:textSize="16sp" />
+
         <Button
             android:id="@+id/testButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:text="现在喷一条测试消息" />
+            android:text="立即获取一条在线消息" />
+
         <TextView
             android:id="@+id/statusText"
             android:layout_width="match_parent"
@@ -71,5 +89,6 @@
             android:layout_marginTop="24dp"
             android:text="喷泉尚未开启"
             android:textSize="15sp" />
+
     </LinearLayout>
 </ScrollView>
