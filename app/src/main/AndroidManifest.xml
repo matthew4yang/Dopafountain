@@ -8,6 +8,11 @@
         android:label="Dopafountain"
         android:theme="@style/Theme.Dopafountain">
         <receiver
+            android:name=".AlarmReceiver"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
             android:name=".BootReceiver"
             android:enabled="true"
             android:exported="false">
