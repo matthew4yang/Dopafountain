@@ -1,97 +1,607 @@
 {
-  "updated_at": "2026-09-29T09:45:00Z",
-  "count": 9,
+  "updated_at": "2026-09-29T09:51:56.957541Z",
+  "count": 60,
   "policy": "core facts only; no motivational filler",
   "items": [
     {
-      "id": "seed-fda-mct8-20260928",
+      "id": "ca9bb12bbad7ae63",
       "category": "医学",
-      "title": "FDA批准首个MCT8缺陷治疗药物 Emcitate",
-      "text": "2026年9月28日，FDA批准tiratricol（Emcitate）用于MCT8缺陷患者的外周甲状腺毒症；这是该罕见遗传病首个FDA批准治疗。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
-      "published_at": "2026-09-28T00:00:00Z",
-      "score": 80
+      "title": "2016-2024 年美国儿童严重 ADHD 和治疗的全国趋势",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yZ1lhMldLUXNyX0pWcUFSUGhDUERPM2pRVjVJNDg5c2dId2NNU0VCLWdCbW9TT0ZGdzdsX044TG9XSG82THhtSVJpYzRvcGlaX3pn?oc=5",
+      "published_at": "2026-09-29T08:35:21Z",
+      "score": 34
     },
     {
-      "id": "seed-nih-k9-ms-20260923",
+      "id": "aa2384f07116765b",
       "category": "医学",
-      "title": "实验药K-9在多发性硬化动物模型中逆转既有视力丧失和瘫痪",
-      "text": "NIH资助研究显示，kamuvudine-9在多发性硬化动物模型中促进既有神经功能损伤恢复；一项超过300万人的数据分析还发现，使用NRTI类抗病毒药者的MS及复发率较低，但这不是人体疗效试验。",
-      "source": "NIH",
-      "url": "https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model",
-      "published_at": "2026-09-23T00:00:00Z",
-      "score": 78
+      "title": "三种药物治疗牙本质过敏的短期疗效：一项随机临床试验",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBweGZoSThER0lOeC1JaGhvV2xTd0EyLW80ZkM1dVYwdmZlZUlZR3htZVNzUE5iSWVjWXg1UkZGb1V4MzI2c1FSbkc4Wll5LVdmSms5U3dCcEtkbnA5S0Zj?oc=5",
+      "published_at": "2026-09-28T23:36:54Z",
+      "score": 64
     },
     {
-      "id": "seed-nature-ms-inbody-20260903",
+      "id": "8359f81cef10bbf2",
       "category": "医学",
-      "title": "体内生成免疫细胞的实验疗法在小型自身免疫病试验中改善症状",
-      "text": "Nature报道，一项小型临床试验中，16名多发性硬化或其他自身免疫病患者接受能在体内生成治疗性免疫细胞的方案后症状改善；研究仍需更大样本验证。",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02765-1",
-      "published_at": "2026-09-03T00:00:00Z",
-      "score": 76
+      "title": "FDA 批准首个治疗 MCT8 缺乏症的药物",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWZyeTZaNTNkMGUxbGRkcnM0U3FqS28tUDJsR1FpT0hpd1RxZWVlczdyYXl6RXh1dkMwQ3hpa2trOEZpYnQ5VkZMa1kwdWpJWk80YmtQMHZiQkxhbmJOOXEzMVBHaUtFSEhDTXVyVkpGcDhkWHlCY0FWVXJqTFBxR09MdVBWeURkQUM3bm9XQW41ekdxY3hLc1dzVW0?oc=5",
+      "published_at": "2026-09-28T21:45:00Z",
+      "score": 62
     },
     {
-      "id": "seed-fda-sanfilippo-20260917",
-      "category": "医学",
-      "title": "FDA批准首个Sanfilippo A型综合征基因疗法",
-      "text": "2026年9月17日，FDA批准基因疗法Fayuvi用于儿童MPS IIIA（Sanfilippo A型综合征）；此前该病没有FDA批准的疾病修饰治疗。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
-      "published_at": "2026-09-17T00:00:00Z",
-      "score": 82
-    },
-    {
-      "id": "seed-fda-alexander-20260903",
-      "category": "医学",
-      "title": "FDA批准Alexander病首个药物 Zanvastro",
-      "text": "2026年9月3日，FDA批准zilganersen（Zanvastro）用于儿童和成人Alexander病；这是该病首个获批疗法，也是首个直接针对致病GFAP蛋白积聚的治疗。",
-      "source": "FDA",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
-      "published_at": "2026-09-03T00:00:00Z",
-      "score": 82
-    },
-    {
-      "id": "seed-nature-osteoporosis-20260911",
-      "category": "医学",
-      "title": "10名重度骨质疏松女性接受改造自体骨髓细胞后骨折显著减少",
-      "text": "Nature报道的一项小型试验中，10名高骨折风险女性接受一次经处理、提高骨组织归巢能力的自体骨髓细胞输注后，后续骨折大幅减少；结果仍需更大试验确认。",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/d41586-026-02828-3",
-      "published_at": "2026-09-11T00:00:00Z",
-      "score": 72
-    },
-    {
-      "id": "seed-nasa-prima-20260923",
+      "id": "d72a206a15aa6eed",
       "category": "航天",
-      "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
-      "text": "PRIMA成为NASA新设Probe Explorers任务类别的首个项目，将利用远红外观测研究行星、恒星、黑洞形成以及宇宙中水的演化。",
-      "source": "NASA/JPL",
-      "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-      "published_at": "2026-09-23T00:00:00Z",
-      "score": 66
+      "title": "1958 年 12 月 – Pioneer 天线收到第一次传输",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamNtODZIdlpJTk1oMXgtSW1qelFOYlNnTUY1ZHhOenFsUy1Jbm51NWEwM0NUTjREaDk2MjQyYmRzWF9hZmVBanE2azRUamRMR2FFWWlHSy1NTmlVUFhuSnEtT3I2WENoVmE2OGNyYmlFX0JIelJDclNBNjVIb0RLNlNTZE1VVnYwU3p1SlRyM2hfWXZxeTRWVw?oc=5",
+      "published_at": "2026-09-28T16:26:00Z",
+      "score": 42
     },
     {
-      "id": "seed-esa-bepicolombo-20260903",
+      "id": "bf691710dd9206f1",
       "category": "航天",
-      "title": "BepiColombo完成MTM推进模块分离，进入水星抵达阶段",
-      "text": "ESA确认BepiColombo的水星转移模块已于2026年9月3日成功分离；任务计划在2026年12月把两艘探测器送入水星轨道。",
-      "source": "ESA",
-      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
-      "published_at": "2026-09-03T00:00:00Z",
-      "score": 70
+      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjh5c3JtWUtGS1Fva0c0dnhLOUhjeXh5bjVkOEZaQWlndDUtQ1RSUkhGR25ERENiRXY0Y0lTRlU5aHcyTHJ5NzN0U2pTM1k2UFE5WHJoRm9iM2xwclBXZXByTzhPNVJTTTdkSTdJZGh3MGxHSkZaalA2dmZJWmpXN2k3dENPZ1dVYi1hOW45YVZaSW1walFvNUg0XzFtMzRjZV9jcmkweHJCb05sZmdweVZHc2FlYXZ4?oc=5",
+      "published_at": "2026-09-28T16:11:15Z",
+      "score": 60
     },
     {
-      "id": "seed-iea-renewables-2026",
+      "id": "fe5f82419ae54130",
+      "category": "医学",
+      "title": "替泽帕肽与索马鲁肽治疗非 2 型糖尿病患者肥胖或超重的间接疗效和安全性比较",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12aXljbjFfbVFSRWNFeE1Ga0V5RVZIclI4azRtRUN3WjIwY1Q0Y0ctOUJWOFA4SmlpYWlNVHgya1JPZjNkdi0zSHhPVkhMcTRjcGg5UndpVEhqMlItRm5r?oc=5",
+      "published_at": "2026-09-28T14:13:49Z",
+      "score": 48
+    },
+    {
+      "id": "e9097230c6334d58",
+      "category": "医学",
+      "title": "在抗体介导的预防试验中，使用广泛中和抗体 VRC01 进行预防性治疗可选择感染后的逃逸突变体",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XSWdyQzJmdzhVa1BWUEl6cGNZV0VwSVFsZEVIdkJrNF9pMGQ5eUpPeGVfUXZObThyTTZhLUYwYWZDVFV0Yy1iZFY3NGVOckRQTEx6SkZlMlR4NzctM2xJ?oc=5",
+      "published_at": "2026-09-28T10:10:35Z",
+      "score": 34
+    },
+    {
+      "id": "d29e6b2c8f5674e1",
+      "category": "航天",
+      "title": "2026 年 9 月 - 第一周 - 布莱特巴赫，意大利（完整编辑）",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFMtc1lKVk9lS3RYMDAzY242MU4wd0w4dVRvTVI4Vkl6d2stNE1OUjRDS2N2eXIxMkVhVE1pa0pkcGhnOWViMTNEbEdUbnAwY3V3ZENqT3ZFZDR1a2MtTlJkVGJOY3pScE5rWmdxNVhwWm1RVWVzXzBwZmEzejdtMVRudXJKU1VLY3lGUWtJRkNFaktCM3NZRUY3bnRMNVN0LWZOZGhsVVlQLXNtdDUzNVdSeUpvY0FvT0ptZg?oc=5",
+      "published_at": "2026-09-28T10:06:39Z",
+      "score": 36
+    },
+    {
+      "id": "ea26d75f1b87e58d",
+      "category": "医学",
+      "title": "使用数据高效的人工智能加速发现热稳定性 mRNA-脂质纳米颗粒疫苗",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hN2lwaEZRZVlmem52b3M1d1JjN0pzVWEzVWh1a2wyY2xfRF9fOUxCa08wZDhOLVJtMXBSWlRSOGVQWFZGSGZYY09JNzZPcDJHdUFWbS0xVHd5TEZfTkNj?oc=5",
+      "published_at": "2026-09-28T09:55:37Z",
+      "score": 40
+    },
+    {
+      "id": "808db9d9ee4cbadc",
+      "category": "医学",
+      "title": "术后硅胶带改善疤痕外观的前瞻性裂痕随机对照试验",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3WExRMlFXVWtTcmczNnNRYjI5RTNRU2xfNFFTOTNIMzk3dGJZSUFlR2N5MTlyaE5iN3RMZlFLT29zV2hkS3hZdHVVZGMzOVpVWk9QQWRMLWJmVlFfcjdB?oc=5",
+      "published_at": "2026-09-27T16:09:12Z",
+      "score": 44
+    },
+    {
+      "id": "12e0b5cf41811204",
+      "category": "医学",
+      "title": "Kia Tīmata Pai 随机对照试验：ENRICH 幼儿教师培训改善幼儿的口语和自我调节",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWkcwMTA2ZnRGWi1ISk1Pb19zVEdrRGhmRjhNZ21XZDNXTGRsMksteE5rR0E5SFpZSEFUakM1bm0tSjdxUUctZWNTRkxMOEF1cVVxbUE3M1ZnWm1td0Zj?oc=5",
+      "published_at": "2026-09-27T07:10:22Z",
+      "score": 44
+    },
+    {
+      "id": "76fd7eeab23c025d",
+      "category": "医学",
+      "title": "“完全复位”嵌顿性腹股沟疝的诊治一例报告",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LY0diYmlhc3JrdUVyS1d0M2pJVGNhS3N2Z2JlemdBVXZXQ1Qya2tNenBXaEV0TjZBMWFwM0ZyN1liV1ZxbmZBV20yQnh3N1Z6enBGMTFHRElSMXRFZS0w?oc=5",
+      "published_at": "2026-09-26T16:23:58Z",
+      "score": 38
+    },
+    {
+      "id": "09797409fd326713",
+      "category": "航天",
+      "title": "2026 年 9 月 - 第一周和第二周 - 布莱特巴赫和里斯",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblMwZDQtWmlvYl9Xb3dIUVJRV1gxQ0w5ckhEaGYxaWg4Y3JCa3daSTg2MFBvaW5qVHp3QkxYOWZ5TTM3ZS03WmJrTzNvMlpsbkVBY0ZOUXQzbkl4T0N3TGJoYnpldzlfcC1pWGFfdmZ0Vk1jdmhaelVWZHgyVy12NkV1LTVIalFYeFd5MmVubDFhbEpTUEMzSVZwcGpUNUk4WFVabTFQNVZicktyM01NVVhJenczY0ozdWthbTNzOE1YQQ?oc=5",
+      "published_at": "2026-09-25T20:41:32Z",
+      "score": 36
+    },
+    {
+      "id": "8ee3041a426f10e6",
+      "category": "医学",
+      "title": "TOME CLEARING TREATMENT - 0.5% 水杨酸擦拭巾，含生物针面膜套件",
+      "text": "",
+      "source": "dailymed.nlm.nih.gov",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHlJSm1oLW5Jd2JMVU9oOWZJWDU5Z0RKOEc0Q2VZMlpRMGNhNkh1VGNESzBjQ3ViaTlhRnFJYVctWVF4TE1yQmcyemJXM2J5WTl3MmlwSHF1V04zeXJHSXdyeUF5OXRfVlQ4ek83X2k3YXdYV3dlaExzRGR5TmFHbkRyZ1FYMk5NZ3Q2bkpTWnFIOHFrbFlIcnJmRndybVZtVXByWDVZUi04LURTVUhzbA?oc=5",
+      "published_at": "2026-09-25T20:02:11Z",
+      "score": 40
+    },
+    {
+      "id": "659272e0fe437212",
+      "category": "医学",
+      "title": "发烧：其病理学和退烧药治疗：哈佛大学博伊尔斯顿奖论文，1890 年 7 月",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XTWM2Wm1YbFZDUl95N2J4M2x5VUg1Q0ZqcGdReFlsMUlhbWtldFQ5YnV0RnRocnpBZmJpWXRLdjVpbmhHZk5SQVU2enRkMkpSLWFOT1JoMFBMb2U3bGZzVXdMTXRYZFE?oc=5",
+      "published_at": "2026-09-25T19:34:29Z",
+      "score": 34
+    },
+    {
+      "id": "bd63e63c3796db24",
+      "category": "医学",
+      "title": "激素治疗改善精液参数异常的促性腺激素正常男性生殖结果的有效性：2 项相关系统评价的结果",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NdnJ1eGJsYjVzMklUM0dxU1E5bmZkSGJyWDNiWFRQMENhT0tMbmVaREhWQ18xRFc2M003aUR0Zk9Iclc1Q09VejRGM3ZzMTZMbUU1OHRIYU5rd3l6M0JJ?oc=5",
+      "published_at": "2026-09-25T16:30:39Z",
+      "score": 44
+    },
+    {
+      "id": "72e90baa9cc3a560",
+      "category": "健康",
+      "title": "2027年南半球流感季节流感疫苗成分建议公布",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNS1VcGZHZzdoclJ0YW41ZXBqYkc4bi1sWXRmUEhHeGR6VEktX19Ic29kYkNGR21HVFAtLUlLLVNnbXlSbGxhd1d5azJWQTNDU0VKejZnbC1yT0dHWUw2TlJhR3BXQzZ4WklZd2NVSHNtcExsVjlBWXczcHljSDhFYldnRFBqT0FlMFc0NjFpbnNQWlNscXY2bFRlVlpWVENKNndwUTcxWTFVVHBKczRVM3BucE9MNnBwMzE3aF90dEdFenNCZmU2RFR1eUdidUhudFh6TUI3eHFhWjh2QmM3YUYxcUk?oc=5",
+      "published_at": "2026-09-25T13:18:51Z",
+      "score": 36
+    },
+    {
+      "id": "ca23d27ee55f12c9",
+      "category": "健康",
+      "title": "2027年南半球流感季节推荐使用的流感病毒疫苗成分",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTFNIM2xIVlhTYjlCUzBXaFBFNUliaERuSHZ4TkZIcktjMVJjUlpmZnVvSnYwb3FXeEpYMEw1RHh4N3JFWXhZWmhuTzdMTjVYaUNnM1ZDc2paaFh4WGNXMDljVVRkSVhyWXh3OVpWRGpEVjU1Rk9zNTZGbEZMdDVXdVRaRi1BRk9tQTN3b3c1Z0NTcmJDaXNnNVNLRFZkNUNDbDFGU3UwQ1hMS1hQWHM2ZjJNWUFXTWs2czBhaHlDRUhtQ2E1ZXNPeW1qc0I0QVd2MTRzMjRUOWpIZGh2bkR5c0V3?oc=5",
+      "published_at": "2026-09-25T10:36:22Z",
+      "score": 36
+    },
+    {
+      "id": "5babe45b4fb09ec7",
+      "category": "医学",
+      "title": "鼻内二价疫苗可诱导抗原特异性体液和 Th1/Th17 细胞免疫，并保护年轻和老年小鼠免受 MRSA 和铜绿假单胞菌皮肤和软组织感染",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BR281S1h5NEQ1Zm80VFlOV003N29zSmlWTHYzWkRxOEtGSGZmd1RxWHRLZ29qOEgzZ2JhOFRMTEhzSG05UEZ3am81SjF0QXRSUnc?oc=5",
+      "published_at": "2026-09-25T09:18:23Z",
+      "score": 38
+    },
+    {
+      "id": "58a899a7db070cd1",
+      "category": "医学",
+      "title": "在心理健康服务中成功实施自然治疗计划的基本要素：叙述综合的系统回顾",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SYm1nc05yRHhtaTc0S3J5dWNGOFduazRILXc2TGpDT0pFRHR1MUo1b2xNWXJmOFpaV1pYSlE1YnNsWDRLdDlseFJCVmhkcFNrYmVqQktkRHBlcDU2SDZ3?oc=5",
+      "published_at": "2026-09-25T07:18:24Z",
+      "score": 48
+    },
+    {
+      "id": "62355a80768a9793",
+      "category": "医学",
+      "title": "OZIPCO 伊维菌素乳液 0.5% 虱子治疗",
+      "text": "",
+      "source": "dailymed.nlm.nih.gov",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkgxSmsybTJXQkQwOGhsS1ZSS0RnS21GTDU2NjBfZU9wd21xOWduanNhNGFDd1p3OUZIeFBMNERtZ0NjdWg4UVNXYU5SUS1jaEpXSkJrV3hjcGIxWl8wem1PVmZ1TFo4NFNDc0VyS0lzNGdaTkNwQ1kyQXhBMHhYTmRmajJaMEtya05PZ1RFVGo2Z0pTUXFiai1KWjZlWHFaU09jNmlDRWJrZU5VY2NLMDZB?oc=5",
+      "published_at": "2026-09-25T07:00:00Z",
+      "score": 40
+    },
+    {
+      "id": "e81fa0a00c0e78d5",
+      "category": "医学",
+      "title": "FDA 批准第三种治疗进行性骨化性纤维发育不良的药物",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkdsTFpqNm9vZGh4TF9RNkUzRkttUGdZM183dnF1aVRmQjA5V0pOUkVfYk1kWV8zak1GUWJ6emtYMmdCeTd0TW1haHhTeVhHWld6bW5zakFmTHpCT1NLMVRhRzgwSFd6ZXlIdkZrOGRGMkhYU2xqU3FtNXhrRUNKQmJGZW1SSHV2QVpWQndpY3ZiZDd4NzY0V0JYLXE5SF82eWtybFFtOHRRY0Y1TzMyd2Z4SFRWNlk?oc=5",
+      "published_at": "2026-09-25T00:00:00Z",
+      "score": 52
+    },
+    {
+      "id": "cfd36d9dd6768181",
+      "category": "医学",
+      "title": "胶质母细胞瘤患者的生存结果和治疗时机 - 最新研究和新闻",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRm5HdXZPVGVraXozUDVWaWNoN3lrMlBvVDB1NWRGQ00xa01PcHh1TkZuazZVLVhvZHpwTnpXN0cxajQ1T2pLSTNxU0pnY3BNbU5paWVSQy12Q20tSmEweDlPLUZyd2lPODdQdFpJM2Rwd25PeWIyTnAyRUY3S2tpSDB3cUo4em5HTUVXNk1fX1htX0VVTnJPbXB6cw?oc=5",
+      "published_at": "2026-09-24T13:59:21Z",
+      "score": 46
+    },
+    {
+      "id": "2bedaa3177443922",
+      "category": "航天",
+      "title": "NASA 将研究 Crew-13 任务期间的人类健康和表现",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzROakFCM210V0Jmd0NGM0ExS0syeWhfOXpKZE9iVFBVLWxIZGNleXRCQkpDQUlRdGF3MGtHNVhMR045SmQxcTIxU3dGTUZRZDQ0TjV2WF9tUEF6SkNkalJqZXJrdjM3WWhuZ3F4Z214TUNvT19rY0lJbkFRanBrOXZabFVjSEFySVZ3SW1lQklHb2FfcGVOTjlXWEIxYjZ2?oc=5",
+      "published_at": "2026-09-24T13:53:48Z",
+      "score": 38
+    },
+    {
+      "id": "0582f6f168c6f12c",
       "category": "能源",
-      "title": "2025年全球新增可再生能源装机达到创纪录的800 GW",
-      "text": "IEA统计显示，2025年全球可再生能源新增装机同比增长16%至800 GW，连续第23年创纪录；太阳能占新增装机逾75%，电池储能新增容量约110 GW、同比增长约40%。",
-      "source": "IEA",
-      "url": "https://www.iea.org/reports/global-energy-review-2026/key-findings",
-      "published_at": "2026-01-01T00:00:00Z",
-      "score": 74
+      "title": "可再生能源 2026",
+      "text": "",
+      "source": "IEA – International Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMi1oUjJkLTh1eUQ3TkhyYjhwY2NMdjJ4NWhjWEh0SE90cldickNsTG1qWUdnQU9zVjNWWmhMQ0ZRU1BNWHBTSVI2bEd6cGVCZ1pGRw?oc=5",
+      "published_at": "2026-09-24T09:40:54Z",
+      "score": 36
+    },
+    {
+      "id": "47e26c13dfca816b",
+      "category": "医学",
+      "title": "反向水泵负压伤口治疗：发展中国家优化伤口愈合炎症和增殖阶段的有效性和可负担性的非劣效性随机对照试验",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9heVJGYUpKSkd3NTRMVHg2Zi1HMVJFMFlKS0JiNjYzRWY0QXVzRktGSEtSUU5NdjJub21zTlhYMlRBUmRna0ZYWXRrVDZ6b0R5U2hKNTJVMklrZEFuM3NN?oc=5",
+      "published_at": "2026-09-24T04:54:32Z",
+      "score": 50
+    },
+    {
+      "id": "5e551f7719d167f6",
+      "category": "医学",
+      "title": "FDA 批准每周一次的胰岛素治疗 2 型糖尿病",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkRhYV9lUlg0WmhZX0d1d2JnX0llNjMxZVlhUU1wZHZLMzVMcFJTQkp1cnczM3BXZFR6Z3FjTHZtNkxmalJlRUtwRi1BblF2cndoNFdac3FuREM4NnRxY0ZTODM0aFNxTTN0OVBqS1ZUNTRPNnQxVjYxLW45OTRZVjRaTHJJRDJyVEJsaThtd0F2TjhvTlo1VGszUldEd3JSLW9IWGt6UGJ5dDA?oc=5",
+      "published_at": "2026-09-24T00:00:00Z",
+      "score": 44
+    },
+    {
+      "id": "49ed8595403bf43f",
+      "category": "医学",
+      "title": "FDA 批准 Belzutifan 与 lenvatinib 联合治疗具有透明细胞成分的晚期肾细胞癌",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb3RPOGNNWDctUVpqS0pwZEtHS0pTbHd5OW5qMlZUUFY1T2hCY2VkOF9jeWxoSDkzaEc5Z1ZXelVIZ3pLTkRWMTZxMU5KUENlX29OeWVyal9oQ05HZzlrbkl4OFZXenFUTDNwbnZhUTdyM1dGajVhdG53ODB1dVJUOWowbVhwUk9aNll1RWpydXFxbmxiaXFZYy1sSDNOV2Z3SE9abXdjZzZUeHllUzN1aVBSbDF2THFGUGk0NGpmTC1Id1hVcG1KN0hTd2dNWUlRdlZLaExFY3YzcmxBLVFmMk9ycnZXMlN5aExjWWtqRFN0QQ?oc=5",
+      "published_at": "2026-09-24T00:00:00Z",
+      "score": 44
+    },
+    {
+      "id": "852988c1c7d62f0a",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划补充：2019-2025 附录 C 小型鲸类泛化添加剂",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GTTFMZ1RJampySTFLZ0Z1ZWpZbElKY1hPX3V3SEFVclVyRmpjQ3NjRFZ6ZDFQamVXdXJoSEpMME15STc3WE1ZNWFGaFlUNE5MM3ZDenI2d1oyVllTQWM0dGR3c1NfelBEYkl6NUFmZEtMMXJVNTcwajRn?oc=5",
+      "published_at": "2026-09-23T21:13:05Z",
+      "score": 46
+    },
+    {
+      "id": "20dac00e00ecdc22",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划补充：2019-2025 附录 B 鲸鱼广义附加密度-H",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nNGp3Vm5DdWtJdkozYnQ2VGlQNXpuUGtSU3RZU2VMWUQ5THg1eDlPVGlKUmhKRC1PTnNUQk5mV0JFNTlNZWNZNkNJQkcwQlZVSHVaOXhDSVl2YkFjdXJOa2xMMEY1Tzd2Ym9VUGtPSURtTjVZSG9ubFJB?oc=5",
+      "published_at": "2026-09-23T21:11:59Z",
+      "score": 46
+    },
+    {
+      "id": "e98d30e78a650e30",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划补充：2019-2025 附录 D 海龟泛化添加剂巢穴",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xU3FKUmhYWFpleFhTMUhpTGxTQk40ZGV3R0NzM1BZSHptY0kwNmR5blFDYU90MjBodEJmQVRMV2VMU05vYlhyeFRfMkFaeGxja3c1bFlvTjRCMHIwRHlscktuVWZPYlRPN1JDOEJ4N0oya1o0eGF0T0NB?oc=5",
+      "published_at": "2026-09-23T21:10:54Z",
+      "score": 46
+    },
+    {
+      "id": "ceff3f5a9b9de60f",
+      "category": "航天",
+      "title": "美国宇航局选择远红外望远镜作为新任务级别的第一个望远镜",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUtWSFNvNTcxYVN3dm9GbklybUFhTkxwSmpkeklOM0o5MFI5SmxoSUxTUzFudWI5cjNIX1FFOE81MGc0ZTc5b3luZjMzN3VZcG5MMk1xMEFpZ3JtZjhqb1hpVXg2MmoybUV6MGdJMmdnS3BJV09GOWZBdGFicHkzQjhSNDM3NmFBYkE5bm0yVXd2Z3dGZUU1TzV0Nl9RVTNVVEE?oc=5",
+      "published_at": "2026-09-23T20:23:13Z",
+      "score": 34
+    },
+    {
+      "id": "bfc84aa46c43cd56",
+      "category": "生态",
+      "title": "大西洋海洋受保护物种评估计划：2020 财年 - 25 财年",
+      "text": "",
+      "source": "NOAA Repository (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXZTNGbC1PNVpERExHal9xREpyb1VZRGNSQU5tam13VUt6M1lMaHNiM1I0MDMycWhmemZKZEh3bjRZX21EVGx4Y2c5M0dOci1yM1pPdVNNTVlvRXdUZTUtXw?oc=5",
+      "published_at": "2026-09-23T20:16:25Z",
+      "score": 38
+    },
+    {
+      "id": "24bfd05b04148385",
+      "category": "航天",
+      "title": "ESA-JAXA 拉美西斯小行星任务首次启动",
+      "text": "",
+      "source": "European Space Agency",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTmNFNHZ1ZXZZVTQ5VDVGUWZSRXBQNjhFYVJ1cGdvZnFibVBoN2pWeGNBNW5LMGpicFN0aExUaFVWVl9mVWlUM2UtVzlvUXNUTjRJTlZXbGs0dE1Da2JrWDhLUDZvbmV4SU1PUWtlTlp0eHRJckRwZWtKbzYxQlBzeHRlZUltbmpjN2d0R3B0a2FiZENQSUxCcDFjdWFDd0xZMUh3Nk5qczVMakk5cVJsTVpSYVVvZw?oc=5",
+      "published_at": "2026-09-23T19:22:55Z",
+      "score": 34
+    },
+    {
+      "id": "5f94be182a9bddce",
+      "category": "航天",
+      "title": "香农·露西德 (Shannon Lucid) 在和平号上创纪录的任务",
+      "text": "",
+      "source": "NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXFlRm9Wa1hUTXhtaWhqMi1udUZRcTJuVHcwLWZOdWV2TDRxRmk3bE5lbEFYVklUVFRtQ0ZLNWVaZzl4WWdHT20zbktFSHAzTlh4U2lxWFNURkUwbjdhbTdKbEtzVzJ1R09BYWlCcGxJQXpqcXo1QkNvU050ZEk3eU1tUmFjTzFnaGdIMA?oc=5",
+      "published_at": "2026-09-23T16:17:08Z",
+      "score": 36
+    },
+    {
+      "id": "98193f8b235283fc",
+      "category": "医学",
+      "title": "采用表面处理制成的高效稳定的大型钙钛矿太阳能电池组件",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fUXZqVmNIM19NTGctMjRRYklhMVlBTFRFenNTcTNYTExsWFI4SVBLMEwtOXd1T0x4T09mSzlHSUFqSEFuZC1aNWE2M3pFYmt3NG92MWJ3REtHc0dQTVdJ?oc=5",
+      "published_at": "2026-09-23T15:41:50Z",
+      "score": 34
+    },
+    {
+      "id": "f50bd161149c7718",
+      "category": "健康",
+      "title": "世卫组织关于2027年南半球流感季节使用的流感病毒疫苗成分信息会议",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNb3diRzZnck51c19lZkpVT2FITEdCS2x6cS0tVTNjejhxeWd6MDBfcXZ2RFBTY0lTc1ViS1F1NE9MODlpandGRFlnM3NvLTVZd3NnbXMyYXN5OHlONjlmYTE5azFWR2FnR2lXS21uLUg0UHVkUkxGYjcyYk9QZnUxNXd0VTdwOWt1NVI4bVdnMkdZX3pEWmFWaXFHX0lFV09veWlaRGo0emFMZVpfWGpQSHhpY0NxekNyNFFic0JZN0FaYjROWDRBa09hdTRsR0RSZ0dtUVE5UHAweWRiaWdwVlhmN3Exbm5yX2hRQ1U4X0c0djdhNDlySms4SFpqMG5tNTBJOXhteVJZNHhlNzFFbWpEaE1kSFVDZk9OS280VXJyT1o5RlE?oc=5",
+      "published_at": "2026-09-23T11:15:23Z",
+      "score": 42
+    },
+    {
+      "id": "9f067b0314c2b5ff",
+      "category": "医学",
+      "title": "CD4 T 细胞将对 KRAS 抑制的短暂反应转化为胰腺癌的持久缓解",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VzhlbURCd2c2akYyVVVPVXUxTGluM1Nhc1hTdGxvZ3FOWXRjSFZsR1k3LTRJWlNqd25wbjltT01lLW4tXzBMME9hZDVhcjV2N1VV?oc=5",
+      "published_at": "2026-09-23T07:00:00Z",
+      "score": 46
+    },
+    {
+      "id": "5d455316310ce8af",
+      "category": "医学",
+      "title": "Ivonescimab 联合化疗作为晚期胸腺癌的一线治疗：生物标志物分析 II 期试验的初步结果",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VdU1Zd2EtcmJ1ZFI4MUdtY1piay1mbldUbUZEelBtMFotM1BkQURPMUEzVHFtNjIwZFVTYkxZLWptbjRSeFFMQWRMZ0lqSS1jQzhN?oc=5",
+      "published_at": "2026-09-23T07:00:00Z",
+      "score": 44
+    },
+    {
+      "id": "a216ac9d536ffb22",
+      "category": "健康",
+      "title": "职位描述 - 技术官员（疫苗可预防疾病和免疫）（2603991）",
+      "text": "",
+      "source": "careers.who.int",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUW1hZVJJX0Fvd2Q1RkRyUGJzclVVTlRWNWl0UHdEY0lBUGU5T25IeExTbngzcW5iU1k4b3ZDTzNsV0J2Vm9PNU8wRWdoWkppUmgwRjI0OVFyLTZkdmdZSVg4ZVhUUGZXM0xWZTA5WGxIOUVINTF0MDdDb1ZCZWRqR2hoYnprMWE3ZGhTeEFNUlpBSFZQbXhldllpUXdtaFVhZm9POUViOE5KVlNGM3ZJ?oc=5",
+      "published_at": "2026-09-23T05:31:07Z",
+      "score": 36
+    },
+    {
+      "id": "f0f5841b408de8e3",
+      "category": "健康",
+      "title": "职位描述 - 团队负责人（疫苗和免疫政策）（2602203）",
+      "text": "",
+      "source": "careers.who.int",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlh4cVg1R211Rm91NEVYemE5aTNHbUx6WjZ5S1g1amZPZHVvMnJVSzFNU0JmdkRFNXRTTHRTRzhOUTVrY1EwRTloZ3ZSbll3SDJnMXkwMjNJVG5iem92ekY3T0pNaWFlWWF6MFBHdXRfcXRKTzdUNFp2TlJMNXozb1E5b1EyRm14a3pvTm1hTTBIeHYxck1EN0Ewdzl4R1FVdVFfSEViTkJEUQ?oc=5",
+      "published_at": "2026-09-23T01:20:42Z",
+      "score": 36
+    },
+    {
+      "id": "c6588b9352d95887",
+      "category": "医学",
+      "title": "羊肠线在围产期瘘管病例中的成功运用",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oakp5anY4VnlnWjRVNkNsOEhiS1o3VWU2aVBlOW9pUXhFOE9RbUxBREdXM2hkejdwekR1eEFJS2tjQjZpd3c3NTBzVDNpZXhUel80eEljRG4wMEtzTHBPY0k1MGpGSWc?oc=5",
+      "published_at": "2026-09-23T00:15:34Z",
+      "score": 48
+    },
+    {
+      "id": "f85cb4a469d8c2df",
+      "category": "医学",
+      "title": "FDA 批准 Lirafugratinib 用于治疗既往治疗过的、不可切除的局部晚期或转移性胆管癌",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNlNEd2NKaFdubTk5T0lzTGZ6QVlNYWJ6NGxiWmlNZlFwOHVQOTZjWFdUdUhscHdOQTlEOHpINEZ6OURDMlg2YWdSNkZ3T0FpMkdZTHViTkc3QUJwOVdNSFNPd0c4dlNudmVPa2tQc3pkQ0JsSS1wOFR0aEo0MEVKZmlsVElfUGs3Nzk0R2ZTRmJibFJCQlllZV9yMUJfaTU1OWoyZ0Q0NWxtamJtQnZRSWxrVzhsMW96ZVJudmlkbG9wZktzVloyUDhPb2RFSk1uWkN3WGs4bkJvNV9oVDlTczBiYVVkTk1U?oc=5",
+      "published_at": "2026-09-23T00:00:00Z",
+      "score": 44
+    },
+    {
+      "id": "0c02c0ba450e68ad",
+      "category": "医学",
+      "title": "优特克单抗联合单纯肠内营养治疗成人中重度克罗恩病患者的疗效",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QmsyR2k3a05uejJRQktSSXpYZy1RbnlkWWVCVHZ1ZFFkTkE5YWtvZTFhMFc3LWNoQzhjNU1vOFdwOVIxYzVVMGE4dlNjMzZQZ3pJYUdjRDR5c0dwcTl3Y2tUTlI?oc=5",
+      "published_at": "2026-09-22T17:52:35Z",
+      "score": 48
+    },
+    {
+      "id": "2a542487037bca58",
+      "category": "生态",
+      "title": "一般回收项目完成：华盛顿州西雅图杜瓦米什河下游鱼类和野生动物栖息地恢复 |损害评估、补救和恢复计划",
+      "text": "",
+      "source": "NOAA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXBLYlFid0hhcU1GRVA0TzNydFhPMW8wbFR1Sy1zSlJlSkNuWlk2NGtoZEFnZFIzYlJMSkM2TjI5SXpsTGJkNU8yUk9lWnNibU1ySHhVdGY0U2NxcFZHTDY2SmZYUjlRQS1QYlFZZHNLRWJpem41a0FXOGZGSmMyT1l2TS00YVNTLW13MHVjM0pJR1Z2Tjl2NExYVEppT1VoZl9yX1poZkl1UklYQTBIUHhwd1R6TGJTZDN1N3hMbE4?oc=5",
+      "published_at": "2026-09-22T15:02:16Z",
+      "score": 34
+    },
+    {
+      "id": "8b658229321ddba0",
+      "category": "医学",
+      "title": "从钝器治疗到精准治疗：癌症研究 25 年的转变",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ydU9YM205bnMybEc3WjBwUE05Q2hvWjFXc2llcHJYbWVpWHRyUkFqeFdpYUloV1BLUlBra0NIbC1LRlNDV1o3eWxZaUZodkx0YXJLOWNsaHZIVnhXY3kw?oc=5",
+      "published_at": "2026-09-22T13:04:04Z",
+      "score": 34
+    },
+    {
+      "id": "74efa9acb06a801e",
+      "category": "医学",
+      "title": "曲妥珠单抗加纳武单抗联合吉西他滨和顺铂作为 HER2 阳性不可切除胆道癌的一线治疗：一项 1b/2 期试验",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcDJrNjUwc1BveThBNS10VzNXdWtoUEE4R0JCZmJObWZXMUI3X09lR1ByaEhjcmNFQkZKYU5rSTlRVmkwWHRvZUdIOEtvYm5GTENsVFdLYkpsc1V5VkNv?oc=5",
+      "published_at": "2026-09-22T09:49:55Z",
+      "score": 36
+    },
+    {
+      "id": "0705c54ca2001a22",
+      "category": "健康",
+      "title": "世卫组织突发卫生事件 EPI-WIN 网络研讨会：了解世卫组织 2027 年南半球流感疫苗建议及其背后的科学依据",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPRUJrelN4ZlFkazlUdUItQWV4eGI2Rmc2UERPQkZZcU5NLUoweHNnc3d3aDhGcURYMEFBT25YOUpTdFQwRUZjNlBfMnFRT3I5NUt6SnFsMEpUcElNVzJvZXhZS3kxOFRuWWQ1Q1FhS0tXT1VYOThMYnZVREd1VzF5aXE2ekJWWFVWM3B6VHlVWmhxWDdxLWJIUGtERzFmM2p2M3dVNUVGWF9EQk84ZTJzd1JMdURLUmY2c2Ewck1zNldPdnVFWlFWSm84Y1ROWllwa0ZBMjRMSGxMRkFROHk1WXU3NFFRdlAxektkU1dnY0REd1ktT1JRYTBkQXVXaUcwazMzamZTTFNTeXp4SDN0VktwYWd5cFhyaGd1LU1kVnpFeTFETWJTV3k5Y1NtNkhwMnA5WlEyYVQ?oc=5",
+      "published_at": "2026-09-22T09:21:15Z",
+      "score": 42
+    },
+    {
+      "id": "bdaa601f0937a0b0",
+      "category": "医学",
+      "title": "重复经颅磁刺激和作业疗法联合治疗脊髓损伤患者的疗效：一项随机对照临床研究",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVmxRdzJjVmdValE0WTVPRDUxR3k5c0psTGp4V1BQdEk4MzdQbGtZc2hkbkNqeW5TVl84TWV3cFV4YXFGLVVOYTlkVDc4YmE3SFFYT0lPQmZxZWc0QXFB?oc=5",
+      "published_at": "2026-09-22T05:04:39Z",
+      "score": 52
+    },
+    {
+      "id": "733b6fefb3ecd805",
+      "category": "医学",
+      "title": "拉丁美洲的肺动脉高压：LATAM-PAH 荟萃分析和系统评价的特征、治疗和生存",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVM2dqa2VvUEMza3hsQ3Jab29IdjhueHkxaVlaa1dMdDQzaDRYRWlCUW9QeEh3X3o5TlZrbC1EUUNfeDhTYmwycC1MZVlZMjRJR3JXMHMwLVU3LS1xazJB?oc=5",
+      "published_at": "2026-09-21T13:36:18Z",
+      "score": 40
+    },
+    {
+      "id": "baa7683ab89a61aa",
+      "category": "医学",
+      "title": "胫骨压缩通过骨细胞PIEZO1促进脑损伤后的恢复",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yNkwyZHNlUzRUTHRNbXNnRmNPT0lLYXB1RE9Sc3Iwb3FUbjVLWC1xX29KQTdhNkIxVTBsYkUzREl4eV9OOGV3R3V2Ujk2RGs0bDRhcml6dUstWVlIY1FV?oc=5",
+      "published_at": "2026-09-21T10:21:22Z",
+      "score": 34
+    },
+    {
+      "id": "74e607072c5eec20",
+      "category": "健康",
+      "title": "世界卫生组织关于2027年南半球流感季节使用的流感病毒疫苗成分的磋商",
+      "text": "",
+      "source": "World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQTXRDVXlkUUt5UDgwbjZKbnZYWE9SUFhUZlVzT0NPbXBhTGg2bXNKTXMwYVRpTkh3dW95c2l3bExfUWVrR2U1Z2ZCdVc2cUtoWUpDSmZqY3N3ZTVmV19TQ2dxX3RZemY5T0liTDkyYUl0bDFfcmNGUnB6V25TLWUxaGl1NllkN1VlMXlJRnkxNlh0LThKdjVNekFxZTQ4djFCeWhVSDRabjZDT3dQZmJ1Y0tHRVBHWk9EaWxIYU4xWWZLUV90OVp2WGlxbEhDT3hyN09uZmZyejFrWlZMa0IwQU9RTVdRd0dBRUxoU3gwSFl6VU9hZVU0UGVVelhSaTJYVVVISkhtcDltOTd2ZjJPOGZUNE44R1IwWWVXYQ?oc=5",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 42
+    },
+    {
+      "id": "d939badb7f5dffd2",
+      "category": "医学",
+      "title": "使用替拉布替尼挽救治疗难治性原发性中枢神经系统淋巴瘤的多中心随机 II/III 期试验：JCOG2314 (ReSTART)",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSDZZZ21KZFJnT1BnbkJMQlRqT0kwOWxEX2ZIbnRmOUhUdjNPMWstdUJ2ZmRzbXV6TjFLbGpHWWQwd09ZR0R2cGw1WUprMXJsd2FWcUo2V1M5bWZjTUFz?oc=5",
+      "published_at": "2026-09-21T06:12:33Z",
+      "score": 40
+    },
+    {
+      "id": "df3fc503614aaaec",
+      "category": "医学",
+      "title": "DTX401 AAV 基因疗法治疗 GSDIa 的 3 期随机试验结果",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0waTdudWxMTzNvZFp6TmFLTkxBZElNN2wwaDJlYVdkSkNlZ0VLTURvUml3S1k1T25zWHBGX3U3NVB4by1DbDVJaV9IR2NZSjZXMGpncGxEVUw2UWVDMEtB?oc=5",
+      "published_at": "2026-09-21T00:10:19Z",
+      "score": 46
+    },
+    {
+      "id": "b27caf345a3acad1",
+      "category": "医学",
+      "title": "具有混合免疫和疫苗诱导免疫的医护人员的长期体液免疫动态：VaCoMRI 研究",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ubVRlQW5WbHdLZ2lpamJDYU9Tc2QwVUdkbGN0Ukl4SUMtdVR1OWV2aGhDaGU2TU1iUUM1NWNBeGI0WXByaGtvZF9tSDFQVVY4bXc?oc=5",
+      "published_at": "2026-09-19T07:00:00Z",
+      "score": 34
+    },
+    {
+      "id": "a8ea6990ab6f8104",
+      "category": "医学",
+      "title": "FDA 批准治疗共济失调毛细血管扩张症（一种罕见的遗传性疾病）患者的共济失调疗法",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU19PQ3dsVE8yNk9lODJ2cEt0ZEd0QXVDbDRqZVpjYzNZY0hDdTdxRTVmUWJpR3haU040c2RscjVqUDBZTUlpZmpkbThZZE8tUVRWM1N0UFVuVXVYY1ZFZzNwaWZxbmpQd2RXT0tuM3FoVnhTQ1hsbWhuYVhjeHJLaXM5Z1A2RHJ3d2FYWjJzYmVwbDg3SmdRaHVhZGttVGpBOHBWdXlWY0R5YXpmOGZTQ0diRHZnazBIeUpqN0w1cVVSTDVVcnNOZ0o5WHp3OGtOUlE?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 50
+    },
+    {
+      "id": "9b93b09bca4b1faf",
+      "category": "医学",
+      "title": "首例 RNA 疗法：患有罕见运动神经元疾病的男子治疗后病情有所改善",
+      "text": "",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNzBCT3pSV2MydVhyZjg0aTNTX3EzYnc5N0FIRGRYV1NKVjN4dXBBbzk5ZTUtUlhDNjV4SDlSMjNVX3M1d1NMcWlfc2tZNExJeWs3emtLeVM2cFhYSGlF?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 48
+    },
+    {
+      "id": "6c8421715b554bdc",
+      "category": "医学",
+      "title": "FDA 批准 Imlunesrant 与 abemaciclib 联合用于 ER 阳性",
+      "text": "",
+      "source": "fda.gov",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNjB4ZTMtdmVQSnFLTFFLd2I5Q2VvV042MGVwTlpsX1NXSzh0cFRhaHhtSm1vZ1JMWG0wclFDQjZId2Q3RVJZQ3ZrX1pQc0xsTi1RZ3ZYaldqRldka0lMUUhfM29faXZSUGplbUwyVk5VbTRvb2ZEQUtsNy1zT25oNFBiclRBUUFCbHpSMnRoVGlPYUVNYjhRVmlWVmpLalViUlRqM1lUcU5GVVpZa1I3RllxWHA3VDJ0TkJiT09neGloY1ZnTGlsX0pGa0ExVTZ0WWN6ZW1OLUR0bWZTRlZUamJoMmo4bHl2X1pPbG9BaUVvOURjZmc?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 44
+    },
+    {
+      "id": "0a127764aa5f93fe",
+      "category": "医学",
+      "title": "英夫利昔单抗随机治疗急性胰腺炎：双盲、安慰剂对照、多中心、适应性、2 期优效性试验方案 (RAPID-I)",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CdldiRGdWa0Y4Y1JTMU5sQi1KdkJxTi1ULTI5M3ZoenVXVVVKemZQb0ZrZVk5Ykg4aFRhQ2Z4TWVITU1DOUpiRzI1LXB5aUlocVE?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "score": 34
+    },
+    {
+      "id": "5022305abd8efb30",
+      "category": "医学",
+      "title": "重组带状疱疹疫苗针对带状疱疹、眼部带状疱疹、带状疱疹后神经痛和痴呆的功效和效果：系统评价和荟萃分析",
+      "text": "",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GZnNuNTdCNEpiaXVyc3pabXhhWGROMFljaF9BdklJaDV5dzQ1VmlWVWFlb2dTOTVrSUM4ZWlBaTZmTWZBc241aGNOV1RVZEo0T3htS1pKU3dhUnVfU0tV?oc=5",
+      "published_at": "2026-09-17T13:40:27Z",
+      "score": 62
     }
   ]
 }
