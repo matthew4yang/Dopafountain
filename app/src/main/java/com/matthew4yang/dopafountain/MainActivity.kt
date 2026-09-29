@@ -7,12 +7,16 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.SeekBar
 import android.widget.TextView
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.materialswitch.MaterialSwitch
 
 class MainActivity : AppCompatActivity() {
     private lateinit var status: TextView
+    private lateinit var historyText: TextView
 
     private val notificationPermission =
         registerForActivityResult(ActivityResultContracts.RequestPermission()) { granted ->
@@ -28,12 +32,19 @@ class MainActivity : AppCompatActivity() {
         val label = findViewById<TextView>(R.id.intervalLabel)
         status = findViewById(R.id.statusText)
         val test = findViewById<Button>(R.id.testButton)
+        historyText = findViewById(R.id.historyText)
+        val clearHistory = findViewById<Button>(R.id.clearHistoryButton)
 
         val current = Preferences.averageMinutes(this)
         seek.progress = (current - 15).coerceIn(0, 75)
         label.text = "平均间隔：$current 分钟"
         enabled.isChecked = Preferences.enabled(this)
         updateStatus(enabled.isChecked)
+        refreshHistory()
+
+        if (enabled.isChecked) {
+            NotificationScheduler.scheduleNext(this)
+        }
 
         enabled.setOnCheckedChangeListener { _, checked ->
             Preferences.setEnabled(this, checked)
@@ -62,6 +73,11 @@ class MainActivity : AppCompatActivity() {
             }
         })
 
+        clearHistory.setOnClickListener {
+            HistoryStore.clear(this)
+            refreshHistory()
+        }
+
         test.setOnClickListener {
             if (Build.VERSION.SDK_INT >= 33 &&
                 checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED
@@ -70,6 +86,31 @@ class MainActivity : AppCompatActivity() {
             } else {
                 testOnlineMessage()
             }
+        }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        refreshHistory()
+        if (Preferences.enabled(this)) {
+            NotificationScheduler.scheduleNext(this)
+        }
+    }
+
+    private fun refreshHistory() {
+        val items = HistoryStore.load(this)
+        if (items.isEmpty()) {
+            historyText.text = "尚无历史消息"
+            return
+        }
+        val fmt = SimpleDateFormat("MM-dd HH:mm", Locale.getDefault())
+        historyText.text = items.take(40).joinToString("\n\n") { item ->
+            val whenText = fmt.format(Date(item.shownAt))
+            val head = listOf(item.category, item.source, whenText)
+                .filter { it.isNotBlank() }
+                .joinToString(" · ")
+            val fact = item.text.ifBlank { item.title }
+            "$head\n$fact"
         }
     }
 
