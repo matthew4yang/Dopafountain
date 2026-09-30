@@ -1,19 +1,69 @@
 {
-  "updated_at": "2026-09-30T03:55:31.451426Z",
-  "count": 10,
-  "auto_count": 8,
+  "updated_at": "2026-09-30T04:06:09.361046Z",
+  "count": 54,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "e4954d8f3d8ea3d6",
+      "id": "31c5893fd9d18739",
       "category": "宇宙探索",
       "title": "成功飞越地球改善了 Juice 飞往木星的航线",
       "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "European Space Agency (ESA)",
+      "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjh5c3JtWUtGS1Fva0c0dnhLOUhjeXh5bjVkOEZaQWlndDUtQ1RSUkhGR25ERENiRXY0Y0lTRlU5aHcyTHJ5NzN0U2pTM1k2UFE5WHJoRm9iM2xwclBXZXByTzhPNVJTTTdkSTdJZGh3MGxHSkZaalA2dmZJWmpXN2k3dENPZ1dVYi1hOW45YVZaSW1walFvNUg0XzFtMzRjZV9jcmkweHJCb05sZmdweVZHc2FlYXZ4?oc=5",
       "published_at": "2026-09-28T16:11:15Z",
       "score": 83
+    },
+    {
+      "id": "bf6bab1f677412b5",
+      "category": "粒子物理",
+      "title": "ATLAS 和 CMS 组合在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 搜索希格斯玻色子对的产生",
+      "text": "ATLAS 和 CMS 组合在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 搜索希格斯玻色子对的产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PaUFEQlZOZkwxdHVfWlppRHhYWmdjRFhNdFNMaS1DWk80TFJpZ1czYWtsdGxCRFhYSVBySDMzNUhhUW1PMU1QMUw0Z0VET3g3QlRtaUE5VHVNaFY5SnV4dFlpNTAyUQ?oc=5",
+      "published_at": "2026-09-25T22:39:14Z",
+      "score": 95
+    },
+    {
+      "id": "6d15e9dcfe9ddb0e",
+      "category": "粒子物理",
+      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
+      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
+      "published_at": "2026-09-25T15:49:17Z",
+      "score": 83
+    },
+    {
+      "id": "eef61633e40dd416",
+      "category": "粒子物理",
+      "title": "使用氩气吸收中微子的第一个证据",
+      "text": "使用氩气吸收中微子的第一个证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
+      "published_at": "2026-09-25T14:30:43Z",
+      "score": 90
+    },
+    {
+      "id": "7304e186389a18bf",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "nature.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
+    },
+    {
+      "id": "6187325b6e1eaaa7",
+      "category": "粒子物理",
+      "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
+      "text": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBad1diZ25MNVNKMHp4WklQekxLU25EMjZIbHVxYzhMd1FVTVJITFc2cVZWb0Y3Wk9yU2ZuWTRrRlRqSDRnYllPZHFub2Q3QnpuVW9pbWNFcGtHZ3lRVTB5QkVqUkJsUQ?oc=5",
+      "published_at": "2026-09-24T06:59:52Z",
+      "score": 96
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -26,24 +76,84 @@
       "score": 78
     },
     {
-      "id": "6f1d4e42c7cf1a3c",
+      "id": "2042be06a54c58bf",
       "category": "宇宙探索",
-      "title": "美国宇航局的发现揭示了早期火星上复杂的水系统",
-      "text": "美国宇航局的发现揭示了早期火星上复杂的水系统",
-      "source": "NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0lfRXFPQmFmTndEM1huY1U1ZkJSUkhLRlRudG1ZREozNTNSaGZ6VzhtWU8xT0VOWlRqcUtjY0hGTXR1TTllbmpVbmxnRVVPajcwQmtjZDN2UkRBQnFSQ042RWhjRXJmUTJNTVJCeUpNWFY3cmZmb2loRG1NVi1oNWVaTVk1MWdDUTFwcUdZR0ZVb2pvOVJuYzZJblRqYUtWdnhPRlhoTkhXQQ?oc=5",
-      "published_at": "2026-09-21T07:00:00Z",
+      "title": "美国宇航局钱德拉在风车星系中发现不寻常物体",
+      "text": "美国宇航局钱德拉在风车星系中发现不寻常物体",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0gtOF9UWEZJNURjc3RaYnRKV1RPbWpwQWdEbmd6UlNuR2g1NXlqVEcwenJhdVR1amI3YjRiRmZrU3FmS3dIWlJyd1dKWk5ScjhfMGdJOUVBV184c05hYXQtdEN5cjV1Q3Y0UDNQbUpoT29mR29pTzhNTUpud2RDTm9OOXBTekwtd0RhTVp0V3hUZ3Rp?oc=5",
+      "published_at": "2026-09-22T16:13:24Z",
       "score": 83
     },
     {
-      "id": "1772e983658118fd",
+      "id": "f009c63eb97a5bdd",
       "category": "宇宙探索",
-      "title": "BepiColombo 成功抵达水星并成功分离 MTM",
-      "text": "BepiColombo 成功抵达水星并成功分离 MTM",
-      "source": "European Space Agency (ESA)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXl2MTgtUWpTdjhUb3Zwa2ZGNm1mcTNYVVFqRXZxa0dKZUd2bmc0YkhqYUNyaDk5VzNVcWFqMDNQY29sdkF0NC10aWwtVG9aY2d0NFE5WUJ3Q1dpaXZydF9NaHF3RzBVZ3JQNjhoZy1fbThodmRjRmZrZHkwVDgtbElsNlQtOE1UTWE4VWdCS0lMV0dtbHFXRHVCM0NHZTd0QTk0VGJqLXZ1LWRudUtz?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
+      "title": "美国宇航局的发现揭示了早期火星上复杂的水系统",
+      "text": "美国宇航局的发现揭示了早期火星上复杂的水系统",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0lfRXFPQmFmTndEM1huY1U1ZkJSUkhLRlRudG1ZREozNTNSaGZ6VzhtWU8xT0VOWlRqcUtjY0hGTXR1TTllbmpVbmxnRVVPajcwQmtjZDN2UkRBQnFSQ042RWhjRXJmUTJNTVJCeUpNWFY3cmZmb2loRG1NVi1oNWVaTVk1MWdDUTFwcUdZR0ZVb2pvOVJuYzZJblRqYUtWdnhPRlhoTkhXQQ?oc=5",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "460bd83d28196d4f",
+      "category": "宇宙探索",
+      "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代事件视界望远镜 |天体物理学中心|哈佛和史密森学会",
+      "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代事件视界望远镜 |天体物理学中心|哈佛和史密森学会",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmsxb0JHQVY0LXJPSU1zdzRCU2ZSWU5EUU5kT0pkRlNhNW5oSlVDNGtIVEhvbmV6ZkNJaWxMVFVSdzh4VVVWQlY4bXRZOGc3Z3c5eUFrZU94bVhiNmNoUGtyUTY0elVEYjJHcExkRV9mX0F0R2Z1a2R4U1JSN0puVEwyVUUwVlBUOEJXZGM3UDVjRG9xRUduQzZSSVIzSXpiYWY5bXAwYTE3eGotSmNrT21XTzA5eEVWZjFmSGgtQ1RMYkJaMHFMdWhTSUo?oc=5",
+      "published_at": "2026-09-17T13:54:12Z",
       "score": 83
+    },
+    {
+      "id": "0d76b9d308fae3b0",
+      "category": "宇宙探索",
+      "title": "新研究揭示了黑洞活动塑造附近星系的常见模式",
+      "text": "新研究揭示了黑洞活动塑造附近星系的常见模式",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
+      "published_at": "2026-09-13T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "e59cff50dbe00395",
+      "category": "粒子物理",
+      "title": "精确测量 μ 子电荷不对称性",
+      "text": "精确测量 μ 子电荷不对称性",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
+      "published_at": "2026-09-10T07:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "2f259e18d03dadfa",
+      "category": "古生物学",
+      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
+      "published_at": "2026-09-08T18:42:37Z",
+      "score": 83
+    },
+    {
+      "id": "dce13c9a92ed4417",
+      "category": "粒子物理",
+      "title": "高能重离子碰撞中热反冲射流的出现",
+      "text": "高能重离子碰撞中热反冲射流的出现",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yOC1MX3c5VXkwRmJlR0htMFdPTkpRRnEyQVdwZi1rdEw1TG5raUZSa3RwSWdTOFRuX0NRYkd0SXk2cW9KOFlpOGlDMU5DQWRPc2ZDYjNrZm9YU3liNUp5OGxtQVZmZw?oc=5",
+      "published_at": "2026-09-04T16:06:01Z",
+      "score": 83
+    },
+    {
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -56,6 +166,36 @@
       "score": 82
     },
     {
+      "id": "7d13fdc6be7a6134",
+      "category": "宇宙探索",
+      "title": "土星南极上的十边形（单个滤镜图像）",
+      "text": "土星南极上的十边形（单个滤镜图像）",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblRWMG9ITDFidzhtV2hiXzgtUjlKeFRkSW56bnVwM0pHS0ZrN0tMcDJKMTBBUEJONnBXaF9QMGtJSVRUWHY0YVBTRGwwMHdlanZaQkRrTlNTSENucTRLa29ob2xtTHQzV0s5TVpsMHYxOXdSSU1POG5EVVRLbmhfZkkzUGcxQ1I1dVFtWFg0c1l1S0JWRGdGVFI5dTRSMzFPaXc?oc=5",
+      "published_at": "2026-09-02T20:25:09Z",
+      "score": 83
+    },
+    {
+      "id": "e4ce3638e64a8e15",
+      "category": "粒子物理",
+      "title": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "text": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFZmdWRXV0RxaDB2VjdWNWZJeXZoWllQYXpWWUhYaVJHQmQ4UktPcklyMHN6eWtPbW9xbHFQTklKTnEwbGNJZmlIaGJLYkR3OXlsdnNKREVlSWg3dlZkTmZzWndIS01KdXRtTV81a0dyOXhSVVZpS05xdG9XTy1IRktEeTd5WC1iLTNHSjR4Qk80ZGxOaVE?oc=5",
+      "published_at": "2026-09-01T07:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "4f03b321204fac20",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
+      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tREVsRDZ6TnBpcmpObS1VS3NkYUpIalluRVdITTU5V0lEZThCbjZfOTk2ZThhcFFJMTRKek9NbEtEbktCMm5FWGtmSG9KRHhTOWRoeTZPdnNCYUxzVl9Oa08wckJrUQ?oc=5",
+      "published_at": "2026-08-28T07:00:00Z",
+      "score": 99
+    },
+    {
       "id": "036f9d6cfb5779ba",
       "category": "古生物学",
       "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
@@ -63,47 +203,347 @@
       "source": "PNAS",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
       "published_at": "2026-08-25T17:33:06Z",
-      "score": 96
+      "score": 99
     },
     {
-      "id": "e32f718d630fb217",
+      "id": "24d378dc8a1383e2",
+      "category": "粒子物理",
+      "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
+      "published_at": "2026-08-13T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "b050ee82b7767fdd",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
       "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "Fermilab (.gov)",
+      "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
       "score": 83
     },
     {
-      "id": "31fcc6a37ac25e47",
-      "category": "古生物学",
-      "title": "化石证据支持视觉在灵长类新皮质模块化进化中的作用",
-      "text": "化石证据支持视觉在灵长类新皮质模块化进化中的作用",
-      "source": "Science | AAAS",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdlN6cTdqWGZXOUI0Y3F1R0tmdWtFNFRvS3AzZEFBODFnazVCUF94ZEh6WklMQVN5dEpwdlNkZDJQU0xiTTZia19aWlhVMjFpdDQydjUzdnlVbzAtc2o1SQ?oc=5",
-      "published_at": "2026-08-06T07:00:00Z",
+      "id": "5df570450b98c754",
+      "category": "宇宙探索",
+      "title": "科学家发布最大的二维宇宙地图",
+      "text": "科学家发布最大的二维宇宙地图",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
+      "published_at": "2026-08-10T07:00:00Z",
       "score": 83
     },
     {
-      "id": "d7c806b41770d9a7",
+      "id": "d3fd5b81fc4873f2",
+      "category": "宇宙探索",
+      "title": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
+      "text": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
+      "published_at": "2026-08-05T16:10:25Z",
+      "score": 89
+    },
+    {
+      "id": "f7707581fafb2380",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "source": "Home | CERN",
+      "title": "寻找轻子味破坏衰变",
+      "text": "寻找轻子味破坏衰变",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tRzJQclF3VjlCMHRzRmJZSXhMREF4bHp1MWJXbjNSV0RvQWVSSDhwUHV1MFZWbXhxSm85TGpaM0lob0VmOEo5eHF1eEdhTXpHdUJXUFZPcTFici1kZmMzTmVLSERVQQ?oc=5",
+      "published_at": "2026-08-04T16:20:25Z",
+      "score": 83
+    },
+    {
+      "id": "bbe4903a032461c9",
+      "category": "宇宙探索",
+      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
+      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "effdb4c482c8a524",
+      "category": "古生物学",
+      "title": "寒武纪早期最早的带有管管的头足类动物",
+      "text": "寒武纪早期最早的带有管管的头足类动物",
+      "source": "nature.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "cd0f62b4a473f7ff",
+      "category": "古生物学",
+      "title": "穆桑戈：从船上发现的新津巴布韦恐龙",
+      "text": "穆桑戈：从船上发现的新津巴布韦恐龙",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1VZV0FqWEkwQ0R4VWxlYmc5dG02S1JHaER2VzYyRXRza2FtNE9vVl9fTTRCd3doTmduempHLV92MWFPWUdfdE0tYTlfYkZ2TFM5Mk5iVlNCbDFWbDY3N3phOElRbk5ROElaTHVDdkk2SkpyOUNrcHJ0Nk9tNGdZdzJlWF9PTTVzMnF6Vmx4Qks5Y3dwcTBUcy1KZkZleTIzZldPSXNwazBVWmc2d2c?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "c9e514233f38561e",
+      "category": "古生物学",
+      "title": "博物馆科学家命名的新津巴布韦恐龙物种揭示了非洲隐藏的历史",
+      "text": "博物馆科学家命名的新津巴布韦恐龙物种揭示了非洲隐藏的历史",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDVkSFRfU1hMQl9LdUpvZm9tYktqelRyLVpaX3hBWWJ2U29yaWZwMnpIS3F6RFpSa1JDY19la3hzMXE3TzVwVENtRE16NFctRFdKejlUdG1hSEJwRmdZUGwtOXN4eExzUzBJOFRVWTFkRUdmQU13R1QxbXppS2JSYUJITjBPeGJDYWc1U1dLU0lNaDFJdkNZeF9GZjNKZnZMemsyT19fcjZlZWstdUo4eHM1dEJpejI2UzNN?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "fedd2d9deb668160",
+      "category": "古生物学",
+      "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
+      "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
+      "published_at": "2026-07-27T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "c569e87b3a3233ba",
+      "category": "粒子物理",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
       "score": 83
     },
     {
-      "id": "72a70eed65a6d6d6",
+      "id": "c1e51d28474975e8",
+      "category": "粒子物理",
+      "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
+      "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
+      "published_at": "2026-07-22T15:16:52Z",
+      "score": 89
+    },
+    {
+      "id": "2890aadb33d1de55",
+      "category": "古生物学",
+      "title": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
+      "text": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlJJeUVhZ1VDT3ZxTWdWNlhTU2NoZF91ZDFXZktscUVVa2thN3YwdmxkMVBnelZTd2pySk0ycmlseFhIZlFReU5mT0xuMVlzVkxrcDlRTjFCR2pDYW5ocVpWaWZQV0FHelhqNVRHa0Y4dGZaTEltZVgzMnd6WlhxWVFlMGMyNExuZFE3OFpQdGxaYlhKNXdjVW1MUXA4TEpQSTJpalIwMUJscWtWcjY4WkJn?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "86d9c09f2a560149",
+      "category": "宇宙探索",
+      "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
+      "text": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
+      "source": "Harvard University",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJc2VOdkFDc3lXUXh0bkJ6SlVXeEwzalRwYUxBUHA1NXVzd0xyaTNTV1lHSTNFdUpqb3hjcUcyWmRlTXFCcjVabXNtNUJOWS1NM1E?oc=5",
+      "published_at": "2026-07-21T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "8e2923034357b498",
+      "category": "宇宙探索",
+      "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
+      "text": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
+      "published_at": "2026-07-17T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "b6702abb9aa636d5",
+      "category": "宇宙探索",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "450e0edaa1333316",
+      "category": "宇宙探索",
+      "title": "美国宇航局研究发现近地小行星实际上是彗星",
+      "text": "美国宇航局研究发现近地小行星实际上是彗星",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "ab5b1285d6098629",
+      "category": "宇宙探索",
+      "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
+      "text": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 96
+    },
+    {
+      "id": "651ea87cbd8d6922",
+      "category": "宇宙探索",
+      "title": "美国宇航局的毅力号漫游车读取古代火星撞击的记录",
+      "text": "美国宇航局的毅力号漫游车读取古代火星撞击的记录",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWlCdW5GUEdQcjdTNGpQQU93ZjcxQzFhOEF0UnNjRUZHVUhza2pmZGZsRGE0TWVWS1FvMm9NTDdhNy1VZFpSWDlmR0lpZGR4ZEpKVEdUeldMNW1scTNtVklSeU11cjJmdDJYV0NiVGVlMzhTRnFwRVpveXhBVExibzFzVy1WRDBOMUVtN1NuWXJjMGtTOWRv?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "eb401eb1ce158261",
+      "category": "宇宙探索",
+      "title": "多年来观测到的Beta Pictoris d系外行星",
+      "text": "多年来观测到的Beta Pictoris d系外行星",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "2ad7091fed03a82e",
+      "category": "宇宙探索",
+      "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
+      "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
+      "source": "STScI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "de7a8bfa1e109d2e",
+      "category": "古生物学",
+      "title": "中国中泥盆世最早的琥珀",
+      "text": "中国中泥盆世最早的琥珀",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "8484ae7aebe9d8a2",
+      "category": "宇宙探索",
+      "title": "雷达观测到的小行星和彗星任务目标",
+      "text": "雷达观测到的小行星和彗星任务目标",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
+      "published_at": "2026-07-14T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "71f9598e7f8ec702",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
       "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "desy pubdb",
+      "source": "DESY",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "25be8f7550b50f78",
+      "category": "粒子物理",
+      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
+      "published_at": "2026-07-08T15:11:59Z",
+      "score": 83
+    },
+    {
+      "id": "360d7e8ba421608b",
+      "category": "古生物学",
+      "title": "南极洲发现的第一块恐龙化石被鉴定为泰坦龙",
+      "text": "南极洲发现的第一块恐龙化石被鉴定为泰坦龙",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJmYlk0WEp1ejdjTFJxZjYwZHBJZTdtRDczX3EzMHExM3diQktpR1pfNXRFOUFNdXFsSmJRQmUxN2RPZ1duLU54QmJ5R3J4RElvYV9pZUZtbG5adnJVNFFxdjBpdVZ1R1oxd1hicTYzd0k2UHJqMlpPd2Y0cDVSb3IzV3ExdTJVZVRxRlZvMGxMQjNNalprUS1tdUR6WkNvRnJ1TzMydVRLbzB3YWh1Mk9MTUx3dw?oc=5",
+      "published_at": "2026-06-29T07:00:00Z",
+      "score": 96
+    },
+    {
+      "id": "f191e79958a982a5",
+      "category": "古生物学",
+      "title": "南极洲发现的第一只恐龙被科学描述",
+      "text": "南极洲发现的第一只恐龙被科学描述",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjdmYVlJZXlJaU1Ybl94XzhvRkw5SURQeE8tSnJVZUxydmZLalZyRFB2VFZJT3lQMW52THpJOUJtdjZ4ajNUYWJCbU9XaTdhNWNtc1FveDZOclV6aW41cW9HRm8wWnFZUV9nMnduYnlSb0gyU1lEaG9SSk9iaTRrbkRJYUh0OW9JVVRWcnhsYWhKY0RjRVV6eHN5REpENUxsSWxmUUtaYWJwRk11RW9kUmwtNXVYQlk?oc=5",
+      "published_at": "2026-06-29T07:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "f0dc2408414952fc",
+      "category": "古生物学",
+      "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
+      "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
+      "source": "nature.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
+      "published_at": "2026-06-22T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "2102601a1bc0c299",
+      "category": "粒子物理",
+      "title": "LHCb 发现了双重魅力粒子家族最后失踪的成员 – 家",
+      "text": "LHCb 发现了双重魅力粒子家族最后失踪的成员 – 家",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhLdkNuQllzNXlkUmU0TGo1M2pvUG56eUVyZk12bE0zMWtSTFg1cC1kQU85c2Y0RExaRFZTZVEtckJjQ01yQTB1V3hVVFBmd2hTRVhBb0o0S1NWLXBtN1I3cThpQ05KQUZkb1RsWDJNb2pza2czSllsb0pfRnB6SWlCcG9KOEhLLXFrNXVhdmxnRmVQNWRZVDdB?oc=5",
+      "published_at": "2026-06-18T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "51c8a8b022bbde95",
+      "category": "粒子物理",
+      "title": "$D$-通过高能核碰撞中的顺序强子化产生介子",
+      "text": "$D$-通过高能核碰撞中的顺序强子化产生介子",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
+      "published_at": "2026-06-12T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "4b4216de078b1341",
+      "category": "古生物学",
+      "title": "新种恐龙是迅猛龙的近亲，可能用四个“翅膀”滑翔并捕食早期鸟类",
+      "text": "新种恐龙是迅猛龙的近亲，可能用四个“翅膀”滑翔并捕食早期鸟类",
+      "source": "Field Museum",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGtqc3FCNnk3VWx3WEotSjhucmNhSW9RS1N6VlVsZEU4QnBJVElzcU1kS2dvTmh1VE00cTd5TkFqRlB3VHh1SGVSbW85bndzSWJnY0oxbW1jNXN1TFpFTWhLNy1PSzlNaUhQX3ZUTkxsNWxDLW5oQzRrdnhqMXRRNFZrcU9yb0d2VDdrV0RNZHFmN3hmT2VsZnAzTlN0ejZIeENUYm9pcFJCSHBNMGFVdEhqNS1URzA0Q0E?oc=5",
+      "published_at": "2026-06-04T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "18933c872a9bb1f6",
+      "category": "古生物学",
+      "title": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
+      "text": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5aLS1xMW9xd0R5UkdoWFRtbDljejRSSkhJcC1FX3NsdjQ0RlphNlVBVDZTQ1lCUVpWVnBjTDgtVFhocDhoWDJxRGJXbEdnOS1PUEszNGdnSFowLUR0Q2w3R1dzU0JPdFVVbzZ6M0I5RUwyZXRrRlQ5SEpjam9MWHhRWWNSUDFu?oc=5",
+      "published_at": "2026-06-01T18:30:08Z",
+      "score": 83
+    },
+    {
+      "id": "ad379508f2784e32",
+      "category": "粒子物理",
+      "title": "LHCb 顶夸克产生截面和电荷不对称性的测量",
+      "text": "LHCb 顶夸克产生截面和电荷不对称性的测量",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NQ0lpdXhHWnpoNHA2dVZ3V0FDMXNkbzFhNXZtUWJ3UE5mQU8ySG5aR1hnZHFiWjJmTzJ1di0tcENMYTdYMjVRQmlFb1RJRngtRXREUGU0YnpkMWNFSm1BbEFlYmxTQQ?oc=5",
+      "published_at": "2026-06-01T14:24:48Z",
+      "score": 83
+    },
+    {
+      "id": "47110b8a323b1476",
+      "category": "古生物学",
+      "title": "“羽龙”拥有迄今为止在鸟类化石上发现的最长的尾羽",
+      "text": "“羽龙”拥有迄今为止在鸟类化石上发现的最长的尾羽",
+      "source": "Field Museum",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjM3JWZ1pQYTFWWVlfTGw1dGVXenNJOWpOLTI5NEd1cFJHM3pCMnFYQUw4cEhrSVdWbXhHMG11SzdIZEJSY3JyWllQT1o1WV9YeVlyaWh0dmVwRWdhVGJCeXc5WlBDRFE?oc=5",
+      "published_at": "2026-05-27T07:00:00Z",
+      "score": 83
     }
   ]
 }
