@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-30T01:18:28.727088Z",
-  "count": 11,
-  "auto_count": 9,
+  "updated_at": "2026-09-30T03:55:31.451426Z",
+  "count": 10,
+  "auto_count": 8,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -38,8 +38,8 @@
     {
       "id": "1772e983658118fd",
       "category": "宇宙探索",
-      "title": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
-      "text": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
+      "title": "BepiColombo 成功抵达水星并成功分离 MTM",
+      "text": "BepiColombo 成功抵达水星并成功分离 MTM",
       "source": "European Space Agency (ESA)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXl2MTgtUWpTdjhUb3Zwa2ZGNm1mcTNYVVFqRXZxa0dKZUd2bmc0YkhqYUNyaDk5VzNVcWFqMDNQY29sdkF0NC10aWwtVG9aY2d0NFE5WUJ3Q1dpaXZydF9NaHF3RzBVZ3JQNjhoZy1fbThodmRjRmZrZHkwVDgtbElsNlQtOE1UTWE4VWdCS0lMV0dtbHFXRHVCM0NHZTd0QTk0VGJqLXZ1LWRudUtz?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
@@ -76,30 +76,20 @@
       "score": 83
     },
     {
-      "id": "c55c57d32a8c925e",
+      "id": "31fcc6a37ac25e47",
       "category": "古生物学",
       "title": "化石证据支持视觉在灵长类新皮质模块化进化中的作用",
       "text": "化石证据支持视觉在灵长类新皮质模块化进化中的作用",
-      "source": "science.org",
+      "source": "Science | AAAS",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdlN6cTdqWGZXOUI0Y3F1R0tmdWtFNFRvS3AzZEFBODFnazVCUF94ZEh6WklMQVN5dEpwdlNkZDJQU0xiTTZia19aWlhVMjFpdDQydjUzdnlVbzAtc2o1SQ?oc=5",
       "published_at": "2026-08-06T07:00:00Z",
       "score": 83
     },
     {
-      "id": "fedd2d9deb668160",
-      "category": "古生物学",
-      "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
-      "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
-      "published_at": "2026-07-27T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "d7c806b41770d9a7",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "Home | CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
