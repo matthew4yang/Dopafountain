@@ -18,7 +18,9 @@ data class HistoryEntry(
 object HistoryStore {
     private const val PREFS = "dopafountain_history"
     private const val KEY = "items"
+    private const val DELIVERED_KEY = "delivered_ids"
     private const val MAX_ITEMS = 200
+    private const val MAX_DELIVERED_IDS = 5000
 
     fun add(context: Context, item: GoodNews) {
         val current = load(context).toMutableList()
@@ -37,6 +39,32 @@ object HistoryStore {
             )
         )
         save(context, current.take(MAX_ITEMS))
+
+        val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
+        val delivered = prefs.getStringSet(DELIVERED_KEY, emptySet())
+            ?.toMutableSet() ?: mutableSetOf()
+        delivered.add(item.id)
+
+        // Guard against unbounded growth while retaining years of typical use.
+        val compact = if (delivered.size > MAX_DELIVERED_IDS) {
+            current.map { it.id }.toMutableSet()
+        } else {
+            delivered
+        }
+        prefs.edit().putStringSet(DELIVERED_KEY, compact).apply()
+    }
+
+    fun deliveredIds(context: Context): Set<String> {
+        val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
+        val stored = prefs.getStringSet(DELIVERED_KEY, emptySet()) ?: emptySet()
+        if (stored.isNotEmpty()) return stored.toSet()
+
+        // Upgrade path: bootstrap the permanent dedupe set from existing history.
+        val fromHistory = load(context).map { it.id }.filter { it.isNotBlank() }.toSet()
+        if (fromHistory.isNotEmpty()) {
+            prefs.edit().putStringSet(DELIVERED_KEY, fromHistory).apply()
+        }
+        return fromHistory
     }
 
     fun load(context: Context): List<HistoryEntry> {
@@ -67,6 +95,7 @@ object HistoryStore {
     }
 
     fun clear(context: Context) {
+        // Clearing the visible history does not make old facts eligible again.
         context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
             .edit().remove(KEY).apply()
     }
