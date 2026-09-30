@@ -11,8 +11,7 @@ object GoodNewsRepository {
     private const val PREFS = "dopafountain_news"
     private const val CACHE_JSON = "cache_json"
     private const val CACHE_TIME = "cache_time"
-    private const val SEEN_IDS = "seen_ids"
-    private const val CACHE_TTL_MS = 60L * 60L * 1000L
+    private const val CACHE_TTL_MS = 15L * 60L * 1000L
 
     fun next(context: Context, forceRefresh: Boolean = false): GoodNews? {
         val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
@@ -37,33 +36,37 @@ object GoodNewsRepository {
         }
         if (items.isEmpty()) return null
 
-        val seen = prefs.getStringSet(SEEN_IDS, emptySet())?.toMutableSet() ?: mutableSetOf()
-        var candidates = items.filterNot { it.id in seen }
+        // Never cycle the pool. A fact that has actually been shown stays seen.
+        val delivered = HistoryStore.deliveredIds(context)
+        val candidates = items
+            .filterNot { it.id in delivered }
+            .sortedByDescending { it.publishedAt }
 
-        if (candidates.isEmpty()) {
-            seen.clear()
-            candidates = items
-        }
-
-        val item = candidates.random()
-        seen.add(item.id)
-        prefs.edit().putStringSet(SEEN_IDS, seen).apply()
-        return item
+        // No unseen fact => no notification. Silence is better than repetition.
+        return candidates.firstOrNull()
     }
 
     fun cachedCount(context: Context): Int {
         val raw = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
             .getString(CACHE_JSON, null) ?: return 0
-        return parse(raw).size
+        return parse(raw).count {
+            it.category == "宇宙探索" ||
+            it.category == "粒子物理" ||
+            it.category == "古生物学"
+        }
     }
 
     private fun fetchRemote(): String? {
         return try {
-            val connection = (URL(FEED_URL).openConnection() as HttpURLConnection).apply {
+            // Cache-busting query avoids receiving an older raw.githubusercontent CDN copy.
+            val url = URL(FEED_URL + "?ts=" + System.currentTimeMillis())
+            val connection = (url.openConnection() as HttpURLConnection).apply {
                 connectTimeout = 10000
                 readTimeout = 12000
                 requestMethod = "GET"
-                setRequestProperty("User-Agent", "Dopafountain/0.2 Android")
+                setRequestProperty("User-Agent", "Dopafountain/0.6 Android")
+                setRequestProperty("Cache-Control", "no-cache, no-store")
+                setRequestProperty("Pragma", "no-cache")
                 useCaches = false
             }
             try {
@@ -84,9 +87,10 @@ object GoodNewsRepository {
             buildList {
                 for (i in 0 until array.length()) {
                     val o = array.optJSONObject(i) ?: continue
-                    val id = o.optString("id")
+                    val id = o.optString("id").trim()
                     val title = o.optString("title").trim()
                     if (id.isBlank() || title.isBlank()) continue
+
                     add(
                         GoodNews(
                             id = id,
