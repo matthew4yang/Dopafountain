@@ -17,7 +17,7 @@ class GoodNewsWorker(appContext: Context, params: WorkerParameters) : Worker(app
             return Result.success()
         }
 
-        val item = GoodNewsRepository.next(applicationContext)
+        val item = GoodNewsRepository.next(applicationContext, forceRefresh = true)
         if (item != null) {
             NotificationHelper.show(applicationContext, item)
         }
