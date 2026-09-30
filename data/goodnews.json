@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-29T21:24:48.243879Z",
+  "updated_at": "2026-09-30T01:18:28.727088Z",
   "count": 11,
   "auto_count": 9,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "2992174085aa6aa3",
+      "id": "e4954d8f3d8ea3d6",
       "category": "宇宙探索",
       "title": "成功飞越地球改善了 Juice 飞往木星的航线",
       "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "European Space Agency",
+      "source": "European Space Agency (ESA)",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjh5c3JtWUtGS1Fva0c0dnhLOUhjeXh5bjVkOEZaQWlndDUtQ1RSUkhGR25ERENiRXY0Y0lTRlU5aHcyTHJ5NzN0U2pTM1k2UFE5WHJoRm9iM2xwclBXZXByTzhPNVJTTTdkSTdJZGh3MGxHSkZaalA2dmZJWmpXN2k3dENPZ1dVYi1hOW45YVZaSW1walFvNUg0XzFtMzRjZV9jcmkweHJCb05sZmdweVZHc2FlYXZ4?oc=5",
       "published_at": "2026-09-28T16:11:15Z",
       "score": 83
@@ -36,11 +36,11 @@
       "score": 83
     },
     {
-      "id": "bcd29924f7a16786",
+      "id": "1772e983658118fd",
       "category": "宇宙探索",
-      "title": "BepiColombo 成功抵达水星并成功分离 MTM",
-      "text": "BepiColombo 成功抵达水星并成功分离 MTM",
-      "source": "European Space Agency",
+      "title": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
+      "text": "BepiColombo 开始抵达水星并成功实现 MTM 分离",
+      "source": "European Space Agency (ESA)",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXl2MTgtUWpTdjhUb3Zwa2ZGNm1mcTNYVVFqRXZxa0dKZUd2bmc0YkhqYUNyaDk5VzNVcWFqMDNQY29sdkF0NC10aWwtVG9aY2d0NFE5WUJ3Q1dpaXZydF9NaHF3RzBVZ3JQNjhoZy1fbThodmRjRmZrZHkwVDgtbElsNlQtOE1UTWE4VWdCS0lMV0dtbHFXRHVCM0NHZTd0QTk0VGJqLXZ1LWRudUtz?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
       "score": 83
@@ -76,11 +76,11 @@
       "score": 83
     },
     {
-      "id": "31fcc6a37ac25e47",
+      "id": "c55c57d32a8c925e",
       "category": "古生物学",
       "title": "化石证据支持视觉在灵长类新皮质模块化进化中的作用",
       "text": "化石证据支持视觉在灵长类新皮质模块化进化中的作用",
-      "source": "Science | AAAS",
+      "source": "science.org",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdlN6cTdqWGZXOUI0Y3F1R0tmdWtFNFRvS3AzZEFBODFnazVCUF94ZEh6WklMQVN5dEpwdlNkZDJQU0xiTTZia19aWlhVMjFpdDQydjUzdnlVbzAtc2o1SQ?oc=5",
       "published_at": "2026-08-06T07:00:00Z",
       "score": 83
@@ -106,11 +106,11 @@
       "score": 83
     },
     {
-      "id": "554768f7e8ebce81",
+      "id": "72a70eed65a6d6d6",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
       "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "bib-pubdb1.desy.de",
+      "source": "desy pubdb",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
