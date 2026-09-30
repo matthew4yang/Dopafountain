@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:24:12.795951Z",
+  "updated_at": "2026-09-30T16:29:33.484678Z",
   "count": 55,
   "auto_count": 61,
   "verified_seed_count": 2,
@@ -101,26 +101,26 @@
       "title": "美国宇航局的发现揭示了早期火星上复杂的水系统",
       "text": "美国宇航局的发现揭示了早期火星上复杂的水系统",
       "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0lfRXFPQmFmTndEM1huY1U1ZkJSUkhLRlRudG1ZREozNTNSaGZ6VzhtWU8xT0VOWlRqcUtjY0hGTXR1TTllbmpVbmxnRVVPajcwQmtjZDN2UkRBQnFSQ042RWhjRXJmUTJNTVJCeUpNWFY3cmZmb2loRG1NVi1oNWVaTVk1MWdDUTFwcUdZR0ZVb2pvOVJuYzZJblRqYUtWdnhPRlhoTkhXQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU41UlFuRnRUWjBYWXVzYWdBdEdiWXYxNWNSRFpQZEJPMnBLZWdkd0hKdjRnY2NhQUZGMlExSjkyNkxWUVRQTUJDaFVSY0tTVVNZSjZQVUVTUWl4WU1wZ0JIcXBCSDFtN1k3WFJscm9QR2NsdFA2MTFFRjBlSFpha0JjbG1ZbDBmUjRWRE53T25pRXM?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 90
     },
     {
-      "id": "1b041436bc61b51a",
+      "id": "5a530aae2ff54ecc",
       "category": "宇宙探索",
       "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
       "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
-      "source": "Smithsonian",
+      "source": "cfa.harvard.edu",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
       "score": 83
     },
     {
-      "id": "0d76b9d308fae3b0",
+      "id": "ba57c21d33586925",
       "category": "宇宙探索",
       "title": "新研究揭示了黑洞活动塑造附近星系的常见模式",
       "text": "新研究揭示了黑洞活动塑造附近星系的常见模式",
-      "source": "Smithsonian",
+      "source": "cfa.harvard.edu",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
@@ -156,11 +156,11 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
+      "id": "ab75f05e9ce544ef",
       "category": "宇宙探索",
       "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
       "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
+      "source": "eso.org",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
       "score": 90
@@ -216,11 +216,11 @@
       "score": 89
     },
     {
-      "id": "b050ee82b7767fdd",
+      "id": "5d03f48343377ce5",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
       "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "Fermilab",
+      "source": "news.fnal.gov",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
       "score": 83
@@ -306,11 +306,11 @@
       "score": 83
     },
     {
-      "id": "fedd2d9deb668160",
+      "id": "9a5ba905ccd46778",
       "category": "古生物学",
       "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
       "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
-      "source": "Smithsonian",
+      "source": "si.edu",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
       "score": 83
@@ -326,11 +326,11 @@
       "score": 83
     },
     {
-      "id": "c1e51d28474975e8",
+      "id": "3bd624961a618e65",
       "category": "粒子物理",
       "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
       "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
-      "source": "Fermilab",
+      "source": "indico.fnal.gov",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T15:16:52Z",
       "score": 89
@@ -376,11 +376,11 @@
       "score": 90
     },
     {
-      "id": "ab5b1285d6098629",
+      "id": "1adcead5c8793d00",
       "category": "宇宙探索",
       "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
       "text": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
-      "source": "Eso.org",
+      "source": "eso.org",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 96
@@ -396,11 +396,11 @@
       "score": 83
     },
     {
-      "id": "eb401eb1ce158261",
+      "id": "46422933ebc2281f",
       "category": "宇宙探索",
       "title": "多年来观测到的Beta Pictoris d系外行星",
       "text": "多年来观测到的Beta Pictoris d系外行星",
-      "source": "Eso.org",
+      "source": "eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -436,11 +436,11 @@
       "score": 89
     },
     {
-      "id": "02e05d7252f4b21a",
+      "id": "4747419416aca847",
       "category": "宇宙探索",
       "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
       "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
+      "source": "cfa.harvard.edu",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
       "published_at": "2026-07-13T07:00:00Z",
       "score": 83
@@ -536,11 +536,11 @@
       "score": 83
     },
     {
-      "id": "674cc3202ad60826",
+      "id": "18933c872a9bb1f6",
       "category": "古生物学",
       "title": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
       "text": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
-      "source": "journals.plos.org",
+      "source": "PLOS",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5aLS1xMW9xd0R5UkdoWFRtbDljejRSSkhJcC1FX3NsdjQ0RlphNlVBVDZTQ1lCUVpWVnBjTDgtVFhocDhoWDJxRGJXbEdnOS1PUEszNGdnSFowLUR0Q2w3R1dzU0JPdFVVbzZ6M0I5RUwyZXRrRlQ5SEpjam9MWHhRWWNSUDFu?oc=5",
       "published_at": "2026-06-01T18:30:08Z",
       "score": 83
