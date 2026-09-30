@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-09-30T04:06:09.361046Z",
-  "count": 54,
+  "updated_at": "2026-09-30T10:24:12.795951Z",
+  "count": 55,
   "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "cc7372bda977850d",
+      "category": "粒子物理",
+      "title": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
+      "text": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SUFnVGNyUFJUNG5qc0RmdER4OWJoTE4xSFFmNVRUVHNyb0Y1dnZMZ0hCUTBydXRtNHg3T0U4NUtlU2RPWXBTbG1UU0VON0ZCeXdiZGpsdTUzS2RjdjI5bHduM3hyZw?oc=5",
+      "published_at": "2026-09-30T07:22:21Z",
+      "score": 97
+    },
     {
       "id": "31c5893fd9d18739",
       "category": "宇宙探索",
@@ -46,11 +56,11 @@
       "score": 90
     },
     {
-      "id": "7304e186389a18bf",
+      "id": "583253ef21e6f08a",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
       "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
@@ -96,13 +106,13 @@
       "score": 90
     },
     {
-      "id": "460bd83d28196d4f",
+      "id": "1b041436bc61b51a",
       "category": "宇宙探索",
-      "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代事件视界望远镜 |天体物理学中心|哈佛和史密森学会",
-      "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代事件视界望远镜 |天体物理学中心|哈佛和史密森学会",
+      "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
+      "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
       "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmsxb0JHQVY0LXJPSU1zdzRCU2ZSWU5EUU5kT0pkRlNhNW5oSlVDNGtIVEhvbmV6ZkNJaWxMVFVSdzh4VVVWQlY4bXRZOGc3Z3c5eUFrZU94bVhiNmNoUGtyUTY0elVEYjJHcExkRV9mX0F0R2Z1a2R4U1JSN0puVEwyVUUwVlBUOEJXZGM3UDVjRG9xRUduQzZSSVIzSXpiYWY5bXAwYTE3eGotSmNrT21XTzA5eEVWZjFmSGgtQ1RMYkJaMHFMdWhTSUo?oc=5",
-      "published_at": "2026-09-17T13:54:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
+      "published_at": "2026-09-17T07:00:00Z",
       "score": 83
     },
     {
@@ -174,16 +184,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblRWMG9ITDFidzhtV2hiXzgtUjlKeFRkSW56bnVwM0pHS0ZrN0tMcDJKMTBBUEJONnBXaF9QMGtJSVRUWHY0YVBTRGwwMHdlanZaQkRrTlNTSENucTRLa29ob2xtTHQzV0s5TVpsMHYxOXdSSU1POG5EVVRLbmhfZkkzUGcxQ1I1dVFtWFg0c1l1S0JWRGdGVFI5dTRSMzFPaXc?oc=5",
       "published_at": "2026-09-02T20:25:09Z",
       "score": 83
-    },
-    {
-      "id": "e4ce3638e64a8e15",
-      "category": "粒子物理",
-      "title": "LZ在寻找暗物质方面看到了令人惊讶的结果",
-      "text": "LZ在寻找暗物质方面看到了令人惊讶的结果",
-      "source": "SLAC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFZmdWRXV0RxaDB2VjdWNWZJeXZoWllQYXpWWUhYaVJHQmQ4UktPcklyMHN6eWtPbW9xbHFQTklKTnEwbGNJZmlIaGJLYkR3OXlsdnNKREVlSWg3dlZkTmZzWndIS01KdXRtTV81a0dyOXhSVVZpS05xdG9XTy1IRktEeTd5WC1iLTNHSjR4Qk80ZGxOaVE?oc=5",
-      "published_at": "2026-09-01T07:00:00Z",
-      "score": 90
     },
     {
       "id": "4f03b321204fac20",
@@ -266,11 +266,11 @@
       "score": 83
     },
     {
-      "id": "effdb4c482c8a524",
+      "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
       "text": "寒武纪早期最早的带有管管的头足类动物",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -292,6 +292,16 @@
       "text": "博物馆科学家命名的新津巴布韦恐龙物种揭示了非洲隐藏的历史",
       "source": "Natural History Museum",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDVkSFRfU1hMQl9LdUpvZm9tYktqelRyLVpaX3hBWWJ2U29yaWZwMnpIS3F6RFpSa1JDY19la3hzMXE3TzVwVENtRE16NFctRFdKejlUdG1hSEJwRmdZUGwtOXN4eExzUzBJOFRVWTFkRUdmQU13R1QxbXppS2JSYUJITjBPeGJDYWc1U1dLU0lNaDFJdkNZeF9GZjNKZnZMemsyT19fcjZlZWstdUo4eHM1dEJpejI2UzNN?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "2517175562575c7c",
+      "category": "古生物学",
+      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
     },
@@ -366,16 +376,6 @@
       "score": 90
     },
     {
-      "id": "450e0edaa1333316",
-      "category": "宇宙探索",
-      "title": "美国宇航局研究发现近地小行星实际上是彗星",
-      "text": "美国宇航局研究发现近地小行星实际上是彗星",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "ab5b1285d6098629",
       "category": "宇宙探索",
       "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
@@ -436,6 +436,16 @@
       "score": 89
     },
     {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "71f9598e7f8ec702",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
@@ -444,6 +454,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "e6e2f9e77f870fea",
+      "category": "宇宙探索",
+      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "source": "STScI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
+      "published_at": "2026-07-09T07:00:00Z",
+      "score": 83
     },
     {
       "id": "25be8f7550b50f78",
@@ -476,11 +496,11 @@
       "score": 90
     },
     {
-      "id": "f0dc2408414952fc",
+      "id": "b79e7a4cb0fddec1",
       "category": "古生物学",
       "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
       "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
       "score": 83
@@ -516,11 +536,11 @@
       "score": 83
     },
     {
-      "id": "18933c872a9bb1f6",
+      "id": "674cc3202ad60826",
       "category": "古生物学",
       "title": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
       "text": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
-      "source": "PLOS",
+      "source": "journals.plos.org",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5aLS1xMW9xd0R5UkdoWFRtbDljejRSSkhJcC1FX3NsdjQ0RlphNlVBVDZTQ1lCUVpWVnBjTDgtVFhocDhoWDJxRGJXbEdnOS1PUEszNGdnSFowLUR0Q2w3R1dzU0JPdFVVbzZ6M0I5RUwyZXRrRlQ5SEpjam9MWHhRWWNSUDFu?oc=5",
       "published_at": "2026-06-01T18:30:08Z",
       "score": 83
@@ -533,16 +553,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NQ0lpdXhHWnpoNHA2dVZ3V0FDMXNkbzFhNXZtUWJ3UE5mQU8ySG5aR1hnZHFiWjJmTzJ1di0tcENMYTdYMjVRQmlFb1RJRngtRXREUGU0YnpkMWNFSm1BbEFlYmxTQQ?oc=5",
       "published_at": "2026-06-01T14:24:48Z",
-      "score": 83
-    },
-    {
-      "id": "47110b8a323b1476",
-      "category": "古生物学",
-      "title": "“羽龙”拥有迄今为止在鸟类化石上发现的最长的尾羽",
-      "text": "“羽龙”拥有迄今为止在鸟类化石上发现的最长的尾羽",
-      "source": "Field Museum",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjM3JWZ1pQYTFWWVlfTGw1dGVXenNJOWpOLTI5NEd1cFJHM3pCMnFYQUw4cEhrSVdWbXhHMG11SzdIZEJSY3JyWllQT1o1WV9YeVlyaWh0dmVwRWdhVGJCeXc5WlBDRFE?oc=5",
-      "published_at": "2026-05-27T07:00:00Z",
       "score": 83
     }
   ]
