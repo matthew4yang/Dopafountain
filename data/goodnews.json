@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:29:33.484678Z",
+  "updated_at": "2026-09-30T20:57:54.293054Z",
   "count": 55,
   "auto_count": 61,
   "verified_seed_count": 2,
@@ -38,8 +38,8 @@
     {
       "id": "6d15e9dcfe9ddb0e",
       "category": "粒子物理",
-      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
-      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
+      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
+      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
       "published_at": "2026-09-25T15:49:17Z",
@@ -106,21 +106,31 @@
       "score": 90
     },
     {
-      "id": "5a530aae2ff54ecc",
+      "id": "1b041436bc61b51a",
       "category": "宇宙探索",
       "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
       "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
-      "source": "cfa.harvard.edu",
+      "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
       "score": 83
     },
     {
-      "id": "ba57c21d33586925",
+      "id": "8c6ea24c2578c4b6",
+      "category": "粒子物理",
+      "title": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
+      "text": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
+      "published_at": "2026-09-15T02:56:12Z",
+      "score": 83
+    },
+    {
+      "id": "0d76b9d308fae3b0",
       "category": "宇宙探索",
       "title": "新研究揭示了黑洞活动塑造附近星系的常见模式",
       "text": "新研究揭示了黑洞活动塑造附近星系的常见模式",
-      "source": "cfa.harvard.edu",
+      "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
@@ -156,11 +166,11 @@
       "score": 83
     },
     {
-      "id": "ab75f05e9ce544ef",
+      "id": "3fdcf5b6d435a1b9",
       "category": "宇宙探索",
       "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
       "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "eso.org",
+      "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
       "score": 90
@@ -306,11 +316,11 @@
       "score": 83
     },
     {
-      "id": "9a5ba905ccd46778",
+      "id": "fedd2d9deb668160",
       "category": "古生物学",
       "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
       "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
-      "source": "si.edu",
+      "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
       "score": 83
@@ -318,31 +328,21 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
       "score": 83
     },
     {
-      "id": "3bd624961a618e65",
+      "id": "c1e51d28474975e8",
       "category": "粒子物理",
       "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
       "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
-      "source": "indico.fnal.gov",
+      "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T15:16:52Z",
-      "score": 89
-    },
-    {
-      "id": "2890aadb33d1de55",
-      "category": "古生物学",
-      "title": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
-      "text": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlJJeUVhZ1VDT3ZxTWdWNlhTU2NoZF91ZDFXZktscUVVa2thN3YwdmxkMVBnelZTd2pySk0ycmlseFhIZlFReU5mT0xuMVlzVkxrcDlRTjFCR2pDYW5ocVpWaWZQV0FHelhqNVRHa0Y4dGZaTEltZVgzMnd6WlhxWVFlMGMyNExuZFE3OFpQdGxaYlhKNXdjVW1MUXA4TEpQSTJpalIwMUJscWtWcjY4WkJn?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
     {
@@ -376,11 +376,11 @@
       "score": 90
     },
     {
-      "id": "1adcead5c8793d00",
+      "id": "ab5b1285d6098629",
       "category": "宇宙探索",
       "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
       "text": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
-      "source": "eso.org",
+      "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 96
@@ -396,11 +396,11 @@
       "score": 83
     },
     {
-      "id": "46422933ebc2281f",
+      "id": "eb401eb1ce158261",
       "category": "宇宙探索",
       "title": "多年来观测到的Beta Pictoris d系外行星",
       "text": "多年来观测到的Beta Pictoris d系外行星",
-      "source": "eso.org",
+      "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -436,11 +436,11 @@
       "score": 89
     },
     {
-      "id": "4747419416aca847",
+      "id": "02e05d7252f4b21a",
       "category": "宇宙探索",
       "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
       "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "cfa.harvard.edu",
+      "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
       "published_at": "2026-07-13T07:00:00Z",
       "score": 83
