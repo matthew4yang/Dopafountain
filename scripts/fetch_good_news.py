@@ -23,19 +23,47 @@ ALLOWED_CATEGORIES = {"宇宙探索", "粒子物理", "古生物学"}
 # Discovery is deliberately narrow: only authoritative institutions / journals,
 # then a second-stage semantic gate rejects administrative or vague items.
 QUERIES = [
-    ("宇宙探索", 'site:nasa.gov (spacecraft OR telescope OR probe OR mission OR asteroid OR exoplanet OR galaxy OR "black hole") (discovered OR detected OR confirmed OR landed OR launched OR "first image" OR "first observation" OR orbit) when:45d'),
-    ("宇宙探索", 'site:jpl.nasa.gov (spacecraft OR telescope OR probe OR mission OR asteroid OR exoplanet OR Mars OR Jupiter) (discovered OR detected OR confirmed OR landed OR launched OR flyby OR orbit) when:45d'),
-    ("宇宙探索", 'site:esa.int (spacecraft OR telescope OR probe OR mission OR asteroid OR exoplanet OR galaxy OR "black hole") (discovered OR detected OR confirmed OR landed OR launched OR flyby OR orbit) when:45d'),
+    # 宇宙探索 / observational astronomy / planetary science
+    ("宇宙探索", 'site:nasa.gov (spacecraft OR telescope OR probe OR asteroid OR exoplanet OR galaxy OR "black hole" OR Mars OR Moon) (discover OR detect OR observe OR image OR confirm OR launch OR land OR orbit OR flyby) when:120d'),
+    ("宇宙探索", 'site:jpl.nasa.gov (spacecraft OR probe OR asteroid OR comet OR planet OR Mars OR Jupiter OR Saturn) (discover OR detect OR observe OR image OR confirm OR launch OR land OR orbit OR flyby) when:120d'),
+    ("宇宙探索", 'site:esa.int (spacecraft OR telescope OR probe OR asteroid OR exoplanet OR galaxy OR "black hole") (discover OR detect OR observe OR image OR confirm OR launch OR land OR orbit OR flyby) when:120d'),
+    ("宇宙探索", 'site:eso.org (exoplanet OR galaxy OR "black hole" OR star OR supernova OR universe) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:noirlab.edu (exoplanet OR galaxy OR "black hole" OR star OR asteroid OR universe) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:stsci.edu (Webb OR Hubble OR exoplanet OR galaxy OR "black hole" OR star) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:webbtelescope.org (exoplanet OR galaxy OR "black hole" OR star OR atmosphere OR universe) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:chandra.harvard.edu ("black hole" OR neutron OR supernova OR galaxy OR x-ray) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:almaobservatory.org (planet OR disk OR galaxy OR "black hole" OR star OR molecule) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:naoj.org (telescope OR exoplanet OR galaxy OR "black hole" OR star OR asteroid) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
+    ("宇宙探索", 'site:cfa.harvard.edu (exoplanet OR galaxy OR "black hole" OR star OR universe) (discover OR detect OR observe OR image OR reveal OR measure) when:180d'),
 
-    ("粒子物理", 'site:home.cern (particle OR collision OR LHC OR antimatter OR Higgs OR neutrino OR quark OR muon OR boson) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
-    ("粒子物理", 'site:fnal.gov (particle OR neutrino OR muon OR collider OR antimatter OR dark matter) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
-    ("粒子物理", 'site:bnl.gov (particle OR collider OR RHIC OR quark OR gluon OR neutrino) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
-    ("粒子物理", 'site:desy.de (particle OR collider OR photon OR axion OR dark matter OR neutrino) (observed OR discovered OR measured OR detected OR evidence OR "first") when:90d'),
+    # 粒子物理
+    ("粒子物理", 'site:home.cern (LHC OR particle OR Higgs OR neutrino OR quark OR gluon OR muon OR antimatter OR hadron) (observe OR discover OR measure OR detect OR evidence OR decay OR collision) when:180d'),
+    ("粒子物理", 'site:fnal.gov (particle OR neutrino OR muon OR collider OR antimatter OR "dark matter" OR DUNE) (observe OR discover OR measure OR detect OR evidence OR constraint) when:180d'),
+    ("粒子物理", 'site:bnl.gov (particle OR RHIC OR quark OR gluon OR neutrino OR collider OR ion) (observe OR discover OR measure OR detect OR evidence OR collision) when:180d'),
+    ("粒子物理", 'site:desy.de (particle OR photon OR axion OR "dark matter" OR neutrino OR collider OR Higgs) (observe OR discover OR measure OR detect OR evidence OR constraint) when:180d'),
+    ("粒子物理", 'site:slac.stanford.edu (particle OR neutrino OR muon OR "dark matter" OR axion OR collider) (observe OR discover OR measure OR detect OR evidence OR constraint) when:180d'),
+    ("粒子物理", 'site:kek.jp (particle OR neutrino OR Belle OR muon OR quark OR collider OR hadron) (observe OR discover OR measure OR detect OR evidence OR decay) when:180d'),
+    ("粒子物理", 'site:infn.it (particle OR neutrino OR muon OR antimatter OR "dark matter" OR collider) (observe OR discover OR measure OR detect OR evidence OR constraint) when:180d'),
+    ("粒子物理", 'site:j-parc.jp (neutrino OR muon OR hadron OR proton OR particle) (observe OR discover OR measure OR detect OR evidence OR decay) when:180d'),
+    ("粒子物理", 'site:icecube.wisc.edu (neutrino OR particle OR cosmic) (observe OR discover OR measure OR detect OR evidence OR source) when:180d'),
+    ("粒子物理", 'site:belle2.org (particle OR Belle II OR quark OR lepton OR tau OR decay) (observe OR discover OR measure OR detect OR evidence OR constraint) when:180d'),
+    ("粒子物理", 'site:symmetrymagazine.org (particle OR Higgs OR neutrino OR muon OR quark OR collider OR "dark matter") (observed OR discovered OR measured OR detected OR evidence OR result) when:180d'),
+    ("粒子物理", 'site:journals.aps.org/prl (particle OR Higgs OR neutrino OR muon OR quark OR boson OR "dark matter") (observation OR measurement OR evidence OR search OR constraint) when:180d'),
 
-    ("古生物学", 'site:nature.com (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
-    ("古生物学", 'site:science.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
-    ("古生物学", 'site:pnas.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
-    ("古生物学", 'site:si.edu (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin) (discovered OR reveals OR evidence OR oldest OR earliest OR new species) when:120d'),
+    # 古生物学 / paleoanthropology
+    ("古生物学", 'site:nature.com (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:240d'),
+    ("古生物学", 'site:science.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:240d'),
+    ("古生物学", 'site:pnas.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin OR Cambrian OR Jurassic OR Cretaceous) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:240d'),
+    ("古生物学", 'site:si.edu (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:240d'),
+    ("古生物学", 'site:humanorigins.si.edu (hominin OR fossil OR human OR footprint OR stone tool) (discover OR reveal OR evidence OR oldest OR earliest OR dated) when:365d'),
+    ("古生物学", 'site:nhm.ac.uk (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:240d'),
+    ("古生物学", 'site:amnh.org (fossil OR dinosaur OR paleontolog OR extinct OR hominin) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:365d'),
+    ("古生物学", 'site:fieldmuseum.org (fossil OR dinosaur OR paleontolog OR extinct) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:365d'),
+    ("古生物学", 'site:burkemuseum.org (fossil OR dinosaur OR paleontolog OR extinct) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:365d'),
+    ("古生物学", 'site:plos.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:365d'),
+    ("古生物学", 'site:peerj.com (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:365d'),
+    ("古生物学", 'site:royalsocietypublishing.org (fossil OR dinosaur OR paleontolog OR palaeontolog OR extinct OR hominin) (discover OR reveal OR evidence OR oldest OR earliest OR "new species" OR dated) when:365d'),
+    ("古生物学", 'site:cell.com/current-biology (fossil OR dinosaur OR extinct OR hominin OR ancient) (discover OR reveal OR evidence OR oldest OR earliest OR dated) when:365d'),
 ]
 
 ADMIN_REJECT = [
@@ -54,6 +82,7 @@ ADMIN_REJECT = [
 SPACE_ACTION = [
     r"\bdiscover", r"\bdetect", r"\bconfirm", r"\bobserv",
     r"\bfirst image\b", r"\bfirst observation\b", r"\blanded\b",
+    r"\breveal", r"\bimage", r"\bmap", r"\bmeasure", r"\bfind", r"\bfound\b",
     r"\blaunched\b", r"\bentered orbit\b", r"\bflyby\b",
     r"\bsample return\b", r"\bseparation\b", r"\brecord\b",
 ]
@@ -67,32 +96,31 @@ SPACE_OBJECT = [
 PARTICLE_ACTION = [
     r"\bdiscover", r"\bobserv", r"\bdetect", r"\bmeasur", r"\bevidence\b",
     r"\bfirst\b", r"\bprecision\b", r"\bconstraint", r"\bexcess\b",
-    r"\bdecay\b", r"\bcollision",
+    r"\bdecay\b", r"\bcollision", r"\bresult", r"\bsearch", r"\blimit", r"\bhint",
 ]
 PARTICLE_OBJECT = [
     r"\bparticle\b", r"\blhc\b", r"\bcollider\b", r"\bneutrino\b",
     r"\bhiggs\b", r"\bmuon\b", r"\bquark\b", r"\bgluon\b",
     r"\bboson\b", r"\bantimatter\b", r"\bdark matter\b", r"\baxion\b",
     r"\bmeson\b", r"\bbaryon\b", r"\bproton\b", r"\bion\b",
+    r"\blepton\b", r"\btau\b", r"\bcharm\b", r"\btop quark\b",
+    r"\btetraquark\b", r"\bpentaquark\b", r"\bplasma\b",
 ]
 
 PALEO_ACTION = [
     r"\bdiscover", r"\breveal", r"\bevidence\b", r"\boldest\b",
     r"\bearliest\b", r"\bnew species\b", r"\breconstruct",
     r"\bdated\b", r"\bidentif", r"\btrace fossil\b",
+    r"\bfind", r"\bfound\b", r"\bdescribe", r"\breconstruct", r"\btrackway\b",
 ]
 PALEO_OBJECT = [
     r"\bfossil\b", r"\bdinosaur\b", r"\bpaleontolog", r"\bpalaeontolog",
     r"\bextinct\b", r"\bhominin\b", r"\bCambrian\b", r"\bJurassic\b",
     r"\bCretaceous\b", r"\bPleistocene\b", r"\bMesozoic\b",
-    r"\bvertebrate\b", r"\bichnofossil\b",
+    r"\bvertebrate\b", r"\bichnofossil\b", r"\bamber\b",
+    r"\bfootprint\b", r"\btrackway\b", r"\bskull\b", r"\bbone\b",
+    r"\barchosaur\b", r"\btheropod\b", r"\bsauropod\b",
 ]
-
-TRUSTED_SOURCE_HINTS = {
-    "宇宙探索": ("NASA", "JPL", "European Space Agency", "ESA"),
-    "粒子物理": ("CERN", "Fermilab", "Brookhaven", "DESY"),
-    "古生物学": ("Nature", "Science", "PNAS", "Smithsonian"),
-}
 
 def request_bytes(url, timeout=18):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -138,10 +166,7 @@ def qualifies(category, title, source):
     if any_match(low, ADMIN_REJECT):
         return False
     action, obj = gate_for(category)
-    if not (any_match(low, action) and any_match(low, obj)):
-        return False
-    hints = TRUSTED_SOURCE_HINTS[category]
-    return any(h.lower() in source.lower() for h in hints)
+    return any_match(low, action) and any_match(low, obj)
 
 def score_title(category, title, source):
     action, obj = gate_for(category)
@@ -151,8 +176,8 @@ def score_title(category, title, source):
     score = 64 + min(a, 3) * 7 + min(b, 2) * 6
     if re.search(r"\b\d+(?:\.\d+)?\s*%|\b\d{2,}\b", title):
         score += 6
-    if any(h.lower() in source.lower() for h in TRUSTED_SOURCE_HINTS[category]):
-        score += 6
+    # Every discovery query is already locked to an approved source domain.
+    score += 6
     return min(score, 99)
 
 def translate_zh(text):
@@ -191,8 +216,12 @@ def collect():
             source_node = item.find("source")
             source = clean_text(source_node.text if source_node is not None else "")
 
-            if source and title.endswith(" - " + source):
-                title = title[:-(len(source) + 3)].strip()
+            if source:
+                for sep in (" - ", " – ", " — "):
+                    suffix = sep + source
+                    if title.endswith(suffix):
+                        title = title[:-len(suffix)].strip()
+                        break
 
             if not title or not link or not qualifies(category, title, source):
                 continue
@@ -208,10 +237,29 @@ def collect():
                 continue
             seen_titles.add(key)
 
+            source_clean = source
+            aliases = [
+                (r"(?i).*cern.*", "CERN"),
+                (r"(?i).*fermilab.*", "Fermilab"),
+                (r"(?i).*brookhaven.*|.*bnl.*", "Brookhaven National Laboratory"),
+                (r"(?i).*desy.*", "DESY"),
+                (r"(?i).*slac.*", "SLAC"),
+                (r"(?i).*belle.?2.*", "Belle II"),
+                (r"(?i).*nasa.*", "NASA"),
+                (r"(?i).*jet propulsion.*|.*jpl.*", "NASA/JPL"),
+                (r"(?i).*european space agency.*|^esa$", "ESA"),
+                (r"(?i).*science.*aaas.*|^science$", "Science"),
+                (r"(?i).*smithsonian.*", "Smithsonian"),
+            ]
+            for pattern, label in aliases:
+                if re.match(pattern, source_clean):
+                    source_clean = label
+                    break
+
             rows.append({
                 "category": category,
                 "title_raw": title,
-                "source": source,
+                "source": source_clean or source,
                 "url": link,
                 "published": published,
                 "score": score,
@@ -222,9 +270,9 @@ def collect():
     # Prevent one field from drowning out the others.
     balanced = []
     for category in ("宇宙探索", "粒子物理", "古生物学"):
-        balanced.extend([r for r in rows if r["category"] == category][:16])
+        balanced.extend([r for r in rows if r["category"] == category][:24])
     balanced.sort(key=lambda x: (x["published"], x["score"]), reverse=True)
-    return balanced[:48]
+    return balanced[:72]
 
 def generated_items(rows):
     items = []
@@ -253,10 +301,22 @@ def load_seed():
     except Exception:
         return []
 
+def event_signature(title):
+    generic = {
+        "nasa", "space", "spacecraft", "mission", "telescope", "particle",
+        "physics", "fossil", "study", "research", "first", "new", "european",
+        "science", "universe", "galaxy"
+    }
+    return {
+        t for t in re.findall(r"[a-z0-9][a-z0-9-]{4,}", title.lower())
+        if t not in generic
+    }
+
 def merge_items(seed, generated):
     out = []
     seen_ids = set()
     seen_titles = set()
+    seen_signatures = []
     for item in seed + generated:
         if item.get("category") not in ALLOWED_CATEGORIES:
             continue
@@ -266,10 +326,25 @@ def merge_items(seed, generated):
         key = re.sub(r"\W+", "", title.lower())
         if not ident or not key or ident in seen_ids or key in seen_titles or len(title) < 8:
             continue
+
+        sig = event_signature(title)
+        duplicate_event = False
+        for old_title, old_sig, old_category in seen_signatures:
+            if old_category != item.get("category"):
+                continue
+            similar = difflib.SequenceMatcher(None, title.lower(), old_title.lower()).ratio() >= 0.80
+            shared_entity = bool(sig and old_sig and (sig & old_sig))
+            if similar or shared_entity:
+                duplicate_event = True
+                break
+        if duplicate_event:
+            continue
+
         item = dict(item)
         item["text"] = text
         seen_ids.add(ident)
         seen_titles.add(key)
+        seen_signatures.append((title, sig, item.get("category")))
         out.append(item)
 
     # Balance the final feed too.
@@ -277,9 +352,9 @@ def merge_items(seed, generated):
     for category in ("宇宙探索", "粒子物理", "古生物学"):
         bucket = [x for x in out if x.get("category") == category]
         bucket.sort(key=lambda x: (x.get("published_at", ""), x.get("score", 0)), reverse=True)
-        final.extend(bucket[:16])
+        final.extend(bucket[:24])
     final.sort(key=lambda x: (x.get("published_at", ""), x.get("score", 0)), reverse=True)
-    return final[:48]
+    return final[:72]
 
 def same_content(old, new_items):
     old_items = old.get("items", []) if isinstance(old, dict) else []
