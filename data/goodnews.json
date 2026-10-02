@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-02T15:39:04.957183Z",
+  "updated_at": "2026-10-02T20:35:16.031469Z",
   "count": 54,
   "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "0173ee4a7ac5302b",
+      "category": "宇宙探索",
+      "title": "科学月期间：ALMA 敞开大门庆祝观测宇宙 15 周年",
+      "text": "科学月期间：ALMA 敞开大门庆祝观测宇宙 15 周年",
+      "source": "Observatorio ALMA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
+      "published_at": "2026-10-02T19:28:18Z",
+      "score": 89
+    },
     {
       "id": "cc7372bda977850d",
       "category": "粒子物理",
@@ -216,21 +226,21 @@
       "score": 83
     },
     {
-      "id": "546e5f72088dfa22",
+      "id": "5df570450b98c754",
       "category": "宇宙探索",
       "title": "科学家发布最大的二维宇宙地图",
       "text": "科学家发布最大的二维宇宙地图",
-      "source": "noirlab.edu",
+      "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
       "score": 83
     },
     {
-      "id": "17064160968f9d9f",
+      "id": "d3fd5b81fc4873f2",
       "category": "宇宙探索",
       "title": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
       "text": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
-      "source": "noirlab.edu",
+      "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
       "published_at": "2026-08-05T16:10:25Z",
       "score": 89
@@ -444,16 +454,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "e6e2f9e77f870fea",
-      "category": "宇宙探索",
-      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "source": "STScI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
-      "published_at": "2026-07-09T07:00:00Z",
-      "score": 83
     },
     {
       "id": "25be8f7550b50f78",
