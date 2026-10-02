@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-02T02:31:06.084645Z",
-  "count": 55,
-  "auto_count": 59,
+  "updated_at": "2026-10-02T08:53:12.695699Z",
+  "count": 54,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "2ccc7ce6e10ab8de",
+      "id": "cc7372bda977850d",
       "category": "粒子物理",
       "title": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
       "text": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SUFnVGNyUFJUNG5qc0RmdER4OWJoTE4xSFFmNVRUVHNyb0Y1dnZMZ0hCUTBydXRtNHg3T0U4NUtlU2RPWXBTbG1UU0VON0ZCeXdiZGpsdTUzS2RjdjI5bHduM3hyZw?oc=5",
       "published_at": "2026-09-30T07:22:21Z",
       "score": 97
@@ -26,51 +26,51 @@
       "score": 83
     },
     {
-      "id": "215932678f79e3bf",
+      "id": "bf6bab1f677412b5",
       "category": "粒子物理",
       "title": "ATLAS 和 CMS 组合在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 搜索希格斯玻色子对的产生",
       "text": "ATLAS 和 CMS 组合在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 搜索希格斯玻色子对的产生",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PaUFEQlZOZkwxdHVfWlppRHhYWmdjRFhNdFNMaS1DWk80TFJpZ1czYWtsdGxCRFhYSVBySDMzNUhhUW1PMU1QMUw0Z0VET3g3QlRtaUE5VHVNaFY5SnV4dFlpNTAyUQ?oc=5",
       "published_at": "2026-09-25T22:39:14Z",
       "score": 95
     },
     {
-      "id": "5756529fc59ca3f2",
+      "id": "6d15e9dcfe9ddb0e",
       "category": "粒子物理",
       "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
       "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
       "published_at": "2026-09-25T15:49:17Z",
       "score": 83
     },
     {
-      "id": "f3f01afdcae601ad",
+      "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
       "text": "使用氩气吸收中微子的第一个证据",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T14:30:43Z",
       "score": 90
     },
     {
-      "id": "583253ef21e6f08a",
+      "id": "7304e186389a18bf",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
       "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
     },
     {
-      "id": "99780735330a7346",
+      "id": "6187325b6e1eaaa7",
       "category": "粒子物理",
       "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
       "text": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBad1diZ25MNVNKMHp4WklQekxLU25EMjZIbHVxYzhMd1FVTVJITFc2cVZWb0Y3Wk9yU2ZuWTRrRlRqSDRnYllPZHFub2Q3QnpuVW9pbWNFcGtHZ3lRVTB5QkVqUkJsUQ?oc=5",
       "published_at": "2026-09-24T06:59:52Z",
       "score": 96
@@ -96,11 +96,11 @@
       "score": 90
     },
     {
-      "id": "9b64e01eaa5c4280",
+      "id": "ba83eaa321aa8de2",
       "category": "粒子物理",
       "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
       "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 89
@@ -126,11 +126,11 @@
       "score": 83
     },
     {
-      "id": "e972383e2cd6d0b6",
+      "id": "e59cff50dbe00395",
       "category": "粒子物理",
       "title": "精确测量 μ 子电荷不对称性",
       "text": "精确测量 μ 子电荷不对称性",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 90
@@ -146,11 +146,11 @@
       "score": 83
     },
     {
-      "id": "c2618c7fd0bd04ea",
+      "id": "dce13c9a92ed4417",
       "category": "粒子物理",
       "title": "高能重离子碰撞中热反冲射流的出现",
       "text": "高能重离子碰撞中热反冲射流的出现",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yOC1MX3c5VXkwRmJlR0htMFdPTkpRRnEyQVdwZi1rdEw1TG5raUZSa3RwSWdTOFRuX0NRYkd0SXk2cW9KOFlpOGlDMU5DQWRPc2ZDYjNrZm9YU3liNUp5OGxtQVZmZw?oc=5",
       "published_at": "2026-09-04T16:06:01Z",
       "score": 83
@@ -186,11 +186,11 @@
       "score": 83
     },
     {
-      "id": "e3e2a245887f882f",
+      "id": "4f03b321204fac20",
       "category": "粒子物理",
       "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
       "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tREVsRDZ6TnBpcmpObS1VS3NkYUpIalluRVdITTU5V0lEZThCbjZfOTk2ZThhcFFJMTRKek9NbEtEbktCMm5FWGtmSG9KRHhTOWRoeTZPdnNCYUxzVl9Oa08wckJrUQ?oc=5",
       "published_at": "2026-08-28T07:00:00Z",
       "score": 99
@@ -206,11 +206,11 @@
       "score": 99
     },
     {
-      "id": "ee077ba31bc4be6d",
+      "id": "24d378dc8a1383e2",
       "category": "粒子物理",
       "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
       "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
       "published_at": "2026-08-13T07:00:00Z",
       "score": 89
@@ -256,11 +256,11 @@
       "score": 83
     },
     {
-      "id": "51ea8add2dba8082",
+      "id": "effdb4c482c8a524",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
       "text": "寒武纪早期最早的带有管管的头足类动物",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -456,23 +456,13 @@
       "score": 83
     },
     {
-      "id": "a6ea7d5fffba594f",
+      "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
       "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
-    },
-    {
-      "id": "96e6616c59155107",
-      "category": "宇宙探索",
-      "title": "欧几里得发现了宇宙中最古老的类星体",
-      "text": "欧几里得发现了宇宙中最古老的类星体",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmtBbjBaaGRTQXptTjVvVldNZ3Q5Snh5MnRUbGxVbEtSSUxFelVWb0dWTWsxRlkwem14Wjg1RGtvbjY4cnJFZlFSWktWREtyZUVTcGdjUk5QOTdIUzYwRl8zT1gxOEpQdlVuU0JibThpWW9JLWpFRE9OZm1KWGI3WVR4Z3VubFZpTldSRHctRTB3VFM3WGcxVkhwWHhCMHNjdWtxTG5kMXdnSEE?oc=5",
-      "published_at": "2026-07-06T08:09:16Z",
       "score": 83
     },
     {
@@ -496,11 +486,11 @@
       "score": 90
     },
     {
-      "id": "b79e7a4cb0fddec1",
+      "id": "f0dc2408414952fc",
       "category": "古生物学",
       "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
       "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
       "score": 83
@@ -516,11 +506,11 @@
       "score": 83
     },
     {
-      "id": "e781432609f5980b",
+      "id": "51c8a8b022bbde95",
       "category": "粒子物理",
       "title": "$D$-通过高能核碰撞中的顺序强子化产生介子",
       "text": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
       "published_at": "2026-06-12T07:00:00Z",
       "score": 83
@@ -536,21 +526,21 @@
       "score": 83
     },
     {
-      "id": "18933c872a9bb1f6",
+      "id": "674cc3202ad60826",
       "category": "古生物学",
       "title": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
       "text": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
-      "source": "PLOS",
+      "source": "journals.plos.org",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5aLS1xMW9xd0R5UkdoWFRtbDljejRSSkhJcC1FX3NsdjQ0RlphNlVBVDZTQ1lCUVpWVnBjTDgtVFhocDhoWDJxRGJXbEdnOS1PUEszNGdnSFowLUR0Q2w3R1dzU0JPdFVVbzZ6M0I5RUwyZXRrRlQ5SEpjam9MWHhRWWNSUDFu?oc=5",
       "published_at": "2026-06-01T18:30:08Z",
       "score": 83
     },
     {
-      "id": "cd2ac2548032c24d",
+      "id": "ad379508f2784e32",
       "category": "粒子物理",
       "title": "LHCb 顶夸克产生截面和电荷不对称性的测量",
       "text": "LHCb 顶夸克产生截面和电荷不对称性的测量",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NQ0lpdXhHWnpoNHA2dVZ3V0FDMXNkbzFhNXZtUWJ3UE5mQU8ySG5aR1hnZHFiWjJmTzJ1di0tcENMYTdYMjVRQmlFb1RJRngtRXREUGU0YnpkMWNFSm1BbEFlYmxTQQ?oc=5",
       "published_at": "2026-06-01T14:24:48Z",
       "score": 83
