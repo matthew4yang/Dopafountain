@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T08:53:12.695699Z",
+  "updated_at": "2026-10-02T15:39:04.957183Z",
   "count": 54,
-  "auto_count": 58,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -56,24 +56,14 @@
       "score": 90
     },
     {
-      "id": "7304e186389a18bf",
+      "id": "583253ef21e6f08a",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
       "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
-    },
-    {
-      "id": "6187325b6e1eaaa7",
-      "category": "粒子物理",
-      "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
-      "text": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBad1diZ25MNVNKMHp4WklQekxLU25EMjZIbHVxYzhMd1FVTVJITFc2cVZWb0Y3Wk9yU2ZuWTRrRlRqSDRnYllPZHFub2Q3QnpuVW9pbWNFcGtHZ3lRVTB5QkVqUkJsUQ?oc=5",
-      "published_at": "2026-09-24T06:59:52Z",
-      "score": 96
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -226,21 +216,21 @@
       "score": 83
     },
     {
-      "id": "5df570450b98c754",
+      "id": "546e5f72088dfa22",
       "category": "宇宙探索",
       "title": "科学家发布最大的二维宇宙地图",
       "text": "科学家发布最大的二维宇宙地图",
-      "source": "NOIRLab",
+      "source": "noirlab.edu",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
       "score": 83
     },
     {
-      "id": "d3fd5b81fc4873f2",
+      "id": "17064160968f9d9f",
       "category": "宇宙探索",
       "title": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
       "text": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
-      "source": "NOIRLab",
+      "source": "noirlab.edu",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
       "published_at": "2026-08-05T16:10:25Z",
       "score": 89
@@ -256,11 +246,11 @@
       "score": 83
     },
     {
-      "id": "effdb4c482c8a524",
+      "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
       "text": "寒武纪早期最早的带有管管的头足类动物",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -288,8 +278,8 @@
     {
       "id": "2517175562575c7c",
       "category": "古生物学",
-      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
-      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "title": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
+      "text": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
@@ -326,6 +316,16 @@
       "score": 89
     },
     {
+      "id": "b3942a1306a48894",
+      "category": "宇宙探索",
+      "title": "在 CD-35 2722 系统中探测类月物体",
+      "text": "在 CD-35 2722 系统中探测类月物体",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "86d9c09f2a560149",
       "category": "宇宙探索",
       "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
@@ -348,8 +348,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -486,11 +486,11 @@
       "score": 90
     },
     {
-      "id": "f0dc2408414952fc",
+      "id": "b79e7a4cb0fddec1",
       "category": "古生物学",
       "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
       "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
       "score": 83
@@ -526,11 +526,11 @@
       "score": 83
     },
     {
-      "id": "674cc3202ad60826",
+      "id": "18933c872a9bb1f6",
       "category": "古生物学",
       "title": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
       "text": "Wonderwerk 洞穴（南非）更新世早期使用火的新证据",
-      "source": "journals.plos.org",
+      "source": "PLOS",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm5aLS1xMW9xd0R5UkdoWFRtbDljejRSSkhJcC1FX3NsdjQ0RlphNlVBVDZTQ1lCUVpWVnBjTDgtVFhocDhoWDJxRGJXbEdnOS1PUEszNGdnSFowLUR0Q2w3R1dzU0JPdFVVbzZ6M0I5RUwyZXRrRlQ5SEpjam9MWHhRWWNSUDFu?oc=5",
       "published_at": "2026-06-01T18:30:08Z",
       "score": 83
