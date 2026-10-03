@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T18:38:02.757133Z",
+  "updated_at": "2026-10-03T22:05:05.858843Z",
   "count": 57,
   "auto_count": 58,
   "verified_seed_count": 2,
@@ -16,21 +16,21 @@
       "score": 83
     },
     {
-      "id": "3dca4b13fa57060f",
+      "id": "ec49d7d66611a12a",
       "category": "宇宙探索",
       "title": "科学月期间：ALMA 敞开大门庆祝观测宇宙 15 周年",
       "text": "科学月期间：ALMA 敞开大门庆祝观测宇宙 15 周年",
-      "source": "ALMA Observatory",
+      "source": "almaobservatory.org",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-03T01:25:45Z",
       "score": 89
     },
     {
-      "id": "2ccc7ce6e10ab8de",
+      "id": "cc7372bda977850d",
       "category": "粒子物理",
       "title": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
       "text": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SUFnVGNyUFJUNG5qc0RmdER4OWJoTE4xSFFmNVRUVHNyb0Y1dnZMZ0hCUTBydXRtNHg3T0U4NUtlU2RPWXBTbG1UU0VON0ZCeXdiZGpsdTUzS2RjdjI5bHduM3hyZw?oc=5",
       "published_at": "2026-09-30T07:22:21Z",
       "score": 97
@@ -46,21 +46,21 @@
       "score": 83
     },
     {
-      "id": "5756529fc59ca3f2",
+      "id": "6d15e9dcfe9ddb0e",
       "category": "粒子物理",
       "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
       "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
       "published_at": "2026-09-25T15:49:17Z",
       "score": 83
     },
     {
-      "id": "f3f01afdcae601ad",
+      "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
       "text": "使用氩气吸收中微子的第一个证据",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T14:30:43Z",
       "score": 90
@@ -96,11 +96,11 @@
       "score": 90
     },
     {
-      "id": "9b64e01eaa5c4280",
+      "id": "ba83eaa321aa8de2",
       "category": "粒子物理",
       "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
       "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 89
@@ -126,33 +126,23 @@
       "score": 83
     },
     {
-      "id": "e972383e2cd6d0b6",
+      "id": "e59cff50dbe00395",
       "category": "粒子物理",
       "title": "精确测量 μ 子电荷不对称性",
       "text": "精确测量 μ 子电荷不对称性",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 90
     },
     {
-      "id": "2f259e18d03dadfa",
+      "id": "2318ae32e13d61eb",
       "category": "古生物学",
       "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
       "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
+      "source": "pnas.org",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
       "published_at": "2026-09-08T18:42:37Z",
-      "score": 83
-    },
-    {
-      "id": "c2618c7fd0bd04ea",
-      "category": "粒子物理",
-      "title": "高能重离子碰撞中热反冲射流的出现",
-      "text": "高能重离子碰撞中热反冲射流的出现",
-      "source": "journals.aps.org",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yOC1MX3c5VXkwRmJlR0htMFdPTkpRRnEyQVdwZi1rdEw1TG5raUZSa3RwSWdTOFRuX0NRYkd0SXk2cW9KOFlpOGlDMU5DQWRPc2ZDYjNrZm9YU3liNUp5OGxtQVZmZw?oc=5",
-      "published_at": "2026-09-04T16:06:01Z",
       "score": 83
     },
     {
@@ -186,41 +176,41 @@
       "score": 83
     },
     {
-      "id": "e3e2a245887f882f",
+      "id": "4f03b321204fac20",
       "category": "粒子物理",
       "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
       "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tREVsRDZ6TnBpcmpObS1VS3NkYUpIalluRVdITTU5V0lEZThCbjZfOTk2ZThhcFFJMTRKek9NbEtEbktCMm5FWGtmSG9KRHhTOWRoeTZPdnNCYUxzVl9Oa08wckJrUQ?oc=5",
       "published_at": "2026-08-28T07:00:00Z",
       "score": 99
     },
     {
-      "id": "036f9d6cfb5779ba",
+      "id": "a88c2d69dc2a8c74",
       "category": "古生物学",
       "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
       "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
+      "source": "pnas.org",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
       "published_at": "2026-08-25T17:33:06Z",
       "score": 99
     },
     {
-      "id": "ee077ba31bc4be6d",
+      "id": "24d378dc8a1383e2",
       "category": "粒子物理",
       "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
       "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
       "published_at": "2026-08-13T07:00:00Z",
       "score": 89
     },
     {
-      "id": "f6d30c0b07f3686c",
+      "id": "dd7fdb07dd5154cf",
       "category": "粒子物理",
       "title": "TeV 质子-氧碰撞作为 ATLAS 探测器对宇宙射线空气簇射的探测",
       "text": "TeV 质子-氧碰撞作为 ATLAS 探测器对宇宙射线空气簇射的探测",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyaW84OWt0LUhjSXo4d0txdWltZkl6YzhwQUJBd3hpUmstQmhwa1FPbFNscDhpWnl0amNlYmtLSjhob1c4eHJnaTBoZmFsOVl3OUZpSEFXM1EwS2NhRy1RS0JsZExfQQ?oc=5",
       "published_at": "2026-08-12T15:41:17Z",
       "score": 90
@@ -236,11 +226,11 @@
       "score": 83
     },
     {
-      "id": "a19df223654213e5",
+      "id": "446eb3df7b92f1d7",
       "category": "粒子物理",
       "title": "用 $\\mathrm{H}\\ensuremath{\\a​​lpha}$ 线发射搜索暗物质湮灭和衰变",
       "text": "用 $\\mathrm{H}\\ensuremath{\\a​​lpha}$ 线发射搜索暗物质湮灭和衰变",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyMUhjMVdzZlZUM0ZHbWVzODl2T2x0aE5FNU5IdUZlSHJSM29kYVozY21SYTIycWlGSzdhMW5ETmxEQ0ppbkZ0dTIwRGNrSU1hcjJwZUZJY2drS0VkcmMtNV81RjFZZw?oc=5",
       "published_at": "2026-08-11T17:53:14Z",
       "score": 90
@@ -286,21 +276,21 @@
       "score": 83
     },
     {
-      "id": "cd0f62b4a473f7ff",
+      "id": "e35a7c2f06f33368",
       "category": "古生物学",
       "title": "穆桑戈：从船上发现的新津巴布韦恐龙",
       "text": "穆桑戈：从船上发现的新津巴布韦恐龙",
-      "source": "Natural History Museum",
+      "source": "nhm.ac.uk",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1VZV0FqWEkwQ0R4VWxlYmc5dG02S1JHaER2VzYyRXRza2FtNE9vVl9fTTRCd3doTmduempHLV92MWFPWUdfdE0tYTlfYkZ2TFM5Mk5iVlNCbDFWbDY3N3phOElRbk5ROElaTHVDdkk2SkpyOUNrcHJ0Nk9tNGdZdzJlWF9PTTVzMnF6Vmx4Qks5Y3dwcTBUcy1KZkZleTIzZldPSXNwazBVWmc2d2c?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
     },
     {
-      "id": "c9e514233f38561e",
+      "id": "d7dd346f26bbcf97",
       "category": "古生物学",
       "title": "博物馆科学家命名的新津巴布韦恐龙物种揭示了非洲隐藏的历史",
       "text": "博物馆科学家命名的新津巴布韦恐龙物种揭示了非洲隐藏的历史",
-      "source": "Natural History Museum",
+      "source": "nhm.ac.uk",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDVkSFRfU1hMQl9LdUpvZm9tYktqelRyLVpaX3hBWWJ2U29yaWZwMnpIS3F6RFpSa1JDY19la3hzMXE3TzVwVENtRE16NFctRFdKejlUdG1hSEJwRmdZUGwtOXN4eExzUzBJOFRVWTFkRUdmQU13R1QxbXppS2JSYUJITjBPeGJDYWc1U1dLU0lNaDFJdkNZeF9GZjNKZnZMemsyT19fcjZlZWstdUo4eHM1dEJpejI2UzNN?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -308,8 +298,8 @@
     {
       "id": "2517175562575c7c",
       "category": "古生物学",
-      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
-      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "title": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
+      "text": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
@@ -352,6 +342,16 @@
       "text": "在 CD-35 2722 系统中探测类月物体",
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "2890aadb33d1de55",
+      "category": "古生物学",
+      "title": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
+      "text": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlJJeUVhZ1VDT3ZxTWdWNlhTU2NoZF91ZDFXZktscUVVa2thN3YwdmxkMVBnelZTd2pySk0ycmlseFhIZlFReU5mT0xuMVlzVkxrcDlRTjFCR2pDYW5ocVpWaWZQV0FHelhqNVRHa0Y4dGZaTEltZVgzMnd6WlhxWVFlMGMyNExuZFE3OFpQdGxaYlhKNXdjVW1MUXA4TEpQSTJpalIwMUJscWtWcjY4WkJn?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
@@ -476,31 +476,31 @@
       "score": 89
     },
     {
-      "id": "a6ea7d5fffba594f",
+      "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
       "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
       "score": 83
     },
     {
-      "id": "360d7e8ba421608b",
+      "id": "95e9aac16e6e6560",
       "category": "古生物学",
       "title": "南极洲发现的第一块恐龙化石被鉴定为泰坦龙",
       "text": "南极洲发现的第一块恐龙化石被鉴定为泰坦龙",
-      "source": "Natural History Museum",
+      "source": "nhm.ac.uk",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJmYlk0WEp1ejdjTFJxZjYwZHBJZTdtRDczX3EzMHExM3diQktpR1pfNXRFOUFNdXFsSmJRQmUxN2RPZ1duLU54QmJ5R3J4RElvYV9pZUZtbG5adnJVNFFxdjBpdVZ1R1oxd1hicTYzd0k2UHJqMlpPd2Y0cDVSb3IzV3ExdTJVZVRxRlZvMGxMQjNNalprUS1tdUR6WkNvRnJ1TzMydVRLbzB3YWh1Mk9MTUx3dw?oc=5",
       "published_at": "2026-06-29T07:00:00Z",
       "score": 96
     },
     {
-      "id": "f191e79958a982a5",
+      "id": "ff400af7408776bd",
       "category": "古生物学",
       "title": "南极洲发现的第一只恐龙被科学描述",
       "text": "南极洲发现的第一只恐龙被科学描述",
-      "source": "Natural History Museum",
+      "source": "nhm.ac.uk",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjdmYVlJZXlJaU1Ybl94XzhvRkw5SURQeE8tSnJVZUxydmZLalZyRFB2VFZJT3lQMW52THpJOUJtdjZ4ajNUYWJCbU9XaTdhNWNtc1FveDZOclV6aW41cW9HRm8wWnFZUV9nMnduYnlSb0gyU1lEaG9SSk9iaTRrbkRJYUh0OW9JVVRWcnhsYWhKY0RjRVV6eHN5REpENUxsSWxmUUtaYWJwRk11RW9kUmwtNXVYQlk?oc=5",
       "published_at": "2026-06-29T07:00:00Z",
       "score": 90
@@ -526,11 +526,11 @@
       "score": 83
     },
     {
-      "id": "e781432609f5980b",
+      "id": "51c8a8b022bbde95",
       "category": "粒子物理",
       "title": "$D$-通过高能核碰撞中的顺序强子化产生介子",
       "text": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
       "published_at": "2026-06-12T07:00:00Z",
       "score": 83
@@ -566,11 +566,11 @@
       "score": 83
     },
     {
-      "id": "cd2ac2548032c24d",
+      "id": "ad379508f2784e32",
       "category": "粒子物理",
       "title": "LHCb 顶夸克产生截面和电荷不对称性的测量",
       "text": "LHCb 顶夸克产生截面和电荷不对称性的测量",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NQ0lpdXhHWnpoNHA2dVZ3V0FDMXNkbzFhNXZtUWJ3UE5mQU8ySG5aR1hnZHFiWjJmTzJ1di0tcENMYTdYMjVRQmlFb1RJRngtRXREUGU0YnpkMWNFSm1BbEFlYmxTQQ?oc=5",
       "published_at": "2026-06-01T14:24:48Z",
       "score": 83
