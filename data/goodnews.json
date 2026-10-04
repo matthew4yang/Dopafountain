@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-04T17:24:51.991841Z",
-  "count": 58,
-  "auto_count": 60,
+  "updated_at": "2026-10-04T20:22:40.049202Z",
+  "count": 59,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "0c53d1c8efc6efc9",
+      "id": "47d0e79feb619c1b",
       "category": "古生物学",
       "title": "多翅目化石中呼吸空气的第一个证据",
       "text": "多翅目化石中呼吸空气的第一个证据",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdWszMmhkb2pVaTNlb09JeFUzeWxiNUFjVHRlRmoxRHF2Sk1KZF9sWFFJeWFkbnZRNVE4OG1MaWpCU3d2TEZnMTJqTmRqYmNrSms1N2NKVjQxNFRSWDh3?oc=5",
       "published_at": "2026-10-03T06:39:35Z",
       "score": 83
@@ -36,11 +36,11 @@
       "score": 97
     },
     {
-      "id": "31c5893fd9d18739",
+      "id": "9d571404c8b387c8",
       "category": "宇宙探索",
       "title": "成功飞越地球改善了 Juice 飞往木星的航线",
       "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "ESA",
+      "source": "esa.int",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2ZNTE1XOWRyQ1lSdHhFQlF2bjJTeVAtOU5Id1FBZnV0eUZ4RnJFS2RsWlp4anB1cUJrWEZfXzhJZmE1UldfQU5HMl93YmFmQ0lWMVhKRDZHZnlEWXkwQ05HQjNWVHBOc1V4RmpNak1KaHdmOUFBdHMxckVybmczRkFWVktOM3JoUUFFX2FDQ1N3ei1hUlFOMkZvcTNFRWlabUtLLTNDYnBiMXo4Q3h6U0lsZzlTY2ZtQ0ZTNURDZmJWN2ZIajNTbzlWNEw2dw?oc=5",
       "published_at": "2026-09-28T07:00:00Z",
       "score": 83
@@ -66,11 +66,11 @@
       "score": 90
     },
     {
-      "id": "583253ef21e6f08a",
+      "id": "7304e186389a18bf",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
       "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
@@ -186,13 +186,23 @@
       "score": 82
     },
     {
-      "id": "7d13fdc6be7a6134",
+      "id": "85c4b26f5fc6896d",
       "category": "宇宙探索",
       "title": "土星南极上的十边形（单个滤镜图像）",
       "text": "土星南极上的十边形（单个滤镜图像）",
-      "source": "ESA",
+      "source": "esa.int",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblRWMG9ITDFidzhtV2hiXzgtUjlKeFRkSW56bnVwM0pHS0ZrN0tMcDJKMTBBUEJONnBXaF9QMGtJSVRUWHY0YVBTRGwwMHdlanZaQkRrTlNTSENucTRLa29ob2xtTHQzV0s5TVpsMHYxOXdSSU1POG5EVVRLbmhfZkkzUGcxQ1I1dVFtWFg0c1l1S0JWRGdGVFI5dTRSMzFPaXc?oc=5",
       "published_at": "2026-09-02T20:25:09Z",
+      "score": 83
+    },
+    {
+      "id": "00d7621c85110294",
+      "category": "粒子物理",
+      "title": "COHERENT 测量锗上的相干弹性中微子核散射",
+      "text": "COHERENT 测量锗上的相干弹性中微子核散射",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbHNKM0J6NzdDamZCRW01MElncnV3Q3k1eGp1VXhMclFLanZjdE96bG81QURJV1p2SHF5dm5QRktsazlRS2xJQWE1V05vLUZDTkNSMHpMZWF0TmhreEd6U0s5RmhPdw?oc=5",
+      "published_at": "2026-08-27T07:00:00Z",
       "score": 83
     },
     {
@@ -276,11 +286,11 @@
       "score": 83
     },
     {
-      "id": "51ea8add2dba8082",
+      "id": "effdb4c482c8a524",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
       "text": "寒武纪早期最早的带有管管的头足类动物",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -366,11 +376,11 @@
       "score": 89
     },
     {
-      "id": "41cb0103c2e62df6",
+      "id": "86d9c09f2a560149",
       "category": "宇宙探索",
       "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
       "text": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
-      "source": "chandra.harvard.edu",
+      "source": "Harvard University",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJc2VOdkFDc3lXUXh0bkJ6SlVXeEwzalRwYUxBUHA1NXVzd0xyaTNTV1lHSTNFdUpqb3hjcUcyWmRlTXFCcjVabXNtNUJOWS1NM1E?oc=5",
       "published_at": "2026-07-21T07:00:00Z",
       "score": 89
@@ -436,21 +446,21 @@
       "score": 83
     },
     {
-      "id": "2b698b318ae471fc",
+      "id": "2ad7091fed03a82e",
       "category": "宇宙探索",
       "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
       "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
-      "source": "stsci.edu",
+      "source": "STScI",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     },
     {
-      "id": "fcea81709154ec5a",
+      "id": "de7a8bfa1e109d2e",
       "category": "古生物学",
       "title": "中国中泥盆世最早的琥珀",
       "text": "中国中泥盆世最早的琥珀",
-      "source": "science.org",
+      "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -516,11 +526,11 @@
       "score": 90
     },
     {
-      "id": "b79e7a4cb0fddec1",
+      "id": "f0dc2408414952fc",
       "category": "古生物学",
       "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
       "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "Nature",
+      "source": "nature.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
       "score": 83
