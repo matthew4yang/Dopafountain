@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-04T20:22:40.049202Z",
-  "count": 59,
-  "auto_count": 61,
+  "updated_at": "2026-10-04T23:31:05.575603Z",
+  "count": 58,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -36,11 +36,11 @@
       "score": 97
     },
     {
-      "id": "9d571404c8b387c8",
+      "id": "31c5893fd9d18739",
       "category": "宇宙探索",
       "title": "成功飞越地球改善了 Juice 飞往木星的航线",
       "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "esa.int",
+      "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2ZNTE1XOWRyQ1lSdHhFQlF2bjJTeVAtOU5Id1FBZnV0eUZ4RnJFS2RsWlp4anB1cUJrWEZfXzhJZmE1UldfQU5HMl93YmFmQ0lWMVhKRDZHZnlEWXkwQ05HQjNWVHBOc1V4RmpNak1KaHdmOUFBdHMxckVybmczRkFWVktOM3JoUUFFX2FDQ1N3ei1hUlFOMkZvcTNFRWlabUtLLTNDYnBiMXo4Q3h6U0lsZzlTY2ZtQ0ZTNURDZmJWN2ZIajNTbzlWNEw2dw?oc=5",
       "published_at": "2026-09-28T07:00:00Z",
       "score": 83
@@ -156,11 +156,11 @@
       "score": 83
     },
     {
-      "id": "2f259e18d03dadfa",
+      "id": "2318ae32e13d61eb",
       "category": "古生物学",
       "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
       "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
+      "source": "pnas.org",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
       "published_at": "2026-09-08T18:42:37Z",
       "score": 83
@@ -186,11 +186,11 @@
       "score": 82
     },
     {
-      "id": "85c4b26f5fc6896d",
+      "id": "7d13fdc6be7a6134",
       "category": "宇宙探索",
       "title": "土星南极上的十边形（单个滤镜图像）",
       "text": "土星南极上的十边形（单个滤镜图像）",
-      "source": "esa.int",
+      "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblRWMG9ITDFidzhtV2hiXzgtUjlKeFRkSW56bnVwM0pHS0ZrN0tMcDJKMTBBUEJONnBXaF9QMGtJSVRUWHY0YVBTRGwwMHdlanZaQkRrTlNTSENucTRLa29ob2xtTHQzV0s5TVpsMHYxOXdSSU1POG5EVVRLbmhfZkkzUGcxQ1I1dVFtWFg0c1l1S0JWRGdGVFI5dTRSMzFPaXc?oc=5",
       "published_at": "2026-09-02T20:25:09Z",
       "score": 83
@@ -206,24 +206,14 @@
       "score": 83
     },
     {
-      "id": "036f9d6cfb5779ba",
+      "id": "a88c2d69dc2a8c74",
       "category": "古生物学",
       "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
       "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
+      "source": "pnas.org",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
       "published_at": "2026-08-25T17:33:06Z",
       "score": 99
-    },
-    {
-      "id": "24d378dc8a1383e2",
-      "category": "粒子物理",
-      "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
-      "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
-      "published_at": "2026-08-13T07:00:00Z",
-      "score": 89
     },
     {
       "id": "dd7fdb07dd5154cf",
@@ -236,11 +226,11 @@
       "score": 90
     },
     {
-      "id": "b050ee82b7767fdd",
+      "id": "5d03f48343377ce5",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
       "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "Fermilab",
+      "source": "news.fnal.gov",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
       "score": 83
@@ -318,8 +308,8 @@
     {
       "id": "2517175562575c7c",
       "category": "古生物学",
-      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
-      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "title": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
+      "text": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
@@ -456,11 +446,11 @@
       "score": 83
     },
     {
-      "id": "de7a8bfa1e109d2e",
+      "id": "fcea81709154ec5a",
       "category": "古生物学",
       "title": "中国中泥盆世最早的琥珀",
       "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
+      "source": "science.org",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
