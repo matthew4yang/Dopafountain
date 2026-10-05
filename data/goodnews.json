@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-04T23:31:05.575603Z",
-  "count": 58,
-  "auto_count": 60,
+  "updated_at": "2026-10-05T02:18:35.036800Z",
+  "count": 57,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -24,16 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-03T01:25:45Z",
       "score": 89
-    },
-    {
-      "id": "cc7372bda977850d",
-      "category": "粒子物理",
-      "title": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
-      "text": "质子-质子碰撞中有效双子散射截面的相关产生和测量|物理。莱特牧师。",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SUFnVGNyUFJUNG5qc0RmdER4OWJoTE4xSFFmNVRUVHNyb0Y1dnZMZ0hCUTBydXRtNHg3T0U4NUtlU2RPWXBTbG1UU0VON0ZCeXdiZGpsdTUzS2RjdjI5bHduM3hyZw?oc=5",
-      "published_at": "2026-09-30T07:22:21Z",
-      "score": 97
     },
     {
       "id": "31c5893fd9d18739",
@@ -156,11 +146,11 @@
       "score": 83
     },
     {
-      "id": "2318ae32e13d61eb",
+      "id": "2f259e18d03dadfa",
       "category": "古生物学",
       "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
       "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "pnas.org",
+      "source": "PNAS",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
       "published_at": "2026-09-08T18:42:37Z",
       "score": 83
@@ -206,11 +196,11 @@
       "score": 83
     },
     {
-      "id": "a88c2d69dc2a8c74",
+      "id": "036f9d6cfb5779ba",
       "category": "古生物学",
       "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
       "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "pnas.org",
+      "source": "PNAS",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
       "published_at": "2026-08-25T17:33:06Z",
       "score": 99
@@ -226,11 +216,11 @@
       "score": 90
     },
     {
-      "id": "5d03f48343377ce5",
+      "id": "b050ee82b7767fdd",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
       "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "news.fnal.gov",
+      "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
       "score": 83
@@ -346,16 +336,6 @@
       "score": 89
     },
     {
-      "id": "b3942a1306a48894",
-      "category": "宇宙探索",
-      "title": "在 CD-35 2722 系统中探测类月物体",
-      "text": "在 CD-35 2722 系统中探测类月物体",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "2890aadb33d1de55",
       "category": "古生物学",
       "title": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
@@ -436,21 +416,21 @@
       "score": 83
     },
     {
-      "id": "2ad7091fed03a82e",
+      "id": "2b698b318ae471fc",
       "category": "宇宙探索",
       "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
       "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
-      "source": "STScI",
+      "source": "stsci.edu",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     },
     {
-      "id": "fcea81709154ec5a",
+      "id": "de7a8bfa1e109d2e",
       "category": "古生物学",
       "title": "中国中泥盆世最早的琥珀",
       "text": "中国中泥盆世最早的琥珀",
-      "source": "science.org",
+      "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -484,6 +464,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "69e3d42a52965f78",
+      "category": "宇宙探索",
+      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "source": "stsci.edu",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
+      "published_at": "2026-07-09T07:00:00Z",
+      "score": 83
     },
     {
       "id": "25be8f7550b50f78",
