@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-05T02:18:35.036800Z",
-  "count": 57,
-  "auto_count": 59,
+  "updated_at": "2026-10-05T09:32:27.169578Z",
+  "count": 58,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "47d0e79feb619c1b",
+      "id": "0c53d1c8efc6efc9",
       "category": "古生物学",
       "title": "多翅目化石中呼吸空气的第一个证据",
       "text": "多翅目化石中呼吸空气的第一个证据",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdWszMmhkb2pVaTNlb09JeFUzeWxiNUFjVHRlRmoxRHF2Sk1KZF9sWFFJeWFkbnZRNVE4OG1MaWpCU3d2TEZnMTJqTmRqYmNrSms1N2NKVjQxNFRSWDh3?oc=5",
       "published_at": "2026-10-03T06:39:35Z",
       "score": 83
@@ -56,11 +56,11 @@
       "score": 90
     },
     {
-      "id": "7304e186389a18bf",
+      "id": "583253ef21e6f08a",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
       "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
@@ -206,6 +206,16 @@
       "score": 99
     },
     {
+      "id": "00697891cba65b5a",
+      "category": "粒子物理",
+      "title": "Borexino 扩展数据集对非标准中微子相互作用的约束",
+      "text": "Borexino 扩展数据集对非标准中微子相互作用的约束",
+      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
+      "published_at": "2026-08-24T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "dd7fdb07dd5154cf",
       "category": "粒子物理",
       "title": "TeV 质子-氧碰撞作为 ATLAS 探测器对宇宙射线空气簇射的探测",
@@ -216,11 +226,11 @@
       "score": 90
     },
     {
-      "id": "b050ee82b7767fdd",
+      "id": "5d03f48343377ce5",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
       "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "Fermilab",
+      "source": "news.fnal.gov",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
       "score": 83
@@ -266,11 +276,11 @@
       "score": 83
     },
     {
-      "id": "effdb4c482c8a524",
+      "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
       "text": "寒武纪早期最早的带有管管的头足类动物",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -298,8 +308,8 @@
     {
       "id": "2517175562575c7c",
       "category": "古生物学",
-      "title": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
-      "text": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
+      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
@@ -416,11 +426,11 @@
       "score": 83
     },
     {
-      "id": "2b698b318ae471fc",
+      "id": "2ad7091fed03a82e",
       "category": "宇宙探索",
       "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
       "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
-      "source": "stsci.edu",
+      "source": "STScI",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -466,11 +476,11 @@
       "score": 89
     },
     {
-      "id": "69e3d42a52965f78",
+      "id": "e6e2f9e77f870fea",
       "category": "宇宙探索",
       "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
       "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "source": "stsci.edu",
+      "source": "STScI",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
       "published_at": "2026-07-09T07:00:00Z",
       "score": 83
@@ -506,11 +516,11 @@
       "score": 90
     },
     {
-      "id": "f0dc2408414952fc",
+      "id": "b79e7a4cb0fddec1",
       "category": "古生物学",
       "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
       "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
       "score": 83
