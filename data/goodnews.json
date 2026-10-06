@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06T14:25:22.899305Z",
-  "count": 58,
-  "auto_count": 58,
+  "updated_at": "2026-10-06T19:46:42.636460Z",
+  "count": 57,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -16,11 +16,11 @@
       "score": 83
     },
     {
-      "id": "2ef32ea0e6c47a1a",
+      "id": "461920e35c459543",
       "category": "粒子物理",
       "title": "有限角动量等离子体在旋转黑洞上的无碰撞吸积",
       "text": "有限角动量等离子体在旋转黑洞上的无碰撞吸积",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRjdmYkd2M2MyYjZxUjhuYzlnVUhrZnprVlU3dEprTkVDNGpPTDBCRGduM2pOV3FFMUR4TEI1ODY4WUlGOGxrM3pOTGxYZE9GbVdLYUNDaGRQaHd5NEdIMmhHQ2k0dw?oc=5",
       "published_at": "2026-10-05T16:08:24Z",
       "score": 83
@@ -36,11 +36,11 @@
       "score": 83
     },
     {
-      "id": "47d0e79feb619c1b",
+      "id": "0c53d1c8efc6efc9",
       "category": "古生物学",
       "title": "多翅目化石中呼吸空气的第一个证据",
       "text": "多翅目化石中呼吸空气的第一个证据",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdWszMmhkb2pVaTNlb09JeFUzeWxiNUFjVHRlRmoxRHF2Sk1KZF9sWFFJeWFkbnZRNVE4OG1MaWpCU3d2TEZnMTJqTmRqYmNrSms1N2NKVjQxNFRSWDh3?oc=5",
       "published_at": "2026-10-03T06:39:35Z",
       "score": 83
@@ -56,31 +56,41 @@
       "score": 89
     },
     {
-      "id": "326cd8827cafa7b4",
+      "id": "3f10e7d4131193f9",
       "category": "粒子物理",
       "title": "在大型强子对撞机上观察重核相干光产生的核抑制 |物理。莱特牧师。",
       "text": "在大型强子对撞机上观察重核相干光产生的核抑制 |物理。莱特牧师。",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xQk1qY19XenJmMWs3U1dtSnJOdnZoNjQ1eGlXQmY2V0xYQ1dveE1yQ2xQalJNOXdzZEpEVUo3TVB0dk9DRWlBYlpJVWZYOXA0cnRJcXFlUHhhd3NnSHVOcFBpRW5SUQ?oc=5",
       "published_at": "2026-09-28T17:16:35Z",
       "score": 83
     },
     {
-      "id": "5756529fc59ca3f2",
+      "id": "31c5893fd9d18739",
+      "category": "宇宙探索",
+      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "text": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2ZNTE1XOWRyQ1lSdHhFQlF2bjJTeVAtOU5Id1FBZnV0eUZ4RnJFS2RsWlp4anB1cUJrWEZfXzhJZmE1UldfQU5HMl93YmFmQ0lWMVhKRDZHZnlEWXkwQ05HQjNWVHBOc1V4RmpNak1KaHdmOUFBdHMxckVybmczRkFWVktOM3JoUUFFX2FDQ1N3ei1hUlFOMkZvcTNFRWlabUtLLTNDYnBiMXo4Q3h6U0lsZzlTY2ZtQ0ZTNURDZmJWN2ZIajNTbzlWNEw2dw?oc=5",
+      "published_at": "2026-09-28T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "6d15e9dcfe9ddb0e",
       "category": "粒子物理",
       "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
       "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
       "published_at": "2026-09-25T15:49:17Z",
       "score": 83
     },
     {
-      "id": "7304e186389a18bf",
+      "id": "583253ef21e6f08a",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
       "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
@@ -96,11 +106,11 @@
       "score": 78
     },
     {
-      "id": "812d0d10ac98ab6b",
+      "id": "0caf3ae1211d4b79",
       "category": "粒子物理",
       "title": "轻离子到重离子碰撞过程中部分能量损失的三种预测",
       "text": "轻离子到重离子碰撞过程中部分能量损失的三种预测",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Odm9La21ubVhtQlRtWVpkcWt0TE1ONnJVYllYV3ROUWwwaGduMGpUYTZlOGlybFNYZ3pkamxXU0JKTWFoS21MOWhObjZ6WTQ0a0ljQUgxRXJhdWUwRHZrNGo1UURRQQ?oc=5",
       "published_at": "2026-09-22T07:00:00Z",
       "score": 83
@@ -116,11 +126,11 @@
       "score": 90
     },
     {
-      "id": "9b64e01eaa5c4280",
+      "id": "ba83eaa321aa8de2",
       "category": "粒子物理",
       "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
       "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 89
@@ -146,21 +156,21 @@
       "score": 83
     },
     {
-      "id": "e4d04eed24df7619",
+      "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
       "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
       "published_at": "2026-09-15T08:12:29Z",
       "score": 83
     },
     {
-      "id": "ef46176815004512",
+      "id": "8c6ea24c2578c4b6",
       "category": "粒子物理",
       "title": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
       "text": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
       "published_at": "2026-09-15T02:56:12Z",
       "score": 83
@@ -176,11 +186,11 @@
       "score": 83
     },
     {
-      "id": "53045c9795ca8508",
+      "id": "a3b65b5a13020ec5",
       "category": "粒子物理",
       "title": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
       "text": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPQ2h6TDJUVXlhWlFwNzFHdHVxNHhUZktyMXJydmtmLUNGWmJTM2FiRG11YXo5THh4WnNHVWw5OEtCUWVHRlFjM2Y2RDd6Y0h5ZXBEX1FGVk5KY3NMeTU2cmhXVkhGUQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 83
@@ -216,21 +226,21 @@
       "score": 82
     },
     {
-      "id": "6f5f58c85335fdac",
+      "id": "2faedcd323d5a0d9",
       "category": "古生物学",
       "title": "小小探险家：化石发现者",
       "text": "小小探险家：化石发现者",
-      "source": "fieldmuseum.org",
+      "source": "Field Museum",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm50eXVHa1pKakZ4WGwxVTBwc2Q0QlozVVB3RGJLcjJSZzRiTlBVT1pVdHpZeG0wM1BGOTc2MWpXN3psQ3ZudlFEQkVJLUVrVGlVWU14ejh5WmNGYjJjbE1HQU43b1E2ZE9vbTE1RWlWTzVDX3VFblhITW1HaDJ0WWotX0ZjZ1dHQzNwYmNUeE15MlJkeFVaZVhuWllxcHRVeGdFZFQzYVU?oc=5",
       "published_at": "2026-08-31T20:27:08Z",
       "score": 83
     },
     {
-      "id": "5fbdada09c3a0df3",
+      "id": "00d7621c85110294",
       "category": "粒子物理",
       "title": "COHERENT 测量锗上的相干弹性中微子核散射",
       "text": "COHERENT 测量锗上的相干弹性中微子核散射",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbHNKM0J6NzdDamZCRW01MElncnV3Q3k1eGp1VXhMclFLanZjdE96bG81QURJV1p2SHF5dm5QRktsazlRS2xJQWE1V05vLUZDTkNSMHpMZWF0TmhreEd6U0s5RmhPdw?oc=5",
       "published_at": "2026-08-27T07:00:00Z",
       "score": 83
@@ -256,16 +266,6 @@
       "score": 83
     },
     {
-      "id": "f6d30c0b07f3686c",
-      "category": "粒子物理",
-      "title": "TeV 质子-氧碰撞作为 ATLAS 探测器对宇宙射线空气簇射的探测",
-      "text": "TeV 质子-氧碰撞作为 ATLAS 探测器对宇宙射线空气簇射的探测",
-      "source": "journals.aps.org",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyaW84OWt0LUhjSXo4d0txdWltZkl6YzhwQUJBd3hpUmstQmhwa1FPbFNscDhpWnl0amNlYmtLSjhob1c4eHJnaTBoZmFsOVl3OUZpSEFXM1EwS2NhRy1RS0JsZExfQQ?oc=5",
-      "published_at": "2026-08-12T15:41:17Z",
-      "score": 90
-    },
-    {
       "id": "b050ee82b7767fdd",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
@@ -274,6 +274,26 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "5df570450b98c754",
+      "category": "宇宙探索",
+      "title": "科学家发布最大的二维宇宙地图",
+      "text": "科学家发布最大的二维宇宙地图",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
+      "published_at": "2026-08-10T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "d3fd5b81fc4873f2",
+      "category": "宇宙探索",
+      "title": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
+      "text": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
+      "published_at": "2026-08-05T16:10:25Z",
+      "score": 89
     },
     {
       "id": "bbe4903a032461c9",
@@ -286,11 +306,11 @@
       "score": 83
     },
     {
-      "id": "effdb4c482c8a524",
+      "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
       "text": "寒武纪早期最早的带有管管的头足类动物",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
@@ -446,11 +466,11 @@
       "score": 83
     },
     {
-      "id": "fcea81709154ec5a",
+      "id": "de7a8bfa1e109d2e",
       "category": "古生物学",
       "title": "中国中泥盆世最早的琥珀",
       "text": "中国中泥盆世最早的琥珀",
-      "source": "science.org",
+      "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -486,33 +506,13 @@
       "score": 89
     },
     {
-      "id": "e6e2f9e77f870fea",
-      "category": "宇宙探索",
-      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "source": "STScI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
-      "published_at": "2026-07-09T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "a6ea7d5fffba594f",
+      "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
       "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
-    },
-    {
-      "id": "f7e2a8941c233dd3",
-      "category": "宇宙探索",
-      "title": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
-      "text": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
-      "published_at": "2026-07-06T07:00:00Z",
       "score": 83
     },
     {
@@ -536,23 +536,13 @@
       "score": 90
     },
     {
-      "id": "f0dc2408414952fc",
+      "id": "b79e7a4cb0fddec1",
       "category": "古生物学",
       "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
       "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "nature.com",
+      "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "9145a28e798f737d",
-      "category": "宇宙探索",
-      "title": "ALMA 揭示了与高能中微子有关的隐藏星暴星系",
-      "text": "ALMA 揭示了与高能中微子有关的隐藏星暴星系",
-      "source": "ALMA Observatory",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3p2b3RiUjNXMjh1Qkx5N2Raamh1S0V4aThJWWY3TkdTbWNYZkhFbXpndTlkQ21RUm51OTljcXlHYi1UY1VhaGk3RjY1UkRTcE40SlRqbEVWWGZYLUd0VHkzR3QzUlBjSUJHYWI0NkljMXRKeFN4eGp4aFJ6ZzRuUnBzOWx5a2NCOTE4Z1dxb3ZLTmE4NkhwUmhDTTdBbWFYS1pFTEI2eEJkN3ZFTEJkbEFpQUhKR21jNHZNUXZjbw?oc=5",
-      "published_at": "2026-06-19T07:00:00Z",
       "score": 83
     },
     {
@@ -566,21 +556,21 @@
       "score": 83
     },
     {
-      "id": "e781432609f5980b",
+      "id": "51c8a8b022bbde95",
       "category": "粒子物理",
       "title": "$D$-通过高能核碰撞中的顺序强子化产生介子",
       "text": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "source": "journals.aps.org",
+      "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
       "published_at": "2026-06-12T07:00:00Z",
       "score": 83
     },
     {
-      "id": "b81b70b963f39d10",
+      "id": "4b4216de078b1341",
       "category": "古生物学",
       "title": "新种恐龙是迅猛龙的近亲，可能用四个“翅膀”滑翔并捕食早期鸟类",
       "text": "新种恐龙是迅猛龙的近亲，可能用四个“翅膀”滑翔并捕食早期鸟类",
-      "source": "fieldmuseum.org",
+      "source": "Field Museum",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGtqc3FCNnk3VWx3WEotSjhucmNhSW9RS1N6VlVsZEU4QnBJVElzcU1kS2dvTmh1VE00cTd5TkFqRlB3VHh1SGVSbW85bndzSWJnY0oxbW1jNXN1TFpFTWhLNy1PSzlNaUhQX3ZUTkxsNWxDLW5oQzRrdnhqMXRRNFZrcU9yb0d2VDdrV0RNZHFmN3hmT2VsZnAzTlN0ejZIeENUYm9pcFJCSHBNMGFVdEhqNS1URzA0Q0E?oc=5",
       "published_at": "2026-06-04T07:00:00Z",
       "score": 83
