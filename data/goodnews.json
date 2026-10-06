@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-06T00:43:20.776622Z",
-  "count": 59,
-  "auto_count": 60,
+  "updated_at": "2026-10-06T07:25:16.063353Z",
+  "count": 57,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "461920e35c459543",
+      "category": "粒子物理",
+      "title": "有限角动量等离子体在旋转黑洞上的无碰撞吸积",
+      "text": "有限角动量等离子体在旋转黑洞上的无碰撞吸积",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRjdmYkd2M2MyYjZxUjhuYzlnVUhrZnprVlU3dEprTkVDNGpPTDBCRGduM2pOV3FFMUR4TEI1ODY4WUlGOGxrM3pOTGxYZE9GbVdLYUNDaGRQaHd5NEdIMmhHQ2k0dw?oc=5",
+      "published_at": "2026-10-05T16:08:24Z",
+      "score": 83
+    },
     {
       "id": "1495079f76f31815",
       "category": "宇宙探索",
@@ -58,8 +68,8 @@
     {
       "id": "6d15e9dcfe9ddb0e",
       "category": "粒子物理",
-      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
-      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
+      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
+      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
       "published_at": "2026-09-25T15:49:17Z",
@@ -126,6 +136,16 @@
       "score": 83
     },
     {
+      "id": "7db1ba8a89c1c56e",
+      "category": "粒子物理",
+      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
+      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
+      "published_at": "2026-09-15T08:12:29Z",
+      "score": 83
+    },
+    {
       "id": "8c6ea24c2578c4b6",
       "category": "粒子物理",
       "title": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
@@ -146,16 +166,6 @@
       "score": 83
     },
     {
-      "id": "e59cff50dbe00395",
-      "category": "粒子物理",
-      "title": "精确测量 μ 子电荷不对称性",
-      "text": "精确测量 μ 子电荷不对称性",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
-      "published_at": "2026-09-10T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "a3b65b5a13020ec5",
       "category": "粒子物理",
       "title": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
@@ -164,16 +174,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPQ2h6TDJUVXlhWlFwNzFHdHVxNHhUZktyMXJydmtmLUNGWmJTM2FiRG11YXo5THh4WnNHVWw5OEtCUWVHRlFjM2Y2RDd6Y0h5ZXBEX1FGVk5KY3NMeTU2cmhXVkhGUQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "fa606acd3c8de1b5",
-      "category": "古生物学",
-      "title": "蜥脚类恐龙皮肤的颜色。评论：“化石黑素体揭示了蜥脚类恐龙的颜色图案”（2025 年），作者：Gallagher 等人。",
-      "text": "蜥脚类恐龙皮肤的颜色。评论：“化石黑素体揭示了蜥脚类恐龙的颜色图案”（2025 年），作者：Gallagher 等人。",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnN2NnU3bWhjYnFfOC1RaG1jR19haHczS0Q5NHZvTkUyRXlOYnNrenNKWElObUQzOWZVQWE5YnVOTWhmaThsMXN6U0tEajRUSzcxQkNTMmtmcUtxeWVWOW93cmFjbjBfUDRFWGpsRXZxWUtTSW9oTTB1bURWOEZKVkdMTXl2Z2ZoamY5QXJZakVBWnVlRGJZcmZpNDI3dmM5VEZwM3ZCMXFEQUdRczl2c2hSSTROQkNaR19j?oc=5",
-      "published_at": "2026-09-09T07:00:00Z",
-      "score": 95
     },
     {
       "id": "2f259e18d03dadfa",
@@ -186,11 +186,11 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
+      "id": "ab75f05e9ce544ef",
       "category": "宇宙探索",
       "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
       "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
+      "source": "eso.org",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
       "score": 90
@@ -266,16 +266,6 @@
       "score": 83
     },
     {
-      "id": "446eb3df7b92f1d7",
-      "category": "粒子物理",
-      "title": "用 $\\mathrm{H}\\ensuremath{\\a​​lpha}$ 线发射搜索暗物质湮灭和衰变",
-      "text": "用 $\\mathrm{H}\\ensuremath{\\a​​lpha}$ 线发射搜索暗物质湮灭和衰变",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyMUhjMVdzZlZUM0ZHbWVzODl2T2x0aE5FNU5IdUZlSHJSM29kYVozY21SYTIycWlGSzdhMW5ETmxEQ0ppbkZ0dTIwRGNrSU1hcjJwZUZJY2drS0VkcmMtNV81RjFZZw?oc=5",
-      "published_at": "2026-08-11T17:53:14Z",
-      "score": 90
-    },
-    {
       "id": "5df570450b98c754",
       "category": "宇宙探索",
       "title": "科学家发布最大的二维宇宙地图",
@@ -346,11 +336,11 @@
       "score": 83
     },
     {
-      "id": "fedd2d9deb668160",
+      "id": "9a5ba905ccd46778",
       "category": "古生物学",
       "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
       "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
-      "source": "Smithsonian",
+      "source": "si.edu",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
       "score": 83
@@ -358,39 +348,39 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
       "score": 83
     },
     {
-      "id": "c1e51d28474975e8",
+      "id": "3bd624961a618e65",
       "category": "粒子物理",
       "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
       "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
-      "source": "Fermilab",
+      "source": "indico.fnal.gov",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T15:16:52Z",
       "score": 89
     },
     {
-      "id": "2890aadb33d1de55",
-      "category": "古生物学",
-      "title": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
-      "text": "从温暖栖息地到寒冷栖息地：白垩纪 Tanaupodidae 化石揭示了冬季活跃螨类的主要气候生态位转变和更广泛的过去分布",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlJJeUVhZ1VDT3ZxTWdWNlhTU2NoZF91ZDFXZktscUVVa2thN3YwdmxkMVBnelZTd2pySk0ycmlseFhIZlFReU5mT0xuMVlzVkxrcDlRTjFCR2pDYW5ocVpWaWZQV0FHelhqNVRHa0Y4dGZaTEltZVgzMnd6WlhxWVFlMGMyNExuZFE3OFpQdGxaYlhKNXdjVW1MUXA4TEpQSTJpalIwMUJscWtWcjY4WkJn?oc=5",
+      "id": "2c5b7e92fdaf8fd1",
+      "category": "宇宙探索",
+      "title": "在 CD-35 2722 系统中探测类月物体",
+      "text": "在 CD-35 2722 系统中探测类月物体",
+      "source": "eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
     {
-      "id": "86d9c09f2a560149",
+      "id": "41cb0103c2e62df6",
       "category": "宇宙探索",
       "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
       "text": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
-      "source": "Harvard University",
+      "source": "chandra.harvard.edu",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJc2VOdkFDc3lXUXh0bkJ6SlVXeEwzalRwYUxBUHA1NXVzd0xyaTNTV1lHSTNFdUpqb3hjcUcyWmRlTXFCcjVabXNtNUJOWS1NM1E?oc=5",
       "published_at": "2026-07-21T07:00:00Z",
       "score": 89
@@ -426,11 +416,11 @@
       "score": 89
     },
     {
-      "id": "ab5b1285d6098629",
+      "id": "1adcead5c8793d00",
       "category": "宇宙探索",
       "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
       "text": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
-      "source": "Eso.org",
+      "source": "eso.org",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 96
@@ -446,21 +436,21 @@
       "score": 83
     },
     {
-      "id": "eb401eb1ce158261",
+      "id": "46422933ebc2281f",
       "category": "宇宙探索",
       "title": "多年来观测到的Beta Pictoris d系外行星",
       "text": "多年来观测到的Beta Pictoris d系外行星",
-      "source": "Eso.org",
+      "source": "eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     },
     {
-      "id": "2ad7091fed03a82e",
+      "id": "2b698b318ae471fc",
       "category": "宇宙探索",
       "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
       "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
-      "source": "STScI",
+      "source": "stsci.edu",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
@@ -506,11 +496,11 @@
       "score": 89
     },
     {
-      "id": "e6e2f9e77f870fea",
+      "id": "69e3d42a52965f78",
       "category": "宇宙探索",
       "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
       "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "source": "STScI",
+      "source": "stsci.edu",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
       "published_at": "2026-07-09T07:00:00Z",
       "score": 83
@@ -523,16 +513,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
-    },
-    {
-      "id": "96e6616c59155107",
-      "category": "宇宙探索",
-      "title": "欧几里得发现了宇宙中最古老的类星体",
-      "text": "欧几里得发现了宇宙中最古老的类星体",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmtBbjBaaGRTQXptTjVvVldNZ3Q5Snh5MnRUbGxVbEtSSUxFelVWb0dWTWsxRlkwem14Wjg1RGtvbjY4cnJFZlFSWktWREtyZUVTcGdjUk5QOTdIUzYwRl8zT1gxOEpQdlVuU0JibThpWW9JLWpFRE9OZm1KWGI3WVR4Z3VubFZpTldSRHctRTB3VFM3WGcxVkhwWHhCMHNjdWtxTG5kMXdnSEE?oc=5",
-      "published_at": "2026-07-06T08:09:16Z",
       "score": 83
     },
     {
