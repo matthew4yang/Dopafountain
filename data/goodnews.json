@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-07T11:57:22.317739Z",
-  "count": 56,
-  "auto_count": 56,
+  "updated_at": "2026-10-07T18:46:27.337084Z",
+  "count": 59,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "65e8a1146a356eb2",
+      "category": "粒子物理",
+      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
+      "published_at": "2026-10-07T15:25:35Z",
+      "score": 83
+    },
+    {
+      "id": "1e6bc82b126730e0",
+      "category": "宇宙探索",
+      "title": "最大的二维宇宙地图帮助科学家发现新的宇宙放大镜",
+      "text": "最大的二维宇宙地图帮助科学家发现新的宇宙放大镜",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
+      "published_at": "2026-10-07T15:07:38Z",
+      "score": 90
+    },
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
@@ -106,6 +126,16 @@
       "score": 83
     },
     {
+      "id": "eef61633e40dd416",
+      "category": "粒子物理",
+      "title": "使用氩气吸收中微子的第一个证据",
+      "text": "使用氩气吸收中微子的第一个证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
+      "published_at": "2026-09-25T14:30:43Z",
+      "score": 90
+    },
+    {
       "id": "583253ef21e6f08a",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
@@ -163,16 +193,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "4d573a8d6839a00c",
-      "category": "宇宙探索",
-      "title": "新发现的“婴儿”行星打破了已知世界最年轻的记录",
-      "text": "新发现的“婴儿”行星打破了已知世界最年轻的记录",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWURWS0dUQ0s0azVvbnRCYjdjbE8zRUlSb0tpVkQyb2VZWjdkY0NCSVJic21uWm05QWJ1NVMyOV9sUVhhM0g2eDYzOWZ5MEZtcEpQd3JvMzRMYlEzYUgtZmlLUVNLZ0RhUExRNGllbXZPOVRDYnF1d2tHcDliTlRObHk2OXlRVGMwQnhjaExid2NKc2JJSmtlZXgydw?oc=5",
-      "published_at": "2026-09-16T07:00:00Z",
       "score": 83
     },
     {
@@ -236,6 +256,16 @@
       "score": 82
     },
     {
+      "id": "e4ce3638e64a8e15",
+      "category": "粒子物理",
+      "title": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "text": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFZmdWRXV0RxaDB2VjdWNWZJeXZoWllQYXpWWUhYaVJHQmQ4UktPcklyMHN6eWtPbW9xbHFQTklKTnEwbGNJZmlIaGJLYkR3OXlsdnNKREVlSWg3dlZkTmZzWndIS01KdXRtTV81a0dyOXhSVVZpS05xdG9XTy1IRktEeTd5WC1iLTNHSjR4Qk80ZGxOaVE?oc=5",
+      "published_at": "2026-09-01T07:00:00Z",
+      "score": 90
+    },
+    {
       "id": "00d7621c85110294",
       "category": "粒子物理",
       "title": "COHERENT 测量锗上的相干弹性中微子核散射",
@@ -263,6 +293,16 @@
       "source": "INFN - Istituto Nazionale di Fisica Nucleare",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
       "published_at": "2026-08-24T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "970069d0a4314a6d",
+      "category": "宇宙探索",
+      "title": "人类改变了一颗小行星。现在我们了解如何",
+      "text": "人类改变了一颗小行星。现在我们了解如何",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGRxMWwzeW81ckVDN0dYR2p0eC1vdldhUHk2WTB3N1c5OE5xWmJPbnNhTXd2QnY0MEhtTFQtVkl0SWlNZFl2REVYQVEtQVYzbnJUMzdlVUYyWE04UXh4TlBld1ZaZHlNOVUwTkdpZldsTUhPNHZrbkNqYlJSdWdJTXM5aFQ4VEpzS2FMcEVIbFZ2UzBMQmk4R3N3bGNQSXo3TlRRRlBWaEpmd1U?oc=5",
+      "published_at": "2026-08-15T10:53:10Z",
       "score": 83
     },
     {
@@ -474,16 +514,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "8484ae7aebe9d8a2",
-      "category": "宇宙探索",
-      "title": "雷达观测到的小行星和彗星任务目标",
-      "text": "雷达观测到的小行星和彗星任务目标",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
-      "published_at": "2026-07-14T07:00:00Z",
-      "score": 89
     },
     {
       "id": "71f9598e7f8ec702",
