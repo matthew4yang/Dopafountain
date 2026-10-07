@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-07T18:46:27.337084Z",
+  "updated_at": "2026-10-07T23:32:19.670483Z",
   "count": 59,
   "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T15:25:35Z",
+      "id": "8d23ec170f16a5a9",
+      "category": "宇宙探索",
+      "title": "欧空局遥感地球观测任务概念开发研究生实习生",
+      "text": "欧空局遥感地球观测任务概念开发研究生实习生",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
+      "published_at": "2026-10-07T19:24:49Z",
       "score": 83
     },
     {
@@ -22,14 +22,34 @@
       "text": "最大的二维宇宙地图帮助科学家发现新的宇宙放大镜",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
-      "published_at": "2026-10-07T15:07:38Z",
+      "published_at": "2026-10-07T15:07:31Z",
       "score": 90
+    },
+    {
+      "id": "b0237272f0c0e13d",
+      "category": "宇宙探索",
+      "title": "赫拉任务的不可思议的冒险——太空侦探到达",
+      "text": "赫拉任务的不可思议的冒险——太空侦探到达",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHE1Z0tMOHNZUnBUWXNJVDQzU2dvTTJYdkhTNGZGZzYtNGE0WE9Ra3VZMmh4MVBpdVFmeUlDeWxfYkNpN2JOcHV1a25YU1FhaU5ibmRyY0FUN04tZTE5Nm1HbGpKSGJ3enhsOXd1c002c2lWVDltZ0pFSGp0UERvazBNbGFqd1dUcWNjZFI0dERRTVZSTmRlcFd1a2xsaTdsLVUzeGN2MGczQWVUMFN6V3pHUlJwbV9QNGRmWlMzanY?oc=5",
+      "published_at": "2026-10-07T12:13:49Z",
+      "score": 83
+    },
+    {
+      "id": "65e8a1146a356eb2",
+      "category": "粒子物理",
+      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
+      "published_at": "2026-10-07T09:41:19Z",
+      "score": 83
     },
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9leEtjQnBTejcySTMzb1UyQlpELXNzZ0N1cEJ5cFo4aEw3YmdxaE9xdTdQeVA4c3liUmg3SW1ib1RqWTJHN3Rsd3BfajlCWGtOVmlSZ2pNOFBmanRpeEN1TFhn?oc=5",
       "published_at": "2026-10-07T02:52:54Z",
@@ -118,8 +138,8 @@
     {
       "id": "6d15e9dcfe9ddb0e",
       "category": "粒子物理",
-      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
-      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应部分的提议",
+      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
+      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
       "published_at": "2026-09-25T15:49:17Z",
@@ -176,16 +196,6 @@
       "score": 90
     },
     {
-      "id": "ba83eaa321aa8de2",
-      "category": "粒子物理",
-      "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
-      "published_at": "2026-09-21T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "1b041436bc61b51a",
       "category": "宇宙探索",
       "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
@@ -203,6 +213,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
       "published_at": "2026-09-15T08:12:29Z",
+      "score": 83
+    },
+    {
+      "id": "8c6ea24c2578c4b6",
+      "category": "粒子物理",
+      "title": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
+      "text": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
+      "published_at": "2026-09-15T02:56:12Z",
       "score": 83
     },
     {
@@ -398,8 +418,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -413,16 +433,6 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T15:16:52Z",
-      "score": 89
-    },
-    {
-      "id": "b3942a1306a48894",
-      "category": "宇宙探索",
-      "title": "在 CD-35 2722 系统中探测类月物体",
-      "text": "在 CD-35 2722 系统中探测类月物体",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
     {
@@ -492,16 +502,6 @@
       "text": "多年来观测到的Beta Pictoris d系外行星",
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "2ad7091fed03a82e",
-      "category": "宇宙探索",
-      "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
-      "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
-      "source": "STScI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     },
