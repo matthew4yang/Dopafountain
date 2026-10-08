@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-08T10:19:45.784912Z",
-  "count": 59,
-  "auto_count": 59,
+  "updated_at": "2026-10-08T17:33:46.910814Z",
+  "count": 57,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "65e8a1146a356eb2",
+      "category": "粒子物理",
+      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
+      "published_at": "2026-10-08T01:44:28Z",
+      "score": 83
+    },
     {
       "id": "1e6bc82b126730e0",
       "category": "宇宙探索",
@@ -23,36 +33,6 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHE1Z0tMOHNZUnBUWXNJVDQzU2dvTTJYdkhTNGZGZzYtNGE0WE9Ra3VZMmh4MVBpdVFmeUlDeWxfYkNpN2JOcHV1a25YU1FhaU5ibmRyY0FUN04tZTE5Nm1HbGpKSGJ3enhsOXd1c002c2lWVDltZ0pFSGp0UERvazBNbGFqd1dUcWNjZFI0dERRTVZSTmRlcFd1a2xsaTdsLVUzeGN2MGczQWVUMFN6V3pHUlJwbV9QNGRmWlMzanY?oc=5",
       "published_at": "2026-10-07T12:13:49Z",
-      "score": 83
-    },
-    {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T09:41:19Z",
-      "score": 83
-    },
-    {
-      "id": "0def6259205820b8",
-      "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9leEtjQnBTejcySTMzb1UyQlpELXNzZ0N1cEJ5cFo4aEw3YmdxaE9xdTdQeVA4c3liUmg3SW1ib1RqWTJHN3Rsd3BfajlCWGtOVmlSZ2pNOFBmanRpeEN1TFhn?oc=5",
-      "published_at": "2026-10-07T02:52:54Z",
-      "score": 83
-    },
-    {
-      "id": "4a986067bda1f3f9",
-      "category": "古生物学",
-      "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
-      "text": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
-      "published_at": "2026-10-07T02:17:39Z",
       "score": 83
     },
     {
@@ -146,26 +126,6 @@
       "score": 78
     },
     {
-      "id": "0c8836f8197381f1",
-      "category": "粒子物理",
-      "title": "使用第四次 LIGO-Virgo-KAGRA 观测运行第一部分的数据，利用引力波干涉仪进行直接多模型暗物质搜索",
-      "text": "使用第四次 LIGO-Virgo-KAGRA 观测运行第一部分的数据，利用引力波干涉仪进行直接多模型暗物质搜索",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45bFBmNy1mVlphRXBLVTloQjc3OURNVVE2cVh5YlBKblhIQ1VmX2FXVW44Tkt6eWRXVXN3VC1jYTlkWHM3cWI4SE1QVzFPOVc0QkVfbU45empKLTB0SWdGazhnNEp5Zw?oc=5",
-      "published_at": "2026-09-22T07:00:00Z",
-      "score": 97
-    },
-    {
-      "id": "0caf3ae1211d4b79",
-      "category": "粒子物理",
-      "title": "轻离子到重离子碰撞过程中部分能量损失的三种预测",
-      "text": "轻离子到重离子碰撞过程中部分能量损失的三种预测",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Odm9La21ubVhtQlRtWVpkcWt0TE1ONnJVYllYV3ROUWwwaGduMGpUYTZlOGlybFNYZ3pkamxXU0JKTWFoS21MOWhObjZ6WTQ0a0ljQUgxRXJhdWUwRHZrNGo1UURRQQ?oc=5",
-      "published_at": "2026-09-22T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "f009c63eb97a5bdd",
       "category": "宇宙探索",
       "title": "美国宇航局的发现揭示了早期火星上复杂的水系统",
@@ -174,6 +134,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU41UlFuRnRUWjBYWXVzYWdBdEdiWXYxNWNSRFpQZEJPMnBLZWdkd0hKdjRnY2NhQUZGMlExSjkyNkxWUVRQTUJDaFVSY0tTVVNZSjZQVUVTUWl4WU1wZ0JIcXBCSDFtN1k3WFJscm9QR2NsdFA2MTFFRjBlSFpha0JjbG1ZbDBmUjRWRE53T25pRXM?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "ba83eaa321aa8de2",
+      "category": "粒子物理",
+      "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
+      "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 89
     },
     {
       "id": "1b041436bc61b51a",
@@ -254,6 +224,16 @@
       "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
       "published_at": "2026-09-03T00:00:00Z",
       "score": 82
+    },
+    {
+      "id": "0def6259205820b8",
+      "category": "宇宙探索",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Fcko2bUIxMWlQMVBESnppZTFVcEszOWMwYTJTSDVNWDNCSEh5RldsMXB2WFVUdlEtQUJzSXVSNFc5RHdqM3lrSG1KQTFvVXNPSXdreDBZWlhkck1MTG5WY2tncnZQUm8tTVVzcm5n?oc=5",
+      "published_at": "2026-09-01T22:05:12Z",
+      "score": 83
     },
     {
       "id": "e4ce3638e64a8e15",
@@ -398,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
