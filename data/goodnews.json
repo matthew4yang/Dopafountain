@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-08T02:51:45.450100Z",
+  "updated_at": "2026-10-08T10:19:45.784912Z",
   "count": 59,
   "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
-    {
-      "id": "8d23ec170f16a5a9",
-      "category": "宇宙探索",
-      "title": "欧空局遥感地球观测任务概念开发研究生实习生",
-      "text": "欧空局遥感地球观测任务概念开发研究生实习生",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
-      "published_at": "2026-10-07T19:24:49Z",
-      "score": 83
-    },
     {
       "id": "1e6bc82b126730e0",
       "category": "宇宙探索",
@@ -48,8 +38,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9leEtjQnBTejcySTMzb1UyQlpELXNzZ0N1cEJ5cFo4aEw3YmdxaE9xdTdQeVA4c3liUmg3SW1ib1RqWTJHN3Rsd3BfajlCWGtOVmlSZ2pNOFBmanRpeEN1TFhn?oc=5",
       "published_at": "2026-10-07T02:52:54Z",
@@ -126,16 +116,6 @@
       "score": 83
     },
     {
-      "id": "6d15e9dcfe9ddb0e",
-      "category": "粒子物理",
-      "title": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
-      "text": "结合弱透镜和重子普查构建所观测宇宙的仅暗物质对应物的提案",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JS256MTd6T2w4OWpGcXhNSGZNMEg3SF9obUFFd1RNWm1UQ0k1VzBtLXhQdU9HM1lRbEx6Z2RZMldKZm1BM19tRFpfTzVMYzdyMXV1d3dyZ3lKYU9mbDZxWHo2c19NQQ?oc=5",
-      "published_at": "2026-09-25T15:49:17Z",
-      "score": 83
-    },
-    {
       "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
@@ -164,6 +144,16 @@
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "published_at": "2026-09-23T00:00:00Z",
       "score": 78
+    },
+    {
+      "id": "0c8836f8197381f1",
+      "category": "粒子物理",
+      "title": "使用第四次 LIGO-Virgo-KAGRA 观测运行第一部分的数据，利用引力波干涉仪进行直接多模型暗物质搜索",
+      "text": "使用第四次 LIGO-Virgo-KAGRA 观测运行第一部分的数据，利用引力波干涉仪进行直接多模型暗物质搜索",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45bFBmNy1mVlphRXBLVTloQjc3OURNVVE2cVh5YlBKblhIQ1VmX2FXVW44Tkt6eWRXVXN3VC1jYTlkWHM3cWI4SE1QVzFPOVc0QkVfbU45empKLTB0SWdGazhnNEp5Zw?oc=5",
+      "published_at": "2026-09-22T07:00:00Z",
+      "score": 97
     },
     {
       "id": "0caf3ae1211d4b79",
@@ -264,6 +254,16 @@
       "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
       "published_at": "2026-09-03T00:00:00Z",
       "score": 82
+    },
+    {
+      "id": "e4ce3638e64a8e15",
+      "category": "粒子物理",
+      "title": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "text": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFZmdWRXV0RxaDB2VjdWNWZJeXZoWllQYXpWWUhYaVJHQmQ4UktPcklyMHN6eWtPbW9xbHFQTklKTnEwbGNJZmlIaGJLYkR3OXlsdnNKREVlSWg3dlZkTmZzWndIS01KdXRtTV81a0dyOXhSVVZpS05xdG9XTy1IRktEeTd5WC1iLTNHSjR4Qk80ZGxOaVE?oc=5",
+      "published_at": "2026-09-01T07:00:00Z",
+      "score": 90
     },
     {
       "id": "2faedcd323d5a0d9",
@@ -398,8 +398,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -516,6 +516,16 @@
       "score": 89
     },
     {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "71f9598e7f8ec702",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
@@ -583,16 +593,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
       "published_at": "2026-06-12T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "4b4216de078b1341",
-      "category": "古生物学",
-      "title": "新种恐龙是迅猛龙的近亲，可能用四个“翅膀”滑翔并捕食早期鸟类",
-      "text": "新种恐龙是迅猛龙的近亲，可能用四个“翅膀”滑翔并捕食早期鸟类",
-      "source": "Field Museum",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGtqc3FCNnk3VWx3WEotSjhucmNhSW9RS1N6VlVsZEU4QnBJVElzcU1kS2dvTmh1VE00cTd5TkFqRlB3VHh1SGVSbW85bndzSWJnY0oxbW1jNXN1TFpFTWhLNy1PSzlNaUhQX3ZUTkxsNWxDLW5oQzRrdnhqMXRRNFZrcU9yb0d2VDdrV0RNZHFmN3hmT2VsZnAzTlN0ejZIeENUYm9pcFJCSHBNMGFVdEhqNS1URzA0Q0E?oc=5",
-      "published_at": "2026-06-04T07:00:00Z",
       "score": 83
     }
   ]
