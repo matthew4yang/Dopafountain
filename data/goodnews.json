@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-08T17:33:46.910814Z",
-  "count": 57,
-  "auto_count": 57,
+  "updated_at": "2026-10-08T22:22:30.754946Z",
+  "count": 58,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
-    {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-08T01:44:28Z",
-      "score": 83
-    },
     {
       "id": "1e6bc82b126730e0",
       "category": "宇宙探索",
@@ -33,6 +23,16 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHE1Z0tMOHNZUnBUWXNJVDQzU2dvTTJYdkhTNGZGZzYtNGE0WE9Ra3VZMmh4MVBpdVFmeUlDeWxfYkNpN2JOcHV1a25YU1FhaU5ibmRyY0FUN04tZTE5Nm1HbGpKSGJ3enhsOXd1c002c2lWVDltZ0pFSGp0UERvazBNbGFqd1dUcWNjZFI0dERRTVZSTmRlcFd1a2xsaTdsLVUzeGN2MGczQWVUMFN6V3pHUlJwbV9QNGRmWlMzanY?oc=5",
       "published_at": "2026-10-07T12:13:49Z",
+      "score": 83
+    },
+    {
+      "id": "65e8a1146a356eb2",
+      "category": "粒子物理",
+      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
+      "published_at": "2026-10-07T09:41:19Z",
       "score": 83
     },
     {
@@ -124,6 +124,16 @@
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "published_at": "2026-09-23T00:00:00Z",
       "score": 78
+    },
+    {
+      "id": "0c8836f8197381f1",
+      "category": "粒子物理",
+      "title": "使用第四次 LIGO-Virgo-KAGRA 观测运行第一部分的数据，利用引力波干涉仪进行直接多模型暗物质搜索",
+      "text": "使用第四次 LIGO-Virgo-KAGRA 观测运行第一部分的数据，利用引力波干涉仪进行直接多模型暗物质搜索",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45bFBmNy1mVlphRXBLVTloQjc3OURNVVE2cVh5YlBKblhIQ1VmX2FXVW44Tkt6eWRXVXN3VC1jYTlkWHM3cWI4SE1QVzFPOVc0QkVfbU45empKLTB0SWdGazhnNEp5Zw?oc=5",
+      "published_at": "2026-09-22T07:00:00Z",
+      "score": 97
     },
     {
       "id": "f009c63eb97a5bdd",
@@ -224,16 +234,6 @@
       "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
       "published_at": "2026-09-03T00:00:00Z",
       "score": 82
-    },
-    {
-      "id": "0def6259205820b8",
-      "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Fcko2bUIxMWlQMVBESnppZTFVcEszOWMwYTJTSDVNWDNCSEh5RldsMXB2WFVUdlEtQUJzSXVSNFc5RHdqM3lrSG1KQTFvVXNPSXdreDBZWlhkck1MTG5WY2tncnZQUm8tTVVzcm5n?oc=5",
-      "published_at": "2026-09-01T22:05:12Z",
-      "score": 83
     },
     {
       "id": "e4ce3638e64a8e15",
@@ -378,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -393,6 +393,16 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T15:16:52Z",
+      "score": 89
+    },
+    {
+      "id": "b3942a1306a48894",
+      "category": "宇宙探索",
+      "title": "在 CD-35 2722 系统中检测类月物体",
+      "text": "在 CD-35 2722 系统中检测类月物体",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
     {
