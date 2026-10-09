@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-09T09:30:56.219763Z",
-  "count": 59,
-  "auto_count": 59,
+  "updated_at": "2026-10-09T16:29:28.623515Z",
+  "count": 61,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -32,7 +32,7 @@
       "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T09:41:19Z",
+      "published_at": "2026-10-07T08:56:44Z",
       "score": 83
     },
     {
@@ -54,6 +54,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-03T01:25:45Z",
       "score": 89
+    },
+    {
+      "id": "eef61633e40dd416",
+      "category": "粒子物理",
+      "title": "使用氩气吸收中微子的第一个证据",
+      "text": "使用氩气吸收中微子的第一个证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
+      "published_at": "2026-09-25T14:30:43Z",
+      "score": 90
     },
     {
       "id": "583253ef21e6f08a",
@@ -136,16 +146,6 @@
       "score": 83
     },
     {
-      "id": "7db1ba8a89c1c56e",
-      "category": "粒子物理",
-      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
-      "published_at": "2026-09-15T08:12:29Z",
-      "score": 83
-    },
-    {
       "id": "8c6ea24c2578c4b6",
       "category": "粒子物理",
       "title": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
@@ -153,6 +153,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
       "published_at": "2026-09-15T02:56:12Z",
+      "score": 83
+    },
+    {
+      "id": "7db1ba8a89c1c56e",
+      "category": "粒子物理",
+      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
+      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
+      "published_at": "2026-09-14T07:00:00Z",
       "score": 83
     },
     {
@@ -164,6 +174,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "e59cff50dbe00395",
+      "category": "粒子物理",
+      "title": "精确测量 μ 子电荷不对称性",
+      "text": "精确测量 μ 子电荷不对称性",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
+      "published_at": "2026-09-10T07:00:00Z",
+      "score": 90
     },
     {
       "id": "2f259e18d03dadfa",
@@ -386,6 +406,16 @@
       "score": 89
     },
     {
+      "id": "b3942a1306a48894",
+      "category": "宇宙探索",
+      "title": "在 CD-35 2722 系统中探测类月物体",
+      "text": "在 CD-35 2722 系统中探测类月物体",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "86d9c09f2a560149",
       "category": "宇宙探索",
       "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
@@ -523,16 +553,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
-    },
-    {
-      "id": "f7e2a8941c233dd3",
-      "category": "宇宙探索",
-      "title": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
-      "text": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
-      "published_at": "2026-07-06T07:00:00Z",
       "score": 83
     },
     {
