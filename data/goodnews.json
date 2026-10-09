@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-09T02:28:30.282965Z",
-  "count": 61,
-  "auto_count": 61,
+  "updated_at": "2026-10-09T09:30:56.219763Z",
+  "count": 59,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -46,26 +46,6 @@
       "score": 83
     },
     {
-      "id": "461920e35c459543",
-      "category": "粒子物理",
-      "title": "有限角动量等离子体在旋转黑洞上的无碰撞吸积",
-      "text": "有限角动量等离子体在旋转黑洞上的无碰撞吸积",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMRjdmYkd2M2MyYjZxUjhuYzlnVUhrZnprVlU3dEprTkVDNGpPTDBCRGduM2pOV3FFMUR4TEI1ODY4WUlGOGxrM3pOTGxYZE9GbVdLYUNDaGRQaHd5NEdIMmhHQ2k0dw?oc=5",
-      "published_at": "2026-10-05T16:08:24Z",
-      "score": 83
-    },
-    {
-      "id": "0c53d1c8efc6efc9",
-      "category": "古生物学",
-      "title": "多翅目化石中呼吸空气的第一个证据",
-      "text": "多翅目化石中呼吸空气的第一个证据",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdWszMmhkb2pVaTNlb09JeFUzeWxiNUFjVHRlRmoxRHF2Sk1KZF9sWFFJeWFkbnZRNVE4OG1MaWpCU3d2TEZnMTJqTmRqYmNrSms1N2NKVjQxNFRSWDh3?oc=5",
-      "published_at": "2026-10-03T06:39:35Z",
-      "score": 83
-    },
-    {
       "id": "3dca4b13fa57060f",
       "category": "宇宙探索",
       "title": "科学月期间：ALMA 敞开大门庆祝观测宇宙 15 周年",
@@ -74,16 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-03T01:25:45Z",
       "score": 89
-    },
-    {
-      "id": "3f10e7d4131193f9",
-      "category": "粒子物理",
-      "title": "在大型强子对撞机上观察重核相干光产生的核抑制 |物理。莱特牧师。",
-      "text": "在大型强子对撞机上观察重核相干光产生的核抑制 |物理。莱特牧师。",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xQk1qY19XenJmMWs3U1dtSnJOdnZoNjQ1eGlXQmY2V0xYQ1dveE1yQ2xQalJNOXdzZEpEVUo3TVB0dk9DRWlBYlpJVWZYOXA0cnRJcXFlUHhhd3NnSHVOcFBpRW5SUQ?oc=5",
-      "published_at": "2026-09-28T17:16:35Z",
-      "score": 83
     },
     {
       "id": "583253ef21e6f08a",
@@ -124,6 +94,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45bFBmNy1mVlphRXBLVTloQjc3OURNVVE2cVh5YlBKblhIQ1VmX2FXVW44Tkt6eWRXVXN3VC1jYTlkWHM3cWI4SE1QVzFPOVc0QkVfbU45empKLTB0SWdGazhnNEp5Zw?oc=5",
       "published_at": "2026-09-22T07:00:00Z",
       "score": 97
+    },
+    {
+      "id": "0436e13515fa7fcf",
+      "category": "粒子物理",
+      "title": "在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 处的质子-质子碰撞中具有低动量孤立轨迹的压缩谱场景中搜索电弱子",
+      "text": "在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 处的质子-质子碰撞中具有低动量孤立轨迹的压缩谱场景中搜索电弱子",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sTGtrQ2p0UDhWcTIySGhadXM2cXR1VXU0U1FrbkU5T1duNW9adDRfLS1mREtRN2xMcDItSzJOWUhpNnB6d2lJWF9PV0JJZVZ5ZmpVQ1c4SU5PbC15Tm5JT3V2QWxJdw?oc=5",
+      "published_at": "2026-09-22T07:00:00Z",
+      "score": 96
     },
     {
       "id": "f009c63eb97a5bdd",
@@ -183,16 +163,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "a3b65b5a13020ec5",
-      "category": "粒子物理",
-      "title": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
-      "text": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPQ2h6TDJUVXlhWlFwNzFHdHVxNHhUZktyMXJydmtmLUNGWmJTM2FiRG11YXo5THh4WnNHVWw5OEtCUWVHRlFjM2Y2RDd6Y0h5ZXBEX1FGVk5KY3NMeTU2cmhXVkhGUQ?oc=5",
-      "published_at": "2026-09-10T07:00:00Z",
       "score": 83
     },
     {
@@ -284,6 +254,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
       "published_at": "2026-08-24T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "24d378dc8a1383e2",
+      "category": "粒子物理",
+      "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
+      "published_at": "2026-08-13T07:00:00Z",
+      "score": 89
     },
     {
       "id": "b050ee82b7767fdd",
