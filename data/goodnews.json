@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-08T22:22:30.754946Z",
-  "count": 58,
-  "auto_count": 58,
+  "updated_at": "2026-10-09T02:28:30.282965Z",
+  "count": 61,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -86,26 +86,6 @@
       "score": 83
     },
     {
-      "id": "31c5893fd9d18739",
-      "category": "宇宙探索",
-      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2ZNTE1XOWRyQ1lSdHhFQlF2bjJTeVAtOU5Id1FBZnV0eUZ4RnJFS2RsWlp4anB1cUJrWEZfXzhJZmE1UldfQU5HMl93YmFmQ0lWMVhKRDZHZnlEWXkwQ05HQjNWVHBOc1V4RmpNak1KaHdmOUFBdHMxckVybmczRkFWVktOM3JoUUFFX2FDQ1N3ei1hUlFOMkZvcTNFRWlabUtLLTNDYnBiMXo4Q3h6U0lsZzlTY2ZtQ0ZTNURDZmJWN2ZIajNTbzlWNEw2dw?oc=5",
-      "published_at": "2026-09-28T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "eef61633e40dd416",
-      "category": "粒子物理",
-      "title": "使用氩气吸收中微子的第一个证据",
-      "text": "使用氩气吸收中微子的第一个证据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
-      "published_at": "2026-09-25T14:30:43Z",
-      "score": 90
-    },
-    {
       "id": "583253ef21e6f08a",
       "category": "古生物学",
       "title": "利用化石证据重建古环境 - 最新研究和新闻",
@@ -114,6 +94,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
+    },
+    {
+      "id": "6187325b6e1eaaa7",
+      "category": "粒子物理",
+      "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
+      "text": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBad1diZ25MNVNKMHp4WklQekxLU25EMjZIbHVxYzhMd1FVTVJITFc2cVZWb0Y3Wk9yU2ZuWTRrRlRqSDRnYllPZHFub2Q3QnpuVW9pbWNFcGtHZ3lRVTB5QkVqUkJsUQ?oc=5",
+      "published_at": "2026-09-24T06:59:52Z",
+      "score": 96
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -256,6 +246,16 @@
       "score": 83
     },
     {
+      "id": "4f03b321204fac20",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
+      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tREVsRDZ6TnBpcmpObS1VS3NkYUpIalluRVdITTU5V0lEZThCbjZfOTk2ZThhcFFJMTRKek9NbEtEbktCMm5FWGtmSG9KRHhTOWRoeTZPdnNCYUxzVl9Oa08wckJrUQ?oc=5",
+      "published_at": "2026-08-28T07:00:00Z",
+      "score": 99
+    },
+    {
       "id": "00d7621c85110294",
       "category": "粒子物理",
       "title": "COHERENT 测量锗上的相干弹性中微子核散射",
@@ -314,6 +314,16 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
       "published_at": "2026-08-05T16:10:25Z",
       "score": 89
+    },
+    {
+      "id": "81671eb989ddd2c8",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：使用 ATLAS 探测器观察介子",
+      "text": "物理评论快报 - 已接受论文：使用 ATLAS 探测器观察介子",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdkZaSG90U01jbTdkSFlHS05oT2YycGx1TzcwLWhZaW9QbE04YUk3M1lTbFBfbVVLdEd5Z1RJWVBrZENaS3lrLUtSY0djejE1M1MyUG5Tc2NnQTRrcFlHUXkxOEZ3dw?oc=5",
+      "published_at": "2026-07-30T07:00:00Z",
+      "score": 90
     },
     {
       "id": "bbe4903a032461c9",
@@ -378,8 +388,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -393,16 +403,6 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T15:16:52Z",
-      "score": 89
-    },
-    {
-      "id": "b3942a1306a48894",
-      "category": "宇宙探索",
-      "title": "在 CD-35 2722 系统中检测类月物体",
-      "text": "在 CD-35 2722 系统中检测类月物体",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
     {
@@ -428,8 +428,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -526,6 +526,16 @@
       "score": 89
     },
     {
+      "id": "e6e2f9e77f870fea",
+      "category": "宇宙探索",
+      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "source": "STScI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
+      "published_at": "2026-07-09T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
@@ -533,6 +543,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
+      "score": 83
+    },
+    {
+      "id": "f7e2a8941c233dd3",
+      "category": "宇宙探索",
+      "title": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
+      "text": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
+      "published_at": "2026-07-06T07:00:00Z",
       "score": 83
     },
     {
@@ -583,6 +603,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
       "published_at": "2026-06-12T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "3b5d62b2a730669d",
+      "category": "粒子物理",
+      "title": "带电希格斯玻色子（H± 和 H±±），搜索",
+      "text": "带电希格斯玻色子（H± 和 H±±），搜索",
+      "source": "計算機とネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHNVaXVhNWU5Q2tpNmd2eVhFS0xJRU1Sbmo0cjAzM0E4Mkt5dGQwLW4wSGR5Y1JDSnpUTnZwTzU1cXZOY281MzBNZW14TnowamVMU1Z4ci1ZY1hDakdNNERUY1dEbTNhRVBDaGRMNzVkT2g0amNKWUlYMGhabW53b1U2QUJOVmEyTEE?oc=5",
+      "published_at": "2026-06-10T23:19:55Z",
       "score": 83
     }
   ]
