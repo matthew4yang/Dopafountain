@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T07:40:26.781883Z",
+  "updated_at": "2026-10-10T14:24:11.578182Z",
   "count": 61,
   "auto_count": 62,
   "verified_seed_count": 2,
@@ -193,6 +193,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPQ2h6TDJUVXlhWlFwNzFHdHVxNHhUZktyMXJydmtmLUNGWmJTM2FiRG11YXo5THh4WnNHVWw5OEtCUWVHRlFjM2Y2RDd6Y0h5ZXBEX1FGVk5KY3NMeTU2cmhXVkhGUQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "703c0b563fef4786",
+      "category": "粒子物理",
+      "title": "寻找潮汐破坏事件中的中微子排放",
+      "text": "寻找潮汐破坏事件中的中微子排放",
+      "source": "IceCube Neutrino Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
+      "published_at": "2026-09-09T07:00:00Z",
       "score": 83
     },
     {
@@ -408,8 +418,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -428,8 +438,8 @@
     {
       "id": "b3942a1306a48894",
       "category": "宇宙探索",
-      "title": "在 CD-35 2722 系统中探测类月物体",
-      "text": "在 CD-35 2722 系统中探测类月物体",
+      "title": "在 CD-35 2722 系统中检测类月物体",
+      "text": "在 CD-35 2722 系统中检测类月物体",
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
@@ -458,8 +468,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -603,16 +613,6 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhLdkNuQllzNXlkUmU0TGo1M2pvUG56eUVyZk12bE0zMWtSTFg1cC1kQU85c2Y0RExaRFZTZVEtckJjQ01yQTB1V3hVVFBmd2hTRVhBb0o0S1NWLXBtN1I3cThpQ05KQUZkb1RsWDJNb2pza2czSllsb0pfRnB6SWlCcG9KOEhLLXFrNXVhdmxnRmVQNWRZVDdB?oc=5",
       "published_at": "2026-06-18T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3b5d62b2a730669d",
-      "category": "粒子物理",
-      "title": "带电希格斯玻色子（H± 和 H±±），搜索",
-      "text": "带电希格斯玻色子（H± 和 H±±），搜索",
-      "source": "計算機とネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHNVaXVhNWU5Q2tpNmd2eVhFS0xJRU1Sbmo0cjAzM0E4Mkt5dGQwLW4wSGR5Y1JDSnpUTnZwTzU1cXZOY281MzBNZW14TnowamVMU1Z4ci1ZY1hDakdNNERUY1dEbTNhRVBDaGRMNzVkT2g0amNKWUlYMGhabW53b1U2QUJOVmEyTEE?oc=5",
-      "published_at": "2026-06-10T23:19:55Z",
       "score": 83
     }
   ]
