@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-09T21:09:40.969385Z",
-  "count": 60,
-  "auto_count": 61,
+  "updated_at": "2026-10-10T01:09:36.108738Z",
+  "count": 61,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "289b2618d7b1f818",
+      "category": "粒子物理",
+      "title": "冰立方中微子天文台的最新结果和新闻",
+      "text": "冰立方中微子天文台的最新结果和新闻",
+      "source": "Agenda (Indico)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWlsZE14WXlyczJYSUtyX2NramNINzVMN3Juc3pZTEhRcUlHZkJXWm0zSXVTS3BTcElKaEVEdUdMdzdYMUIzQVc1Nm8xazdJUTJfTDdyMUF6aTA5dXZvX2x2VjdiM2xRc0hVb1RLd256NmN0cTQxU05od2J4aURoN3VVQU1zRm15MFprZV9vdlk3LW1RU0lyT0NEUElncGhBU3ZSejhCclJRZw?oc=5",
+      "published_at": "2026-10-09T05:02:01Z",
+      "score": 90
+    },
     {
       "id": "1e6bc82b126730e0",
       "category": "宇宙探索",
@@ -22,7 +32,7 @@
       "text": "赫拉任务的不可思议的冒险——太空侦探到达",
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHE1Z0tMOHNZUnBUWXNJVDQzU2dvTTJYdkhTNGZGZzYtNGE0WE9Ra3VZMmh4MVBpdVFmeUlDeWxfYkNpN2JOcHV1a25YU1FhaU5ibmRyY0FUN04tZTE5Nm1HbGpKSGJ3enhsOXd1c002c2lWVDltZ0pFSGp0UERvazBNbGFqd1dUcWNjZFI0dERRTVZSTmRlcFd1a2xsaTdsLVUzeGN2MGczQWVUMFN6V3pHUlJwbV9QNGRmWlMzanY?oc=5",
-      "published_at": "2026-10-07T12:13:49Z",
+      "published_at": "2026-10-07T13:00:43Z",
       "score": 83
     },
     {
@@ -174,6 +184,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "a3b65b5a13020ec5",
+      "category": "粒子物理",
+      "title": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
+      "text": "通过电介质内超快激光脉冲的无碰撞吸收实现高能量密度等离子体纳米棒",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPQ2h6TDJUVXlhWlFwNzFHdHVxNHhUZktyMXJydmtmLUNGWmJTM2FiRG11YXo5THh4WnNHVWw5OEtCUWVHRlFjM2Y2RDd6Y0h5ZXBEX1FGVk5KY3NMeTU2cmhXVkhGUQ?oc=5",
+      "published_at": "2026-09-10T07:00:00Z",
+      "score": 83
     },
     {
       "id": "2f259e18d03dadfa",
@@ -583,16 +603,6 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhLdkNuQllzNXlkUmU0TGo1M2pvUG56eUVyZk12bE0zMWtSTFg1cC1kQU85c2Y0RExaRFZTZVEtckJjQ01yQTB1V3hVVFBmd2hTRVhBb0o0S1NWLXBtN1I3cThpQ05KQUZkb1RsWDJNb2pza2czSllsb0pfRnB6SWlCcG9KOEhLLXFrNXVhdmxnRmVQNWRZVDdB?oc=5",
       "published_at": "2026-06-18T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "51c8a8b022bbde95",
-      "category": "粒子物理",
-      "title": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "text": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
-      "published_at": "2026-06-12T07:00:00Z",
       "score": 83
     },
     {
