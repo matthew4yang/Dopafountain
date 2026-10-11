@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T14:51:58.391237Z",
+  "updated_at": "2026-10-11T19:28:12.404115Z",
   "count": 25,
-  "auto_count": 61,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -76,16 +76,6 @@
       "score": 78
     },
     {
-      "id": "0c8836f8197381f1",
-      "category": "粒子物理",
-      "title": "Direct Multimodel Dark Matter Search with Gravitational-Wave Interferometers Using Data from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run",
-      "text": "Direct Multimodel Dark Matter Search with Gravitational-Wave Interferometers Using Data from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45bFBmNy1mVlphRXBLVTloQjc3OURNVVE2cVh5YlBKblhIQ1VmX2FXVW44Tkt6eWRXVXN3VC1jYTlkWHM3cWI4SE1QVzFPOVc0QkVfbU45empKLTB0SWdGazhnNEp5Zw?oc=5",
-      "published_at": "2026-09-22T07:00:00Z",
-      "score": 97
-    },
-    {
       "id": "f009c63eb97a5bdd",
       "category": "宇宙探索",
       "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
@@ -113,6 +103,16 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "8c6ea24c2578c4b6",
+      "category": "粒子物理",
+      "title": "Supplemental Material for Search for Signatures of Dark Matter Annihilation in the Galactic Center with HAWC",
+      "text": "Supplemental Material for Search for Signatures of Dark Matter Annihilation in the Galactic Center with HAWC",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
+      "published_at": "2026-09-15T02:56:12Z",
       "score": 83
     },
     {
