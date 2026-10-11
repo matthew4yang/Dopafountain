@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-10T22:24:32.383799Z",
-  "count": 26,
-  "auto_count": 61,
+  "updated_at": "2026-10-11T01:13:07.698970Z",
+  "count": 25,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -243,16 +243,6 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhLdkNuQllzNXlkUmU0TGo1M2pvUG56eUVyZk12bE0zMWtSTFg1cC1kQU85c2Y0RExaRFZTZVEtckJjQ01yQTB1V3hVVFBmd2hTRVhBb0o0S1NWLXBtN1I3cThpQ05KQUZkb1RsWDJNb2pza2czSllsb0pfRnB6SWlCcG9KOEhLLXFrNXVhdmxnRmVQNWRZVDdB?oc=5",
       "published_at": "2026-06-18T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "b125ce4a87d40241",
-      "category": "粒子物理",
-      "title": "LHC: new results from ALICE on beauty mesons",
-      "text": "LHC: new results from ALICE on beauty mesons",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sUnJoX05RbE40MU5ZTHpEUFNXN2w0YlBEVDFlOWZTTEI0RDJtYkdLeXNxcmpTNHZHa2Y1cENaSU56WDMzdGFoNFZITWVKWDJ4NEtYNU9WalV0SjZmNDkxc0QxRTdpdkxDZEZxYm95QTFQZ0FoWkE?oc=5",
-      "published_at": "2026-06-12T07:00:00Z",
       "score": 83
     },
     {
