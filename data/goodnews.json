@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T19:28:12.404115Z",
-  "count": 25,
-  "auto_count": 60,
+  "updated_at": "2026-10-11T23:07:32.560932Z",
+  "count": 26,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -106,13 +106,13 @@
       "score": 83
     },
     {
-      "id": "8c6ea24c2578c4b6",
+      "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
-      "title": "Supplemental Material for Search for Signatures of Dark Matter Annihilation in the Galactic Center with HAWC",
-      "text": "Supplemental Material for Search for Signatures of Dark Matter Annihilation in the Galactic Center with HAWC",
+      "title": "Constraints on Solar Reflected Dark Matter from XENON1T and XENONnT Data",
+      "text": "Constraints on Solar Reflected Dark Matter from XENON1T and XENONnT Data",
       "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
-      "published_at": "2026-09-15T02:56:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
+      "published_at": "2026-09-14T07:00:00Z",
       "score": 83
     },
     {
@@ -124,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "703c0b563fef4786",
+      "category": "粒子物理",
+      "title": "Search for neutrino emission from tidal disruption events",
+      "text": "Search for neutrino emission from tidal disruption events",
+      "source": "IceCube Neutrino Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
+      "published_at": "2026-09-09T07:00:00Z",
+      "score": 83
     },
     {
       "id": "3fdcf5b6d435a1b9",
@@ -166,16 +176,6 @@
       "score": 83
     },
     {
-      "id": "00697891cba65b5a",
-      "category": "粒子物理",
-      "title": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
-      "text": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
-      "published_at": "2026-08-24T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "bbe4903a032461c9",
       "category": "宇宙探索",
       "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
@@ -213,6 +213,16 @@
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "8e2923034357b498",
+      "category": "宇宙探索",
+      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
+      "text": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
+      "published_at": "2026-07-17T07:00:00Z",
       "score": 89
     },
     {
