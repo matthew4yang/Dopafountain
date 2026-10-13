@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T19:44:23.212762Z",
-  "count": 56,
-  "auto_count": 58,
+  "updated_at": "2026-10-13T01:57:01.372782Z",
+  "count": 55,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -96,16 +96,6 @@
       "score": 90
     },
     {
-      "id": "ba83eaa321aa8de2",
-      "category": "粒子物理",
-      "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
-      "published_at": "2026-09-21T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "1b041436bc61b51a",
       "category": "宇宙探索",
       "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
@@ -113,16 +103,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "8c6ea24c2578c4b6",
-      "category": "粒子物理",
-      "title": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
-      "text": "使用 HAWC 寻找银河系中心暗物质湮灭特征的补充材料",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdV9HclhjSjBTTlZvYmdzUDAzZ2FMOUJZMFZwTGZBUmlfTHBxQVpVeXNTMHFTQTM3bTB3NEY3WDJwdFI4ZVlGam5aUTZrNi1wdUduTkVpemRIM1ZhbDBtbE8zVmQwNHZZczVJRGZ2TGlTTWdtalpiWlVrQy1aR2pEQ0tGRzloQ3ozRm9JalNn?oc=5",
-      "published_at": "2026-09-15T02:56:12Z",
       "score": 83
     },
     {
@@ -144,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "fa606acd3c8de1b5",
+      "category": "古生物学",
+      "title": "蜥脚类恐龙皮肤的颜色。评论：“化石黑素体揭示了蜥脚类恐龙的颜色图案”（2025 年），作者：Gallagher 等人。",
+      "text": "蜥脚类恐龙皮肤的颜色。评论：“化石黑素体揭示了蜥脚类恐龙的颜色图案”（2025 年），作者：Gallagher 等人。",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnN2NnU3bWhjYnFfOC1RaG1jR19haHczS0Q5NHZvTkUyRXlOYnNrenNKWElObUQzOWZVQWE5YnVOTWhmaThsMXN6U0tEajRUSzcxQkNTMmtmcUtxeWVWOW93cmFjbjBfUDRFWGpsRXZxWUtTSW9oTTB1bURWOEZKVkdMTXl2Z2ZoamY5QXJZakVBWnVlRGJZcmZpNDI3dmM5VEZwM3ZCMXFEQUdRczl2c2hSSTROQkNaR19j?oc=5",
+      "published_at": "2026-09-09T07:00:00Z",
+      "score": 95
     },
     {
       "id": "703c0b563fef4786",
@@ -198,8 +188,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -348,8 +338,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -486,13 +476,23 @@
       "score": 89
     },
     {
+      "id": "e6e2f9e77f870fea",
+      "category": "宇宙探索",
+      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
+      "source": "STScI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
+      "published_at": "2026-07-09T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
       "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
-      "published_at": "2026-07-08T07:00:00Z",
+      "published_at": "2026-07-08T15:11:59Z",
       "score": 83
     },
     {
@@ -553,16 +553,6 @@
       "source": "INFN - Istituto Nazionale di Fisica Nucleare",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sUnJoX05RbE40MU5ZTHpEUFNXN2w0YlBEVDFlOWZTTEI0RDJtYkdLeXNxcmpTNHZHa2Y1cENaSU56WDMzdGFoNFZITWVKWDJ4NEtYNU9WalV0SjZmNDkxc0QxRTdpdkxDZEZxYm95QTFQZ0FoWkE?oc=5",
       "published_at": "2026-06-12T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3b5d62b2a730669d",
-      "category": "粒子物理",
-      "title": "带电希格斯玻色子（H± 和 H±±），搜索",
-      "text": "带电希格斯玻色子（H± 和 H±±），搜索",
-      "source": "計算機とネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHNVaXVhNWU5Q2tpNmd2eVhFS0xJRU1Sbmo0cjAzM0E4Mkt5dGQwLW4wSGR5Y1JDSnpUTnZwTzU1cXZOY281MzBNZW14TnowamVMU1Z4ci1ZY1hDakdNNERUY1dEbTNhRVBDaGRMNzVkT2g0amNKWUlYMGhabW53b1U2QUJOVmEyTEE?oc=5",
-      "published_at": "2026-06-10T23:19:55Z",
       "score": 83
     }
   ]
