@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13T09:13:43.616996Z",
-  "count": 56,
-  "auto_count": 57,
+  "updated_at": "2026-10-13T17:05:39.122515Z",
+  "count": 54,
+  "auto_count": 55,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -14,16 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
       "published_at": "2026-10-07T19:24:49Z",
       "score": 83
-    },
-    {
-      "id": "1e6bc82b126730e0",
-      "category": "宇宙探索",
-      "title": "最大的二维宇宙地图帮助科学家发现新的宇宙放大镜",
-      "text": "最大的二维宇宙地图帮助科学家发现新的宇宙放大镜",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
-      "published_at": "2026-10-07T15:07:31Z",
-      "score": 90
     },
     {
       "id": "b0237272f0c0e13d",
@@ -94,16 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU41UlFuRnRUWjBYWXVzYWdBdEdiWXYxNWNSRFpQZEJPMnBLZWdkd0hKdjRnY2NhQUZGMlExSjkyNkxWUVRQTUJDaFVSY0tTVVNZSjZQVUVTUWl4WU1wZ0JIcXBCSDFtN1k3WFJscm9QR2NsdFA2MTFFRjBlSFpha0JjbG1ZbDBmUjRWRE53T25pRXM?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "ba83eaa321aa8de2",
-      "category": "粒子物理",
-      "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
-      "published_at": "2026-09-21T07:00:00Z",
-      "score": 89
     },
     {
       "id": "1b041436bc61b51a",
@@ -356,13 +336,23 @@
       "score": 83
     },
     {
+      "id": "b3942a1306a48894",
+      "category": "宇宙探索",
+      "title": "在 CD-35 2722 系统中探测类月物体",
+      "text": "在 CD-35 2722 系统中探测类月物体",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "c1e51d28474975e8",
       "category": "粒子物理",
       "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
       "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
-      "published_at": "2026-07-22T15:16:52Z",
+      "published_at": "2026-07-22T07:00:00Z",
       "score": 89
     },
     {
@@ -474,16 +464,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
       "published_at": "2026-07-13T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "弱电精密数据镜头下的希格斯玻色子",
-      "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
-      "score": 89
     },
     {
       "id": "e6e2f9e77f870fea",
