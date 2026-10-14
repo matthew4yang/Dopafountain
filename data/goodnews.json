@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14T15:57:07.761957Z",
-  "count": 55,
-  "auto_count": 56,
+  "updated_at": "2026-10-14T20:06:34.042809Z",
+  "count": 57,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -53,16 +53,6 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
       "published_at": "2026-10-07T08:56:44Z",
-      "score": 83
-    },
-    {
-      "id": "691aa25415ad83d2",
-      "category": "古生物学",
-      "title": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种：当代生物学",
-      "text": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种：当代生物学",
-      "source": "Cell Press",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lVUgtNHYyQTBLMThtMW5FanlVdkdGTlJHcDR1LWw3VFRIMXNiVkV5SXpMZ0ItZlI2bi0yUC1xZXQyOTdqT2JyelctN2RqYVJaRUJNVVdVMGdpRXU4Q3UxaWVLSkpiMXhSVllic2RJYURXci1KMFE?oc=5",
-      "published_at": "2026-10-05T23:18:43Z",
       "score": 83
     },
     {
@@ -176,6 +166,16 @@
       "score": 83
     },
     {
+      "id": "c551b2cafb975f57",
+      "category": "粒子物理",
+      "title": "通过 sqrt(s) = 13 TeV 处的矢量玻色子散射搜索希格斯玻色子和两个矢量玻色子的相关产生：Supplem",
+      "text": "通过 sqrt(s) = 13 TeV 处的矢量玻色子散射搜索希格斯玻色子和两个矢量玻色子的相关产生：Supplem",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGZNb1dMaThOcmNVM0F5b3EyQ1R5U0RrX2xwRDhydmEySTdkUU5ScHNfTDh5eGhYRmZDbVhMQlczZlAtMkJMc2ZXNUpvRXREMnRQOGFTOEt0Yms3U3hQOEtoRWlZdkFrOFNVWTZMVWdyY3VwWmZhbnFza2hxbll2Q2R2VEJ5aUJmRWQ0?oc=5",
+      "published_at": "2026-09-05T15:05:12Z",
+      "score": 95
+    },
+    {
       "id": "3fdcf5b6d435a1b9",
       "category": "宇宙探索",
       "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
@@ -252,6 +252,16 @@
       "text": "Borexino 扩展数据集对非标准中微子相互作用的约束",
       "source": "INFN - Istituto Nazionale di Fisica Nucleare",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
+      "published_at": "2026-08-24T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "4635e60f4a0fe05c",
+      "category": "古生物学",
+      "title": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种",
+      "text": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种",
+      "source": "Cell Press",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNGFySHczMmh2MnZCYUg0UnVXcFQ4U1hFTVFNeWtIanlxLUxaZTJLMDRhX3JFcHM3bEliNGJHc1pnVVp3WkJPRVhpZVFJMHluQ1VFRlpNR3FyTFVpQjQ4R1NBOUVxZllwekJDcFVLelJDT0JW?oc=5",
       "published_at": "2026-08-24T07:00:00Z",
       "score": 83
     },
@@ -348,8 +358,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -474,6 +484,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
       "published_at": "2026-07-13T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
     },
     {
       "id": "25be8f7550b50f78",
