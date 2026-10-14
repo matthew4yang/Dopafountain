@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-14T11:35:59.114401Z",
+  "updated_at": "2026-10-14T15:57:07.761957Z",
   "count": 55,
   "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "c172283fa26f4b8b",
+      "category": "宇宙探索",
+      "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
+      "text": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
+      "source": "ALMA Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
+      "published_at": "2026-10-14T13:10:38Z",
+      "score": 83
+    },
     {
       "id": "8f20e2a4a2c95005",
       "category": "古生物学",
@@ -116,6 +126,16 @@
       "score": 83
     },
     {
+      "id": "7db1ba8a89c1c56e",
+      "category": "粒子物理",
+      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
+      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
+      "published_at": "2026-09-14T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "0d76b9d308fae3b0",
       "category": "宇宙探索",
       "title": "新研究揭示了黑洞活动塑造附近星系的常见模式",
@@ -204,16 +224,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm50eXVHa1pKakZ4WGwxVTBwc2Q0QlozVVB3RGJLcjJSZzRiTlBVT1pVdHpZeG0wM1BGOTc2MWpXN3psQ3ZudlFEQkVJLUVrVGlVWU14ejh5WmNGYjJjbE1HQU43b1E2ZE9vbTE1RWlWTzVDX3VFblhITW1HaDJ0WWotX0ZjZ1dHQzNwYmNUeE15MlJkeFVaZVhuWllxcHRVeGdFZFQzYVU?oc=5",
       "published_at": "2026-08-31T20:27:08Z",
       "score": 83
-    },
-    {
-      "id": "4f03b321204fac20",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
-      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中，寻找 Type-X 双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tREVsRDZ6TnBpcmpObS1VS3NkYUpIalluRVdITTU5V0lEZThCbjZfOTk2ZThhcFFJMTRKek9NbEtEbktCMm5FWGtmSG9KRHhTOWRoeTZPdnNCYUxzVl9Oa08wckJrUQ?oc=5",
-      "published_at": "2026-08-28T07:00:00Z",
-      "score": 99
     },
     {
       "id": "00d7621c85110294",
@@ -338,22 +348,12 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "b3942a1306a48894",
-      "category": "宇宙探索",
-      "title": "在 CD-35 2722 系统中探测类月物体",
-      "text": "在 CD-35 2722 系统中探测类月物体",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 89
     },
     {
       "id": "c1e51d28474975e8",
