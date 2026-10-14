@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-14T20:06:34.042809Z",
+  "updated_at": "2026-10-14T23:09:06.213738Z",
   "count": 57,
   "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "dc74846527d66f86",
+      "category": "古生物学",
+      "title": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
+      "text": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5naUoweFF3czZBUEtSem1NbmxfVFI2TzR3UXlXcnpMM2w4bDhyZnBiVzJ0S2duZGdhNjVOVHN2SGhPRGRQZVJUNDNsS0lncWdWR0w3MGt0VzAxNEVYWmd3?oc=5",
+      "published_at": "2026-10-14T19:16:58Z",
+      "score": 83
+    },
     {
       "id": "c172283fa26f4b8b",
       "category": "宇宙探索",
@@ -33,16 +43,6 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
       "published_at": "2026-10-07T19:24:49Z",
-      "score": 83
-    },
-    {
-      "id": "b0237272f0c0e13d",
-      "category": "宇宙探索",
-      "title": "赫拉任务的不可思议的冒险——太空侦探到达",
-      "text": "赫拉任务的不可思议的冒险——太空侦探到达",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHE1Z0tMOHNZUnBUWXNJVDQzU2dvTTJYdkhTNGZGZzYtNGE0WE9Ra3VZMmh4MVBpdVFmeUlDeWxfYkNpN2JOcHV1a25YU1FhaU5ibmRyY0FUN04tZTE5Nm1HbGpKSGJ3enhsOXd1c002c2lWVDltZ0pFSGp0UERvazBNbGFqd1dUcWNjZFI0dERRTVZSTmRlcFd1a2xsaTdsLVUzeGN2MGczQWVUMFN6V3pHUlJwbV9QNGRmWlMzanY?oc=5",
-      "published_at": "2026-10-07T12:13:49Z",
       "score": 83
     },
     {
@@ -113,16 +113,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "7db1ba8a89c1c56e",
-      "category": "粒子物理",
-      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
-      "published_at": "2026-09-14T07:00:00Z",
       "score": 83
     },
     {
@@ -208,8 +198,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -366,6 +356,16 @@
       "score": 83
     },
     {
+      "id": "b3942a1306a48894",
+      "category": "宇宙探索",
+      "title": "在 CD-35 2722 系统中探测类月物体",
+      "text": "在 CD-35 2722 系统中探测类月物体",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "c1e51d28474975e8",
       "category": "粒子物理",
       "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
@@ -398,8 +398,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
