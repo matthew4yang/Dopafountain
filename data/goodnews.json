@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-13T17:05:39.122515Z",
-  "count": 54,
-  "auto_count": 55,
+  "updated_at": "2026-10-14T01:03:13.039100Z",
+  "count": 55,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "8f20e2a4a2c95005",
+      "category": "古生物学",
+      "title": "英国恐龙化石被鉴定为新的长爪掠食者",
+      "text": "英国恐龙化石被鉴定为新的长爪掠食者",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVJiX0ZGOFRYSUFHM2htdmZfTXl2YlBxQVVsMnpLaDhldVpiRk5mRU9WeXo3bzlTYkJEcXNfZktRRnBiU0Nhc2lDcTFSZHNNNVhKTDFCVkdRVUo2SF9aa2hJUkJmVU1kbUFvZTN6NzByNm1SeEY1X1JQaGV6Rlg2VVMtQTNXaWRZS09hbTFIeXdpUmVOQi1FZVZDZDhpLUFzNnZuY3F0MWxqWklZcy14YnJB?oc=5",
+      "published_at": "2026-10-14T00:45:18Z",
+      "score": 89
+    },
     {
       "id": "8d23ec170f16a5a9",
       "category": "宇宙探索",
@@ -378,8 +388,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
