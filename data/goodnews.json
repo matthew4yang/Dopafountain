@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14T06:00:27.112931Z",
-  "count": 56,
-  "auto_count": 57,
+  "updated_at": "2026-10-14T11:35:59.114401Z",
+  "count": 55,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -113,16 +113,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "7db1ba8a89c1c56e",
-      "category": "粒子物理",
-      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
-      "published_at": "2026-09-14T07:00:00Z",
       "score": 83
     },
     {
@@ -486,16 +476,6 @@
       "score": 83
     },
     {
-      "id": "e6e2f9e77f870fea",
-      "category": "宇宙探索",
-      "title": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "text": "首次完成的洛基世界计划观测开启了系外行星研究的新时代",
-      "source": "STScI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU9TWlJBSEdZTEE5Zzl0bjVCdGhOTGd3SDVTUHlKVzBMdWpYR1lKVVpiaTJiSVdoTFJHSmRYX2w0VXJRQzN1OGZtRlRUWDV2cEhzaVl5NldKdndBM1VwcFljRTU3OC1ubDlFM19hS1o?oc=5",
-      "published_at": "2026-07-09T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
@@ -503,6 +483,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
+      "score": 83
+    },
+    {
+      "id": "f7e2a8941c233dd3",
+      "category": "宇宙探索",
+      "title": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
+      "text": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
+      "published_at": "2026-07-06T07:00:00Z",
       "score": 83
     },
     {
