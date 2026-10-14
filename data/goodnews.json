@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14T01:03:13.039100Z",
-  "count": 55,
-  "auto_count": 56,
+  "updated_at": "2026-10-14T06:00:27.112931Z",
+  "count": 56,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -12,7 +12,7 @@
       "text": "英国恐龙化石被鉴定为新的长爪掠食者",
       "source": "Natural History Museum",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVJiX0ZGOFRYSUFHM2htdmZfTXl2YlBxQVVsMnpLaDhldVpiRk5mRU9WeXo3bzlTYkJEcXNfZktRRnBiU0Nhc2lDcTFSZHNNNVhKTDFCVkdRVUo2SF9aa2hJUkJmVU1kbUFvZTN6NzByNm1SeEY1X1JQaGV6Rlg2VVMtQTNXaWRZS09hbTFIeXdpUmVOQi1FZVZDZDhpLUFzNnZuY3F0MWxqWklZcy14YnJB?oc=5",
-      "published_at": "2026-10-14T00:45:18Z",
+      "published_at": "2026-10-14T00:48:30Z",
       "score": 89
     },
     {
@@ -64,6 +64,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-03T01:25:45Z",
       "score": 89
+    },
+    {
+      "id": "270599494567a849",
+      "category": "粒子物理",
+      "title": "使用 ATLAS 探测器观测 ${B}_{c}^{*+}$ 介子",
+      "text": "使用 ATLAS 探测器观测 ${B}_{c}^{*+}$ 介子",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Zalk0eUNKWFloazY2am91Q2VWdHh2Z0dRbHI5QzljYTc2ZHNBdkRfWmt1TWUzZTF6TXRoOUswX1hJUEF1NFJtZ1U5dTNaU09YbWZSR3Q4ZG90M3VxX2RZY18zV3BYZw?oc=5",
+      "published_at": "2026-09-28T07:00:00Z",
+      "score": 90
     },
     {
       "id": "583253ef21e6f08a",
@@ -338,8 +348,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -388,8 +398,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
