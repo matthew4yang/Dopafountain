@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T01:43:43.287011Z",
-  "count": 58,
-  "auto_count": 58,
+  "updated_at": "2026-10-15T07:15:30.112515Z",
+  "count": 59,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -104,6 +104,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU41UlFuRnRUWjBYWXVzYWdBdEdiWXYxNWNSRFpQZEJPMnBLZWdkd0hKdjRnY2NhQUZGMlExSjkyNkxWUVRQTUJDaFVSY0tTVVNZSjZQVUVTUWl4WU1wZ0JIcXBCSDFtN1k3WFJscm9QR2NsdFA2MTFFRjBlSFpha0JjbG1ZbDBmUjRWRE53T25pRXM?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "1b074b307e077840",
+      "category": "粒子物理",
+      "title": "补充材料：用于光暗物质探测的非常规材料",
+      "text": "补充材料：用于光暗物质探测的非常规材料",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSF9FVjF6UHVNbU9ZU2J2VFNMbVFJWnJINGpZdnZpdzVDeFJhMm5sZ19WUVpKa21aZUMyekFHdTlWREUxUUFpelR5N2JSRXJhOVVPWFhvczBKZnhDMzlqSWRUb2dFeGxjV3gwU18yUDUxYkZrbUdBQmtkM3V5clFFaldYR3BLaDM4cnZfVEt4cw?oc=5",
+      "published_at": "2026-09-20T21:49:24Z",
+      "score": 83
     },
     {
       "id": "1b041436bc61b51a",
@@ -266,6 +276,16 @@
       "score": 83
     },
     {
+      "id": "ed12480269c2f45f",
+      "category": "宇宙探索",
+      "title": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
+      "text": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLd09QMV84LXVyTVh5NGduSHM1NnJPVVNDb1pWTldKNGFieWhFYWlWTVpXdV9DYXV5UDVNS1NLUXE5dEtBSm92aHJqTkxJcFpNb3pjekpCekdiZ1QzNGpDNVBTdw?oc=5",
+      "published_at": "2026-08-17T15:34:35Z",
+      "score": 83
+    },
+    {
       "id": "24d378dc8a1383e2",
       "category": "粒子物理",
       "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
@@ -358,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -513,16 +533,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
-    },
-    {
-      "id": "f7e2a8941c233dd3",
-      "category": "宇宙探索",
-      "title": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
-      "text": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
-      "published_at": "2026-07-06T07:00:00Z",
       "score": 83
     },
     {
