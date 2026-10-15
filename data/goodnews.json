@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14T23:09:06.213738Z",
-  "count": 57,
-  "auto_count": 57,
+  "updated_at": "2026-10-15T01:43:43.287011Z",
+  "count": 58,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -62,7 +62,7 @@
       "text": "科学月期间：ALMA 敞开大门庆祝观测宇宙 15 周年",
       "source": "ALMA Observatory",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
-      "published_at": "2026-10-03T01:25:45Z",
+      "published_at": "2026-10-02T07:00:00Z",
       "score": 89
     },
     {
@@ -124,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "e59cff50dbe00395",
+      "category": "粒子物理",
+      "title": "精确测量 μ 子电荷不对称性",
+      "text": "精确测量 μ 子电荷不对称性",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
+      "published_at": "2026-09-10T07:00:00Z",
+      "score": 90
     },
     {
       "id": "fa606acd3c8de1b5",
@@ -198,8 +208,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -348,8 +358,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -398,8 +408,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
