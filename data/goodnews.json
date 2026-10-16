@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:09:55.982339Z",
+  "updated_at": "2026-10-16T18:17:30.418947Z",
   "count": 58,
   "auto_count": 58,
   "verified_seed_count": 2,
@@ -82,7 +82,7 @@
       "text": "使用氩气吸收中微子的第一个证据",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
-      "published_at": "2026-09-25T14:30:43Z",
+      "published_at": "2026-09-25T07:00:00Z",
       "score": 90
     },
     {
@@ -94,6 +94,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
+    },
+    {
+      "id": "4c5f476c24c72a02",
+      "category": "宇宙探索",
+      "title": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
+      "text": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSVYyTUNKaUVLZ0haRVlCRTFqT2dXdlFmeEtpNVI1M2duWU14OERvU2xjSU0xYVlsdmVLVGlrUWRJREhuSFE?oc=5",
+      "published_at": "2026-09-23T07:00:00Z",
+      "score": 89
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -523,16 +533,6 @@
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
       "published_at": "2026-07-06T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3f44d5fed8172986",
-      "category": "宇宙探索",
-      "title": "NSF-DOE Rubin 如何每晚绘制宇宙地图",
-      "text": "NSF-DOE Rubin 如何每晚绘制宇宙地图",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cVdxNnByblZZYmU2Unp5cHVJeXFmVnpZOGt0MlFWWmQ1QTNENjBKV3RzTEJSd1BrRVhTTFVFd2F0czY1YXhNa1V3UFl3bDlMSVVvMnd1Nm9BU2M?oc=5",
-      "published_at": "2026-06-30T07:00:00Z",
       "score": 83
     },
     {
