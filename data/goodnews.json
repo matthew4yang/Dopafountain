@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-15T12:49:53.264391Z",
-  "count": 28,
+  "updated_at": "2026-10-16T04:09:29.971827Z",
+  "count": 26,
   "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "91ddd214e6b15eca",
+      "category": "粒子物理",
+      "title": "Search for Dark Matter Annihilation and Decay with Hα Line Emission Supplemental Material",
+      "text": "Search for Dark Matter Annihilation and Decay with Hα Line Emission Supplemental Material",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
+      "published_at": "2026-10-16T01:57:31Z",
+      "score": 90
+    },
     {
       "id": "dc74846527d66f86",
       "category": "古生物学",
@@ -86,16 +96,6 @@
       "score": 78
     },
     {
-      "id": "1b074b307e077840",
-      "category": "粒子物理",
-      "title": "Supplemental Material: Unconventional Materials for Light Dark Matter Detection",
-      "text": "Supplemental Material: Unconventional Materials for Light Dark Matter Detection",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSF9FVjF6UHVNbU9ZU2J2VFNMbVFJWnJINGpZdnZpdzVDeFJhMm5sZ19WUVpKa21aZUMyekFHdTlWREUxUUFpelR5N2JSRXJhOVVPWFhvczBKZnhDMzlqSWRUb2dFeGxjV3gwU18yUDUxYkZrbUdBQmtkM3V5clFFaldYR3BLaDM4cnZfVEt4cw?oc=5",
-      "published_at": "2026-09-20T21:49:24Z",
-      "score": 83
-    },
-    {
       "id": "1b041436bc61b51a",
       "category": "宇宙探索",
       "title": "Smithsonian Astrophysical Observatory Receives $3.6M from Gordon and Betty Moore Foundation to Advance Next-Generation Event Horizon Telescope | Center for Astrophysics | Harvard & Smithsonian",
@@ -114,16 +114,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "703c0b563fef4786",
-      "category": "粒子物理",
-      "title": "Search for neutrino emission from tidal disruption events",
-      "text": "Search for neutrino emission from tidal disruption events",
-      "source": "IceCube Neutrino Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
-      "published_at": "2026-09-09T07:00:00Z",
-      "score": 83
     },
     {
       "id": "2f259e18d03dadfa",
@@ -166,23 +156,13 @@
       "score": 83
     },
     {
-      "id": "ed12480269c2f45f",
-      "category": "宇宙探索",
-      "title": "The Vela supernova remnant imaged by the VLT Survey Telescope",
-      "text": "The Vela supernova remnant imaged by the VLT Survey Telescope",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLd09QMV84LXVyTVh5NGduSHM1NnJPVVNDb1pWTldKNGFieWhFYWlWTVpXdV9DYXV5UDVNS1NLUXE5dEtBSm92aHJqTkxJcFpNb3pjekpCekdiZ1QzNGpDNVBTdw?oc=5",
-      "published_at": "2026-08-17T15:34:35Z",
-      "score": 83
-    },
-    {
-      "id": "b050ee82b7767fdd",
+      "id": "00697891cba65b5a",
       "category": "粒子物理",
-      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
-      "text": "Muon g-2 experiment places new constraints on a forbidden property of muons",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
-      "published_at": "2026-08-12T07:00:00Z",
+      "title": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
+      "text": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
+      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
+      "published_at": "2026-08-24T07:00:00Z",
       "score": 83
     },
     {
@@ -204,16 +184,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "b3942a1306a48894",
-      "category": "宇宙探索",
-      "title": "Detecting a moon-like object in the CD-35 2722 system",
-      "text": "Detecting a moon-like object in the CD-35 2722 system",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSkM5QmpVcHNCaGFZX3dtYWFtLXlvZDk0MC1EbjZSRGUzYkJtc083V3RNbENkQlRkV25uMHpObS03Y2RiRGd4cjA5RVRJcGQxUGNnTU93?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 89
     },
     {
       "id": "8e2923034357b498",
@@ -253,6 +223,16 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
       "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "3f44d5fed8172986",
+      "category": "宇宙探索",
+      "title": "How NSF–DOE Rubin maps the Universe every night",
+      "text": "How NSF–DOE Rubin maps the Universe every night",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cVdxNnByblZZYmU2Unp5cHVJeXFmVnpZOGt0MlFWWmQ1QTNENjBKV3RzTEJSd1BrRVhTTFVFd2F0czY1YXhNa1V3UFl3bDlMSVVvMnd1Nm9BU2M?oc=5",
+      "published_at": "2026-06-30T07:00:00Z",
       "score": 83
     },
     {
