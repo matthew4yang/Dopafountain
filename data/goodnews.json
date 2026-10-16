@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-16T21:36:20.963117Z",
-  "count": 59,
-  "auto_count": 59,
+  "updated_at": "2026-10-16T23:50:36.103878Z",
+  "count": 56,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
-    {
-      "id": "e35897fffb4b37a4",
-      "category": "古生物学",
-      "title": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
-      "text": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYM3JTeXp0LVZwRXVaQldqOTRvUjJPaDBZbkRsVXR0R19kVW5GS1N0TmdwbE12ZWNjZHFYSmlqeFV5X28xeDZnbDMxSmxvVFJ0UlZBTnU5WVNpa1FjY1RxTGRBcmI?oc=5",
-      "published_at": "2026-10-16T18:31:27Z",
-      "score": 83
-    },
     {
       "id": "91ddd214e6b15eca",
       "category": "粒子物理",
@@ -104,16 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
-    },
-    {
-      "id": "4c5f476c24c72a02",
-      "category": "宇宙探索",
-      "title": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
-      "text": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSVYyTUNKaUVLZ0haRVlCRTFqT2dXdlFmeEtpNVI1M2duWU14OERvU2xjSU0xYVlsdmVLVGlrUWRJREhuSFE?oc=5",
-      "published_at": "2026-09-23T07:00:00Z",
-      "score": 89
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -276,16 +256,6 @@
       "score": 83
     },
     {
-      "id": "4635e60f4a0fe05c",
-      "category": "古生物学",
-      "title": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种",
-      "text": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种",
-      "source": "Cell Press",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNGFySHczMmh2MnZCYUg0UnVXcFQ4U1hFTVFNeWtIanlxLUxaZTJLMDRhX3JFcHM3bEliNGJHc1pnVVp3WkJPRVhpZVFJMHluQ1VFRlpNR3FyTFVpQjQ4R1NBOUVxZllwekJDcFVLelJDT0JW?oc=5",
-      "published_at": "2026-08-24T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "ed12480269c2f45f",
       "category": "宇宙探索",
       "title": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
@@ -404,16 +374,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "3db31d98b4ae38e6",
-      "category": "粒子物理",
-      "title": "精密 HL-LHC 物理实验技术",
-      "text": "精密 HL-LHC 物理实验技术",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 83
     },
     {
       "id": "8e2923034357b498",
@@ -543,6 +503,16 @@
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
       "published_at": "2026-07-06T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "3f44d5fed8172986",
+      "category": "宇宙探索",
+      "title": "NSF-DOE Rubin 如何每晚绘制宇宙地图",
+      "text": "NSF-DOE Rubin 如何每晚绘制宇宙地图",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cVdxNnByblZZYmU2Unp5cHVJeXFmVnpZOGt0MlFWWmQ1QTNENjBKV3RzTEJSd1BrRVhTTFVFd2F0czY1YXhNa1V3UFl3bDlMSVVvMnd1Nm9BU2M?oc=5",
+      "published_at": "2026-06-30T07:00:00Z",
       "score": 83
     },
     {
