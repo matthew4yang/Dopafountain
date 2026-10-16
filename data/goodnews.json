@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-16T18:17:30.418947Z",
-  "count": 58,
-  "auto_count": 58,
+  "updated_at": "2026-10-16T21:36:20.963117Z",
+  "count": 59,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "e35897fffb4b37a4",
+      "category": "古生物学",
+      "title": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
+      "text": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYM3JTeXp0LVZwRXVaQldqOTRvUjJPaDBZbkRsVXR0R19kVW5GS1N0TmdwbE12ZWNjZHFYSmlqeFV5X28xeDZnbDMxSmxvVFJ0UlZBTnU5WVNpa1FjY1RxTGRBcmI?oc=5",
+      "published_at": "2026-10-16T18:31:27Z",
+      "score": 83
+    },
     {
       "id": "91ddd214e6b15eca",
       "category": "粒子物理",
