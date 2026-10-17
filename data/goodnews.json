@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-16T23:50:36.103878Z",
+  "updated_at": "2026-10-17T03:58:48.865865Z",
   "count": 56,
   "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "e35897fffb4b37a4",
+      "category": "古生物学",
+      "title": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
+      "text": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYM3JTeXp0LVZwRXVaQldqOTRvUjJPaDBZbkRsVXR0R19kVW5GS1N0TmdwbE12ZWNjZHFYSmlqeFV5X28xeDZnbDMxSmxvVFJ0UlZBTnU5WVNpa1FjY1RxTGRBcmI?oc=5",
+      "published_at": "2026-10-16T18:31:27Z",
+      "score": 83
+    },
     {
       "id": "91ddd214e6b15eca",
       "category": "粒子物理",
@@ -66,16 +76,6 @@
       "score": 89
     },
     {
-      "id": "270599494567a849",
-      "category": "粒子物理",
-      "title": "使用 ATLAS 探测器观测 ${B}_{c}^{*+}$ 介子",
-      "text": "使用 ATLAS 探测器观测 ${B}_{c}^{*+}$ 介子",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Zalk0eUNKWFloazY2am91Q2VWdHh2Z0dRbHI5QzljYTc2ZHNBdkRfWmt1TWUzZTF6TXRoOUswX1hJUEF1NFJtZ1U5dTNaU09YbWZSR3Q4ZG90M3VxX2RZY18zV3BYZw?oc=5",
-      "published_at": "2026-09-28T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
@@ -114,16 +114,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU41UlFuRnRUWjBYWXVzYWdBdEdiWXYxNWNSRFpQZEJPMnBLZWdkd0hKdjRnY2NhQUZGMlExSjkyNkxWUVRQTUJDaFVSY0tTVVNZSjZQVUVTUWl4WU1wZ0JIcXBCSDFtN1k3WFJscm9QR2NsdFA2MTFFRjBlSFpha0JjbG1ZbDBmUjRWRE53T25pRXM?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "1b074b307e077840",
-      "category": "粒子物理",
-      "title": "补充材料：用于光暗物质探测的非常规材料",
-      "text": "补充材料：用于光暗物质探测的非常规材料",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSF9FVjF6UHVNbU9ZU2J2VFNMbVFJWnJINGpZdnZpdzVDeFJhMm5sZ19WUVpKa21aZUMyekFHdTlWREUxUUFpelR5N2JSRXJhOVVPWFhvczBKZnhDMzlqSWRUb2dFeGxjV3gwU18yUDUxYkZrbUdBQmtkM3V5clFFaldYR3BLaDM4cnZfVEt4cw?oc=5",
-      "published_at": "2026-09-20T21:49:24Z",
-      "score": 83
     },
     {
       "id": "1b041436bc61b51a",
@@ -374,6 +364,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "3db31d98b4ae38e6",
+      "category": "粒子物理",
+      "title": "精密 HL-LHC 物理实验技术",
+      "text": "精密 HL-LHC 物理实验技术",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 83
     },
     {
       "id": "8e2923034357b498",
