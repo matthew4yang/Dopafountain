@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T12:22:01.150588Z",
+  "updated_at": "2026-10-17T15:52:42.895652Z",
   "count": 26,
-  "auto_count": 57,
+  "auto_count": 55,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -14,16 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYM3JTeXp0LVZwRXVaQldqOTRvUjJPaDBZbkRsVXR0R19kVW5GS1N0TmdwbE12ZWNjZHFYSmlqeFV5X28xeDZnbDMxSmxvVFJ0UlZBTnU5WVNpa1FjY1RxTGRBcmI?oc=5",
       "published_at": "2026-10-16T18:31:27Z",
       "score": 83
-    },
-    {
-      "id": "91ddd214e6b15eca",
-      "category": "粒子物理",
-      "title": "Search for Dark Matter Annihilation and Decay with Hα Line Emission Supplemental Material",
-      "text": "Search for Dark Matter Annihilation and Decay with Hα Line Emission Supplemental Material",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
-      "published_at": "2026-10-16T01:57:31Z",
-      "score": 90
     },
     {
       "id": "dc74846527d66f86",
@@ -72,7 +62,7 @@
       "text": "Beam tests boost progress on detector technologies for the Future Circular Collider – Home",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T08:56:44Z",
+      "published_at": "2026-10-07T07:00:00Z",
       "score": 83
     },
     {
@@ -116,6 +106,16 @@
       "score": 78
     },
     {
+      "id": "b14bc0cce8d7e347",
+      "category": "宇宙探索",
+      "title": "VST image of the Fornax galaxy cluster",
+      "text": "VST image of the Fornax galaxy cluster",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zUXpSbUNRLTFFNDFaZHF5THpvZnFycmJCa1NfemtYRnBsN0o1TG5qM2w1M1NSRHFSb0dYU3owVVBKUUtJaElWenE3aktvaVYyTDk2RDF6ZVdnNXdkZ21BNnB2N2tsTVJzall6T1dCOWpSSm1T?oc=5",
+      "published_at": "2026-09-17T18:45:46Z",
+      "score": 83
+    },
+    {
       "id": "1b041436bc61b51a",
       "category": "宇宙探索",
       "title": "Smithsonian Astrophysical Observatory Receives $3.6M from Gordon and Betty Moore Foundation to Advance Next-Generation Event Horizon Telescope | Center for Astrophysics | Harvard & Smithsonian",
@@ -136,14 +136,14 @@
       "score": 82
     },
     {
-      "id": "0def6259205820b8",
-      "category": "宇宙探索",
-      "title": "Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
-      "text": "Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
-      "published_at": "2026-09-01T07:00:00Z",
-      "score": 83
+      "id": "0e04b2ca9f1f1f04",
+      "category": "粒子物理",
+      "title": "LZ Sees Surprising Result in Search for Dark Matter",
+      "text": "LZ Sees Surprising Result in Search for Dark Matter",
+      "source": "Brookhaven National Laboratory",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZXgyY0JkZDZHQk1rZEdZc0llM1JaVDRhSTlya3JwNVZvdk5PSXQzQXZJZnA5MGRBNVRGaFFxaXo3STR3dkp0T1d6SDMxX3dBSFJqSVFKc3pnZw?oc=5",
+      "published_at": "2026-09-01T14:07:23Z",
+      "score": 90
     },
     {
       "id": "2faedcd323d5a0d9",
