@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T03:58:48.865865Z",
-  "count": 56,
-  "auto_count": 56,
+  "updated_at": "2026-10-17T08:27:40.379772Z",
+  "count": 57,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -36,6 +36,16 @@
       "score": 83
     },
     {
+      "id": "8f0bf5cd132cca8b",
+      "category": "宇宙探索",
+      "title": "今天的地球，明天的木星：深入了解 Juice 最近的地球飞越",
+      "text": "今天的地球，明天的木星：深入了解 Juice 最近的地球飞越",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1JPa3dOOVU4ak5ROGVLZWJPUk9SWEtYSURpc1ZGRVpiRWxuOFRfcEFUdkFBSklkUTBpQi1NOTZXTjRCdkp2aG5wOVB0SHFyX0dvd1cwQmo3ZjRLaWd1UDl4ZzRWenFNTVdsSllQOFgyWDJFQ2RpTnk4SHVBNmJyUHVZZExHd2FkYl9UYWc4U0ZHZ3A0UGh4aVg2M1Rub1dTVnlocGJyUXZpMlRvbWRPNk56bVJaY0EtT0I4?oc=5",
+      "published_at": "2026-10-14T18:37:23Z",
+      "score": 83
+    },
+    {
       "id": "c172283fa26f4b8b",
       "category": "宇宙探索",
       "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
@@ -63,6 +73,16 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
       "published_at": "2026-10-07T08:56:44Z",
+      "score": 83
+    },
+    {
+      "id": "691aa25415ad83d2",
+      "category": "古生物学",
+      "title": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种：当代生物学",
+      "text": "古代基因组揭示了亚洲中纬度地区一种已灭绝的牛物种：当代生物学",
+      "source": "Cell Press",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lVUgtNHYyQTBLMThtMW5FanlVdkdGTlJHcDR1LWw3VFRIMXNiVkV5SXpMZ0ItZlI2bi0yUC1xZXQyOTdqT2JyelctN2RqYVJaRUJNVVdVMGdpRXU4Q3UxaWVLSkpiMXhSVllic2RJYURXci1KMFE?oc=5",
+      "published_at": "2026-10-05T23:18:43Z",
       "score": 83
     },
     {
@@ -503,16 +523,6 @@
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
       "published_at": "2026-07-06T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3f44d5fed8172986",
-      "category": "宇宙探索",
-      "title": "NSF-DOE Rubin 如何每晚绘制宇宙地图",
-      "text": "NSF-DOE Rubin 如何每晚绘制宇宙地图",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cVdxNnByblZZYmU2Unp5cHVJeXFmVnpZOGt0MlFWWmQ1QTNENjBKV3RzTEJSd1BrRVhTTFVFd2F0czY1YXhNa1V3UFl3bDlMSVVvMnd1Nm9BU2M?oc=5",
-      "published_at": "2026-06-30T07:00:00Z",
       "score": 83
     },
     {
