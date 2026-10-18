@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T22:59:30.277995Z",
-  "count": 55,
-  "auto_count": 55,
+  "updated_at": "2026-10-18T05:39:21.670456Z",
+  "count": 54,
+  "auto_count": 54,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -126,6 +126,16 @@
       "score": 90
     },
     {
+      "id": "b14bc0cce8d7e347",
+      "category": "宇宙探索",
+      "title": "天炉座星系团的 VST 图像",
+      "text": "天炉座星系团的 VST 图像",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zUXpSbUNRLTFFNDFaZHF5THpvZnFycmJCa1NfemtYRnBsN0o1TG5qM2w1M1NSRHFSb0dYU3owVVBKUUtJaElWenE3aktvaVYyTDk2RDF6ZVdnNXdkZ21BNnB2N2tsTVJzall6T1dCOWpSSm1T?oc=5",
+      "published_at": "2026-09-17T18:45:46Z",
+      "score": 83
+    },
+    {
       "id": "1b041436bc61b51a",
       "category": "宇宙探索",
       "title": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
@@ -144,16 +154,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "e59cff50dbe00395",
-      "category": "粒子物理",
-      "title": "精确测量 μ 子电荷不对称性",
-      "text": "精确测量 μ 子电荷不对称性",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
-      "published_at": "2026-09-10T07:00:00Z",
-      "score": 90
     },
     {
       "id": "703c0b563fef4786",
@@ -474,16 +474,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "02e05d7252f4b21a",
-      "category": "宇宙探索",
-      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
-      "published_at": "2026-07-13T07:00:00Z",
-      "score": 83
     },
     {
       "id": "71f9598e7f8ec702",
