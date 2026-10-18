@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-18T14:26:13.424421Z",
-  "count": 54,
-  "auto_count": 54,
+  "updated_at": "2026-10-18T19:34:40.610849Z",
+  "count": 55,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -176,16 +176,6 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -246,14 +236,14 @@
       "score": 99
     },
     {
-      "id": "ed12480269c2f45f",
-      "category": "宇宙探索",
-      "title": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
-      "text": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLd09QMV84LXVyTVh5NGduSHM1NnJPVVNDb1pWTldKNGFieWhFYWlWTVpXdV9DYXV5UDVNS1NLUXE5dEtBSm92aHJqTkxJcFpNb3pjekpCekdiZ1QzNGpDNVBTdw?oc=5",
-      "published_at": "2026-08-17T15:34:35Z",
-      "score": 83
+      "id": "24d378dc8a1383e2",
+      "category": "粒子物理",
+      "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
+      "published_at": "2026-08-13T07:00:00Z",
+      "score": 89
     },
     {
       "id": "b050ee82b7767fdd",
@@ -466,6 +456,16 @@
       "score": 89
     },
     {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "71f9598e7f8ec702",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
@@ -483,6 +483,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
+      "score": 83
+    },
+    {
+      "id": "f7e2a8941c233dd3",
+      "category": "宇宙探索",
+      "title": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
+      "text": "比太阳更古老：天文学家发现星际彗星 3I/ATLAS 起源的新线索",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfcXZSUU5fRHFqdlBiOF9ySExTTEhxdGNKaFhBRDZlYWM4WWlCRDYycC1mblU1cEdlYWE0ZmxuM2pRSWJ6NHJFSGp6ZnB6UXNkMmc?oc=5",
+      "published_at": "2026-07-06T07:00:00Z",
       "score": 83
     },
     {
