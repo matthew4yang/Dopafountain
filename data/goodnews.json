@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-19T00:05:45.787170Z",
-  "count": 24,
-  "auto_count": 55,
+  "updated_at": "2026-10-19T04:28:23.739255Z",
+  "count": 26,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "91ddd214e6b15eca",
+      "category": "粒子物理",
+      "title": "Search for Dark Matter Annihilation and Decay with Hα Line Emission Supplemental Material",
+      "text": "Search for Dark Matter Annihilation and Decay with Hα Line Emission Supplemental Material",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
+      "published_at": "2026-10-16T01:57:31Z",
+      "score": 90
+    },
     {
       "id": "dc74846527d66f86",
       "category": "古生物学",
@@ -96,16 +106,6 @@
       "score": 97
     },
     {
-      "id": "4c5f476c24c72a02",
-      "category": "宇宙探索",
-      "title": "Asteroid Apophis 2029 Earth Flyby – Orbit Visualizations",
-      "text": "Asteroid Apophis 2029 Earth Flyby – Orbit Visualizations",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSVYyTUNKaUVLZ0haRVlCRTFqT2dXdlFmeEtpNVI1M2duWU14OERvU2xjSU0xYVlsdmVLVGlrUWRJREhuSFE?oc=5",
-      "published_at": "2026-09-23T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -144,16 +144,6 @@
       "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
       "published_at": "2026-09-03T00:00:00Z",
       "score": 82
-    },
-    {
-      "id": "0e04b2ca9f1f1f04",
-      "category": "粒子物理",
-      "title": "LZ Sees Surprising Result in Search for Dark Matter",
-      "text": "LZ Sees Surprising Result in Search for Dark Matter",
-      "source": "Brookhaven National Laboratory",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZXgyY0JkZDZHQk1rZEdZc0llM1JaVDRhSTlya3JwNVZvdk5PSXQzQXZJZnA5MGRBNVRGaFFxaXo3STR3dkp0T1d6SDMxX3dBSFJqSVFKc3pnZw?oc=5",
-      "published_at": "2026-09-01T14:07:23Z",
-      "score": 90
     },
     {
       "id": "2faedcd323d5a0d9",
@@ -216,6 +206,26 @@
       "score": 83
     },
     {
+      "id": "8e2923034357b498",
+      "category": "宇宙探索",
+      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
+      "text": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
+      "published_at": "2026-07-17T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "450e0edaa1333316",
+      "category": "宇宙探索",
+      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
+      "text": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "de7a8bfa1e109d2e",
       "category": "古生物学",
       "title": "The earliest amber from the Middle Devonian of China",
@@ -223,6 +233,16 @@
       "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "Sharpest map yet of a galaxy’s heavy elements shows how black holes shape galaxies",
+      "text": "Sharpest map yet of a galaxy’s heavy elements shows how black holes shape galaxies",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
       "score": 83
     },
     {
