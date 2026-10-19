@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19T17:07:58.835177Z",
-  "count": 56,
-  "auto_count": 57,
+  "updated_at": "2026-10-19T21:42:33.604057Z",
+  "count": 57,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -274,6 +274,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbHNKM0J6NzdDamZCRW01MElncnV3Q3k1eGp1VXhMclFLanZjdE96bG81QURJV1p2SHF5dm5QRktsazlRS2xJQWE1V05vLUZDTkNSMHpMZWF0TmhreEd6U0s5RmhPdw?oc=5",
       "published_at": "2026-08-27T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "036f9d6cfb5779ba",
+      "category": "古生物学",
+      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
+      "published_at": "2026-08-25T17:33:06Z",
+      "score": 99
     },
     {
       "id": "ed12480269c2f45f",
