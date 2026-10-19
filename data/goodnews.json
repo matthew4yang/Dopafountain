@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-10-19T10:11:48.085638Z",
-  "count": 54,
-  "auto_count": 55,
+  "updated_at": "2026-10-19T17:07:58.835177Z",
+  "count": 56,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "13f503371f7f9101",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
+      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91T3hHZ21MUVNLcWt0X3N4Rk9SVEExVjV3Uk9DQ3pHTVVYQkk4alZKVWJhenZrZjVuRFVfNjlnV0wwa1RZTUc3emVkMWpaUU5JLWEwd0RlT25ycF9GUGc1eFd0S21BQQ?oc=5",
+      "published_at": "2026-10-19T14:40:43Z",
+      "score": 99
+    },
+    {
+      "id": "8f19f30f3b10fd77",
+      "category": "粒子物理",
+      "title": "通过超导自旋混合磁力计寻找轴子暗物质",
+      "text": "通过超导自旋混合磁力计寻找轴子暗物质",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZll3NzVHZmE5ZGtfVU5YV1FQYVpGTmxvd014UEJJQ0h4Z0pHbmt1UU9zb2UtOEs4dFZUMWxfbWsyRWl4VkEtTlByaVk3VllJMDBydE5wXzRnV1VJeHJPdGNXZmFRUQ?oc=5",
+      "published_at": "2026-10-19T14:40:43Z",
+      "score": 89
+    },
+    {
+      "id": "977283c3d7407c85",
+      "category": "宇宙探索",
+      "title": "欧几里得发现新彗星",
+      "text": "欧几里得发现新彗星",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHFNVUFoWnIzTEloTERZUFRHTkVNMmg1VWVPUEE1cmRwM0ZnTGZvaU51VHNYajk3X21veG1KWkxXMjV3ZnBUNUIyWlZsYUJiaHBtVmxlMklkMFNBcThJZzRhR3pobU1hRkh2ZFBDTnN3ajUxajJ6c3JySlUzTXVrb1NQNWEweklibHRkOThOTTQ?oc=5",
+      "published_at": "2026-10-19T12:29:18Z",
+      "score": 83
+    },
     {
       "id": "91ddd214e6b15eca",
       "category": "粒子物理",
@@ -26,11 +56,11 @@
       "score": 83
     },
     {
-      "id": "c172283fa26f4b8b",
+      "id": "32fd5afd8bfff203",
       "category": "宇宙探索",
       "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
       "text": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
-      "source": "ALMA Observatory",
+      "source": "Observatorio ALMA",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
       "published_at": "2026-10-14T13:10:38Z",
       "score": 83
@@ -196,16 +226,6 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -254,16 +274,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbHNKM0J6NzdDamZCRW01MElncnV3Q3k1eGp1VXhMclFLanZjdE96bG81QURJV1p2SHF5dm5QRktsazlRS2xJQWE1V05vLUZDTkNSMHpMZWF0TmhreEd6U0s5RmhPdw?oc=5",
       "published_at": "2026-08-27T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-08-25T17:33:06Z",
-      "score": 99
     },
     {
       "id": "ed12480269c2f45f",
@@ -358,8 +368,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -386,6 +396,16 @@
       "score": 83
     },
     {
+      "id": "a24d54d9acc181c2",
+      "category": "粒子物理",
+      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
+      "published_at": "2026-07-20T07:00:00Z",
+      "score": 96
+    },
+    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -398,8 +418,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
