@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T19:57:33.913785Z",
-  "count": 60,
-  "auto_count": 61,
+  "updated_at": "2026-10-20T23:05:13.701415Z",
+  "count": 59,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -16,14 +16,14 @@
       "score": 83
     },
     {
-      "id": "13f503371f7f9101",
+      "id": "93a419dbed289966",
       "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
+      "title": "COHERENT 测量锗上的相干弹性中微子核散射",
+      "text": "COHERENT 测量锗上的相干弹性中微子核散射",
       "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91T3hHZ21MUVNLcWt0X3N4Rk9SVEExVjV3Uk9DQ3pHTVVYQkk4alZKVWJhenZrZjVuRFVfNjlnV0wwa1RZTUc3emVkMWpaUU5JLWEwd0RlT25ycF9GUGc1eFd0S21BQQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 99
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aV28xSDlwc0hMUU4wTzBfTkNmOGh6X1M5OU9tWjUwYjNUaXpKb2JicjZxVVlOWEdUTWxNamxjWUZZV3M3STB3dkNGSTVVb0VqX3BWSmtScy1PMWVYSTdZWTZ1UkxWUQ?oc=5",
+      "published_at": "2026-10-20T12:55:10Z",
+      "score": 83
     },
     {
       "id": "8f19f30f3b10fd77",
@@ -258,8 +258,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -276,16 +276,6 @@
       "score": 83
     },
     {
-      "id": "00d7621c85110294",
-      "category": "粒子物理",
-      "title": "COHERENT 测量锗上的相干弹性中微子核散射",
-      "text": "COHERENT 测量锗上的相干弹性中微子核散射",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbHNKM0J6NzdDamZCRW01MElncnV3Q3k1eGp1VXhMclFLanZjdE96bG81QURJV1p2SHF5dm5QRktsazlRS2xJQWE1V05vLUZDTkNSMHpMZWF0TmhreEd6U0s5RmhPdw?oc=5",
-      "published_at": "2026-08-27T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "036f9d6cfb5779ba",
       "category": "古生物学",
       "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
@@ -294,6 +284,16 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
       "published_at": "2026-08-25T17:33:06Z",
       "score": 99
+    },
+    {
+      "id": "ed12480269c2f45f",
+      "category": "宇宙探索",
+      "title": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
+      "text": "VLT 巡天望远镜拍摄到的船帆座超新星遗迹",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLd09QMV84LXVyTVh5NGduSHM1NnJPVVNDb1pWTldKNGFieWhFYWlWTVpXdV9DYXV5UDVNS1NLUXE5dEtBSm92aHJqTkxJcFpNb3pjekpCekdiZ1QzNGpDNVBTdw?oc=5",
+      "published_at": "2026-08-17T15:34:35Z",
+      "score": 83
     },
     {
       "id": "b050ee82b7767fdd",
@@ -378,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -544,16 +544,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
       "score": 83
-    },
-    {
-      "id": "20f102612d56f7ac",
-      "category": "宇宙探索",
-      "title": "星际彗星 3I/ATLAS 的 VLT 图像（2026 年 1 月 18 日）",
-      "text": "星际彗星 3I/ATLAS 的 VLT 图像（2026 年 1 月 18 日）",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWjEwNmdiZXBrTTZfdWx1dlZBaGlJUmpMemRjUkQxekJVTmkwTlpPVEMzejF0NWNmTDJZZ2dySVdQejVtejEzcHIyVGFiemJNLXVodFBn?oc=5",
-      "published_at": "2026-07-06T07:00:00Z",
-      "score": 89
     },
     {
       "id": "360d7e8ba421608b",
