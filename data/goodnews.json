@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-20T15:48:37.743250Z",
-  "count": 59,
-  "auto_count": 60,
+  "updated_at": "2026-10-20T19:57:33.913785Z",
+  "count": 60,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -186,6 +186,16 @@
       "score": 83
     },
     {
+      "id": "b2d84bfcf027a39a",
+      "category": "粒子物理",
+      "title": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
+      "text": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJb0pyTVJIcUl5TmRJVWNEWnFqcVZUcWNpNDVDXy1tQTd3Wm5ROFN1cnBXY09waFBYMVZiM2ZoOVQ2ZGd0Y19la3dzZzVOWFAyaEJWUFhMWGQ0cENZRWQwUUhzVmZzZw?oc=5",
+      "published_at": "2026-09-17T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -248,8 +258,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -368,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
