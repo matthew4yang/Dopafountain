@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19T21:42:33.604057Z",
-  "count": 57,
-  "auto_count": 58,
+  "updated_at": "2026-10-20T01:00:48.736139Z",
+  "count": 58,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -136,16 +136,6 @@
       "score": 97
     },
     {
-      "id": "4c5f476c24c72a02",
-      "category": "宇宙探索",
-      "title": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
-      "text": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSVYyTUNKaUVLZ0haRVlCRTFqT2dXdlFmeEtpNVI1M2duWU14OERvU2xjSU0xYVlsdmVLVGlrUWRJREhuSFE?oc=5",
-      "published_at": "2026-09-23T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -182,6 +172,16 @@
       "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
+      "published_at": "2026-09-17T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "b2d84bfcf027a39a",
+      "category": "粒子物理",
+      "title": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
+      "text": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJb0pyTVJIcUl5TmRJVWNEWnFqcVZUcWNpNDVDXy1tQTd3Wm5ROFN1cnBXY09waFBYMVZiM2ZoOVQ2ZGd0Y19la3dzZzVOWFAyaEJWUFhMWGQ0cENZRWQwUUhzVmZzZw?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
       "score": 83
     },
@@ -378,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -504,6 +504,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
     },
     {
       "id": "71f9598e7f8ec702",
