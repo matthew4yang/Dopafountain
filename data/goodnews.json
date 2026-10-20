@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-20T11:18:09.339560Z",
-  "count": 57,
-  "auto_count": 58,
+  "updated_at": "2026-10-20T15:48:37.743250Z",
+  "count": 59,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "a9d2986b25fcc8d7",
+      "category": "粒子物理",
+      "title": "-Pb+Pb 碰撞中的介子椭圆流",
+      "text": "-Pb+Pb 碰撞中的介子椭圆流",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQTZtTjdlQng5S2pBSVgwYWNJWXZ1QmN1dHNHZDNPV0tTajBQbWttLTJtWmlOSlB2Z3JwdmRZZ3pJcDl1blRUeHF3em13WWk4amk2eEQyLUZxUFhqb1lEaDc1ME5udw?oc=5",
+      "published_at": "2026-10-20T13:56:23Z",
+      "score": 83
+    },
     {
       "id": "13f503371f7f9101",
       "category": "粒子物理",
@@ -134,16 +144,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
-    },
-    {
-      "id": "4c5f476c24c72a02",
-      "category": "宇宙探索",
-      "title": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
-      "text": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSVYyTUNKaUVLZ0haRVlCRTFqT2dXdlFmeEtpNVI1M2duWU14OERvU2xjSU0xYVlsdmVLVGlrUWRJREhuSFE?oc=5",
-      "published_at": "2026-09-23T07:00:00Z",
-      "score": 89
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -396,6 +396,16 @@
       "score": 83
     },
     {
+      "id": "5e6409c4013bb78d",
+      "category": "粒子物理",
+      "title": "暗物质探测器面临的挑战",
+      "text": "暗物质探测器面临的挑战",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEd0Tnc0b2pPRDhjdE51amx2dm56QTAyQnV0bkc1bVJaU25mYm80bDFtbC03YWVfelUtMDFFV2E3Rk9xUHFfeEhtOVVkZHNOVTFmTDRDZF9KY0pnZmdWOWhPMVpRRE1KaTdjOXNKWUJaVzI2OXFLZnVTVkVhX3Y3c1ZnXzRkZ0YxV1JBNjRlcXB5eEI4RHBVcGhYU2pxQQ?oc=5",
+      "published_at": "2026-07-21T08:03:03Z",
+      "score": 83
+    },
+    {
       "id": "a24d54d9acc181c2",
       "category": "粒子物理",
       "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
@@ -524,6 +534,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
       "published_at": "2026-07-08T15:11:59Z",
       "score": 83
+    },
+    {
+      "id": "20f102612d56f7ac",
+      "category": "宇宙探索",
+      "title": "星际彗星 3I/ATLAS 的 VLT 图像（2026 年 1 月 18 日）",
+      "text": "星际彗星 3I/ATLAS 的 VLT 图像（2026 年 1 月 18 日）",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWjEwNmdiZXBrTTZfdWx1dlZBaGlJUmpMemRjUkQxekJVTmkwTlpPVEMzejF0NWNmTDJZZ2dySVdQejVtejEzcHIyVGFiemJNLXVodFBn?oc=5",
+      "published_at": "2026-07-06T07:00:00Z",
+      "score": 89
     },
     {
       "id": "360d7e8ba421608b",
