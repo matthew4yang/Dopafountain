@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21T01:28:25.136030Z",
-  "count": 59,
-  "auto_count": 60,
+  "updated_at": "2026-10-21T06:27:55.810948Z",
+  "count": 56,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -26,16 +26,6 @@
       "score": 83
     },
     {
-      "id": "8f19f30f3b10fd77",
-      "category": "粒子物理",
-      "title": "通过超导自旋混合磁力计寻找轴子暗物质",
-      "text": "通过超导自旋混合磁力计寻找轴子暗物质",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZll3NzVHZmE5ZGtfVU5YV1FQYVpGTmxvd014UEJJQ0h4Z0pHbmt1UU9zb2UtOEs4dFZUMWxfbWsyRWl4VkEtTlByaVk3VllJMDBydE5wXzRnV1VJeHJPdGNXZmFRUQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 89
-    },
-    {
       "id": "977283c3d7407c85",
       "category": "宇宙探索",
       "title": "欧几里得发现新彗星",
@@ -43,26 +33,6 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHFNVUFoWnIzTEloTERZUFRHTkVNMmg1VWVPUEE1cmRwM0ZnTGZvaU51VHNYajk3X21veG1KWkxXMjV3ZnBUNUIyWlZsYUJiaHBtVmxlMklkMFNBcThJZzRhR3pobU1hRkh2ZFBDTnN3ajUxajJ6c3JySlUzTXVrb1NQNWEweklibHRkOThOTTQ?oc=5",
       "published_at": "2026-10-19T12:29:18Z",
-      "score": 83
-    },
-    {
-      "id": "e35897fffb4b37a4",
-      "category": "古生物学",
-      "title": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
-      "text": "牙齿化石中的双 Nd 同位素档案揭示了深海沉积物中稀土元素富集的底流控制",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fXzNVUUFlUXJraHV3MTRKYzVRZzlJdVdwRS1DRlVwbzFOaG1ORzlEMjlfWVg0RkhBaDlSOUFkRXVUbHpiMnpvR0tPeHRDeXRGdUxVMDlJZE55enVMNGpB?oc=5",
-      "published_at": "2026-10-16T18:31:39Z",
-      "score": 83
-    },
-    {
-      "id": "dc74846527d66f86",
-      "category": "古生物学",
-      "title": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
-      "text": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5naUoweFF3czZBUEtSem1NbmxfVFI2TzR3UXlXcnpMM2w4bDhyZnBiVzJ0S2duZGdhNjVOVHN2SGhPRGRQZVJUNDNsS0lncWdWR0w3MGt0VzAxNEVYWmd3?oc=5",
-      "published_at": "2026-10-14T19:16:58Z",
       "score": 83
     },
     {
@@ -268,8 +238,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -378,8 +348,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -438,8 +408,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
