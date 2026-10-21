@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21T06:27:55.810948Z",
-  "count": 56,
-  "auto_count": 57,
+  "updated_at": "2026-10-21T12:14:39.116521Z",
+  "count": 57,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -33,6 +33,16 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHFNVUFoWnIzTEloTERZUFRHTkVNMmg1VWVPUEE1cmRwM0ZnTGZvaU51VHNYajk3X21veG1KWkxXMjV3ZnBUNUIyWlZsYUJiaHBtVmxlMklkMFNBcThJZzRhR3pobU1hRkh2ZFBDTnN3ajUxajJ6c3JySlUzTXVrb1NQNWEweklibHRkOThOTTQ?oc=5",
       "published_at": "2026-10-19T12:29:18Z",
+      "score": 83
+    },
+    {
+      "id": "dc74846527d66f86",
+      "category": "古生物学",
+      "title": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
+      "text": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5naUoweFF3czZBUEtSem1NbmxfVFI2TzR3UXlXcnpMM2w4bDhyZnBiVzJ0S2duZGdhNjVOVHN2SGhPRGRQZVJUNDNsS0lncWdWR0w3MGt0VzAxNEVYWmd3?oc=5",
+      "published_at": "2026-10-14T19:16:58Z",
       "score": 83
     },
     {
@@ -136,6 +146,16 @@
       "score": 78
     },
     {
+      "id": "0436e13515fa7fcf",
+      "category": "粒子物理",
+      "title": "在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 处的质子-质子碰撞中具有低动量孤立轨迹的压缩谱场景中搜索电弱子",
+      "text": "在 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 处的质子-质子碰撞中具有低动量孤立轨迹的压缩谱场景中搜索电弱子",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sTGtrQ2p0UDhWcTIySGhadXM2cXR1VXU0U1FrbkU5T1duNW9adDRfLS1mREtRN2xMcDItSzJOWUhpNnB6d2lJWF9PV0JJZVZ5ZmpVQ1c4SU5PbC15Tm5JT3V2QWxJdw?oc=5",
+      "published_at": "2026-09-22T07:00:00Z",
+      "score": 96
+    },
+    {
       "id": "f009c63eb97a5bdd",
       "category": "宇宙探索",
       "title": "美国宇航局的发现揭示了早期火星上复杂的水系统",
@@ -216,6 +236,16 @@
       "score": 83
     },
     {
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRkNJZ0xqckZWS1ZlbjRTSUl0RWZNRlhxdlFUdGdrNWF4b0ZPV0tXU1h6bmdYR0UxXzdGa1FvRzFqUkIzRkU5aWlOWmZPX2F3d0dHdDUwZENpOUNPMW1GdFJ6NFBLdU5hM3dsTQ?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
+    },
+    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -254,16 +284,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm50eXVHa1pKakZ4WGwxVTBwc2Q0QlozVVB3RGJLcjJSZzRiTlBVT1pVdHpZeG0wM1BGOTc2MWpXN3psQ3ZudlFEQkVJLUVrVGlVWU14ejh5WmNGYjJjbE1HQU43b1E2ZE9vbTE1RWlWTzVDX3VFblhITW1HaDJ0WWotX0ZjZ1dHQzNwYmNUeE15MlJkeFVaZVhuWllxcHRVeGdFZFQzYVU?oc=5",
       "published_at": "2026-08-31T20:27:08Z",
       "score": 83
-    },
-    {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-08-25T17:33:06Z",
-      "score": 99
     },
     {
       "id": "b050ee82b7767fdd",
@@ -484,16 +504,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "02e05d7252f4b21a",
-      "category": "宇宙探索",
-      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
-      "published_at": "2026-07-13T07:00:00Z",
-      "score": 83
     },
     {
       "id": "71f9598e7f8ec702",
