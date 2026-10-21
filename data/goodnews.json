@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-21T20:53:05.093662Z",
-  "count": 25,
+  "updated_at": "2026-10-21T23:58:32.753572Z",
+  "count": 24,
   "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
-    {
-      "id": "a9d2986b25fcc8d7",
-      "category": "粒子物理",
-      "title": "-meson elliptic flow in Pb+Pb collisions at",
-      "text": "-meson elliptic flow in Pb+Pb collisions at",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQTZtTjdlQng5S2pBSVgwYWNJWXZ1QmN1dHNHZDNPV0tTajBQbWttLTJtWmlOSlB2Z3JwdmRZZ3pJcDl1blRUeHF3em13WWk4amk2eEQyLUZxUFhqb1lEaDc1ME5udw?oc=5",
-      "published_at": "2026-10-20T13:56:23Z",
-      "score": 83
-    },
     {
       "id": "93a419dbed289966",
       "category": "粒子物理",
@@ -76,16 +66,6 @@
       "score": 90
     },
     {
-      "id": "8d23ec170f16a5a9",
-      "category": "宇宙探索",
-      "title": "ESA Graduate Trainee in Remote Sensing Earth Observation Mission Concept Development",
-      "text": "ESA Graduate Trainee in Remote Sensing Earth Observation Mission Concept Development",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "65e8a1146a356eb2",
       "category": "粒子物理",
       "title": "Beam tests boost progress on detector technologies for the Future Circular Collider – Home",
@@ -134,6 +114,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
+    },
+    {
+      "id": "3ad10587cee2946c",
+      "category": "粒子物理",
+      "title": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+      "text": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Vk42VzExNDZoS3BCOWo0enhKX29hTHBOQ3cxRVNLUllvNXpWX1h6eGwwWU9pZHRsaTJtSm80R0ZFWDl5NEdJX0s3OF9jZmtvRGZoTkFYaFI5elYyOWxFa1NIUEdkZw?oc=5",
+      "published_at": "2026-09-23T06:20:08Z",
+      "score": 99
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -196,16 +186,6 @@
       "score": 83
     },
     {
-      "id": "c1e51d28474975e8",
-      "category": "粒子物理",
-      "title": "CMS Run-2 search for a boosted dark Higgs boson decaying into a bottom quark-antiquark pair",
-      "text": "CMS Run-2 search for a boosted dark Higgs boson decaying into a bottom quark-antiquark pair",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "3db31d98b4ae38e6",
       "category": "粒子物理",
       "title": "Experimental Techniques for Precision HL-LHC Physics",
@@ -243,6 +223,16 @@
       "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "Sharpest map yet of a galaxy’s heavy elements shows how black holes shape galaxies",
+      "text": "Sharpest map yet of a galaxy’s heavy elements shows how black holes shape galaxies",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
       "score": 83
     },
     {
