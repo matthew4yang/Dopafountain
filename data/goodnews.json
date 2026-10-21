@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:14:39.116521Z",
+  "updated_at": "2026-10-21T17:35:51.391146Z",
   "count": 57,
   "auto_count": 58,
   "verified_seed_count": 2,
@@ -46,11 +46,11 @@
       "score": 83
     },
     {
-      "id": "32fd5afd8bfff203",
+      "id": "c172283fa26f4b8b",
       "category": "宇宙探索",
       "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
       "text": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
-      "source": "Observatorio ALMA",
+      "source": "ALMA Observatory",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
       "published_at": "2026-10-14T13:10:38Z",
       "score": 83
@@ -216,6 +216,16 @@
       "score": 83
     },
     {
+      "id": "e59cff50dbe00395",
+      "category": "粒子物理",
+      "title": "精确测量 μ 子电荷不对称性",
+      "text": "精确测量 μ 子电荷不对称性",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
+      "published_at": "2026-09-10T07:00:00Z",
+      "score": 90
+    },
+    {
       "id": "703c0b563fef4786",
       "category": "粒子物理",
       "title": "寻找潮汐破坏事件中的中微子排放",
@@ -268,8 +278,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -368,8 +378,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -503,16 +513,6 @@
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "弱电精密数据镜头下的希格斯玻色子",
-      "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
       "score": 89
     },
     {
