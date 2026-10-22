@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-22T04:17:25.886236Z",
-  "count": 59,
-  "auto_count": 61,
+  "updated_at": "2026-10-22T09:34:24.387743Z",
+  "count": 58,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "a9d2986b25fcc8d7",
+      "category": "粒子物理",
+      "title": "-Pb+Pb 碰撞中的介子椭圆流",
+      "text": "-Pb+Pb 碰撞中的介子椭圆流",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQTZtTjdlQng5S2pBSVgwYWNJWXZ1QmN1dHNHZDNPV0tTajBQbWttLTJtWmlOSlB2Z3JwdmRZZ3pJcDl1blRUeHF3em13WWk4amk2eEQyLUZxUFhqb1lEaDc1ME5udw?oc=5",
+      "published_at": "2026-10-20T13:56:23Z",
+      "score": 83
+    },
     {
       "id": "93a419dbed289966",
       "category": "粒子物理",
@@ -13,6 +23,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aV28xSDlwc0hMUU4wTzBfTkNmOGh6X1M5OU9tWjUwYjNUaXpKb2JicjZxVVlOWEdUTWxNamxjWUZZV3M3STB3dkNGSTVVb0VqX3BWSmtScy1PMWVYSTdZWTZ1UkxWUQ?oc=5",
       "published_at": "2026-10-20T12:55:10Z",
+      "score": 83
+    },
+    {
+      "id": "fdc9823de901a7e8",
+      "category": "宇宙探索",
+      "title": "研究发现银河系中心黑洞周围的气体富含金属",
+      "text": "研究发现银河系中心黑洞周围的气体富含金属",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
+      "published_at": "2026-10-20T07:00:00Z",
       "score": 83
     },
     {
@@ -268,8 +288,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -388,8 +408,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -516,26 +536,6 @@
       "score": 83
     },
     {
-      "id": "8484ae7aebe9d8a2",
-      "category": "宇宙探索",
-      "title": "雷达观测到的小行星和彗星任务目标",
-      "text": "雷达观测到的小行星和彗星任务目标",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
-      "published_at": "2026-07-14T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "弱电精密数据镜头下的希格斯玻色子",
-      "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
@@ -583,16 +583,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
       "published_at": "2026-06-19T12:52:54Z",
-      "score": 83
-    },
-    {
-      "id": "2102601a1bc0c299",
-      "category": "粒子物理",
-      "title": "LHCb 发现了双重魅力粒子家族最后失踪的成员 – 家",
-      "text": "LHCb 发现了双重魅力粒子家族最后失踪的成员 – 家",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGhLdkNuQllzNXlkUmU0TGo1M2pvUG56eUVyZk12bE0zMWtSTFg1cC1kQU85c2Y0RExaRFZTZVEtckJjQ01yQTB1V3hVVFBmd2hTRVhBb0o0S1NWLXBtN1I3cThpQ05KQUZkb1RsWDJNb2pza2czSllsb0pfRnB6SWlCcG9KOEhLLXFrNXVhdmxnRmVQNWRZVDdB?oc=5",
-      "published_at": "2026-06-18T07:00:00Z",
       "score": 83
     }
   ]
