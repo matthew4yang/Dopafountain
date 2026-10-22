@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-22T09:34:24.387743Z",
-  "count": 58,
-  "auto_count": 60,
+  "updated_at": "2026-10-22T14:37:46.684667Z",
+  "count": 56,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "0365cee34ee841c8",
+      "category": "粒子物理",
+      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
+      "published_at": "2026-10-21T00:56:56Z",
+      "score": 89
+    },
     {
       "id": "a9d2986b25fcc8d7",
       "category": "粒子物理",
@@ -46,16 +56,6 @@
       "score": 83
     },
     {
-      "id": "dc74846527d66f86",
-      "category": "古生物学",
-      "title": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
-      "text": "侏罗纪不会飞的鸟揭示了鸟类的早期生态多样性",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5naUoweFF3czZBUEtSem1NbmxfVFI2TzR3UXlXcnpMM2w4bDhyZnBiVzJ0S2duZGdhNjVOVHN2SGhPRGRQZVJUNDNsS0lncWdWR0w3MGt0VzAxNEVYWmd3?oc=5",
-      "published_at": "2026-10-14T19:16:58Z",
-      "score": 83
-    },
-    {
       "id": "c172283fa26f4b8b",
       "category": "宇宙探索",
       "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
@@ -72,7 +72,7 @@
       "text": "英国恐龙化石被鉴定为新的长爪掠食者",
       "source": "Natural History Museum",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVJiX0ZGOFRYSUFHM2htdmZfTXl2YlBxQVVsMnpLaDhldVpiRk5mRU9WeXo3bzlTYkJEcXNfZktRRnBiU0Nhc2lDcTFSZHNNNVhKTDFCVkdRVUo2SF9aa2hJUkJmVU1kbUFvZTN6NzByNm1SeEY1X1JQaGV6Rlg2VVMtQTNXaWRZS09hbTFIeXdpUmVOQi1FZVZDZDhpLUFzNnZuY3F0MWxqWklZcy14YnJB?oc=5",
-      "published_at": "2026-10-14T00:48:30Z",
+      "published_at": "2026-10-14T07:00:00Z",
       "score": 89
     },
     {
@@ -244,26 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
-      "score": 83
-    },
-    {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRkNJZ0xqckZWS1ZlbjRTSUl0RWZNRlhxdlFUdGdrNWF4b0ZPV0tXU1h6bmdYR0UxXzdGa1FvRzFqUkIzRkU5aWlOWmZPX2F3d0dHdDUwZENpOUNPMW1GdFJ6NFBLdU5hM3dsTQ?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -536,6 +516,16 @@
       "score": 83
     },
     {
+      "id": "8484ae7aebe9d8a2",
+      "category": "宇宙探索",
+      "title": "雷达观测到的小行星和彗星任务目标",
+      "text": "雷达观测到的小行星和彗星任务目标",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
+      "published_at": "2026-07-14T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "25be8f7550b50f78",
       "category": "粒子物理",
       "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
@@ -573,16 +563,6 @@
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
       "published_at": "2026-06-22T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "51c8a8b022bbde95",
-      "category": "粒子物理",
-      "title": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "text": "$D$-通过高能核碰撞中的顺序强子化产生介子",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMnBBaS1kOVZubWhkMVJIX2x5RlhlYjJ6eXEwX21RMUNXMk9fQTJpRjVxZUpROEhXaUc2Q01mcmpCbVRhT1VNa2tyQXlpandITU4yN1A2MmhBbFEtZ3hvOEdRWU14UQ?oc=5",
-      "published_at": "2026-06-19T12:52:54Z",
       "score": 83
     }
   ]
