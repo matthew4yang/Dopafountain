@@ -1,30 +1,10 @@
 {
-  "updated_at": "2026-10-22T19:07:49.022619Z",
-  "count": 60,
-  "auto_count": 62,
+  "updated_at": "2026-10-22T22:16:08.649384Z",
+  "count": 54,
+  "auto_count": 56,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
-    {
-      "id": "e9dd2c5c67108687",
-      "category": "粒子物理",
-      "title": "搜索低质量希格斯态@BABAR",
-      "text": "搜索低质量希格斯态@BABAR",
-      "source": "SLAC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdkJtVjFGVTJsWk9DdUY1dHlXSHZXSjdtdVFWbjdEaG9ZLUtMMUliYmZMbHo4bGFZRlVyZmhmS0xkY1h3a01MY0RQLVlqR0hvNWlVOER3eUs2UzU5Nk1TQjJia0JBWDZKc2xGdkp5bjEzUQ?oc=5",
-      "published_at": "2026-10-22T06:47:27Z",
-      "score": 83
-    },
-    {
-      "id": "0365cee34ee841c8",
-      "category": "粒子物理",
-      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
-      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
-      "source": "SLAC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
-      "published_at": "2026-10-21T00:56:56Z",
-      "score": 89
-    },
     {
       "id": "a9d2986b25fcc8d7",
       "category": "粒子物理",
@@ -266,6 +246,16 @@
       "score": 83
     },
     {
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRkNJZ0xqckZWS1ZlbjRTSUl0RWZNRlhxdlFUdGdrNWF4b0ZPV0tXU1h6bmdYR0UxXzdGa1FvRzFqUkIzRkU5aWlOWmZPX2F3d0dHdDUwZENpOUNPMW1GdFJ6NFBLdU5hM3dsTQ?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
+    },
+    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -408,8 +398,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -426,26 +416,6 @@
       "score": 89
     },
     {
-      "id": "c1e51d28474975e8",
-      "category": "粒子物理",
-      "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
-      "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "3db31d98b4ae38e6",
-      "category": "粒子物理",
-      "title": "精密 HL-LHC 物理实验技术",
-      "text": "精密 HL-LHC 物理实验技术",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "5e6409c4013bb78d",
       "category": "粒子物理",
       "title": "暗物质探测器面临的挑战",
@@ -454,16 +424,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEd0Tnc0b2pPRDhjdE51amx2dm56QTAyQnV0bkc1bVJaU25mYm80bDFtbC03YWVfelUtMDFFV2E3Rk9xUHFfeEhtOVVkZHNOVTFmTDRDZF9KY0pnZmdWOWhPMVpRRE1KaTdjOXNKWUJaVzI2OXFLZnVTVkVhX3Y3c1ZnXzRkZ0YxV1JBNjRlcXB5eEI4RHBVcGhYU2pxQQ?oc=5",
       "published_at": "2026-07-21T08:03:03Z",
       "score": 83
-    },
-    {
-      "id": "a24d54d9acc181c2",
-      "category": "粒子物理",
-      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
-      "published_at": "2026-07-20T07:00:00Z",
-      "score": 96
     },
     {
       "id": "8e2923034357b498",
@@ -536,16 +496,6 @@
       "score": 83
     },
     {
-      "id": "de7a8bfa1e109d2e",
-      "category": "古生物学",
-      "title": "中国中泥盆世最早的琥珀",
-      "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "8484ae7aebe9d8a2",
       "category": "宇宙探索",
       "title": "雷达观测到的小行星和彗星任务目标",
@@ -554,16 +504,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "02e05d7252f4b21a",
-      "category": "宇宙探索",
-      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
-      "published_at": "2026-07-13T07:00:00Z",
-      "score": 83
     },
     {
       "id": "25be8f7550b50f78",
