@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-10-22T22:16:08.649384Z",
-  "count": 54,
-  "auto_count": 56,
+  "updated_at": "2026-10-23T00:52:04.306403Z",
+  "count": 61,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "e9dd2c5c67108687",
+      "category": "粒子物理",
+      "title": "搜索低质量希格斯态@BABAR",
+      "text": "搜索低质量希格斯态@BABAR",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdkJtVjFGVTJsWk9DdUY1dHlXSHZXSjdtdVFWbjdEaG9ZLUtMMUliYmZMbHo4bGFZRlVyZmhmS0xkY1h3a01MY0RQLVlqR0hvNWlVOER3eUs2UzU5Nk1TQjJia0JBWDZKc2xGdkp5bjEzUQ?oc=5",
+      "published_at": "2026-10-22T06:47:27Z",
+      "score": 83
+    },
+    {
+      "id": "0365cee34ee841c8",
+      "category": "粒子物理",
+      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
+      "published_at": "2026-10-21T00:56:56Z",
+      "score": 89
+    },
     {
       "id": "a9d2986b25fcc8d7",
       "category": "粒子物理",
@@ -36,6 +56,16 @@
       "score": 83
     },
     {
+      "id": "13f503371f7f9101",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
+      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91T3hHZ21MUVNLcWt0X3N4Rk9SVEExVjV3Uk9DQ3pHTVVYQkk4alZKVWJhenZrZjVuRFVfNjlnV0wwa1RZTUc3emVkMWpaUU5JLWEwd0RlT25ycF9GUGc1eFd0S21BQQ?oc=5",
+      "published_at": "2026-10-19T14:40:43Z",
+      "score": 99
+    },
+    {
       "id": "977283c3d7407c85",
       "category": "宇宙探索",
       "title": "欧几里得发现新彗星",
@@ -56,16 +86,6 @@
       "score": 83
     },
     {
-      "id": "c172283fa26f4b8b",
-      "category": "宇宙探索",
-      "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
-      "text": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
-      "source": "ALMA Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
-      "published_at": "2026-10-14T13:10:38Z",
-      "score": 83
-    },
-    {
       "id": "8f20e2a4a2c95005",
       "category": "古生物学",
       "title": "英国恐龙化石被鉴定为新的长爪掠食者",
@@ -74,6 +94,16 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVJiX0ZGOFRYSUFHM2htdmZfTXl2YlBxQVVsMnpLaDhldVpiRk5mRU9WeXo3bzlTYkJEcXNfZktRRnBiU0Nhc2lDcTFSZHNNNVhKTDFCVkdRVUo2SF9aa2hJUkJmVU1kbUFvZTN6NzByNm1SeEY1X1JQaGV6Rlg2VVMtQTNXaWRZS09hbTFIeXdpUmVOQi1FZVZDZDhpLUFzNnZuY3F0MWxqWklZcy14YnJB?oc=5",
       "published_at": "2026-10-14T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "c172283fa26f4b8b",
+      "category": "宇宙探索",
+      "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
+      "text": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
+      "source": "ALMA Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
+      "published_at": "2026-10-14T07:00:00Z",
+      "score": 83
     },
     {
       "id": "1e6bc82b126730e0",
@@ -398,8 +428,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -416,6 +446,26 @@
       "score": 89
     },
     {
+      "id": "c1e51d28474975e8",
+      "category": "粒子物理",
+      "title": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
+      "text": "CMS Run-2 寻找增强暗希格斯玻色子衰变成底夸克-反夸克对",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1lDa0g0Y3dQUUQyY0tIb2hsZUo1UHNfYkpKemZHTHJTc0ZxeWIwaEVGRVRhRlBOVXA3YnpzZWZsLTlpUVBaVF9hcEUxcEpMSkQxenNIMkpHdVE4dHc1dEN6RGV4N082QlBybENSZGlkc0xzT3NZNmRXczdlRFpIdHg4NHJWQ3FjRzZXR2YxRm1za3FmZXJodThDY0dTeE8tNEdr?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "3db31d98b4ae38e6",
+      "category": "粒子物理",
+      "title": "精密 HL-LHC 物理实验技术",
+      "text": "精密 HL-LHC 物理实验技术",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "5e6409c4013bb78d",
       "category": "粒子物理",
       "title": "暗物质探测器面临的挑战",
@@ -424,6 +474,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEd0Tnc0b2pPRDhjdE51amx2dm56QTAyQnV0bkc1bVJaU25mYm80bDFtbC03YWVfelUtMDFFV2E3Rk9xUHFfeEhtOVVkZHNOVTFmTDRDZF9KY0pnZmdWOWhPMVpRRE1KaTdjOXNKWUJaVzI2OXFLZnVTVkVhX3Y3c1ZnXzRkZ0YxV1JBNjRlcXB5eEI4RHBVcGhYU2pxQQ?oc=5",
       "published_at": "2026-07-21T08:03:03Z",
       "score": 83
+    },
+    {
+      "id": "a24d54d9acc181c2",
+      "category": "粒子物理",
+      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
+      "published_at": "2026-07-20T07:00:00Z",
+      "score": 96
     },
     {
       "id": "8e2923034357b498",
@@ -492,6 +552,16 @@
       "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
       "source": "STScI",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "de7a8bfa1e109d2e",
+      "category": "古生物学",
+      "title": "中国中泥盆世最早的琥珀",
+      "text": "中国中泥盆世最早的琥珀",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     },
