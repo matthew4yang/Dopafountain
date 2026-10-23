@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-23T11:23:27.694598Z",
+  "updated_at": "2026-10-23T15:51:28.199127Z",
   "count": 63,
   "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "7edf8d2714dffb03",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
+      "published_at": "2026-10-23T14:28:33Z",
+      "score": 90
+    },
     {
       "id": "e9dd2c5c67108687",
       "category": "粒子物理",
@@ -246,6 +256,16 @@
       "score": 83
     },
     {
+      "id": "4165efc49ab77da0",
+      "category": "粒子物理",
+      "title": "使用 IceCube DeepCore 搜索稳态中微子发射",
+      "text": "使用 IceCube DeepCore 搜索稳态中微子发射",
+      "source": "IceCube Neutrino Observatory",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHFlelN1OFFlUlo1WU1JTGotcmtja3pVRnROMTF3dElxa3BVRF9fYjI4Ylo5ZnJlOEpQS2VGemN6SkN6YTNOa2JoX2NjbWktcWh3WUpXOGNQZW1aV1JOZVBTMHpQbFE4SG15M1k4bzd2ZmpsUm9nUmxwM2xlNU11NGR3RXNjOUhvVFJCdEdBWXdvRWpYWFRrbndTcWJwVGszSURsQ1gzU0hYVC1YVFYwR3p3?oc=5",
+      "published_at": "2026-09-15T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -296,16 +316,6 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRkNJZ0xqckZWS1ZlbjRTSUl0RWZNRlhxdlFUdGdrNWF4b0ZPV0tXU1h6bmdYR0UxXzdGa1FvRzFqUkIzRkU5aWlOWmZPX2F3d0dHdDUwZENpOUNPMW1GdFJ6NFBLdU5hM3dsTQ?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -316,13 +326,23 @@
       "score": 82
     },
     {
-      "id": "0e04b2ca9f1f1f04",
+      "id": "a28b1b60b705a292",
       "category": "粒子物理",
-      "title": "LZ 在寻找暗物质方面看到了令人惊讶的结果",
-      "text": "LZ 在寻找暗物质方面看到了令人惊讶的结果",
+      "title": "LZ 在寻找暗物质方面看到了令人惊讶的结果 | BNL 新闻室",
+      "text": "LZ 在寻找暗物质方面看到了令人惊讶的结果 | BNL 新闻室",
       "source": "Brookhaven National Laboratory",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZXgyY0JkZDZHQk1rZEdZc0llM1JaVDRhSTlya3JwNVZvdk5PSXQzQXZJZnA5MGRBNVRGaFFxaXo3STR3dkp0T1d6SDMxX3dBSFJqSVFKc3pnZw?oc=5",
       "published_at": "2026-09-01T14:07:23Z",
+      "score": 90
+    },
+    {
+      "id": "e4ce3638e64a8e15",
+      "category": "粒子物理",
+      "title": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "text": "LZ在寻找暗物质方面看到了令人惊讶的结果",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFZmdWRXV0RxaDB2VjdWNWZJeXZoWllQYXpWWUhYaVJHQmQ4UktPcklyMHN6eWtPbW9xbHFQTklKTnEwbGNJZmlIaGJLYkR3OXlsdnNKREVlSWg3dlZkTmZzWndIS01KdXRtTV81a0dyOXhSVVZpS05xdG9XTy1IRktEeTd5WC1iLTNHSjR4Qk80ZGxOaVE?oc=5",
+      "published_at": "2026-09-01T07:00:00Z",
       "score": 90
     },
     {
@@ -486,26 +506,6 @@
       "score": 83
     },
     {
-      "id": "5e6409c4013bb78d",
-      "category": "粒子物理",
-      "title": "暗物质探测器面临的挑战",
-      "text": "暗物质探测器面临的挑战",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEd0Tnc0b2pPRDhjdE51amx2dm56QTAyQnV0bkc1bVJaU25mYm80bDFtbC03YWVfelUtMDFFV2E3Rk9xUHFfeEhtOVVkZHNOVTFmTDRDZF9KY0pnZmdWOWhPMVpRRE1KaTdjOXNKWUJaVzI2OXFLZnVTVkVhX3Y3c1ZnXzRkZ0YxV1JBNjRlcXB5eEI4RHBVcGhYU2pxQQ?oc=5",
-      "published_at": "2026-07-21T08:03:03Z",
-      "score": 83
-    },
-    {
-      "id": "a24d54d9acc181c2",
-      "category": "粒子物理",
-      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
-      "published_at": "2026-07-20T07:00:00Z",
-      "score": 96
-    },
-    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -596,13 +596,13 @@
       "score": 89
     },
     {
-      "id": "25be8f7550b50f78",
-      "category": "粒子物理",
-      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
-      "published_at": "2026-07-08T15:11:59Z",
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
       "score": 83
     },
     {
