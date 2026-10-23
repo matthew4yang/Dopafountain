@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-23T05:53:09.541713Z",
-  "count": 61,
-  "auto_count": 63,
+  "updated_at": "2026-10-23T11:23:27.694598Z",
+  "count": 63,
+  "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -84,6 +84,16 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fXzNVUUFlUXJraHV3MTRKYzVRZzlJdVdwRS1DRlVwbzFOaG1ORzlEMjlfWVg0RkhBaDlSOUFkRXVUbHpiMnpvR0tPeHRDeXRGdUxVMDlJZE55enVMNGpB?oc=5",
       "published_at": "2026-10-16T18:31:39Z",
       "score": 83
+    },
+    {
+      "id": "91ddd214e6b15eca",
+      "category": "粒子物理",
+      "title": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
+      "text": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
+      "published_at": "2026-10-16T01:57:31Z",
+      "score": 90
     },
     {
       "id": "8f20e2a4a2c95005",
@@ -318,8 +328,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -334,6 +344,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm50eXVHa1pKakZ4WGwxVTBwc2Q0QlozVVB3RGJLcjJSZzRiTlBVT1pVdHpZeG0wM1BGOTc2MWpXN3psQ3ZudlFEQkVJLUVrVGlVWU14ejh5WmNGYjJjbE1HQU43b1E2ZE9vbTE1RWlWTzVDX3VFblhITW1HaDJ0WWotX0ZjZ1dHQzNwYmNUeE15MlJkeFVaZVhuWllxcHRVeGdFZFQzYVU?oc=5",
       "published_at": "2026-08-31T20:27:08Z",
       "score": 83
+    },
+    {
+      "id": "036f9d6cfb5779ba",
+      "category": "古生物学",
+      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
+      "published_at": "2026-08-25T17:33:06Z",
+      "score": 99
     },
     {
       "id": "24d378dc8a1383e2",
@@ -428,8 +448,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
