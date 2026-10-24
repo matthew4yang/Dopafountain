@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-24T11:28:35.382967Z",
+  "updated_at": "2026-10-24T14:46:51.041041Z",
   "count": 63,
-  "auto_count": 64,
+  "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -46,6 +46,16 @@
       "score": 89
     },
     {
+      "id": "a9d2986b25fcc8d7",
+      "category": "粒子物理",
+      "title": "-Pb+Pb 碰撞中的介子椭圆流",
+      "text": "-Pb+Pb 碰撞中的介子椭圆流",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQTZtTjdlQng5S2pBSVgwYWNJWXZ1QmN1dHNHZDNPV0tTajBQbWttLTJtWmlOSlB2Z3JwdmRZZ3pJcDl1blRUeHF3em13WWk4amk2eEQyLUZxUFhqb1lEaDc1ME5udw?oc=5",
+      "published_at": "2026-10-20T13:56:23Z",
+      "score": 83
+    },
+    {
       "id": "93a419dbed289966",
       "category": "粒子物理",
       "title": "COHERENT 测量锗上的相干弹性中微子核散射",
@@ -66,16 +76,6 @@
       "score": 83
     },
     {
-      "id": "13f503371f7f9101",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91T3hHZ21MUVNLcWt0X3N4Rk9SVEExVjV3Uk9DQ3pHTVVYQkk4alZKVWJhenZrZjVuRFVfNjlnV0wwa1RZTUc3emVkMWpaUU5JLWEwd0RlT25ycF9GUGc1eFd0S21BQQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 99
-    },
-    {
       "id": "977283c3d7407c85",
       "category": "宇宙探索",
       "title": "欧几里得发现新彗星",
@@ -84,16 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHFNVUFoWnIzTEloTERZUFRHTkVNMmg1VWVPUEE1cmRwM0ZnTGZvaU51VHNYajk3X21veG1KWkxXMjV3ZnBUNUIyWlZsYUJiaHBtVmxlMklkMFNBcThJZzRhR3pobU1hRkh2ZFBDTnN3ajUxajJ6c3JySlUzTXVrb1NQNWEweklibHRkOThOTTQ?oc=5",
       "published_at": "2026-10-19T12:29:18Z",
       "score": 83
-    },
-    {
-      "id": "91ddd214e6b15eca",
-      "category": "粒子物理",
-      "title": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
-      "text": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
-      "published_at": "2026-10-16T01:57:31Z",
-      "score": 90
     },
     {
       "id": "8f20e2a4a2c95005",
@@ -306,6 +296,16 @@
       "score": 83
     },
     {
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
+    },
+    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -356,14 +356,14 @@
       "score": 83
     },
     {
-      "id": "24d378dc8a1383e2",
-      "category": "粒子物理",
-      "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
-      "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
-      "published_at": "2026-08-13T07:00:00Z",
-      "score": 89
+      "id": "036f9d6cfb5779ba",
+      "category": "古生物学",
+      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
+      "published_at": "2026-08-25T17:33:06Z",
+      "score": 99
     },
     {
       "id": "b050ee82b7767fdd",
@@ -448,8 +448,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -536,6 +536,16 @@
       "score": 89
     },
     {
+      "id": "2379bbbbd7eae3a8",
+      "category": "古生物学",
+      "title": "美国怀俄明州兰斯组白垩纪（马斯特里赫特阶）埃德蒙顿龙骨床中牙齿痕迹的识别",
+      "text": "美国怀俄明州兰斯组白垩纪（马斯特里赫特阶）埃德蒙顿龙骨床中牙齿痕迹的识别",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JMG1nVjZNQ1dvbjBubmZnd2FUejFVdWZsTm1ZU2Q3YU9ocG1yY2ZFQTFNYW91QzlvR29FaHUtTFNyVlRWcm9wN3g3bTJHRUdnX19oTUJSQlloRUExc2NKbFJ0alFQTjc5WjA0Y1V2Mm9BSG5PTmNBMWw5Q2VkZw?oc=5",
+      "published_at": "2026-07-15T19:53:39Z",
+      "score": 83
+    },
+    {
       "id": "ab5b1285d6098629",
       "category": "宇宙探索",
       "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
@@ -596,14 +606,14 @@
       "score": 89
     },
     {
-      "id": "02e05d7252f4b21a",
-      "category": "宇宙探索",
-      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
-      "published_at": "2026-07-13T07:00:00Z",
-      "score": 83
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
     },
     {
       "id": "360d7e8ba421608b",
@@ -624,16 +634,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjdmYVlJZXlJaU1Ybl94XzhvRkw5SURQeE8tSnJVZUxydmZLalZyRFB2VFZJT3lQMW52THpJOUJtdjZ4ajNUYWJCbU9XaTdhNWNtc1FveDZOclV6aW41cW9HRm8wWnFZUV9nMnduYnlSb0gyU1lEaG9SSk9iaTRrbkRJYUh0OW9JVVRWcnhsYWhKY0RjRVV6eHN5REpENUxsSWxmUUtaYWJwRk11RW9kUmwtNXVYQlk?oc=5",
       "published_at": "2026-06-29T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "b79e7a4cb0fddec1",
-      "category": "古生物学",
-      "title": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "text": "保存完好的胚胎揭示了自白垩纪以来淡水双壳类动物的母性护理科学报告",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZFE5c19IUTJId1Q3eXhzcWxCcXNmd0VvUHF2UTcyY0ZXZS1BNjFabWE0YkloWUVrUHllNTc3WGdCa05pYnJTV0hZNlA0bG91d2QwMmNsSlhKS2ZiMm9R?oc=5",
-      "published_at": "2026-06-22T07:00:00Z",
-      "score": 83
     }
   ]
 }
