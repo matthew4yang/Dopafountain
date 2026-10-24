@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T22:59:53.149667Z",
-  "count": 63,
+  "updated_at": "2026-10-24T01:28:04.322986Z",
+  "count": 62,
   "auto_count": 64,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
@@ -54,26 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
       "published_at": "2026-10-20T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "13f503371f7f9101",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91T3hHZ21MUVNLcWt0X3N4Rk9SVEExVjV3Uk9DQ3pHTVVYQkk4alZKVWJhenZrZjVuRFVfNjlnV0wwa1RZTUc3emVkMWpaUU5JLWEwd0RlT25ycF9GUGc1eFd0S21BQQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 99
-    },
-    {
-      "id": "8f19f30f3b10fd77",
-      "category": "粒子物理",
-      "title": "通过超导自旋混合磁力计寻找轴子暗物质",
-      "text": "通过超导自旋混合磁力计寻找轴子暗物质",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZll3NzVHZmE5ZGtfVU5YV1FQYVpGTmxvd014UEJJQ0h4Z0pHbmt1UU9zb2UtOEs4dFZUMWxfbWsyRWl4VkEtTlByaVk3VllJMDBydE5wXzRnV1VJeHJPdGNXZmFRUQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 89
     },
     {
       "id": "977283c3d7407c85",
@@ -246,16 +226,6 @@
       "score": 83
     },
     {
-      "id": "4165efc49ab77da0",
-      "category": "粒子物理",
-      "title": "使用 IceCube DeepCore 搜索稳态中微子发射",
-      "text": "使用 IceCube DeepCore 搜索稳态中微子发射",
-      "source": "IceCube Neutrino Observatory",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHFlelN1OFFlUlo1WU1JTGotcmtja3pVRnROMTF3dElxa3BVRF9fYjI4Ylo5ZnJlOEpQS2VGemN6SkN6YTNOa2JoX2NjbWktcWh3WUpXOGNQZW1aV1JOZVBTMHpQbFE4SG15M1k4bzd2ZmpsUm9nUmxwM2xlNU11NGR3RXNjOUhvVFJCdEdBWXdvRWpYWFRrbndTcWJwVGszSURsQ1gzU0hYVC1YVFYwR3p3?oc=5",
-      "published_at": "2026-09-15T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -304,6 +274,16 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
       "published_at": "2026-09-08T18:42:37Z",
       "score": 83
+    },
+    {
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -506,6 +486,16 @@
       "score": 83
     },
     {
+      "id": "a24d54d9acc181c2",
+      "category": "粒子物理",
+      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
+      "published_at": "2026-07-20T07:00:00Z",
+      "score": 96
+    },
+    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -596,14 +586,14 @@
       "score": 89
     },
     {
-      "id": "02e05d7252f4b21a",
-      "category": "宇宙探索",
-      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
-      "published_at": "2026-07-13T07:00:00Z",
-      "score": 83
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
     },
     {
       "id": "360d7e8ba421608b",
