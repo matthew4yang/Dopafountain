@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:28:04.322986Z",
+  "updated_at": "2026-10-24T06:20:55.320655Z",
   "count": 62,
   "auto_count": 64,
   "verified_seed_count": 2,
@@ -166,16 +166,6 @@
       "score": 97
     },
     {
-      "id": "3ad10587cee2946c",
-      "category": "粒子物理",
-      "title": "搜索 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 质子-质子碰撞中 X 型双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
-      "text": "搜索 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 质子-质子碰撞中 X 型双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Vk42VzExNDZoS3BCOWo0enhKX29hTHBOQ3cxRVNLUllvNXpWX1h6eGwwWU9pZHRsaTJtSm80R0ZFWDl5NEdJX0s3OF9jZmtvRGZoTkFYaFI5elYyOWxFa1NIUEdkZw?oc=5",
-      "published_at": "2026-09-23T06:20:08Z",
-      "score": 99
-    },
-    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -184,6 +174,16 @@
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "published_at": "2026-09-23T00:00:00Z",
       "score": 78
+    },
+    {
+      "id": "3ad10587cee2946c",
+      "category": "粒子物理",
+      "title": "搜索 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 质子-质子碰撞中 X 型双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
+      "text": "搜索 $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$ 质子-质子碰撞中 X 型双希格斯双峰模型中一对附加希格斯玻色子的非共振产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Vk42VzExNDZoS3BCOWo0enhKX29hTHBOQ3cxRVNLUllvNXpWX1h6eGwwWU9pZHRsaTJtSm80R0ZFWDl5NEdJX0s3OF9jZmtvRGZoTkFYaFI5elYyOWxFa1NIUEdkZw?oc=5",
+      "published_at": "2026-09-22T07:00:00Z",
+      "score": 99
     },
     {
       "id": "f009c63eb97a5bdd",
@@ -226,6 +226,16 @@
       "score": 83
     },
     {
+      "id": "4165efc49ab77da0",
+      "category": "粒子物理",
+      "title": "使用 IceCube DeepCore 搜索稳态中微子发射",
+      "text": "使用 IceCube DeepCore 搜索稳态中微子发射",
+      "source": "IceCube Neutrino Observatory",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHFlelN1OFFlUlo1WU1JTGotcmtja3pVRnROMTF3dElxa3BVRF9fYjI4Ylo5ZnJlOEpQS2VGemN6SkN6YTNOa2JoX2NjbWktcWh3WUpXOGNQZW1aV1JOZVBTMHpQbFE4SG15M1k4bzd2ZmpsUm9nUmxwM2xlNU11NGR3RXNjOUhvVFJCdEdBWXdvRWpYWFRrbndTcWJwVGszSURsQ1gzU0hYVC1YVFYwR3p3?oc=5",
+      "published_at": "2026-09-15T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -263,16 +273,6 @@
       "source": "IceCube Neutrino Observatory",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
       "score": 83
     },
     {
@@ -438,8 +438,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -526,6 +526,16 @@
       "score": 89
     },
     {
+      "id": "2379bbbbd7eae3a8",
+      "category": "古生物学",
+      "title": "美国怀俄明州兰斯组白垩纪（马斯特里赫特阶）埃德蒙顿龙骨床中牙齿痕迹的识别",
+      "text": "美国怀俄明州兰斯组白垩纪（马斯特里赫特阶）埃德蒙顿龙骨床中牙齿痕迹的识别",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JMG1nVjZNQ1dvbjBubmZnd2FUejFVdWZsTm1ZU2Q3YU9ocG1yY2ZFQTFNYW91QzlvR29FaHUtTFNyVlRWcm9wN3g3bTJHRUdnX19oTUJSQlloRUExc2NKbFJ0alFQTjc5WjA0Y1V2Mm9BSG5PTmNBMWw5Q2VkZw?oc=5",
+      "published_at": "2026-07-15T19:53:39Z",
+      "score": 83
+    },
+    {
       "id": "ab5b1285d6098629",
       "category": "宇宙探索",
       "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
@@ -583,16 +593,6 @@
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "弱电精密数据镜头下的希格斯玻色子",
-      "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
       "score": 89
     },
     {
