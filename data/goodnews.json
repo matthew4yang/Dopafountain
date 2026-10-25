@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T05:51:57.804905Z",
-  "count": 61,
-  "auto_count": 64,
+  "updated_at": "2026-10-25T11:07:49.004848Z",
+  "count": 60,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -96,6 +96,16 @@
       "score": 83
     },
     {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T12:22:06Z",
+      "score": 89
+    },
+    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -104,6 +114,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUhoa00zMVVweHdvUUEtazlSMThLVXA3dXhIWE9wZmhBRWF6Rm5BUk1RY3ZXcmJVTnRMaVY2VmtCa21JdlBUcWRzMFc2RFpfY0g4amxYdUliNTgxQ1BqRVNDY1c4d3dzQVZkUnFBS1JKaVRkNTQ0d00xaHBtTWY0OF9EY2NWRXdydTdidFBnSmxyTm1pQXlONmlVeXNuZjJEMlhUa2RSZw?oc=5",
       "published_at": "2026-10-17T04:07:59Z",
       "score": 83
+    },
+    {
+      "id": "91ddd214e6b15eca",
+      "category": "粒子物理",
+      "title": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
+      "text": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
+      "published_at": "2026-10-16T01:57:31Z",
+      "score": 90
     },
     {
       "id": "8f20e2a4a2c95005",
@@ -206,14 +226,14 @@
       "score": 90
     },
     {
-      "id": "b14bc0cce8d7e347",
-      "category": "宇宙探索",
-      "title": "天炉座星系团的 VST 图像",
-      "text": "天炉座星系团的 VST 图像",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zUXpSbUNRLTFFNDFaZHF5THpvZnFycmJCa1NfemtYRnBsN0o1TG5qM2w1M1NSRHFSb0dYU3owVVBKUUtJaElWenE3aktvaVYyTDk2RDF6ZVdnNXdkZ21BNnB2N2tsTVJzall6T1dCOWpSSm1T?oc=5",
-      "published_at": "2026-09-17T18:45:46Z",
-      "score": 83
+      "id": "ba83eaa321aa8de2",
+      "category": "粒子物理",
+      "title": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
+      "text": "具有胶子辐射效应的强子碰撞中完全魅力四夸克的产生",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 89
     },
     {
       "id": "1b041436bc61b51a",
@@ -448,8 +468,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -464,26 +484,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
       "published_at": "2026-07-23T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "3db31d98b4ae38e6",
-      "category": "粒子物理",
-      "title": "精密 HL-LHC 物理实验技术",
-      "text": "精密 HL-LHC 物理实验技术",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "5e6409c4013bb78d",
-      "category": "粒子物理",
-      "title": "暗物质探测器面临的挑战",
-      "text": "暗物质探测器面临的挑战",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEd0Tnc0b2pPRDhjdE51amx2dm56QTAyQnV0bkc1bVJaU25mYm80bDFtbC03YWVfelUtMDFFV2E3Rk9xUHFfeEhtOVVkZHNOVTFmTDRDZF9KY0pnZmdWOWhPMVpRRE1KaTdjOXNKWUJaVzI2OXFLZnVTVkVhX3Y3c1ZnXzRkZ0YxV1JBNjRlcXB5eEI4RHBVcGhYU2pxQQ?oc=5",
-      "published_at": "2026-07-21T08:03:03Z",
-      "score": 83
     },
     {
       "id": "86d9c09f2a560149",
@@ -524,16 +524,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "2379bbbbd7eae3a8",
-      "category": "古生物学",
-      "title": "美国怀俄明州兰斯组白垩纪（马斯特里赫特阶）埃德蒙顿龙骨床中牙齿痕迹的识别",
-      "text": "美国怀俄明州兰斯组白垩纪（马斯特里赫特阶）埃德蒙顿龙骨床中牙齿痕迹的识别",
-      "source": "PLOS",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JMG1nVjZNQ1dvbjBubmZnd2FUejFVdWZsTm1ZU2Q3YU9ocG1yY2ZFQTFNYW91QzlvR29FaHUtTFNyVlRWcm9wN3g3bTJHRUdnX19oTUJSQlloRUExc2NKbFJ0alFQTjc5WjA0Y1V2Mm9BSG5PTmNBMWw5Q2VkZw?oc=5",
-      "published_at": "2026-07-15T19:53:39Z",
-      "score": 83
     },
     {
       "id": "ab5b1285d6098629",
