@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T11:07:49.004848Z",
-  "count": 60,
-  "auto_count": 63,
+  "updated_at": "2026-10-25T15:01:37.768734Z",
+  "count": 59,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -86,26 +86,6 @@
       "score": 89
     },
     {
-      "id": "977283c3d7407c85",
-      "category": "宇宙探索",
-      "title": "欧几里得发现新彗星",
-      "text": "欧几里得发现新彗星",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHFNVUFoWnIzTEloTERZUFRHTkVNMmg1VWVPUEE1cmRwM0ZnTGZvaU51VHNYajk3X21veG1KWkxXMjV3ZnBUNUIyWlZsYUJiaHBtVmxlMklkMFNBcThJZzRhR3pobU1hRkh2ZFBDTnN3ajUxajJ6c3JySlUzTXVrb1NQNWEweklibHRkOThOTTQ?oc=5",
-      "published_at": "2026-10-19T12:29:18Z",
-      "score": 83
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
-    },
-    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -136,11 +116,11 @@
       "score": 89
     },
     {
-      "id": "c172283fa26f4b8b",
+      "id": "32fd5afd8bfff203",
       "category": "宇宙探索",
       "title": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
       "text": "ALMA 揭示了最小圆盘中隐藏的行星形成结构",
-      "source": "ALMA Observatory",
+      "source": "Observatorio ALMA",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
       "published_at": "2026-10-14T07:00:00Z",
       "score": 83
@@ -163,6 +143,16 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "dd83e4094d538222",
+      "category": "粒子物理",
+      "title": "Muon g-2 实验对 Mu 子的禁忌性质提出了新的限制",
+      "text": "Muon g-2 实验对 Mu 子的禁忌性质提出了新的限制",
+      "source": "Brookhaven National Laboratory",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SDdySE9FczFYT0lSN1V4Rk5hdURWckJsUi1LQXc1U01lVVk4NVpsckhZc3M3ZlRsdVI3aWRzSHpPX3czZmwzcm15Z19kS3V2ak1pR2ZsdWZVQQ?oc=5",
+      "published_at": "2026-10-06T21:37:28Z",
       "score": 83
     },
     {
@@ -376,26 +366,6 @@
       "score": 83
     },
     {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-08-25T17:33:06Z",
-      "score": 99
-    },
-    {
-      "id": "b050ee82b7767fdd",
-      "category": "粒子物理",
-      "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
-      "published_at": "2026-08-12T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "5df570450b98c754",
       "category": "宇宙探索",
       "title": "科学家发布最大的二维宇宙地图",
@@ -468,8 +438,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -573,6 +543,26 @@
       "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "8484ae7aebe9d8a2",
+      "category": "宇宙探索",
+      "title": "雷达观测到的小行星和彗星任务目标",
+      "text": "雷达观测到的小行星和彗星任务目标",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
+      "published_at": "2026-07-14T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
       "score": 83
     },
     {
