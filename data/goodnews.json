@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:18:53.212559Z",
+  "updated_at": "2026-10-25T21:09:22.529278Z",
   "count": 60,
   "auto_count": 62,
   "verified_seed_count": 2,
@@ -86,16 +86,6 @@
       "score": 89
     },
     {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
-    },
-    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -176,16 +166,6 @@
       "score": 89
     },
     {
-      "id": "91f3ece0e6ef6cf4",
-      "category": "宇宙探索",
-      "title": "费米伽马射线太空望远镜拍摄的蟹状星云图像",
-      "text": "费米伽马射线太空望远镜拍摄的蟹状星云图像",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpZHRjcFBKQ252YzZGVlpIYmVtbUdvSGc4UzlBcUQ2UGJhN2hrVnFnU1Y2ZE5qNU42RWpIaU9YNzhYd1BKSlhuclV6VjlLYUo5MVFabTdDQTN1YUpPQkNMZ2pwR0dWVzQtRDB5Mi1ZbF9WeEt4V3c?oc=5",
-      "published_at": "2026-09-30T13:27:00Z",
-      "score": 83
-    },
-    {
       "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
@@ -194,6 +174,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "6187325b6e1eaaa7",
+      "category": "粒子物理",
+      "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
+      "text": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBad1diZ25MNVNKMHp4WklQekxLU25EMjZIbHVxYzhMd1FVTVJITFc2cVZWb0Y3Wk9yU2ZuWTRrRlRqSDRnYllPZHFub2Q3QnpuVW9pbWNFcGtHZ3lRVTB5QkVqUkJsUQ?oc=5",
+      "published_at": "2026-09-23T07:00:00Z",
+      "score": 96
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -476,16 +466,6 @@
       "score": 83
     },
     {
-      "id": "3bec90221c75d8cd",
-      "category": "粒子物理",
-      "title": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
-      "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
-      "published_at": "2026-07-23T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "86d9c09f2a560149",
       "category": "宇宙探索",
       "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
@@ -573,6 +553,26 @@
       "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "8484ae7aebe9d8a2",
+      "category": "宇宙探索",
+      "title": "雷达观测到的小行星和彗星任务目标",
+      "text": "雷达观测到的小行星和彗星任务目标",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
+      "published_at": "2026-07-14T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
       "score": 83
     },
     {
