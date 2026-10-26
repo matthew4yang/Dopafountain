@@ -1,20 +1,10 @@
 {
-  "updated_at": "2026-10-26T01:32:48.578080Z",
-  "count": 61,
-  "auto_count": 62,
+  "updated_at": "2026-10-26T06:51:32.986650Z",
+  "count": 58,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
-    {
-      "id": "dfe5b9c855704f7d",
-      "category": "古生物学",
-      "title": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
-      "text": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
-      "source": "PLOS",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmpiUkNYenhwRGVBUEJSTXdDUWU3VjlRRENIbXZyNkRlQjQ0UHJ4M2prbEIzVXI4SDF4R0NWUXVFZm5kNmxuWU9OenBWSlZfQndGQWRsTmJkalN0ZkE5VXFlb1E1YlB0am0waE1wa1A5bnRORlNaV0Y0cnFUUmFLX01haw?oc=5",
-      "published_at": "2026-10-23T18:29:53Z",
-      "score": 90
-    },
     {
       "id": "7edf8d2714dffb03",
       "category": "粒子物理",
@@ -34,6 +24,26 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdkJtVjFGVTJsWk9DdUY1dHlXSHZXSjdtdVFWbjdEaG9ZLUtMMUliYmZMbHo4bGFZRlVyZmhmS0xkY1h3a01MY0RQLVlqR0hvNWlVOER3eUs2UzU5Nk1TQjJia0JBWDZKc2xGdkp5bjEzUQ?oc=5",
       "published_at": "2026-10-22T06:47:27Z",
       "score": 83
+    },
+    {
+      "id": "abff581823346a3c",
+      "category": "粒子物理",
+      "title": "质子中横向动量相关和共线帕子分布的首次同步分析",
+      "text": "质子中横向动量相关和共线帕子分布的首次同步分析",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14b2dlZ19IYnRtZ3YyLTg4RGVHU0dESmc4Vk9lb1JHZWxIOEZtZjFRcmdRNFltUi1rNHZEdVQ1cEtsS1h3MEhRMm4tX2R5Nm96WlZpRTVHVFdhMDRfU2FtSi1TU3NiQQ?oc=5",
+      "published_at": "2026-10-22T03:51:18Z",
+      "score": 83
+    },
+    {
+      "id": "0365cee34ee841c8",
+      "category": "粒子物理",
+      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
+      "published_at": "2026-10-21T00:56:56Z",
+      "score": 89
     },
     {
       "id": "93a419dbed289966",
@@ -356,16 +366,6 @@
       "score": 83
     },
     {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-08-25T17:33:06Z",
-      "score": 99
-    },
-    {
       "id": "b050ee82b7767fdd",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
@@ -443,36 +443,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "c569e87b3a3233ba",
-      "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
-      "published_at": "2026-07-24T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3bec90221c75d8cd",
-      "category": "粒子物理",
-      "title": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
-      "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
-      "published_at": "2026-07-23T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "3db31d98b4ae38e6",
-      "category": "粒子物理",
-      "title": "精密 HL-LHC 物理实验技术",
-      "text": "精密 HL-LHC 物理实验技术",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
       "score": 83
     },
     {
