@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-25T23:30:32.832616Z",
+  "updated_at": "2026-10-26T01:32:48.578080Z",
   "count": 61,
-  "auto_count": 64,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -34,16 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdkJtVjFGVTJsWk9DdUY1dHlXSHZXSjdtdVFWbjdEaG9ZLUtMMUliYmZMbHo4bGFZRlVyZmhmS0xkY1h3a01MY0RQLVlqR0hvNWlVOER3eUs2UzU5Nk1TQjJia0JBWDZKc2xGdkp5bjEzUQ?oc=5",
       "published_at": "2026-10-22T06:47:27Z",
       "score": 83
-    },
-    {
-      "id": "0365cee34ee841c8",
-      "category": "粒子物理",
-      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
-      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
-      "source": "SLAC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
-      "published_at": "2026-10-21T00:56:56Z",
-      "score": 89
     },
     {
       "id": "93a419dbed289966",
@@ -164,16 +154,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-02T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "91f3ece0e6ef6cf4",
-      "category": "宇宙探索",
-      "title": "费米伽马射线太空望远镜拍摄的蟹状星云图像",
-      "text": "费米伽马射线太空望远镜拍摄的蟹状星云图像",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpZHRjcFBKQ252YzZGVlpIYmVtbUdvSGc4UzlBcUQ2UGJhN2hrVnFnU1Y2ZE5qNU42RWpIaU9YNzhYd1BKSlhuclV6VjlLYUo5MVFabTdDQTN1YUpPQkNMZ2pwR0dWVzQtRDB5Mi1ZbF9WeEt4V3c?oc=5",
-      "published_at": "2026-09-30T13:27:00Z",
-      "score": 83
     },
     {
       "id": "eef61633e40dd416",
@@ -456,16 +436,6 @@
       "score": 83
     },
     {
-      "id": "2517175562575c7c",
-      "category": "古生物学",
-      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
-      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
-      "published_at": "2026-07-29T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "fedd2d9deb668160",
       "category": "古生物学",
       "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
@@ -483,6 +453,26 @@
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "3bec90221c75d8cd",
+      "category": "粒子物理",
+      "title": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
+      "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
+      "published_at": "2026-07-23T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "3db31d98b4ae38e6",
+      "category": "粒子物理",
+      "title": "精密 HL-LHC 物理实验技术",
+      "text": "精密 HL-LHC 物理实验技术",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
       "score": 83
     },
     {
@@ -508,8 +498,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -584,6 +574,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
     },
     {
       "id": "360d7e8ba421608b",
