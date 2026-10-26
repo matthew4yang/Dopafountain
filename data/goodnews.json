@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26T14:05:11.437442Z",
-  "count": 59,
-  "auto_count": 62,
+  "updated_at": "2026-10-26T19:52:09.096211Z",
+  "count": 61,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -172,7 +172,7 @@
       "text": "费米伽马射线太空望远镜拍摄的蟹状星云图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpZHRjcFBKQ252YzZGVlpIYmVtbUdvSGc4UzlBcUQ2UGJhN2hrVnFnU1Y2ZE5qNU42RWpIaU9YNzhYd1BKSlhuclV6VjlLYUo5MVFabTdDQTN1YUpPQkNMZ2pwR0dWVzQtRDB5Mi1ZbF9WeEt4V3c?oc=5",
-      "published_at": "2026-09-30T13:27:00Z",
+      "published_at": "2026-09-30T07:00:00Z",
       "score": 83
     },
     {
@@ -184,6 +184,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
     },
     {
       "id": "6187325b6e1eaaa7",
@@ -234,6 +244,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "1b074b307e077840",
+      "category": "粒子物理",
+      "title": "补充材料：用于光暗物质探测的非常规材料",
+      "text": "补充材料：用于光暗物质探测的非常规材料",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSF9FVjF6UHVNbU9ZU2J2VFNMbVFJWnJINGpZdnZpdzVDeFJhMm5sZ19WUVpKa21aZUMyekFHdTlWREUxUUFpelR5N2JSRXJhOVVPWFhvczBKZnhDMzlqSWRUb2dFeGxjV3gwU18yUDUxYkZrbUdBQmtkM3V5clFFaldYR3BLaDM4cnZfVEt4cw?oc=5",
+      "published_at": "2026-09-20T21:49:24Z",
+      "score": 83
     },
     {
       "id": "1b041436bc61b51a",
@@ -316,16 +336,6 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -386,14 +396,14 @@
       "score": 99
     },
     {
-      "id": "b050ee82b7767fdd",
+      "id": "24d378dc8a1383e2",
       "category": "粒子物理",
-      "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "text": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
-      "published_at": "2026-08-12T07:00:00Z",
-      "score": 83
+      "title": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "text": "共振转换对暗光子暗物质没有宇宙学约束：非线性等离子体动力学的影响",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQWJxTmtoaUN6ZFdleGYyZGVmcXNBUVQ5dVZiUEg3OHp5VzEyWUMzZVNmLXVRdUhWM0hHeXNxZ3ByOFpBVldSTWNOa09HZHRYM0tKcDVHaGtPQVljUUF3S3Z1bGZtZw?oc=5",
+      "published_at": "2026-08-13T07:00:00Z",
+      "score": 89
     },
     {
       "id": "5df570450b98c754",
@@ -498,8 +508,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -574,6 +584,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
+      "score": 83
     },
     {
       "id": "360d7e8ba421608b",
