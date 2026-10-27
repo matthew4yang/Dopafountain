@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-27T15:59:01.810492Z",
-  "count": 62,
-  "auto_count": 64,
+  "updated_at": "2026-10-27T20:33:55.896132Z",
+  "count": 60,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "abe2f034c61e1a00",
-      "category": "古生物学",
-      "title": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
-      "text": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dFpGUW9QN1MycTNLOUNqMklpMWxYUkJvVFZuMzlRQXh3TGJ0M09lekNxMkphZ0w3elBzVkVyZWxrMUE4eVNwRjFNUC1xSEZkYUpEcEt0WEp6VEx3em9R?oc=5",
-      "published_at": "2026-10-27T14:05:02Z",
+      "id": "9244156c25cfd2ee",
+      "category": "宇宙探索",
+      "title": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中第一颗候选矮行星",
+      "text": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中第一颗候选矮行星",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lb0xCeUhzSkEwU3JrUHJFWVJCa3Ffc0htLVFPbk5BeFNieENxWS1DSFdwOXA2S1dYZ3JXTy1zWkU1ZU5nekFWNnpwaHFaMVA1dXhTb1BMZw?oc=5",
+      "published_at": "2026-10-27T18:52:56Z",
       "score": 90
     },
     {
@@ -44,6 +44,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14b2dlZ19IYnRtZ3YyLTg4RGVHU0dESmc4Vk9lb1JHZWxIOEZtZjFRcmdRNFltUi1rNHZEdVQ1cEtsS1h3MEhRMm4tX2R5Nm96WlZpRTVHVFdhMDRfU2FtSi1TU3NiQQ?oc=5",
       "published_at": "2026-10-22T03:51:18Z",
       "score": 83
+    },
+    {
+      "id": "0365cee34ee841c8",
+      "category": "粒子物理",
+      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
+      "published_at": "2026-10-21T00:56:56Z",
+      "score": 89
     },
     {
       "id": "93a419dbed289966",
@@ -84,16 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
       "published_at": "2026-10-19T12:22:06Z",
       "score": 89
-    },
-    {
-      "id": "87aa3edf2f8a829f",
-      "category": "粒子物理",
-      "title": "超新星中微子探测面临的挑战",
-      "text": "超新星中微子探测面临的挑战",
-      "source": "University of Wisconsin–Madison",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUhoa00zMVVweHdvUUEtazlSMThLVXA3dXhIWE9wZmhBRWF6Rm5BUk1RY3ZXcmJVTnRMaVY2VmtCa21JdlBUcWRzMFc2RFpfY0g4amxYdUliNTgxQ1BqRVNDY1c4d3dzQVZkUnFBS1JKaVRkNTQ0d00xaHBtTWY0OF9EY2NWRXdydTdidFBnSmxyTm1pQXlONmlVeXNuZjJEMlhUa2RSZw?oc=5",
-      "published_at": "2026-10-17T04:07:59Z",
-      "score": 83
     },
     {
       "id": "91ddd214e6b15eca",
@@ -186,16 +186,6 @@
       "score": 90
     },
     {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
-    },
-    {
       "id": "6187325b6e1eaaa7",
       "category": "粒子物理",
       "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
@@ -266,16 +256,6 @@
       "score": 83
     },
     {
-      "id": "4165efc49ab77da0",
-      "category": "粒子物理",
-      "title": "使用 IceCube DeepCore 搜索稳态中微子发射",
-      "text": "使用 IceCube DeepCore 搜索稳态中微子发射",
-      "source": "IceCube Neutrino Observatory",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHFlelN1OFFlUlo1WU1JTGotcmtja3pVRnROMTF3dElxa3BVRF9fYjI4Ylo5ZnJlOEpQS2VGemN6SkN6YTNOa2JoX2NjbWktcWh3WUpXOGNQZW1aV1JOZVBTMHpQbFE4SG15M1k4bzd2ZmpsUm9nUmxwM2xlNU11NGR3RXNjOUhvVFJCdEdBWXdvRWpYWFRrbndTcWJwVGszSURsQ1gzU0hYVC1YVFYwR3p3?oc=5",
-      "published_at": "2026-09-15T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -293,26 +273,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "e59cff50dbe00395",
-      "category": "粒子物理",
-      "title": "精确测量 μ 子电荷不对称性",
-      "text": "精确测量 μ 子电荷不对称性",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
-      "published_at": "2026-09-10T07:00:00Z",
-      "score": 90
-    },
-    {
-      "id": "703c0b563fef4786",
-      "category": "粒子物理",
-      "title": "寻找潮汐破坏事件中的中微子排放",
-      "text": "寻找潮汐破坏事件中的中微子排放",
-      "source": "IceCube Neutrino Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
-      "published_at": "2026-09-09T07:00:00Z",
       "score": 83
     },
     {
@@ -358,8 +318,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -488,8 +448,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -516,6 +476,26 @@
       "score": 83
     },
     {
+      "id": "5e6409c4013bb78d",
+      "category": "粒子物理",
+      "title": "暗物质探测器面临的挑战",
+      "text": "暗物质探测器面临的挑战",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEd0Tnc0b2pPRDhjdE51amx2dm56QTAyQnV0bkc1bVJaU25mYm80bDFtbC03YWVfelUtMDFFV2E3Rk9xUHFfeEhtOVVkZHNOVTFmTDRDZF9KY0pnZmdWOWhPMVpRRE1KaTdjOXNKWUJaVzI2OXFLZnVTVkVhX3Y3c1ZnXzRkZ0YxV1JBNjRlcXB5eEI4RHBVcGhYU2pxQQ?oc=5",
+      "published_at": "2026-07-21T08:03:03Z",
+      "score": 83
+    },
+    {
+      "id": "a24d54d9acc181c2",
+      "category": "粒子物理",
+      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
+      "published_at": "2026-07-20T07:00:00Z",
+      "score": 96
+    },
+    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -528,8 +508,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -596,13 +576,13 @@
       "score": 83
     },
     {
-      "id": "8484ae7aebe9d8a2",
-      "category": "宇宙探索",
-      "title": "雷达观测到的小行星和彗星任务目标",
-      "text": "雷达观测到的小行星和彗星任务目标",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
-      "published_at": "2026-07-14T07:00:00Z",
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
       "score": 89
     },
     {
