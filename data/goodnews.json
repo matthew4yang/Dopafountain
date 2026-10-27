@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-27T04:37:41.144468Z",
+  "updated_at": "2026-10-27T10:19:26.565152Z",
   "count": 60,
   "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "09018a2c3528e598",
+      "category": "古生物学",
+      "title": "使用自然历史博物馆的化石收藏发现了新的英国恐龙，以忠诚的父亲和丈夫的名字命名",
+      "text": "使用自然历史博物馆的化石收藏发现了新的英国恐龙，以忠诚的父亲和丈夫的名字命名",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
+      "published_at": "2026-10-27T06:03:08Z",
+      "score": 89
+    },
     {
       "id": "7edf8d2714dffb03",
       "category": "粒子物理",
@@ -23,6 +33,16 @@
       "source": "SLAC",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdkJtVjFGVTJsWk9DdUY1dHlXSHZXSjdtdVFWbjdEaG9ZLUtMMUliYmZMbHo4bGFZRlVyZmhmS0xkY1h3a01MY0RQLVlqR0hvNWlVOER3eUs2UzU5Nk1TQjJia0JBWDZKc2xGdkp5bjEzUQ?oc=5",
       "published_at": "2026-10-22T06:47:27Z",
+      "score": 83
+    },
+    {
+      "id": "abff581823346a3c",
+      "category": "粒子物理",
+      "title": "质子中横向动量相关和共线帕子分布的首次同步分析",
+      "text": "质子中横向动量相关和共线帕子分布的首次同步分析",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14b2dlZ19IYnRtZ3YyLTg4RGVHU0dESmc4Vk9lb1JHZWxIOEZtZjFRcmdRNFltUi1rNHZEdVQ1cEtsS1h3MEhRMm4tX2R5Nm96WlZpRTVHVFdhMDRfU2FtSi1TU3NiQQ?oc=5",
+      "published_at": "2026-10-22T03:51:18Z",
       "score": 83
     },
     {
@@ -63,16 +83,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZll3NzVHZmE5ZGtfVU5YV1FQYVpGTmxvd014UEJJQ0h4Z0pHbmt1UU9zb2UtOEs4dFZUMWxfbWsyRWl4VkEtTlByaVk3VllJMDBydE5wXzRnV1VJeHJPdGNXZmFRUQ?oc=5",
       "published_at": "2026-10-19T14:40:43Z",
-      "score": 89
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
       "score": 89
     },
     {
@@ -174,16 +184,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "6187325b6e1eaaa7",
@@ -313,16 +313,6 @@
       "source": "IceCube Neutrino Observatory",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
       "score": 83
     },
     {
@@ -496,26 +486,6 @@
       "score": 83
     },
     {
-      "id": "c569e87b3a3233ba",
-      "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
-      "published_at": "2026-07-24T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "86d9c09f2a560149",
-      "category": "宇宙探索",
-      "title": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
-      "text": "钱德拉揭示了“红马铃薯”周围的黑洞喷流，这是一个没有活跃恒星形成的早期宇宙星系",
-      "source": "Harvard University",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJc2VOdkFDc3lXUXh0bkJ6SlVXeEwzalRwYUxBUHA1NXVzd0xyaTNTV1lHSTNFdUpqb3hjcUcyWmRlTXFCcjVabXNtNUJOWS1NM1E?oc=5",
-      "published_at": "2026-07-21T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -528,8 +498,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -583,6 +553,36 @@
       "source": "STScI",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "de7a8bfa1e109d2e",
+      "category": "古生物学",
+      "title": "中国中泥盆世最早的琥珀",
+      "text": "中国中泥盆世最早的琥珀",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "8484ae7aebe9d8a2",
+      "category": "宇宙探索",
+      "title": "雷达观测到的小行星和彗星任务目标",
+      "text": "雷达观测到的小行星和彗星任务目标",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
+      "published_at": "2026-07-14T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "02e05d7252f4b21a",
+      "category": "宇宙探索",
+      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
+      "published_at": "2026-07-13T07:00:00Z",
       "score": 83
     },
     {
