@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-27T10:19:26.565152Z",
-  "count": 60,
-  "auto_count": 62,
+  "updated_at": "2026-10-27T15:59:01.810492Z",
+  "count": 62,
+  "auto_count": 64,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "abe2f034c61e1a00",
+      "category": "古生物学",
+      "title": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
+      "text": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dFpGUW9QN1MycTNLOUNqMklpMWxYUkJvVFZuMzlRQXh3TGJ0M09lekNxMkphZ0w3elBzVkVyZWxrMUE4eVNwRjFNUC1xSEZkYUpEcEt0WEp6VEx3em9R?oc=5",
+      "published_at": "2026-10-27T14:05:02Z",
+      "score": 90
+    },
     {
       "id": "09018a2c3528e598",
       "category": "古生物学",
@@ -14,16 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
       "published_at": "2026-10-27T06:03:08Z",
       "score": 89
-    },
-    {
-      "id": "7edf8d2714dffb03",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
-      "published_at": "2026-10-23T14:28:33Z",
-      "score": 90
     },
     {
       "id": "e9dd2c5c67108687",
@@ -66,16 +66,6 @@
       "score": 83
     },
     {
-      "id": "13f503371f7f9101",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "text": "物理评论快报 - 已接受论文：在 = 13 TeV 的质子-质子碰撞中寻找最终状态下具有六个底夸克的非共振三重希格斯玻色子产生",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91T3hHZ21MUVNLcWt0X3N4Rk9SVEExVjV3Uk9DQ3pHTVVYQkk4alZKVWJhenZrZjVuRFVfNjlnV0wwa1RZTUc3emVkMWpaUU5JLWEwd0RlT25ycF9GUGc1eFd0S21BQQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 99
-    },
-    {
       "id": "8f19f30f3b10fd77",
       "category": "粒子物理",
       "title": "通过超导自旋混合磁力计寻找轴子暗物质",
@@ -83,6 +73,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZll3NzVHZmE5ZGtfVU5YV1FQYVpGTmxvd014UEJJQ0h4Z0pHbmt1UU9zb2UtOEs4dFZUMWxfbWsyRWl4VkEtTlByaVk3VllJMDBydE5wXzRnV1VJeHJPdGNXZmFRUQ?oc=5",
       "published_at": "2026-10-19T14:40:43Z",
+      "score": 89
+    },
+    {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T12:22:06Z",
       "score": 89
     },
     {
@@ -186,6 +186,16 @@
       "score": 90
     },
     {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
+    },
+    {
       "id": "6187325b6e1eaaa7",
       "category": "粒子物理",
       "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
@@ -234,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "1b074b307e077840",
-      "category": "粒子物理",
-      "title": "补充材料：用于光暗物质探测的非常规材料",
-      "text": "补充材料：用于光暗物质探测的非常规材料",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSF9FVjF6UHVNbU9ZU2J2VFNMbVFJWnJINGpZdnZpdzVDeFJhMm5sZ19WUVpKa21aZUMyekFHdTlWREUxUUFpelR5N2JSRXJhOVVPWFhvczBKZnhDMzlqSWRUb2dFeGxjV3gwU18yUDUxYkZrbUdBQmtkM3V5clFFaldYR3BLaDM4cnZfVEt4cw?oc=5",
-      "published_at": "2026-09-20T21:49:24Z",
-      "score": 83
     },
     {
       "id": "1b041436bc61b51a",
@@ -486,6 +486,36 @@
       "score": 83
     },
     {
+      "id": "c569e87b3a3233ba",
+      "category": "粒子物理",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
+      "published_at": "2026-07-24T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "3bec90221c75d8cd",
+      "category": "粒子物理",
+      "title": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
+      "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
+      "published_at": "2026-07-23T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "3db31d98b4ae38e6",
+      "category": "粒子物理",
+      "title": "精密 HL-LHC 物理实验技术",
+      "text": "精密 HL-LHC 物理实验技术",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -498,8 +528,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -574,16 +604,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-07-14T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "02e05d7252f4b21a",
-      "category": "宇宙探索",
-      "title": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "text": "迄今为止最清晰的星系重元素图显示了黑洞如何塑造星系",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHRKQ3BfWWFhYjBFZVNhLWZRVkplWHI2XzlaSVpvRG5pZG5wcU9vTm15dWF1UkFFcnlRUVBMMWhOQUREQmhGZTRJcGJDUHgxMGhUbThlVWljZlRpX3k5QzNsdy1UaEZfa0VvMXV5RU1teVhZeGo4bWg2bTV6eFowdEFzMi1nTzc5dkF0OUNNLXZOR3htVjJzQ3ZVTjZWWTBtZ3k3aG1iRjI2Y2Z3THc?oc=5",
-      "published_at": "2026-07-13T07:00:00Z",
-      "score": 83
     },
     {
       "id": "360d7e8ba421608b",
