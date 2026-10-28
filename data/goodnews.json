@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-28T11:32:27.477514Z",
-  "count": 63,
-  "auto_count": 65,
+  "updated_at": "2026-10-28T17:18:23.082006Z",
+  "count": 64,
+  "auto_count": 66,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "8052bd422054534d",
+      "category": "粒子物理",
+      "title": "寻找在质子-质子碰撞中通过轻玻色子衰变成四轻子最终态的重共振",
+      "text": "寻找在质子-质子碰撞中通过轻玻色子衰变成四轻子最终态的重共振",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HWFNMdUVkOHNpbS0wS0tnenJkblNtUVN6cGZySS1iQkp3dXFZWkxxRU1JSDFGdEU0NkV5R0Z5NXNSN3lDZFlYdHI0SVB0dDB6TFptRnF4RzNOcmhBU1VxVFNkMy12UQ?oc=5",
+      "published_at": "2026-10-28T14:58:18Z",
+      "score": 96
+    },
     {
       "id": "9244156c25cfd2ee",
       "category": "宇宙探索",
@@ -56,6 +66,16 @@
       "score": 83
     },
     {
+      "id": "0365cee34ee841c8",
+      "category": "粒子物理",
+      "title": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "text": "D*(2010)+ 介子宽度和 D*(2010)+ − D 0 质量差的测量",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wYnR0Sl9DSVNVNWxiR1ltUThSSUlzYjU3LW93WXNaOWxhNzRDdUhKc1Z0WHB1anV5MzZ2TlY1MGtjeTdwYXZ3VDlTYm1LeUxCQjN2NjdlblVJNGJ2RXk3bVJlMUJNWkU5NG9GVzF4TG5mdw?oc=5",
+      "published_at": "2026-10-21T00:56:56Z",
+      "score": 89
+    },
+    {
       "id": "93a419dbed289966",
       "category": "粒子物理",
       "title": "COHERENT 测量锗上的相干弹性中微子核散射",
@@ -86,16 +106,6 @@
       "score": 89
     },
     {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
-    },
-    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -114,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
       "published_at": "2026-10-16T01:57:31Z",
       "score": 90
+    },
+    {
+      "id": "8a2a7f15ef7d7d21",
+      "category": "古生物学",
+      "title": "骨骼填充揭示了中三叠世中古脊椎动物群的起源",
+      "text": "骨骼填充揭示了中三叠世中古脊椎动物群的起源",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKRjNyUm05SjI0Z2RLV296b3RPb2dDaVNoQjhzVEN2ZFA0UjJqNXIydHBuX2FtMUkxMFRhVGFidFp0SEMxd0J0ZUd2dkJ3WHVMSGJBMmlLTVlhX0QyVjZ3?oc=5",
+      "published_at": "2026-10-14T07:00:00Z",
+      "score": 89
     },
     {
       "id": "8f20e2a4a2c95005",
@@ -146,10 +166,20 @@
       "score": 90
     },
     {
+      "id": "8d23ec170f16a5a9",
+      "category": "宇宙探索",
+      "title": "欧空局遥感地球观测任务概念开发研究生实习生",
+      "text": "欧空局遥感地球观测任务概念开发研究生实习生",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
+      "published_at": "2026-10-07T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "207c6b589b3534ca",
       "category": "古生物学",
-      "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响会议记录B",
-      "text": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响会议记录B",
+      "title": "侏罗纪巨型猎人：最早的双普拉亚类动物及其对六足动物身体模式进化的影响会议记录B",
+      "text": "侏罗纪巨型猎人：最早的双普拉亚类动物及其对六足动物身体模式进化的影响会议记录B",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
@@ -214,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
       "published_at": "2026-09-24T14:55:14Z",
       "score": 97
-    },
-    {
-      "id": "6187325b6e1eaaa7",
-      "category": "粒子物理",
-      "title": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
-      "text": "在电子离子对撞机上制动质子：从看不见的介子衰变到新的物理搜索",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBad1diZ25MNVNKMHp4WklQekxLU25EMjZIbHVxYzhMd1FVTVJITFc2cVZWb0Y3Wk9yU2ZuWTRrRlRqSDRnYllPZHFub2Q3QnpuVW9pbWNFcGtHZ3lRVTB5QkVqUkJsUQ?oc=5",
-      "published_at": "2026-09-23T07:00:00Z",
-      "score": 96
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -313,16 +333,6 @@
       "source": "IceCube Neutrino Observatory",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
       "score": 83
     },
     {
@@ -468,8 +478,8 @@
     {
       "id": "2517175562575c7c",
       "category": "古生物学",
-      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
-      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "title": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
+      "text": "一种会发出气味和发光的萤火虫亲戚：白垩纪萤火虫中复杂信号系统的证据",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
@@ -488,8 +498,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -538,8 +548,8 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
@@ -596,6 +606,16 @@
       "score": 83
     },
     {
+      "id": "de7a8bfa1e109d2e",
+      "category": "古生物学",
+      "title": "中国中泥盆世最早的琥珀",
+      "text": "中国中泥盆世最早的琥珀",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "71f9598e7f8ec702",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
@@ -604,16 +624,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "25be8f7550b50f78",
-      "category": "粒子物理",
-      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
-      "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
     },
     {
       "id": "360d7e8ba421608b",
