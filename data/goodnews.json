@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-28T05:11:03.074760Z",
-  "count": 61,
-  "auto_count": 63,
+  "updated_at": "2026-10-28T11:32:27.477514Z",
+  "count": 63,
+  "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -13,6 +13,16 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lb0xCeUhzSkEwU3JrUHJFWVJCa3Ffc0htLVFPbk5BeFNieENxWS1DSFdwOXA2S1dYZ3JXTy1zWkU1ZU5nekFWNnpwaHFaMVA1dXhTb1BMZw?oc=5",
       "published_at": "2026-10-27T18:52:56Z",
+      "score": 90
+    },
+    {
+      "id": "abe2f034c61e1a00",
+      "category": "古生物学",
+      "title": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
+      "text": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dFpGUW9QN1MycTNLOUNqMklpMWxYUkJvVFZuMzlRQXh3TGJ0M09lekNxMkphZ0w3elBzVkVyZWxrMUE4eVNwRjFNUC1xSEZkYUpEcEt0WEp6VEx3em9R?oc=5",
+      "published_at": "2026-10-27T14:05:02Z",
       "score": 90
     },
     {
@@ -136,22 +146,12 @@
       "score": 90
     },
     {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "207c6b589b3534ca",
       "category": "古生物学",
-      "title": "侏罗纪巨型猎人：最早的双普拉亚类动物及其对六足动物身体模式进化的影响会议记录B",
-      "text": "侏罗纪巨型猎人：最早的双普拉亚类动物及其对六足动物身体模式进化的影响会议记录B",
+      "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响会议记录B",
+      "text": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响会议记录B",
       "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVhhZlF2d1BabzhaLUQyX01pWjJDdGtJLS1sNlVDM1Zna0k5dDNiX3FoaF93VW11M0FVNEhRN3dCMTh0TXZwTTBNRXVVdHR4bUJiM3VoTjZtdXgxUFBwSzJKVlI5VmlMSUJUWER2VkRYQUZnMUlyRFJnOHJuU1k1T25LUVVEZEd6TkcwUHpmUXJlOW5qdkxxUW1yeG5Nc19hdndaV1MwbHlOYXN6ZE1SSm9UeFVWLTBQOFdJQXFhM1BHOWU5c0FyNGxScw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
       "score": 83
     },
@@ -204,6 +204,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
     },
     {
       "id": "6187325b6e1eaaa7",
@@ -316,16 +326,6 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -358,8 +358,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -488,8 +488,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -586,6 +586,16 @@
       "score": 83
     },
     {
+      "id": "2ad7091fed03a82e",
+      "category": "宇宙探索",
+      "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
+      "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
+      "source": "STScI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "71f9598e7f8ec702",
       "category": "粒子物理",
       "title": "弱电精密数据镜头下的希格斯玻色子",
@@ -594,6 +604,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "25be8f7550b50f78",
+      "category": "粒子物理",
+      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
+      "published_at": "2026-07-08T15:11:59Z",
+      "score": 83
     },
     {
       "id": "360d7e8ba421608b",
