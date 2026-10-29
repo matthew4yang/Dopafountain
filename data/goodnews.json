@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-29T08:18:29.098454Z",
-  "count": 62,
-  "auto_count": 64,
+  "updated_at": "2026-10-29T15:28:56.333860Z",
+  "count": 60,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -12,7 +12,7 @@
       "text": "自然历史博物馆化石显示，飞虫比最初想象的要年轻8000万年",
       "source": "Natural History Museum",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
-      "published_at": "2026-10-29T06:00:00Z",
+      "published_at": "2026-10-29T06:06:11Z",
       "score": 89
     },
     {
@@ -33,16 +33,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lb0xCeUhzSkEwU3JrUHJFWVJCa3Ffc0htLVFPbk5BeFNieENxWS1DSFdwOXA2S1dYZ3JXTy1zWkU1ZU5nekFWNnpwaHFaMVA1dXhTb1BMZw?oc=5",
       "published_at": "2026-10-27T18:52:56Z",
-      "score": 90
-    },
-    {
-      "id": "abe2f034c61e1a00",
-      "category": "古生物学",
-      "title": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
-      "text": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dFpGUW9QN1MycTNLOUNqMklpMWxYUkJvVFZuMzlRQXh3TGJ0M09lekNxMkphZ0w3elBzVkVyZWxrMUE4eVNwRjFNUC1xSEZkYUpEcEt0WEp6VEx3em9R?oc=5",
-      "published_at": "2026-10-27T14:05:02Z",
       "score": 90
     },
     {
@@ -73,16 +63,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14b2dlZ19IYnRtZ3YyLTg4RGVHU0dESmc4Vk9lb1JHZWxIOEZtZjFRcmdRNFltUi1rNHZEdVQ1cEtsS1h3MEhRMm4tX2R5Nm96WlZpRTVHVFdhMDRfU2FtSi1TU3NiQQ?oc=5",
       "published_at": "2026-10-22T03:51:18Z",
-      "score": 83
-    },
-    {
-      "id": "93a419dbed289966",
-      "category": "粒子物理",
-      "title": "COHERENT 测量锗上的相干弹性中微子核散射",
-      "text": "COHERENT 测量锗上的相干弹性中微子核散射",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aV28xSDlwc0hMUU4wTzBfTkNmOGh6X1M5OU9tWjUwYjNUaXpKb2JicjZxVVlOWEdUTWxNamxjWUZZV3M3STB3dkNGSTVVb0VqX3BWSmtScy1PMWVYSTdZWTZ1UkxWUQ?oc=5",
-      "published_at": "2026-10-20T12:55:10Z",
       "score": 83
     },
     {
@@ -126,16 +106,6 @@
       "score": 83
     },
     {
-      "id": "91ddd214e6b15eca",
-      "category": "粒子物理",
-      "title": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
-      "text": "使用 Hα 线发射补充材料寻找暗物质湮灭和衰变",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BbUJhYWppdmNMTTlPalFXYUdvNno1UWVrV0JmekVtUEhGeHJ1UFlEcWJvVWFCdTlVQmVBeWJpNlpBY2piQ2JTMElPRzRwUGJGV3U1blNKbGI5RDlLVEhQTDRjZUpwUEI1SXBoYWRLMVpULUs0aUZj?oc=5",
-      "published_at": "2026-10-16T01:57:31Z",
-      "score": 90
-    },
-    {
       "id": "76183f437d1a232e",
       "category": "粒子物理",
       "title": "搜索 TeV 脉冲星发射的脉冲中微子",
@@ -174,26 +144,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "8d23ec170f16a5a9",
-      "category": "宇宙探索",
-      "title": "欧空局遥感地球观测任务概念开发研究生实习生",
-      "text": "欧空局遥感地球观测任务概念开发研究生实习生",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
     },
     {
       "id": "4a986067bda1f3f9",
@@ -254,16 +204,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -344,16 +284,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -546,6 +476,16 @@
       "score": 83
     },
     {
+      "id": "a24d54d9acc181c2",
+      "category": "粒子物理",
+      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
+      "published_at": "2026-07-20T07:00:00Z",
+      "score": 96
+    },
+    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -603,6 +543,46 @@
       "source": "Eso.org",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "2ad7091fed03a82e",
+      "category": "宇宙探索",
+      "title": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
+      "text": "美国宇航局韦伯在著名恒星系统中发现了隐藏的行星",
+      "source": "STScI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX0RtcDJkbW9TODVON3AtZkVQd0llMUZ5NENRMGIyelFYZUdUTkFKX0NHWjdZcDRIZWxSdC05STZLeWU0U1ZLbjRSM1plT3ZWWTVGVGZfT2V1SG56OWVRLXdMZW9rUnU1dUFpa19RbjM?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "8484ae7aebe9d8a2",
+      "category": "宇宙探索",
+      "title": "雷达观测到的小行星和彗星任务目标",
+      "text": "雷达观测到的小行星和彗星任务目标",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
+      "published_at": "2026-07-14T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "25be8f7550b50f78",
+      "category": "粒子物理",
+      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
+      "published_at": "2026-07-08T15:11:59Z",
       "score": 83
     },
     {
