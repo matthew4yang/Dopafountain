@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-28T21:52:11.457087Z",
-  "count": 63,
-  "auto_count": 65,
+  "updated_at": "2026-10-29T01:41:15.757887Z",
+  "count": 61,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -18,8 +18,8 @@
     {
       "id": "9244156c25cfd2ee",
       "category": "宇宙探索",
-      "title": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中第一颗候选矮行星",
-      "text": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中第一颗候选矮行星",
+      "title": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中的第一颗候选矮行星",
+      "text": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中的第一颗候选矮行星",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lb0xCeUhzSkEwU3JrUHJFWVJCa3Ffc0htLVFPbk5BeFNieENxWS1DSFdwOXA2S1dYZ3JXTy1zWkU1ZU5nekFWNnpwaHFaMVA1dXhTb1BMZw?oc=5",
       "published_at": "2026-10-27T18:52:56Z",
@@ -106,6 +106,16 @@
       "score": 89
     },
     {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T12:22:06Z",
+      "score": 89
+    },
+    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -134,16 +144,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0xEUEVDLTZQaVlGdkY2b05XNXZ4NW4zU3I1UXM1djV5dGdjT1FiOWxaZlIwMlVlM1p3WlJOY0VTNEJyYUQzM0pzb0c2VzV4Ylh1ODRjQ2Q1UG1xdENLNEo4Nm1LR2dZNkdPVy1QOTRfUFRRRzZoZVVzWklOdHAwaHlYMzdKNUhyUkRUSEJaRnVDZFpLVkpjYURsMTVuU2s?oc=5",
       "published_at": "2026-10-14T21:38:45Z",
       "score": 83
-    },
-    {
-      "id": "8a2a7f15ef7d7d21",
-      "category": "古生物学",
-      "title": "骨骼填充揭示了中三叠世中栖脊椎动物群落的起源",
-      "text": "骨骼填充揭示了中三叠世中栖脊椎动物群落的起源",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKRjNyUm05SjI0Z2RLV296b3RPb2dDaVNoQjhzVEN2ZFA0UjJqNXIydHBuX2FtMUkxMFRhVGFidFp0SEMxd0J0ZUd2dkJ3WHVMSGJBMmlLTVlhX0QyVjZ3?oc=5",
-      "published_at": "2026-10-14T07:00:00Z",
-      "score": 89
     },
     {
       "id": "8f20e2a4a2c95005",
@@ -176,16 +176,6 @@
       "score": 90
     },
     {
-      "id": "8d23ec170f16a5a9",
-      "category": "宇宙探索",
-      "title": "欧空局遥感地球观测任务概念开发研究生实习生",
-      "text": "欧空局遥感地球观测任务概念开发研究生实习生",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlc2VnJYUFBNNkNHWVVaMlpFWGR0N1h6TGlkV1BxNUxNaFFIOENfRmh3T1ZSZGtnNTNFMnd3UDVhdTFMTFQ0NzFDQmhNMkgzSlRMZFF0YjIwZ2RibUN4UlRMYzNPdGNlRmEtMThhQ29laXBjTXlWSlBiUGM2NUFPcUNUSGlPQzQ2aUp4V2R4ZUJzNTZDZ0I4eF9POUpTMWJOV3RVeUtoeThVRThxUDdVNVhhS2RqMHFPVHp2czJYUTEtaEkxTWVYUFNBTQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "65e8a1146a356eb2",
       "category": "粒子物理",
       "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
@@ -198,8 +188,8 @@
     {
       "id": "207c6b589b3534ca",
       "category": "古生物学",
-      "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响会议记录B",
-      "text": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响会议记录B",
+      "title": "侏罗纪巨型猎人：最早的双普拉亚类动物及其对六足动物身体模式进化的影响会议记录B",
+      "text": "侏罗纪巨型猎人：最早的双普拉亚类动物及其对六足动物身体模式进化的影响会议记录B",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
@@ -254,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -323,16 +303,6 @@
       "source": "IceCube Neutrino Observatory",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHFlelN1OFFlUlo1WU1JTGotcmtja3pVRnROMTF3dElxa3BVRF9fYjI4Ylo5ZnJlOEpQS2VGemN6SkN6YTNOa2JoX2NjbWktcWh3WUpXOGNQZW1aV1JOZVBTMHpQbFE4SG15M1k4bzd2ZmpsUm9nUmxwM2xlNU11NGR3RXNjOUhvVFJCdEdBWXdvRWpYWFRrbndTcWJwVGszSURsQ1gzU0hYVC1YVFYwR3p3?oc=5",
       "published_at": "2026-09-15T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "7db1ba8a89c1c56e",
-      "category": "粒子物理",
-      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
-      "published_at": "2026-09-14T07:00:00Z",
       "score": 83
     },
     {
@@ -398,8 +368,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -518,8 +488,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -614,6 +584,16 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
     },
     {
       "id": "360d7e8ba421608b",
