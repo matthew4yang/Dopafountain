@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-29T20:29:24.439118Z",
-  "count": 64,
-  "auto_count": 66,
+  "updated_at": "2026-10-30T00:10:38.619006Z",
+  "count": 61,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -11,8 +11,8 @@
       "title": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
       "text": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
       "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnVLb1dxZDRrNkRyTGU5aUk4LWpLRGhoMzhzdDhMbFgwT2dSMFo0NzNCdi1nSU9DZXN2X2Exc0pCOF9QREh0b3ljanVva1p0UmVOYUlJQU9wZ3dRVlg1T09ManlZdkFvbXktbDNsaFZIM3YwOWdQT01uUXRpREpfeDNnQThKM1BWNHJYa0ZIN3FzZFlXUDdCQUtYcDg1X3ZENFBpTA?oc=5",
-      "published_at": "2026-10-29T18:40:48Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUZoeG9XUzhNbUJ4ajJtc0oySk1PSnVCTkRpcEhKS0E2Y2xTRTZ3NUxSdDZKeXQ0UmItUTZFVGhSeXp2NFVsTU1aSU41YjhveFFoQ2FYbmNzVFFta19sNG5ua1VKbWpKR1YzUW9rd3FVVXpWTGVPVlhiazE1NVVDdzJkMTV6T2xBSWxFYzJjOFlBbF9VVHBnS3JOZlV3RjI1b3hrenlvQ1dWN2txWHlVQVVJMHA?oc=5",
+      "published_at": "2026-10-29T18:18:09Z",
       "score": 83
     },
     {
@@ -106,16 +106,6 @@
       "score": 89
     },
     {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
-    },
-    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -134,16 +124,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0xEUEVDLTZQaVlGdkY2b05XNXZ4NW4zU3I1UXM1djV5dGdjT1FiOWxaZlIwMlVlM1p3WlJOY0VTNEJyYUQzM0pzb0c2VzV4Ylh1ODRjQ2Q1UG1xdENLNEo4Nm1LR2dZNkdPVy1QOTRfUFRRRzZoZVVzWklOdHAwaHlYMzdKNUhyUkRUSEJaRnVDZFpLVkpjYURsMTVuU2s?oc=5",
       "published_at": "2026-10-14T21:38:45Z",
       "score": 83
-    },
-    {
-      "id": "8a2a7f15ef7d7d21",
-      "category": "古生物学",
-      "title": "骨骼填充揭示了中三叠世中古脊椎动物群的起源",
-      "text": "骨骼填充揭示了中三叠世中古脊椎动物群的起源",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKRjNyUm05SjI0Z2RLV296b3RPb2dDaVNoQjhzVEN2ZFA0UjJqNXIydHBuX2FtMUkxMFRhVGFidFp0SEMxd0J0ZUd2dkJ3WHVMSGJBMmlLTVlhX0QyVjZ3?oc=5",
-      "published_at": "2026-10-14T07:00:00Z",
-      "score": 89
     },
     {
       "id": "8f20e2a4a2c95005",
@@ -174,16 +154,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
     },
     {
       "id": "4a986067bda1f3f9",
@@ -244,16 +214,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -336,14 +296,14 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
+      "id": "2f259e18d03dadfa",
+      "category": "古生物学",
+      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
+      "published_at": "2026-09-08T18:42:37Z",
+      "score": 83
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -556,16 +516,6 @@
       "score": 89
     },
     {
-      "id": "a24d54d9acc181c2",
-      "category": "粒子物理",
-      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
-      "published_at": "2026-07-20T07:00:00Z",
-      "score": 96
-    },
-    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -606,12 +556,22 @@
       "score": 96
     },
     {
-      "id": "de7a8bfa1e109d2e",
-      "category": "古生物学",
-      "title": "中国中泥盆世最早的琥珀",
-      "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
+      "id": "651ea87cbd8d6922",
+      "category": "宇宙探索",
+      "title": "美国宇航局的毅力号漫游车读取古代火星撞击的记录",
+      "text": "美国宇航局的毅力号漫游车读取古代火星撞击的记录",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWlCdW5GUEdQcjdTNGpQQU93ZjcxQzFhOEF0UnNjRUZHVUhza2pmZGZsRGE0TWVWS1FvMm9NTDdhNy1VZFpSWDlmR0lpZGR4ZEpKVEdUeldMNW1scTNtVklSeU11cjJmdDJYV0NiVGVlMzhTRnFwRVpveXhBVExibzFzVy1WRDBOMUVtN1NuWXJjMGtTOWRv?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "eb401eb1ce158261",
+      "category": "宇宙探索",
+      "title": "多年来观测到的Beta Pictoris d系外行星",
+      "text": "多年来观测到的Beta Pictoris d系外行星",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     },
@@ -624,6 +584,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "25be8f7550b50f78",
+      "category": "粒子物理",
+      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
+      "published_at": "2026-07-08T15:11:59Z",
+      "score": 83
     },
     {
       "id": "360d7e8ba421608b",
