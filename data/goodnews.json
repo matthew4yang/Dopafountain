@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-10-30T18:47:37.164197Z",
-  "count": 61,
-  "auto_count": 62,
+  "updated_at": "2026-10-30T22:54:20.066388Z",
+  "count": 62,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "05ce6c30dde0f3ef",
+      "category": "粒子物理",
+      "title": "SBND 合作发布首个中微子结果",
+      "text": "SBND 合作发布首个中微子结果",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
+      "published_at": "2026-10-30T20:30:00Z",
+      "score": 90
+    },
+    {
+      "id": "2bbdc1f01ba47642",
+      "category": "古生物学",
+      "title": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
+      "text": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
+      "published_at": "2026-10-30T18:30:38Z",
+      "score": 83
+    },
+    {
+      "id": "74199b31e14b9123",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92002rnq-asteroid-17246_f435w_v1-0_sci.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92002rnq-asteroid-17246_f435w_v1-0_sci.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHkxVlR4bDBpMldWQURTYmUtOGdDbl9qQUw5dEh2NkNZRnYyMGhOR1ZnRFg5LVEzbEpCam8zZWlxcklZQ183VXh3eXI1ZGR1anB6T0dLUjczYmVXS3pFZmdTOGRORktGb1ptLTAydkVBRjVZRHRESTk1YlFBMEhlbncxWEZkUlpFTEFoUGx3UEJuMjJBUTB1TGJGREtFR0l5NWlfaG91MkdMMm4xcjcxSi1oSEpHNVN2a2E3dm9JaVk0R3dNNmVIXzVB?oc=5",
+      "published_at": "2026-10-30T17:01:38Z",
+      "score": 83
+    },
+    {
+      "id": "c10a633442aa2241",
+      "category": "古生物学",
+      "title": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
+      "text": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRFdkX3U5dXhIT0ZlRzJHRVlwM050MTF5WGlkUGRaaUJ0Rmc4TDU4cHFkMGxWT0l5aFE4V1daLVY1UFJ5OHEtZjRPT0pZYXptUTZRMzNBc0NKQWZJMEln?oc=5",
+      "published_at": "2026-10-30T14:25:53Z",
+      "score": 83
+    },
     {
       "id": "ada703b5149ce406",
       "category": "宇宙探索",
@@ -16,16 +56,6 @@
       "score": 83
     },
     {
-      "id": "03766ddc6a1f40ea",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92001jdq-asteroid-17246_f775w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92001jdq-asteroid-17246_f775w_v1-0_img.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1BROFFnQWZkZFJaR3ZyVDYxbEQxOTAxQ3pZalpYa0lvUm0yMGtDTDhUUGlkYmE0UjM3SHRQRHlKel9UNWxEcHI2RHN1QUVNT1VUSTVDbEtqX01wNURDQkljbXNiRjdhd1d5azREXzRrWDc4aEdfNzJlSXF2OWstc2lPMDJSbUNfU0VoaVlGMkxqNUVWZy1LQzFiZ2pHMTJKOEczN1VSQS1feHFiZE0zeFZMSXh4ZWxQY3J0UjVVUGkyRmRDNVU4MUtn?oc=5",
-      "published_at": "2026-10-29T17:58:28Z",
-      "score": 83
-    },
-    {
       "id": "20d23446e0200450",
       "category": "古生物学",
       "title": "自然历史博物馆化石显示，飞虫比最初想象的要年轻8000万年",
@@ -34,6 +64,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
       "published_at": "2026-10-29T06:06:11Z",
       "score": 89
+    },
+    {
+      "id": "abe2f034c61e1a00",
+      "category": "古生物学",
+      "title": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
+      "text": "燧石的出色保存揭示了最早的寒武纪蜕皮动物之一的复杂表皮结构",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02dFpGUW9QN1MycTNLOUNqMklpMWxYUkJvVFZuMzlRQXh3TGJ0M09lekNxMkphZ0w3elBzVkVyZWxrMUE4eVNwRjFNUC1xSEZkYUpEcEt0WEp6VEx3em9R?oc=5",
+      "published_at": "2026-10-27T22:18:39Z",
+      "score": 90
     },
     {
       "id": "9244156c25cfd2ee",
@@ -54,16 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
       "published_at": "2026-10-27T06:03:08Z",
       "score": 89
-    },
-    {
-      "id": "7edf8d2714dffb03",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
-      "published_at": "2026-10-23T14:28:33Z",
-      "score": 90
     },
     {
       "id": "e9dd2c5c67108687",
@@ -94,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
       "published_at": "2026-10-20T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T12:22:06Z",
+      "score": 89
     },
     {
       "id": "87aa3edf2f8a829f",
@@ -144,16 +184,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
     },
     {
       "id": "4a986067bda1f3f9",
@@ -214,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -426,6 +446,16 @@
       "score": 89
     },
     {
+      "id": "12df0a06e9e86871",
+      "category": "古生物学",
+      "title": "加拿大阿尔伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
+      "text": "加拿大阿尔伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LcnBjekdBZXNVTkJabXd1eDZHTlRNQVlHOG1oZWZwaFNVRW16aUhOek1EWFBYX0IyMERiOFd6M0pLOVo3SW5MR1d3S0FtT0poVTRKUi04ZTRHU09VcGRiLXg1aEpZbFVvdUNtbmcwRlhHSDZ2V0VxbXF4SllxQQ?oc=5",
+      "published_at": "2026-07-29T18:22:22Z",
+      "score": 89
+    },
+    {
       "id": "bbe4903a032461c9",
       "category": "宇宙探索",
       "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
@@ -554,26 +584,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
       "published_at": "2026-07-15T07:00:00Z",
       "score": 96
-    },
-    {
-      "id": "651ea87cbd8d6922",
-      "category": "宇宙探索",
-      "title": "美国宇航局的毅力号漫游车读取古代火星撞击的记录",
-      "text": "美国宇航局的毅力号漫游车读取古代火星撞击的记录",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWlCdW5GUEdQcjdTNGpQQU93ZjcxQzFhOEF0UnNjRUZHVUhza2pmZGZsRGE0TWVWS1FvMm9NTDdhNy1VZFpSWDlmR0lpZGR4ZEpKVEdUeldMNW1scTNtVklSeU11cjJmdDJYV0NiVGVlMzhTRnFwRVpveXhBVExibzFzVy1WRDBOMUVtN1NuWXJjMGtTOWRv?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "de7a8bfa1e109d2e",
-      "category": "古生物学",
-      "title": "中国中泥盆世最早的琥珀",
-      "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 83
     },
     {
       "id": "71f9598e7f8ec702",
