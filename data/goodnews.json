@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-31T08:46:02.932730Z",
-  "count": 62,
+  "updated_at": "2026-10-31T15:14:07.116614Z",
+  "count": 59,
   "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "c6c2daef31db76a7",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92004fts-asteroid-17246_f435w_v1-0_sci.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92004fts-asteroid-17246_f435w_v1-0_sci.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXZrMlVPVFJfcHBqQktrTTRYTk82RE9pZ1hIOGlEQl9kY2F2STBtZ1ZETzZLLVp1R2JROU5tUl83QjViTXZ6VDVKVXlzdl9RQ2Yycm5JVUcxMDlqcEVWNEs3U1lRR3BSY1JZVzI3eHNoNG5yaElOZzNvRUNHZzZfcmFpOEg1WGlXa3llUDU4VkxEWm1aMlk0QmwwemR4a3dMVWw2RVlySlRORUxiV3pMcXpycnYtQ3hfUnVaSHJWejVPQUl3MEVUNGVn?oc=5",
+      "published_at": "2026-10-31T05:49:58Z",
+      "score": 83
+    },
     {
       "id": "05ce6c30dde0f3ef",
       "category": "粒子物理",
@@ -23,16 +33,6 @@
       "source": "Science",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
       "published_at": "2026-10-30T18:30:38Z",
-      "score": 83
-    },
-    {
-      "id": "74199b31e14b9123",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92002rnq-asteroid-17246_f435w_v1-0_sci.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92002rnq-asteroid-17246_f435w_v1-0_sci.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHkxVlR4bDBpMldWQURTYmUtOGdDbl9qQUw5dEh2NkNZRnYyMGhOR1ZnRFg5LVEzbEpCam8zZWlxcklZQ183VXh3eXI1ZGR1anB6T0dLUjczYmVXS3pFZmdTOGRORktGb1ptLTAydkVBRjVZRHRESTk1YlFBMEhlbncxWEZkUlpFTEFoUGx3UEJuMjJBUTB1TGJGREtFR0l5NWlfaG91MkdMMm4xcjcxSi1oSEpHNVN2a2E3dm9JaVk0R3dNNmVIXzVB?oc=5",
-      "published_at": "2026-10-30T17:01:38Z",
       "score": 83
     },
     {
@@ -64,6 +64,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
       "published_at": "2026-10-29T06:06:11Z",
       "score": 89
+    },
+    {
+      "id": "8052bd422054534d",
+      "category": "粒子物理",
+      "title": "寻找在质子-质子碰撞中通过轻玻色子衰变成四轻子最终态的重共振",
+      "text": "寻找在质子-质子碰撞中通过轻玻色子衰变成四轻子最终态的重共振",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HWFNMdUVkOHNpbS0wS0tnenJkblNtUVN6cGZySS1iQkp3dXFZWkxxRU1JSDFGdEU0NkV5R0Z5NXNSN3lDZFlYdHI0SVB0dDB6TFptRnF4RzNOcmhBU1VxVFNkMy12UQ?oc=5",
+      "published_at": "2026-10-28T14:58:18Z",
+      "score": 96
     },
     {
       "id": "9244156c25cfd2ee",
@@ -223,16 +233,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpZHRjcFBKQ252YzZGVlpIYmVtbUdvSGc4UzlBcUQ2UGJhN2hrVnFnU1Y2ZE5qNU42RWpIaU9YNzhYd1BKSlhuclV6VjlLYUo5MVFabTdDQTN1YUpPQkNMZ2pwR0dWVzQtRDB5Mi1ZbF9WeEt4V3c?oc=5",
       "published_at": "2026-09-30T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "31c5893fd9d18739",
-      "category": "宇宙探索",
-      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjh5c3JtWUtGS1Fva0c0dnhLOUhjeXh5bjVkOEZaQWlndDUtQ1RSUkhGR25ERENiRXY0Y0lTRlU5aHcyTHJ5NzN0U2pTM1k2UFE5WHJoRm9iM2xwclBXZXByTzhPNVJTTTdkSTdJZGh3MGxHSkZaalA2dmZJWmpXN2k3dENPZ1dVYi1hOW45YVZaSW1walFvNUg0XzFtMzRjZV9jcmkweHJCb05sZmdweVZHc2FlYXZ4?oc=5",
-      "published_at": "2026-09-28T07:00:00Z",
       "score": 83
     },
     {
@@ -466,16 +466,6 @@
       "score": 89
     },
     {
-      "id": "12df0a06e9e86871",
-      "category": "古生物学",
-      "title": "加拿大艾伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
-      "text": "加拿大艾伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
-      "source": "PLOS",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LcnBjekdBZXNVTkJabXd1eDZHTlRNQVlHOG1oZWZwaFNVRW16aUhOek1EWFBYX0IyMERiOFd6M0pLOVo3SW5MR1d3S0FtT0poVTRKUi04ZTRHU09VcGRiLXg1aEpZbFVvdUNtbmcwRlhHSDZ2V0VxbXF4SllxQQ?oc=5",
-      "published_at": "2026-07-29T18:22:22Z",
-      "score": 89
-    },
-    {
       "id": "bbe4903a032461c9",
       "category": "宇宙探索",
       "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
@@ -518,8 +508,8 @@
     {
       "id": "fedd2d9deb668160",
       "category": "古生物学",
-      "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的要大，并且成群结队地迁徙",
-      "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的要大，并且成群结队地迁徙",
+      "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
+      "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
@@ -528,8 +518,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -563,26 +553,6 @@
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
       "published_at": "2026-07-17T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "b6702abb9aa636d5",
-      "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
-      "score": 90
-    },
-    {
-      "id": "450e0edaa1333316",
-      "category": "宇宙探索",
-      "title": "美国宇航局研究发现近地小行星实际上是彗星",
-      "text": "美国宇航局研究发现近地小行星实际上是彗星",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
       "score": 89
     },
     {
