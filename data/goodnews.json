@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:13:17.791012Z",
+  "updated_at": "2026-10-31T08:46:02.932730Z",
   "count": 62,
   "auto_count": 63,
   "verified_seed_count": 2,
@@ -14,6 +14,26 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
       "published_at": "2026-10-30T20:30:00Z",
       "score": 90
+    },
+    {
+      "id": "2bbdc1f01ba47642",
+      "category": "古生物学",
+      "title": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
+      "text": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
+      "published_at": "2026-10-30T18:30:38Z",
+      "score": 83
+    },
+    {
+      "id": "74199b31e14b9123",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92002rnq-asteroid-17246_f435w_v1-0_sci.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92002rnq-asteroid-17246_f435w_v1-0_sci.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWHkxVlR4bDBpMldWQURTYmUtOGdDbl9qQUw5dEh2NkNZRnYyMGhOR1ZnRFg5LVEzbEpCam8zZWlxcklZQ183VXh3eXI1ZGR1anB6T0dLUjczYmVXS3pFZmdTOGRORktGb1ptLTAydkVBRjVZRHRESTk1YlFBMEhlbncxWEZkUlpFTEFoUGx3UEJuMjJBUTB1TGJGREtFR0l5NWlfaG91MkdMMm4xcjcxSi1oSEpHNVN2a2E3dm9JaVk0R3dNNmVIXzVB?oc=5",
+      "published_at": "2026-10-30T17:01:38Z",
+      "score": 83
     },
     {
       "id": "c10a633442aa2241",
@@ -33,16 +53,6 @@
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUZoeG9XUzhNbUJ4ajJtc0oySk1PSnVCTkRpcEhKS0E2Y2xTRTZ3NUxSdDZKeXQ0UmItUTZFVGhSeXp2NFVsTU1aSU41YjhveFFoQ2FYbmNzVFFta19sNG5ua1VKbWpKR1YzUW9rd3FVVXpWTGVPVlhiazE1NVVDdzJkMTV6T2xBSWxFYzJjOFlBbF9VVHBnS3JOZlV3RjI1b3hrenlvQ1dWN2txWHlVQVVJMHA?oc=5",
       "published_at": "2026-10-29T18:18:09Z",
-      "score": 83
-    },
-    {
-      "id": "03766ddc6a1f40ea",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92001jdq-asteroid-17246_f775w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92001jdq-asteroid-17246_f775w_v1-0_img.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa1BROFFnQWZkZFJaR3ZyVDYxbEQxOTAxQ3pZalpYa0lvUm0yMGtDTDhUUGlkYmE0UjM3SHRQRHlKel9UNWxEcHI2RHN1QUVNT1VUSTVDbEtqX01wNURDQkljbXNiRjdhd1d5azREXzRrWDc4aEdfNzJlSXF2OWstc2lPMDJSbUNfU0VoaVlGMkxqNUVWZy1LQzFiZ2pHMTJKOEczN1VSQS1feHFiZE0zeFZMSXh4ZWxQY3J0UjVVUGkyRmRDNVU4MUtn?oc=5",
-      "published_at": "2026-10-29T17:58:28Z",
       "score": 83
     },
     {
@@ -166,6 +176,16 @@
       "score": 90
     },
     {
+      "id": "65e8a1146a356eb2",
+      "category": "粒子物理",
+      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
+      "published_at": "2026-10-07T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "4a986067bda1f3f9",
       "category": "古生物学",
       "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
@@ -224,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -456,6 +466,16 @@
       "score": 89
     },
     {
+      "id": "12df0a06e9e86871",
+      "category": "古生物学",
+      "title": "加拿大艾伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
+      "text": "加拿大艾伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LcnBjekdBZXNVTkJabXd1eDZHTlRNQVlHOG1oZWZwaFNVRW16aUhOek1EWFBYX0IyMERiOFd6M0pLOVo3SW5MR1d3S0FtT0poVTRKUi04ZTRHU09VcGRiLXg1aEpZbFVvdUNtbmcwRlhHSDZ2V0VxbXF4SllxQQ?oc=5",
+      "published_at": "2026-07-29T18:22:22Z",
+      "score": 89
+    },
+    {
       "id": "bbe4903a032461c9",
       "category": "宇宙探索",
       "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
@@ -498,8 +518,8 @@
     {
       "id": "fedd2d9deb668160",
       "category": "古生物学",
-      "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
-      "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
+      "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的要大，并且成群结队地迁徙",
+      "text": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的要大，并且成群结队地迁徙",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
@@ -508,8 +528,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -534,16 +554,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlocHJUNndINWNmTXpXd01sSDdwV0J3RkpFOElSZXZndENjOUtPTDRzdy1MX19CbEJ0Yk15bkRaY01GZnlxQjJlbUpONDFUMlVoNlYzazU2U21jOE5UM2xkUnNnNTNlc3BFZ29aQXNXUVk0Mk94aEV4S1J2ZXlwV21ZeUNqVENTenhlRHJlZzNIUEd2Z3FiU29YaThPaEVYZldDZFV6T09zaTA?oc=5",
       "published_at": "2026-07-23T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "a24d54d9acc181c2",
-      "category": "粒子物理",
-      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
-      "published_at": "2026-07-20T07:00:00Z",
-      "score": 96
     },
     {
       "id": "8e2923034357b498",
@@ -574,16 +584,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "de7a8bfa1e109d2e",
-      "category": "古生物学",
-      "title": "中国中泥盆世最早的琥珀",
-      "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 83
     },
     {
       "id": "71f9598e7f8ec702",
