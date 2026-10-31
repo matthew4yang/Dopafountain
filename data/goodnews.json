@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-31T19:29:44.143660Z",
-  "count": 61,
-  "auto_count": 63,
+  "updated_at": "2026-10-31T22:44:23.755171Z",
+  "count": 56,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -156,16 +156,6 @@
       "score": 90
     },
     {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "4a986067bda1f3f9",
       "category": "古生物学",
       "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
@@ -304,26 +294,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
-      "score": 83
-    },
-    {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -536,16 +506,6 @@
       "score": 89
     },
     {
-      "id": "a24d54d9acc181c2",
-      "category": "粒子物理",
-      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
-      "published_at": "2026-07-20T07:00:00Z",
-      "score": 96
-    },
-    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -564,16 +524,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "450e0edaa1333316",
-      "category": "宇宙探索",
-      "title": "美国宇航局研究发现近地小行星实际上是彗星",
-      "text": "美国宇航局研究发现近地小行星实际上是彗星",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
-      "score": 89
     },
     {
       "id": "71f9598e7f8ec702",
