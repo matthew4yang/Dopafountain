@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T15:14:07.116614Z",
-  "count": 59,
+  "updated_at": "2026-10-31T19:29:44.143660Z",
+  "count": 61,
   "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
@@ -24,26 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
       "published_at": "2026-10-30T20:30:00Z",
       "score": 90
-    },
-    {
-      "id": "2bbdc1f01ba47642",
-      "category": "古生物学",
-      "title": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
-      "text": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
-      "published_at": "2026-10-30T18:30:38Z",
-      "score": 83
-    },
-    {
-      "id": "c10a633442aa2241",
-      "category": "古生物学",
-      "title": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
-      "text": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRFdkX3U5dXhIT0ZlRzJHRVlwM050MTF5WGlkUGRaaUJ0Rmc4TDU4cHFkMGxWT0l5aFE4V1daLVY1UFJ5OHEtZjRPT0pZYXptUTZRMzNBc0NKQWZJMEln?oc=5",
-      "published_at": "2026-10-30T14:25:53Z",
-      "score": 83
     },
     {
       "id": "ada703b5149ce406",
@@ -124,16 +104,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
       "published_at": "2026-10-20T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
     },
     {
       "id": "87aa3edf2f8a829f",
@@ -244,6 +214,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -466,6 +446,16 @@
       "score": 89
     },
     {
+      "id": "12df0a06e9e86871",
+      "category": "古生物学",
+      "title": "加拿大阿尔伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
+      "text": "加拿大阿尔伯塔省南部上白垩纪恐龙公园组的标本揭示了角龙类（恐龙：鸟臀亚纲）下后肢的形态和关节结构",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LcnBjekdBZXNVTkJabXd1eDZHTlRNQVlHOG1oZWZwaFNVRW16aUhOek1EWFBYX0IyMERiOFd6M0pLOVo3SW5MR1d3S0FtT0poVTRKUi04ZTRHU09VcGRiLXg1aEpZbFVvdUNtbmcwRlhHSDZ2V0VxbXF4SllxQQ?oc=5",
+      "published_at": "2026-07-29T18:22:22Z",
+      "score": 89
+    },
+    {
       "id": "bbe4903a032461c9",
       "category": "宇宙探索",
       "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
@@ -546,6 +536,16 @@
       "score": 89
     },
     {
+      "id": "a24d54d9acc181c2",
+      "category": "粒子物理",
+      "title": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "text": "从衰变到一对 Tau 轻子的希格斯特性的最新测量",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjZ2a3MzQUNCcEJabl9tZzhvMkVmNi12azc2aTBUNVcxU2d4bnVtcDhXY0JsZzdTaGpKUDAtWk0wbmtkXzY4UGw1ODFLazNNMzhWYTl4RkdqaVI3cW0wQVVDZjdMelFnSVZSNURTSzMwdVYtZjItUEI2N3pQUTNpdDJETnNIV1RoX3RNcUdoeTduSDlOTUpaa05TSzZvMU5RZEFkOUdWQzN0Zw?oc=5",
+      "published_at": "2026-07-20T07:00:00Z",
+      "score": 96
+    },
+    {
       "id": "8e2923034357b498",
       "category": "宇宙探索",
       "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
@@ -553,6 +553,26 @@
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
       "published_at": "2026-07-17T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "b6702abb9aa636d5",
+      "category": "宇宙探索",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 90
+    },
+    {
+      "id": "450e0edaa1333316",
+      "category": "宇宙探索",
+      "title": "美国宇航局研究发现近地小行星实际上是彗星",
+      "text": "美国宇航局研究发现近地小行星实际上是彗星",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
       "score": 89
     },
     {
