@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T20:24:38.792063Z",
-  "count": 61,
-  "auto_count": 65,
+  "updated_at": "2026-11-01T23:49:40.362352Z",
+  "count": 59,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -26,16 +26,6 @@
       "score": 90
     },
     {
-      "id": "c10a633442aa2241",
-      "category": "古生物学",
-      "title": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
-      "text": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMRFdkX3U5dXhIT0ZlRzJHRVlwM050MTF5WGlkUGRaaUJ0Rmc4TDU4cHFkMGxWT0l5aFE4V1daLVY1UFJ5OHEtZjRPT0pZYXptUTZRMzNBc0NKQWZJMEln?oc=5",
-      "published_at": "2026-10-30T14:25:53Z",
-      "score": 83
-    },
-    {
       "id": "ada703b5149ce406",
       "category": "宇宙探索",
       "title": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
@@ -54,16 +44,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
       "published_at": "2026-10-29T06:06:11Z",
       "score": 89
-    },
-    {
-      "id": "8052bd422054534d",
-      "category": "粒子物理",
-      "title": "寻找在质子-质子碰撞中通过轻玻色子衰变成四轻子最终态的重共振",
-      "text": "寻找在质子-质子碰撞中通过轻玻色子衰变成四轻子最终态的重共振",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HWFNMdUVkOHNpbS0wS0tnenJkblNtUVN6cGZySS1iQkp3dXFZWkxxRU1JSDFGdEU0NkV5R0Z5NXNSN3lDZFlYdHI0SVB0dDB6TFptRnF4RzNOcmhBU1VxVFNkMy12UQ?oc=5",
-      "published_at": "2026-10-28T14:58:18Z",
-      "score": 96
     },
     {
       "id": "9244156c25cfd2ee",
@@ -236,6 +216,16 @@
       "score": 90
     },
     {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
+    },
+    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -334,26 +324,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
-      "score": 83
-    },
-    {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -564,6 +534,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
       "published_at": "2026-07-17T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "b6702abb9aa636d5",
+      "category": "宇宙探索",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 90
     },
     {
       "id": "de7a8bfa1e109d2e",
