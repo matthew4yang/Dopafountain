@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-02T13:47:37.383573Z",
+  "updated_at": "2026-11-02T22:41:20.578332Z",
   "count": 58,
   "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "edbfd352ed93d459",
+      "category": "粒子物理",
+      "title": "使用 ALPSII 进行任意光粒子搜索：第一个科学结果",
+      "text": "使用 ALPSII 进行任意光粒子搜索：第一个科学结果",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVTBLMzZzNG5hVTJvU1QxSzRTSDJfbmRodi1QUzFzR0tnZFZCaVZaSjBXdG9ib3lILUhOOVJ0TWFzVkJhTi1BaldmNXZ5M3hKVEVlQTFWcnlfNHU5bUtpVGZYc1gtQQ?oc=5",
+      "published_at": "2026-11-02T18:14:09Z",
+      "score": 97
+    },
     {
       "id": "c6c2daef31db76a7",
       "category": "宇宙探索",
@@ -24,6 +34,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
       "published_at": "2026-10-30T20:30:00Z",
       "score": 90
+    },
+    {
+      "id": "2bbdc1f01ba47642",
+      "category": "古生物学",
+      "title": "埃迪卡拉纪中期到寒武纪早期，后生动物多样化的特点是进化速度加快",
+      "text": "埃迪卡拉纪中期到寒武纪早期，后生动物多样化的特点是进化速度加快",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
+      "published_at": "2026-10-30T18:30:38Z",
+      "score": 83
     },
     {
       "id": "c10a633442aa2241",
@@ -74,16 +94,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
       "published_at": "2026-10-27T06:03:08Z",
       "score": 89
-    },
-    {
-      "id": "7edf8d2714dffb03",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
-      "published_at": "2026-10-23T14:28:33Z",
-      "score": 90
     },
     {
       "id": "e9dd2c5c67108687",
@@ -246,6 +256,16 @@
       "score": 90
     },
     {
+      "id": "4c5f476c24c72a02",
+      "category": "宇宙探索",
+      "title": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
+      "text": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSVYyTUNKaUVLZ0haRVlCRTFqT2dXdlFmeEtpNVI1M2duWU14OERvU2xjSU0xYVlsdmVLVGlrUWRJREhuSFE?oc=5",
+      "published_at": "2026-09-23T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -354,16 +374,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -564,16 +574,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
       "published_at": "2026-07-17T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "de7a8bfa1e109d2e",
-      "category": "古生物学",
-      "title": "中国中泥盆世最早的琥珀",
-      "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 83
     },
     {
       "id": "71f9598e7f8ec702",
