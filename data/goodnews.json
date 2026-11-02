@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02T05:34:09.415801Z",
-  "count": 61,
-  "auto_count": 64,
+  "updated_at": "2026-11-02T13:47:37.383573Z",
+  "count": 58,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -26,6 +26,26 @@
       "score": 90
     },
     {
+      "id": "c10a633442aa2241",
+      "category": "古生物学",
+      "title": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
+      "text": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJZjQxSGtYUnFkd1JRSzBBWjktTmh0M1pnak1rbUpLRXUwd1pQb0lYdkdEVWJKam9jeGUxMXFEcWhYRGZfTk1hdHV3dHBhQkZIOHNfV0djM3M2T0ZRenVzSlZVT3g?oc=5",
+      "published_at": "2026-10-30T14:25:53Z",
+      "score": 83
+    },
+    {
+      "id": "9c01d28a590c72d4",
+      "category": "粒子物理",
+      "title": "首次使用 FASER 在大型强子对撞机上寻找怪癖",
+      "text": "首次使用 FASER 在大型强子对撞机上寻找怪癖",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80UjBjU0gtMDg2WE8wRm1HUWFnNThpTGhYYjJGeE82T3VwbE5VN1o4eHc1LWFCMzNGSkcwNDNrMGsxT3VfbTQ3WGE3SkFyOTl6VjNOVURIU2dfdUFnVHZ3Y2tXS2Rldw?oc=5",
+      "published_at": "2026-10-30T14:03:47Z",
+      "score": 90
+    },
+    {
       "id": "ada703b5149ce406",
       "category": "宇宙探索",
       "title": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
@@ -34,16 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUZoeG9XUzhNbUJ4ajJtc0oySk1PSnVCTkRpcEhKS0E2Y2xTRTZ3NUxSdDZKeXQ0UmItUTZFVGhSeXp2NFVsTU1aSU41YjhveFFoQ2FYbmNzVFFta19sNG5ua1VKbWpKR1YzUW9rd3FVVXpWTGVPVlhiazE1NVVDdzJkMTV6T2xBSWxFYzJjOFlBbF9VVHBnS3JOZlV3RjI1b3hrenlvQ1dWN2txWHlVQVVJMHA?oc=5",
       "published_at": "2026-10-29T18:18:09Z",
       "score": 83
-    },
-    {
-      "id": "20d23446e0200450",
-      "category": "古生物学",
-      "title": "自然历史博物馆化石显示，飞虫比最初想象的要年轻8000万年",
-      "text": "自然历史博物馆化石显示，飞虫比最初想象的要年轻8000万年",
-      "source": "Natural History Museum",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
-      "published_at": "2026-10-29T06:06:11Z",
-      "score": 89
     },
     {
       "id": "9244156c25cfd2ee",
@@ -116,6 +126,16 @@
       "score": 83
     },
     {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T12:22:06Z",
+      "score": 89
+    },
+    {
       "id": "87aa3edf2f8a829f",
       "category": "粒子物理",
       "title": "超新星中微子探测面临的挑战",
@@ -166,6 +186,16 @@
       "score": 90
     },
     {
+      "id": "65e8a1146a356eb2",
+      "category": "粒子物理",
+      "title": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "text": "光束测试推动了未来圆形对撞机探测器技术的进步 – 主页",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
+      "published_at": "2026-10-07T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "4a986067bda1f3f9",
       "category": "古生物学",
       "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
@@ -214,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -286,6 +306,16 @@
       "score": 83
     },
     {
+      "id": "2f259e18d03dadfa",
+      "category": "古生物学",
+      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNUVDOExDbDh2cER5NDNUNVUwYm85Z2RfVWVBWjFETWJjNTJBWVdMTFk5d0lkbnBQcXk1SnZ4S19IQkpFNUMtdjZzZkloR05aS3dFXzdfNkhnSkRzbmlyaG42SjNxMWlGMVlpQXdFNFh6NEI0WlpXWlhpRktGQQ?oc=5",
+      "published_at": "2026-09-14T13:30:21Z",
+      "score": 83
+    },
+    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -326,14 +356,14 @@
       "score": 83
     },
     {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
-      "published_at": "2026-09-08T18:42:37Z",
-      "score": 83
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -394,16 +424,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-08-28T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-08-25T17:33:06Z",
-      "score": 99
     },
     {
       "id": "00697891cba65b5a",
@@ -546,26 +566,6 @@
       "score": 89
     },
     {
-      "id": "b6702abb9aa636d5",
-      "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
-      "score": 90
-    },
-    {
-      "id": "450e0edaa1333316",
-      "category": "宇宙探索",
-      "title": "美国宇航局研究发现近地小行星实际上是彗星",
-      "text": "美国宇航局研究发现近地小行星实际上是彗星",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "de7a8bfa1e109d2e",
       "category": "古生物学",
       "title": "中国中泥盆世最早的琥珀",
@@ -584,36 +584,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
       "published_at": "2026-07-10T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "25be8f7550b50f78",
-      "category": "粒子物理",
-      "title": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "text": "利用量子传感器进行波状暗物质搜索的量子纠错启发式噪声抑制",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1U5YzVTTzdpMEFIVnc5aElaclgySjlKeWdIb251Y2drLTVack1TRzRfU2FHY2ZsMDROak4wbWtMRDBMYWFFWlNydnBLQllrVzhTRl9oa3Ayb25rTUpCLWJhSm1aUQ?oc=5",
-      "published_at": "2026-07-08T15:11:59Z",
-      "score": 83
-    },
-    {
-      "id": "360d7e8ba421608b",
-      "category": "古生物学",
-      "title": "南极洲发现的第一块恐龙化石被鉴定为泰坦龙",
-      "text": "南极洲发现的第一块恐龙化石被鉴定为泰坦龙",
-      "source": "Natural History Museum",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJmYlk0WEp1ejdjTFJxZjYwZHBJZTdtRDczX3EzMHExM3diQktpR1pfNXRFOUFNdXFsSmJRQmUxN2RPZ1duLU54QmJ5R3J4RElvYV9pZUZtbG5adnJVNFFxdjBpdVZ1R1oxd1hicTYzd0k2UHJqMlpPd2Y0cDVSb3IzV3ExdTJVZVRxRlZvMGxMQjNNalprUS1tdUR6WkNvRnJ1TzMydVRLbzB3YWh1Mk9MTUx3dw?oc=5",
-      "published_at": "2026-06-29T07:00:00Z",
-      "score": 96
-    },
-    {
-      "id": "f191e79958a982a5",
-      "category": "古生物学",
-      "title": "南极洲发现的第一只恐龙被科学描述",
-      "text": "南极洲发现的第一只恐龙被科学描述",
-      "source": "Natural History Museum",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjdmYVlJZXlJaU1Ybl94XzhvRkw5SURQeE8tSnJVZUxydmZLalZyRFB2VFZJT3lQMW52THpJOUJtdjZ4ajNUYWJCbU9XaTdhNWNtc1FveDZOclV6aW41cW9HRm8wWnFZUV9nMnduYnlSb0gyU1lEaG9SSk9iaTRrbkRJYUh0OW9JVVRWcnhsYWhKY0RjRVV6eHN5REpENUxsSWxmUUtaYWJwRk11RW9kUmwtNXVYQlk?oc=5",
-      "published_at": "2026-06-29T07:00:00Z",
-      "score": 90
     }
   ]
 }
