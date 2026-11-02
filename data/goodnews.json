@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T23:49:40.362352Z",
-  "count": 59,
-  "auto_count": 63,
+  "updated_at": "2026-11-02T05:34:09.415801Z",
+  "count": 61,
+  "auto_count": 64,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -66,6 +66,16 @@
       "score": 89
     },
     {
+      "id": "7edf8d2714dffb03",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
+      "published_at": "2026-10-23T14:28:33Z",
+      "score": 90
+    },
+    {
       "id": "e9dd2c5c67108687",
       "category": "粒子物理",
       "title": "搜索低质量希格斯态@BABAR",
@@ -104,16 +114,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbl9FU3JBMnZQWmNPUlpFY2FmOWtjOG80TmpIUV8wbGlLUURxdmFmem1YZk1qMUJWWWdiWXJTdHVISFd3NWFhSF9hdnpSVi1HMXpqQUhiN28xMnMxcGxOdw?oc=5",
       "published_at": "2026-10-19T14:52:21Z",
       "score": 83
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
     },
     {
       "id": "87aa3edf2f8a829f",
@@ -323,6 +323,16 @@
       "source": "IceCube Neutrino Observatory",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVpKeTZCZWlfY1RMRGVRTENFbFYxaGJHTlZibU45VElrTnVoeWtVQS0ycnF1RlpLUWtqN3NtbXRhb3RlVDNWenlMQTlidy1KR0x1Skl6ckl5YUFqMG9YdlJ6NnpFQ1R3OFFxYTlMWFVDMWJ1QWlCU1RTU3JkaXhtS0xBVVFuY0xhOHJyS29aLVdVdm5RSUozam8xS2lwdGJldkFYTVdJUm0?oc=5",
       "published_at": "2026-09-09T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "2f259e18d03dadfa",
+      "category": "古生物学",
+      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uUGd3TGlMcnJvS3VlRGhNRGh6Q3M4RXZlYXJxdXMyUG1EYWlSM3AtLUJwdU5nYVctWnBaRUJZUWl5YjlsWDNxRTlNN2ducmstSTJzODVXVzJMSnBX?oc=5",
+      "published_at": "2026-09-08T18:42:37Z",
       "score": 83
     },
     {
@@ -538,12 +548,22 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "450e0edaa1333316",
+      "category": "宇宙探索",
+      "title": "美国宇航局研究发现近地小行星实际上是彗星",
+      "text": "美国宇航局研究发现近地小行星实际上是彗星",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 89
     },
     {
       "id": "de7a8bfa1e109d2e",
