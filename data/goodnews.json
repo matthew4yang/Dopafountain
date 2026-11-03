@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-11-03T03:53:29.880501Z",
-  "count": 56,
-  "auto_count": 60,
+  "updated_at": "2026-11-03T11:47:15.134207Z",
+  "count": 58,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "5db2d32cf6ffadb1",
+      "category": "粒子物理",
+      "title": "LHCb 发现了百亿分之一粒子衰变的证据",
+      "text": "LHCb 发现了百亿分之一粒子衰变的证据",
+      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnk0M2NEdldYNUUwR21tbFNSQnBwcklaekNzZGd5U20wWDNneW01ZW55RFVUODduWUlGUVpiMndZc2lhYmY5V0RlX3VyaW1ISzVVVHlmS0tNLTJrTUxEWTlCU24wejc0cU05YjdUbEhDalNLVnRJOFl2NGM3ejR1Qm9iSWVZWGc?oc=5",
+      "published_at": "2026-11-03T09:36:04Z",
+      "score": 90
+    },
+    {
+      "id": "55caebf4296ddb1f",
+      "category": "粒子物理",
+      "title": "在大型强子对撞机中搜索扩展标量扇区",
+      "text": "在大型强子对撞机中搜索扩展标量扇区",
+      "source": "conference-indico",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTNHOVBwR1NrZE1FYkJFWDdEdjRjM2JKdFIxOVpIZUc0ejdwOVRRbnd6Mmk4VE45blZYSUtVaXBvSXY5eDhScGJwa0YtbjV5Y0JuRkNWaGRPY09tRFQzYy1odFFhazlHRlhCM1BydDJDTVNQNG1SOWw1Q1dHcm8xTEF2YXFkRHloLV81MnlzdzJrdUpKS1hsWDlxNE1XQUxxWlNZQ2RpZjYyRmtmbl9XR21B?oc=5",
+      "published_at": "2026-11-03T03:20:18Z",
+      "score": 83
+    },
+    {
+      "id": "3c14c051d916541c",
+      "category": "粒子物理",
+      "title": "精密电子波测量（超越希格斯）",
+      "text": "精密电子波测量（超越希格斯）",
+      "source": "conference-indico",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObW84WW1Lazl4YzF5cHpHeDcyMURTeFdqOHBRZTdaTUJqSjJHOERweTMwWTI3c3JJQWRqeHB1TUhIWHpHd3MwTW1rSkdmOW8xdGlmRFV4ZC14aS1UVnoyYzNzcGtCSGJhSWhOQ0RMWUFzbklEbU1wSlhaLWY4blQxaWFLQ2hFck9JTmlacWh6bEVjemV6Z3l5N1VwT2dDUmNKeXE4OEREb000bDQ?oc=5",
+      "published_at": "2026-11-03T03:16:57Z",
+      "score": 90
+    },
     {
       "id": "edbfd352ed93d459",
       "category": "粒子物理",
@@ -34,16 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
       "published_at": "2026-10-30T20:30:00Z",
       "score": 90
-    },
-    {
-      "id": "c10a633442aa2241",
-      "category": "古生物学",
-      "title": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
-      "text": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJZjQxSGtYUnFkd1JRSzBBWjktTmh0M1pnak1rbUpLRXUwd1pQb0lYdkdEVWJKam9jeGUxMXFEcWhYRGZfTk1hdHV3dHBhQkZIOHNfV0djM3M2T0ZRenVzSlZVT3g?oc=5",
-      "published_at": "2026-10-30T14:25:53Z",
-      "score": 83
     },
     {
       "id": "9c01d28a590c72d4",
@@ -124,6 +144,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbl9FU3JBMnZQWmNPUlpFY2FmOWtjOG80TmpIUV8wbGlLUURxdmFmem1YZk1qMUJWWWdiWXJTdHVISFd3NWFhSF9hdnpSVi1HMXpqQUhiN28xMnMxcGxOdw?oc=5",
       "published_at": "2026-10-19T14:52:21Z",
       "score": 83
+    },
+    {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T12:22:06Z",
+      "score": 89
     },
     {
       "id": "87aa3edf2f8a829f",
@@ -226,16 +256,6 @@
       "score": 83
     },
     {
-      "id": "31c5893fd9d18739",
-      "category": "宇宙探索",
-      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "text": "成功飞越地球改善了 Juice 飞往木星的航线",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2ZNTE1XOWRyQ1lSdHhFQlF2bjJTeVAtOU5Id1FBZnV0eUZ4RnJFS2RsWlp4anB1cUJrWEZfXzhJZmE1UldfQU5HMl93YmFmQ0lWMVhKRDZHZnlEWXkwQ05HQjNWVHBOc1V4RmpNak1KaHdmOUFBdHMxckVybmczRkFWVktOM3JoUUFFX2FDQ1N3ei1hUlFOMkZvcTNFRWlabUtLLTNDYnBiMXo4Q3h6U0lsZzlTY2ZtQ0ZTNURDZmJWN2ZIajNTbzlWNEw2dw?oc=5",
-      "published_at": "2026-09-28T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
@@ -244,6 +264,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "利用化石证据重建古环境 - 最新研究和新闻",
+      "text": "利用化石证据重建古环境 - 最新研究和新闻",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
     },
     {
       "id": "4c5f476c24c72a02",
@@ -356,16 +386,6 @@
       "score": 83
     },
     {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -398,8 +418,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -424,6 +444,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
       "published_at": "2026-08-28T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "036f9d6cfb5779ba",
+      "category": "古生物学",
+      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
+      "published_at": "2026-08-25T17:33:06Z",
+      "score": 99
     },
     {
       "id": "00697891cba65b5a",
@@ -536,23 +566,13 @@
       "score": 83
     },
     {
-      "id": "3bec90221c75d8cd",
-      "category": "粒子物理",
-      "title": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
-      "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
-      "published_at": "2026-07-23T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "f9e678ffee003b4a",
-      "category": "粒子物理",
-      "title": "使用 ADMX 寻找 Axion 暗物质",
-      "text": "使用 ADMX 寻找 Axion 暗物质",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlocHJUNndINWNmTXpXd01sSDdwV0J3RkpFOElSZXZndENjOUtPTDRzdy1MX19CbEJ0Yk15bkRaY01GZnlxQjJlbUpONDFUMlVoNlYzazU2U21jOE5UM2xkUnNnNTNlc3BFZ29aQXNXUVk0Mk94aEV4S1J2ZXlwV21ZeUNqVENTenhlRHJlZzNIUEd2Z3FiU29YaThPaEVYZldDZFV6T09zaTA?oc=5",
-      "published_at": "2026-07-23T07:00:00Z",
+      "id": "8e2923034357b498",
+      "category": "宇宙探索",
+      "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
+      "text": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
+      "published_at": "2026-07-17T07:00:00Z",
       "score": 89
     },
     {
