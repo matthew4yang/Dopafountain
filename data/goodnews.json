@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02T22:41:20.578332Z",
-  "count": 58,
-  "auto_count": 61,
+  "updated_at": "2026-11-03T03:53:29.880501Z",
+  "count": 56,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -34,16 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
       "published_at": "2026-10-30T20:30:00Z",
       "score": 90
-    },
-    {
-      "id": "2bbdc1f01ba47642",
-      "category": "古生物学",
-      "title": "埃迪卡拉纪中期到寒武纪早期，后生动物多样化的特点是进化速度加快",
-      "text": "埃迪卡拉纪中期到寒武纪早期，后生动物多样化的特点是进化速度加快",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
-      "published_at": "2026-10-30T18:30:38Z",
-      "score": 83
     },
     {
       "id": "c10a633442aa2241",
@@ -134,16 +124,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbl9FU3JBMnZQWmNPUlpFY2FmOWtjOG80TmpIUV8wbGlLUURxdmFmem1YZk1qMUJWWWdiWXJTdHVISFd3NWFhSF9hdnpSVi1HMXpqQUhiN28xMnMxcGxOdw?oc=5",
       "published_at": "2026-10-19T14:52:21Z",
       "score": 83
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T12:22:06Z",
-      "score": 89
     },
     {
       "id": "87aa3edf2f8a829f",
@@ -246,6 +226,16 @@
       "score": 83
     },
     {
+      "id": "31c5893fd9d18739",
+      "category": "宇宙探索",
+      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "text": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV2ZNTE1XOWRyQ1lSdHhFQlF2bjJTeVAtOU5Id1FBZnV0eUZ4RnJFS2RsWlp4anB1cUJrWEZfXzhJZmE1UldfQU5HMl93YmFmQ0lWMVhKRDZHZnlEWXkwQ05HQjNWVHBOc1V4RmpNak1KaHdmOUFBdHMxckVybmczRkFWVktOM3JoUUFFX2FDQ1N3ei1hUlFOMkZvcTNFRWlabUtLLTNDYnBiMXo4Q3h6U0lsZzlTY2ZtQ0ZTNURDZmJWN2ZIajNTbzlWNEw2dw?oc=5",
+      "published_at": "2026-09-28T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
@@ -326,16 +316,6 @@
       "score": 83
     },
     {
-      "id": "2f259e18d03dadfa",
-      "category": "古生物学",
-      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNUVDOExDbDh2cER5NDNUNVUwYm85Z2RfVWVBWjFETWJjNTJBWVdMTFk5d0lkbnBQcXk1SnZ4S19IQkpFNUMtdjZzZkloR05aS3dFXzdfNkhnSkRzbmlyaG42SjNxMWlGMVlpQXdFNFh6NEI0WlpXWlhpRktGQQ?oc=5",
-      "published_at": "2026-09-14T13:30:21Z",
-      "score": 83
-    },
-    {
       "id": "7db1ba8a89c1c56e",
       "category": "粒子物理",
       "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
@@ -376,6 +356,16 @@
       "score": 83
     },
     {
+      "id": "3fdcf5b6d435a1b9",
+      "category": "宇宙探索",
+      "title": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "text": "揭示隐藏的恒星和星系：甚大望远镜的新型 MOONS 仪器进行首次观测",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
+      "published_at": "2026-09-03T07:00:00Z",
+      "score": 90
+    },
+    {
       "id": "seed-esa-bepicolombo-20260903",
       "category": "宇宙探索",
       "title": "BepiColombo完成推进模块分离，进入水星抵达阶段",
@@ -408,8 +398,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -566,24 +556,14 @@
       "score": 89
     },
     {
-      "id": "8e2923034357b498",
-      "category": "宇宙探索",
-      "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
-      "text": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
-      "published_at": "2026-07-17T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "弱电精密数据镜头下的希格斯玻色子",
-      "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
-      "score": 89
+      "id": "de7a8bfa1e109d2e",
+      "category": "古生物学",
+      "title": "中国中泥盆世最早的琥珀",
+      "text": "中国中泥盆世最早的琥珀",
+      "source": "Science",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 83
     }
   ]
 }
