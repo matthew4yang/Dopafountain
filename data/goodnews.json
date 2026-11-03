@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-03T11:47:15.134207Z",
-  "count": 58,
+  "updated_at": "2026-11-03T19:22:30.867891Z",
+  "count": 56,
   "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "5db2d32cf6ffadb1",
+      "id": "749e0c11e05e761b",
       "category": "粒子物理",
-      "title": "LHCb 发现了百亿分之一粒子衰变的证据",
-      "text": "LHCb 发现了百亿分之一粒子衰变的证据",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnk0M2NEdldYNUUwR21tbFNSQnBwcklaekNzZGd5U20wWDNneW01ZW55RFVUODduWUlGUVpiMndZc2lhYmY5V0RlX3VyaW1ISzVVVHlmS0tNLTJrTUxEWTlCU24wejc0cU05YjdUbEhDalNLVnRJOFl2NGM3ejR1Qm9iSWVZWGc?oc=5",
-      "published_at": "2026-11-03T09:36:04Z",
+      "title": "LHCb 发现了百亿分之一粒子衰变的证据 – 家",
+      "text": "LHCb 发现了百亿分之一粒子衰变的证据 – 家",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXNTWmx0TnUwZzdobjloZG10WE5UWkJ4aW5wcXdyY3A0YUt1elU3Sm9YNE1jUkJGc0JaNlVJdWVoRUJ6RWtCZE1aNHBMZlFnbmFVUjYwM1RJNzJjSnJNTVBBQnNjLTl1LV9YcFR2YjhvNU1mRWYwWkd4azhrVHMtUg?oc=5",
+      "published_at": "2026-11-03T10:04:53Z",
       "score": 90
     },
     {
@@ -64,6 +64,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
       "published_at": "2026-10-30T20:30:00Z",
       "score": 90
+    },
+    {
+      "id": "c10a633442aa2241",
+      "category": "古生物学",
+      "title": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
+      "text": "灭绝海洋板块上的大型板内地震揭示了断裂带的重新激活",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJZjQxSGtYUnFkd1JRSzBBWjktTmh0M1pnak1rbUpLRXUwd1pQb0lYdkdEVWJKam9jeGUxMXFEcWhYRGZfTk1hdHV3dHBhQkZIOHNfV0djM3M2T0ZRenVzSlZVT3g?oc=5",
+      "published_at": "2026-10-30T14:25:53Z",
+      "score": 83
     },
     {
       "id": "9c01d28a590c72d4",
@@ -266,16 +276,6 @@
       "score": 90
     },
     {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
-    },
-    {
       "id": "4c5f476c24c72a02",
       "category": "宇宙探索",
       "title": "小行星阿波菲斯 2029 年飞越地球 – 轨道可视化",
@@ -343,6 +343,16 @@
       "source": "IceCube Neutrino Observatory",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHFlelN1OFFlUlo1WU1JTGotcmtja3pVRnROMTF3dElxa3BVRF9fYjI4Ylo5ZnJlOEpQS2VGemN6SkN6YTNOa2JoX2NjbWktcWh3WUpXOGNQZW1aV1JOZVBTMHpQbFE4SG15M1k4bzd2ZmpsUm9nUmxwM2xlNU11NGR3RXNjOUhvVFJCdEdBWXdvRWpYWFRrbndTcWJwVGszSURsQ1gzU0hYVC1YVFYwR3p3?oc=5",
       "published_at": "2026-09-15T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "2f259e18d03dadfa",
+      "category": "古生物学",
+      "title": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "text": "脚跟着地机制揭示了古人类双足行走的进化权衡",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNUVDOExDbDh2cER5NDNUNVUwYm85Z2RfVWVBWjFETWJjNTJBWVdMTFk5d0lkbnBQcXk1SnZ4S19IQkpFNUMtdjZzZkloR05aS3dFXzdfNkhnSkRzbmlyaG42SjNxMWlGMVlpQXdFNFh6NEI0WlpXWlhpRktGQQ?oc=5",
+      "published_at": "2026-09-14T13:30:21Z",
       "score": 83
     },
     {
@@ -553,36 +563,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "c569e87b3a3233ba",
-      "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
-      "published_at": "2026-07-24T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "8e2923034357b498",
-      "category": "宇宙探索",
-      "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
-      "text": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
-      "published_at": "2026-07-17T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "de7a8bfa1e109d2e",
-      "category": "古生物学",
-      "title": "中国中泥盆世最早的琥珀",
-      "text": "中国中泥盆世最早的琥珀",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KcXVrOEM3TUdxdnZMR0FuRWljUWxLUjdhd2luVWJuWHdHN2dXT3ZxVGhZYW5lMVNNNEdyY0xIeEEwRk1NcUZMbEVVaHZITVFBaWdaMzFJWFp3WXRkM19J?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     }
   ]
