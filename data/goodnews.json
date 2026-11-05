@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-04T21:27:55.597925Z",
-  "count": 55,
+  "updated_at": "2026-11-05T01:43:33.410335Z",
+  "count": 56,
   "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "559157ec8008e4a0",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963305m-saturn-titan_f439w_v1-0_sci.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963305m-saturn-titan_f439w_v1-0_sci.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDRzcDRqMVVVVHNxbG55bVM2ank5MDhsSmIzY3RyQnVwZW1GVVBZLU9qc1o3dmp0UUF2a25oZlR6Zm9aaW1idzNpTndQTk9LV2ptR3ZiaVJKa0F0bmlXeTA4Uk9EU3JnSHNnNmZHOFJacV9KNmROWVN4ajJmS2V6ZEhPaUxQSzIxejc4Q290RnNtN191dnAyVFJIN09tenZ4TFh3aExlQkNhQi1CVUhEM1kyNHN4dHNDRHFUcEdIOUJGMGhn?oc=5",
+      "published_at": "2026-11-04T21:02:40Z",
+      "score": 83
+    },
     {
       "id": "95f5a477ca3100e7",
       "category": "宇宙探索",
@@ -12,7 +22,7 @@
       "text": "在我们的太阳系中发现了新的矮行星候选者",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXo3SC1mb2ZzMFJhcFBjZGJDTkRmRVI5OE1sdHN3VXA5TUNzTjU5UHdlRElFTWU5OE10bk1RTWxnaWc3Yy1HMkEzbTZ0Qk9DTktBcXlkSXJvamc2V2JrQ3hsUjZyVm0za3dfaHY2a2hZNDZsMDdWVVRmeVBsbzVBak41a29DTFFOTDJxWldfcjY?oc=5",
-      "published_at": "2026-11-04T15:26:35Z",
+      "published_at": "2026-11-04T17:35:46Z",
       "score": 83
     },
     {
@@ -64,16 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVTBLMzZzNG5hVTJvU1QxSzRTSDJfbmRodi1QUzFzR0tnZFZCaVZaSjBXdG9ib3lILUhOOVJ0TWFzVkJhTi1BaldmNXZ5M3hKVEVlQTFWcnlfNHU5bUtpVGZYc1gtQQ?oc=5",
       "published_at": "2026-11-02T18:14:09Z",
       "score": 97
-    },
-    {
-      "id": "c6c2daef31db76a7",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92004fts-asteroid-17246_f435w_v1-0_sci.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j92004fts-asteroid-17246_f435w_v1-0_sci.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXZrMlVPVFJfcHBqQktrTTRYTk82RE9pZ1hIOGlEQl9kY2F2STBtZ1ZETzZLLVp1R2JROU5tUl83QjViTXZ6VDVKVXlzdl9RQ2Yycm5JVUcxMDlqcEVWNEs3U1lRR3BSY1JZVzI3eHNoNG5yaElOZzNvRUNHZzZfcmFpOEg1WGlXa3llUDU4VkxEWm1aMlk0QmwwemR4a3dMVWw2RVlySlRORUxiV3pMcXpycnYtQ3hfUnVaSHJWejVPQUl3MEVUNGVn?oc=5",
-      "published_at": "2026-10-31T05:49:58Z",
-      "score": 83
     },
     {
       "id": "05ce6c30dde0f3ef",
@@ -554,6 +554,16 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
       "published_at": "2026-07-27T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "8e2923034357b498",
+      "category": "宇宙探索",
+      "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
+      "text": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
+      "published_at": "2026-07-17T07:00:00Z",
+      "score": 89
     }
   ]
 }
