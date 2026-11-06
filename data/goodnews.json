@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T17:35:36.969648Z",
+  "updated_at": "2026-11-06T03:20:36.310027Z",
   "count": 56,
   "auto_count": 60,
   "verified_seed_count": 2,
@@ -104,6 +104,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
       "published_at": "2026-10-27T06:03:08Z",
       "score": 89
+    },
+    {
+      "id": "7edf8d2714dffb03",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
+      "published_at": "2026-10-23T14:28:33Z",
+      "score": 90
     },
     {
       "id": "e9dd2c5c67108687",
@@ -336,16 +346,6 @@
       "score": 83
     },
     {
-      "id": "7db1ba8a89c1c56e",
-      "category": "粒子物理",
-      "title": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "text": "XENON1T 和 XENONnT 数据对太阳反射暗物质的约束",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nM083dVFTWHdlclg0WWF1RGctTGhKeEpRLUlOMTJKRkZhWU5wV0UzVmU1MnJoV1YwdXQ0RmtPRWtkVVFfb19iZTQ0a0hEdWZQemVqT2hFY19nY0FCMmZSX2loU2RHQQ?oc=5",
-      "published_at": "2026-09-14T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "0d76b9d308fae3b0",
       "category": "宇宙探索",
       "title": "新研究揭示了黑洞活动塑造附近星系的常见模式",
@@ -354,16 +354,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHEzUXgxMHF6NlFWSVNlNEl5eWZNUU9ydWpvNldUQzEwYWk1SEtrTWVzU0lWYXBKUlhCWFNJX0Vfc3FucHJibXJHNll6SGJoWjZEV056bWtuY2g3U3FweVpES3dVRUdzc2VIcHJRVnFfTXgyWl92TlEzaFhPLXE0XzRZN2xlZnBDWmJHdWJXaGF5SzN6QzF2TjNUM184eHFxVWt6MlhKQkhLcnNLSXc?oc=5",
       "published_at": "2026-09-13T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "e59cff50dbe00395",
-      "category": "粒子物理",
-      "title": "精确测量 μ 子电荷不对称性",
-      "text": "精确测量 μ 子电荷不对称性",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxUjhaUW9QVlRzUThRRHI3Vm9lUzhMejhHZDJzNEhubkJJR0xVX054VmJBY3lhNUlOSENlOXFoWUtxMV9SSmp1Si1ldG1IeEYteUNVOEQ1bXk0dEs0Y0w1MjBDQkdpQQ?oc=5",
-      "published_at": "2026-09-10T16:17:09Z",
-      "score": 90
     },
     {
       "id": "703c0b563fef4786",
@@ -538,12 +528,22 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "3bec90221c75d8cd",
+      "category": "粒子物理",
+      "title": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
+      "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
+      "published_at": "2026-07-23T07:00:00Z",
+      "score": 89
     },
     {
       "id": "8e2923034357b498",
