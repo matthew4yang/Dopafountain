@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-06T11:24:07.601656Z",
-  "count": 57,
-  "auto_count": 61,
+  "updated_at": "2026-11-06T18:19:03.945826Z",
+  "count": 59,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "f0c0882cba972365",
+      "category": "粒子物理",
+      "title": "通过超导自旋混合磁力计寻找轴子暗物质",
+      "text": "通过超导自旋混合磁力计寻找轴子暗物质",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPTzBxR25PWTJId1A5S1JXVnNTRkJBSnpaQ0JiZkgwQmxVc2VELU1PNFJPeXBzSHBpS1FkVnZuVi1Ebkl0SmVkb0QxNGNianZKMV9FSjZLdFdpM3lVSlNRR2NiajRaZw?oc=5",
+      "published_at": "2026-11-05T14:42:01Z",
+      "score": 89
+    },
     {
       "id": "559157ec8008e4a0",
       "category": "宇宙探索",
@@ -66,13 +76,23 @@
       "score": 90
     },
     {
+      "id": "20d23446e0200450",
+      "category": "古生物学",
+      "title": "自然历史博物馆化石显示，飞虫比最初想象的要年轻8000万年",
+      "text": "自然历史博物馆化石显示，飞虫比最初想象的要年轻8000万年",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
+      "published_at": "2026-10-29T07:00:00Z",
+      "score": 89
+    },
+    {
       "id": "ada703b5149ce406",
       "category": "宇宙探索",
       "title": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
       "text": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUZoeG9XUzhNbUJ4ajJtc0oySk1PSnVCTkRpcEhKS0E2Y2xTRTZ3NUxSdDZKeXQ0UmItUTZFVGhSeXp2NFVsTU1aSU41YjhveFFoQ2FYbmNzVFFta19sNG5ua1VKbWpKR1YzUW9rd3FVVXpWTGVPVlhiazE1NVVDdzJkMTV6T2xBSWxFYzJjOFlBbF9VVHBnS3JOZlV3RjI1b3hrenlvQ1dWN2txWHlVQVVJMHA?oc=5",
-      "published_at": "2026-10-29T18:18:09Z",
+      "published_at": "2026-10-29T07:00:00Z",
       "score": 83
     },
     {
@@ -116,6 +136,16 @@
       "score": 90
     },
     {
+      "id": "3a4bd23a93fc26e5",
+      "category": "宇宙探索",
+      "title": "太空气象任务 Sawa 揭示波兰根源",
+      "text": "太空气象任务 Sawa 揭示波兰根源",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVElpTTE1YVJJcTB4TlVKVTh3YzFTaXZVWnZJUnM0YV9SMjhhWkhrNlZvY3I0b3k5X3RvVzdTRVV6RWpfaGxDU0xTdG93MkNwai1iT182S0lvOTd5MUpiZ0c1Vzl6bUVfMDFFcGVfOTBFb0tUZm1qTDBWN3pTZ3R0RzdDNUVabmdhU18xbUhONXh3UjlSellqMVJmdnFfazRmVE05MU1uMlUxN2lkT3NiZUh6aFJBb2JRU01mRl9EMVZtYTFPTzdQVEllSUd4QTlLZWc?oc=5",
+      "published_at": "2026-10-23T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "e9dd2c5c67108687",
       "category": "粒子物理",
       "title": "搜索低质量希格斯态@BABAR",
@@ -154,26 +184,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbl9FU3JBMnZQWmNPUlpFY2FmOWtjOG80TmpIUV8wbGlLUURxdmFmem1YZk1qMUJWWWdiWXJTdHVISFd3NWFhSF9hdnpSVi1HMXpqQUhiN28xMnMxcGxOdw?oc=5",
       "published_at": "2026-10-19T14:52:21Z",
       "score": 83
-    },
-    {
-      "id": "8f19f30f3b10fd77",
-      "category": "粒子物理",
-      "title": "通过超导自旋混合磁力计寻找轴子暗物质",
-      "text": "通过超导自旋混合磁力计寻找轴子暗物质",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEZll3NzVHZmE5ZGtfVU5YV1FQYVpGTmxvd014UEJJQ0h4Z0pHbmt1UU9zb2UtOEs4dFZUMWxfbWsyRWl4VkEtTlByaVk3VllJMDBydE5wXzRnV1VJeHJPdGNXZmFRUQ?oc=5",
-      "published_at": "2026-10-19T14:40:43Z",
-      "score": 89
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T07:00:00Z",
-      "score": 89
     },
     {
       "id": "87aa3edf2f8a829f",
@@ -398,8 +408,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -528,8 +538,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -568,12 +578,22 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
     }
   ]
 }
