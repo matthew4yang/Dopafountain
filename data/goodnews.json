@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-06T18:19:03.945826Z",
+  "updated_at": "2026-11-06T23:25:49.351210Z",
   "count": 59,
   "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "ccb2088ee4e7f4ca",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96320fm-saturn-titan_f439w_v1-0_sci.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96320fm-saturn-titan_f439w_v1-0_sci.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcFYycWFCZlVTSW4xR09Obl9FXzNmSzVmY09aYVZHT0ROcmcwRmgzNHNZaFh0V004VUdpZHhUNzIxNzhTTnNyV0RSd0xjYzllRXliTjJKVlYxZU50UnBXVDlEOU5QVjEzUzFGRHoxb1hUbVdfSUFHa1RWWTBmNkdoaEJ1Wjk1aGZRMUpUdnBDS2FmelczU09FRFVTUUh6SkpFZjJUR1ZPbVB2REYzMl9pc0tpd1ppT0NjalFLNEJaUWF0aU05?oc=5",
+      "published_at": "2026-11-06T09:36:05Z",
+      "score": 83
+    },
     {
       "id": "f0c0882cba972365",
       "category": "粒子物理",
@@ -14,16 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPTzBxR25PWTJId1A5S1JXVnNTRkJBSnpaQ0JiZkgwQmxVc2VELU1PNFJPeXBzSHBpS1FkVnZuVi1Ebkl0SmVkb0QxNGNianZKMV9FSjZLdFdpM3lVSlNRR2NiajRaZw?oc=5",
       "published_at": "2026-11-05T14:42:01Z",
       "score": 89
-    },
-    {
-      "id": "559157ec8008e4a0",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963305m-saturn-titan_f439w_v1-0_sci.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963305m-saturn-titan_f439w_v1-0_sci.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDRzcDRqMVVVVHNxbG55bVM2ank5MDhsSmIzY3RyQnVwZW1GVVBZLU9qc1o3dmp0UUF2a25oZlR6Zm9aaW1idzNpTndQTk9LV2ptR3ZiaVJKa0F0bmlXeTA4Uk9EU3JnSHNnNmZHOFJacV9KNmROWVN4ajJmS2V6ZEhPaUxQSzIxejc4Q290RnNtN191dnAyVFJIN09tenZ4TFh3aExlQkNhQi1CVUhEM1kyNHN4dHNDRHFUcEdIOUJGMGhn?oc=5",
-      "published_at": "2026-11-04T21:02:40Z",
-      "score": 83
     },
     {
       "id": "95f5a477ca3100e7",
@@ -122,18 +122,8 @@
       "text": "使用自然历史博物馆的化石收藏发现了新的英国恐龙，以忠诚的父亲和丈夫的名字命名",
       "source": "Natural History Museum",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
-      "published_at": "2026-10-27T06:03:08Z",
+      "published_at": "2026-10-27T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "7edf8d2714dffb03",
-      "category": "粒子物理",
-      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
-      "published_at": "2026-10-23T14:28:33Z",
-      "score": 90
     },
     {
       "id": "3a4bd23a93fc26e5",
@@ -408,8 +398,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -578,12 +568,22 @@
     {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
-      "title": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
-      "text": "美国宇航局的心灵任务在飞越火星时拍摄了火星表面的细节图像",
+      "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
+      "text": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 90
+    },
+    {
+      "id": "450e0edaa1333316",
+      "category": "宇宙探索",
+      "title": "美国宇航局研究发现近地小行星实际上是彗星",
+      "text": "美国宇航局研究发现近地小行星实际上是彗星",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
+      "published_at": "2026-07-16T07:00:00Z",
+      "score": 89
     },
     {
       "id": "71f9598e7f8ec702",
