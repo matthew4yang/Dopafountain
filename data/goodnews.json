@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-06T03:20:36.310027Z",
-  "count": 56,
-  "auto_count": 60,
+  "updated_at": "2026-11-06T11:24:07.601656Z",
+  "count": 57,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -23,16 +23,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXo3SC1mb2ZzMFJhcFBjZGJDTkRmRVI5OE1sdHN3VXA5TUNzTjU5UHdlRElFTWU5OE10bk1RTWxnaWc3Yy1HMkEzbTZ0Qk9DTktBcXlkSXJvamc2V2JrQ3hsUjZyVm0za3dfaHY2a2hZNDZsMDdWVVRmeVBsbzVBak41a29DTFFOTDJxWldfcjY?oc=5",
       "published_at": "2026-11-04T17:35:46Z",
-      "score": 83
-    },
-    {
-      "id": "7fa39303e63630a6",
-      "category": "粒子物理",
-      "title": "无中微子双贝塔衰变、中微子质量和中微子的性质",
-      "text": "无中微子双贝塔衰变、中微子质量和中微子的性质",
-      "source": "conference-indico",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUhYV2ZSWVhobUNxTktEZzBfTWhKbjhaOWZYZTRXSFlKVUZJU1FPRWFXZlQ4aXROVGFSSWxuQk1xbzdEN1RrVzM2LVdhajJoZEk5NG5sVUJuQ2hIeXRiWDB2N2huM0VDckNaZXR1NF9nTlpCWFZpdC1ZQ3dhcWtXWmoxUmRMMXYydk9OZEQ3N0NBTGFNZ0hsNXE3OVBqUkh1ZklIMktCR1VqWHczZjROeGNTWUJ1cmVI?oc=5",
-      "published_at": "2026-11-04T03:11:55Z",
       "score": 83
     },
     {
@@ -86,13 +76,23 @@
       "score": 83
     },
     {
+      "id": "dfe5b9c855704f7d",
+      "category": "古生物学",
+      "title": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
+      "text": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmpiUkNYenhwRGVBUEJSTXdDUWU3VjlRRENIbXZyNkRlQjQ0UHJ4M2prbEIzVXI4SDF4R0NWUXVFZm5kNmxuWU9OenBWSlZfQndGQWRsTmJkalN0ZkE5VXFlb1E1YlB0am0waE1wa1A5bnRORlNaV0Y0cnFUUmFLX01haw?oc=5",
+      "published_at": "2026-10-27T08:46:17Z",
+      "score": 90
+    },
+    {
       "id": "9244156c25cfd2ee",
       "category": "宇宙探索",
       "title": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中第一颗候选矮行星",
       "text": "NSF-DOE Vera C. Rubin 天文台揭示了太阳系中第一颗候选矮行星",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lb0xCeUhzSkEwU3JrUHJFWVJCa3Ffc0htLVFPbk5BeFNieENxWS1DSFdwOXA2S1dYZ3JXTy1zWkU1ZU5nekFWNnpwaHFaMVA1dXhTb1BMZw?oc=5",
-      "published_at": "2026-10-27T18:52:56Z",
+      "published_at": "2026-10-27T07:00:00Z",
       "score": 90
     },
     {
@@ -542,6 +542,16 @@
       "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
+      "published_at": "2026-07-23T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "f9e678ffee003b4a",
+      "category": "粒子物理",
+      "title": "使用 ADMX 寻找 Axion 暗物质",
+      "text": "使用 ADMX 寻找 Axion 暗物质",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlocHJUNndINWNmTXpXd01sSDdwV0J3RkpFOElSZXZndENjOUtPTDRzdy1MX19CbEJ0Yk15bkRaY01GZnlxQjJlbUpONDFUMlVoNlYzazU2U21jOE5UM2xkUnNnNTNlc3BFZ29aQXNXUVk0Mk94aEV4S1J2ZXlwV21ZeUNqVENTenhlRHJlZzNIUEd2Z3FiU29YaThPaEVYZldDZFV6T09zaTA?oc=5",
       "published_at": "2026-07-23T07:00:00Z",
       "score": 89
     },
