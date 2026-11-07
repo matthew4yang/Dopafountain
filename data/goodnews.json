@@ -1,19 +1,29 @@
 {
-  "updated_at": "2026-11-07T09:56:05.980930Z",
-  "count": 59,
+  "updated_at": "2026-11-07T16:14:35.582880Z",
+  "count": 57,
   "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "15a565398af30c24",
+      "id": "1e45204c89c9bef8",
       "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g302m-saturn-prometheus_f439w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g302m-saturn-prometheus_f439w_v1-0_img.fits）",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g304m-saturn-prometheus_f675w_v1-0_sci.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g304m-saturn-prometheus_f675w_v1-0_sci.fits）",
       "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQmZJbWk0UGtFREJiTXlubmVRUkV5TEVmNUJBM3NlWUZvaUg2QWJHOTE0SGdkSHVTYTRnWW52cjAxcGN3LXdOeF92VkNMM2tYOEZVRUg0RzhGbE1NbkRkeWRENl9HUS0yTUhvcEtJYTVHVm00X2NBeC1OVlhRUDBfY04yT2sxMDQ0VlJ2c0U4bnFDY2pSY0tacFdaLTNNc0U4NFZpbUp3WW9GMG1WcG1EaTF4VmpDVnhEa3d0UWFkZVFsWFBpQm05NTFFOA?oc=5",
-      "published_at": "2026-11-06T12:36:51Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHY3ZjdGenllNDJfSHRLemR2VDNfVHloMDBnRFdOR2ZQVXNSNUJvVi1LNkw5eWhHQVJBMWZrQ3B2ODRaUWJqd0tBSzNISDZFNlE2TFJHZjhPdU51dUpnOFVmREZjT0NzMl9qYnlYaWNlUXQxajZCZjc5VzhWdlZzNVZxeXZfRUNOV2k0YjNPd0xoY0JuNU1HZl9kc25hWS1YbWpNZWM3VUMtQk95RnEtYmtyMUZwa2tkSnFiSHU4UlF4OFQtMDJhNTJqcw?oc=5",
+      "published_at": "2026-11-07T06:21:17Z",
       "score": 83
+    },
+    {
+      "id": "8c7f2f6ef8fc6969",
+      "category": "粒子物理",
+      "title": "“通过超导自旋混合磁力计搜索轴子暗物质”的补充数据",
+      "text": "“通过超导自旋混合磁力计搜索轴子暗物质”的补充数据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0NRZnJOeTNjeXhsTERJempOTWJ4ZzE0aXhxNjlYeENJNWxfeEZQU3MzaW5RdVR4UDM1dHkwQjFCdlA2M0tGeUpfVmhCVmVEdVk0SFMyMVlvZ3VSNmhTb1huOFp2aWpDS1lkVk44YWg4YjJITEtWYVFSbm0tVHdYOA?oc=5",
+      "published_at": "2026-11-05T14:53:09Z",
+      "score": 89
     },
     {
       "id": "f0c0882cba972365",
@@ -72,7 +82,7 @@
       "text": "SBND 合作发布首个中微子结果",
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVpGQlhMbXU5VC1FTUNRbFJoLV9RNTdjTmJNTXQzUElKQ2tRQldWVHZHY1dJbDM1RElhZjlSdk1KMER6eFBIREpZMGV1MkFUUFU0ZDRCN09KYzdBYTlqWFFFUHN0NVpFRlZUUEQ5S2lhLUJrS0ZybklwZlJObE1LLW9lcWF0RlU0M3VodnJB?oc=5",
-      "published_at": "2026-10-30T20:30:00Z",
+      "published_at": "2026-10-30T07:00:00Z",
       "score": 90
     },
     {
@@ -564,36 +574,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUpNYXdKdl8wWWdWZ0hueW0tTmVTNi0yZjlTWHl2T2thZjFhaFpFVGVJcnFXc3cwdy1QdzN6QnNOS3lQMUlDX3o0M0Z0cERtcm5SOE5DVFU1RHBhM1BPNzh5NnVlc3NDOXJQczVpWllPbWl4SDNFemp0VVllYUVJZ21DM3Q4eHhKYTBJT21OU2plaGxqU29xWi14NDM1QWhCR0ZNU2E5VnJWdHcyM0E?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "450e0edaa1333316",
-      "category": "宇宙探索",
-      "title": "美国宇航局研究发现近地小行星实际上是彗星",
-      "text": "美国宇航局研究发现近地小行星实际上是彗星",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
-      "published_at": "2026-07-16T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "ab5b1285d6098629",
-      "category": "宇宙探索",
-      "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
-      "text": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
-      "published_at": "2026-07-15T07:00:00Z",
-      "score": 96
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "弱电精密数据镜头下的希格斯玻色子",
-      "text": "弱电精密数据镜头下的希格斯玻色子",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
-      "score": 89
     }
   ]
 }
