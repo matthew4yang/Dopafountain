@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-07T03:05:40.782800Z",
-  "count": 60,
+  "updated_at": "2026-11-07T09:56:05.980930Z",
+  "count": 59,
   "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "f9a35042d9c4f837",
+      "id": "15a565398af30c24",
       "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963202m-saturn-titan_f555w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963202m-saturn-titan_f555w_v1-0_img.fits）",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g302m-saturn-prometheus_f439w_v1-0_img.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g302m-saturn-prometheus_f439w_v1-0_img.fits）",
       "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWFoWDdIVmtBZ0V2NTRKUXd6YWlfS2taOGVfNFg3TXcyYzByTGY2UVpkR0VMSzlrcjZVUzdDN0xfT1ZHb0NYWmVwenZveVhnSlN6bzc2Q0RsVG9QYmJoaXBVMVlwUkVjU01KWjZBMDdQaDBveW11MXktN3B0akwydFJ6WW5KVWs2YlZoTE91bFRUcTFkWUF5SThYU3hqYWU3NUxvVUhPWWlVQnQyc3NPZURRLXowWWFoOFpITFdmTE9ncUQt?oc=5",
-      "published_at": "2026-11-06T14:40:57Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQmZJbWk0UGtFREJiTXlubmVRUkV5TEVmNUJBM3NlWUZvaUg2QWJHOTE0SGdkSHVTYTRnWW52cjAxcGN3LXdOeF92VkNMM2tYOEZVRUg0RzhGbE1NbkRkeWRENl9HUS0yTUhvcEtJYTVHVm00X2NBeC1OVlhRUDBfY04yT2sxMDQ0VlJ2c0U4bnFDY2pSY0tacFdaLTNNc0U4NFZpbUp3WW9GMG1WcG1EaTF4VmpDVnhEa3d0UWFkZVFsWFBpQm05NTFFOA?oc=5",
+      "published_at": "2026-11-06T12:36:51Z",
       "score": 83
     },
     {
@@ -24,16 +24,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPTzBxR25PWTJId1A5S1JXVnNTRkJBSnpaQ0JiZkgwQmxVc2VELU1PNFJPeXBzSHBpS1FkVnZuVi1Ebkl0SmVkb0QxNGNianZKMV9FSjZLdFdpM3lVSlNRR2NiajRaZw?oc=5",
       "published_at": "2026-11-05T14:42:01Z",
       "score": 89
-    },
-    {
-      "id": "95f5a477ca3100e7",
-      "category": "宇宙探索",
-      "title": "在我们的太阳系中发现了新的矮行星候选者",
-      "text": "在我们的太阳系中发现了新的矮行星候选者",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXo3SC1mb2ZzMFJhcFBjZGJDTkRmRVI5OE1sdHN3VXA5TUNzTjU5UHdlRElFTWU5OE10bk1RTWxnaWc3Yy1HMkEzbTZ0Qk9DTktBcXlkSXJvamc2V2JrQ3hsUjZyVm0za3dfaHY2a2hZNDZsMDdWVVRmeVBsbzVBak41a29DTFFOTDJxWldfcjY?oc=5",
-      "published_at": "2026-11-04T17:35:46Z",
-      "score": 83
     },
     {
       "id": "749e0c11e05e761b",
@@ -64,6 +54,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVTBLMzZzNG5hVTJvU1QxSzRTSDJfbmRodi1QUzFzR0tnZFZCaVZaSjBXdG9ib3lILUhOOVJ0TWFzVkJhTi1BaldmNXZ5M3hKVEVlQTFWcnlfNHU5bUtpVGZYc1gtQQ?oc=5",
       "published_at": "2026-11-02T18:14:09Z",
       "score": 97
+    },
+    {
+      "id": "036f9d6cfb5779ba",
+      "category": "古生物学",
+      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
+      "source": "PNAS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
+      "published_at": "2026-11-02T08:00:00Z",
+      "score": 99
     },
     {
       "id": "05ce6c30dde0f3ef",
@@ -132,7 +132,7 @@
       "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
-      "published_at": "2026-10-23T14:28:33Z",
+      "published_at": "2026-10-23T07:00:00Z",
       "score": 90
     },
     {
@@ -436,16 +436,6 @@
       "score": 89
     },
     {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "text": "灭绝音景的重建揭示了侏罗纪的超声波通信",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-08-25T17:33:06Z",
-      "score": 99
-    },
-    {
       "id": "00697891cba65b5a",
       "category": "粒子物理",
       "title": "Borexino 扩展数据集对非标准中微子相互作用的约束",
@@ -538,8 +528,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -566,16 +556,6 @@
       "score": 89
     },
     {
-      "id": "8e2923034357b498",
-      "category": "宇宙探索",
-      "title": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
-      "text": "NASA 的 Psyche 任务提供飞越火星的数据和延时视频",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
-      "published_at": "2026-07-17T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "b6702abb9aa636d5",
       "category": "宇宙探索",
       "title": "美国宇航局的心灵任务在飞越火星期间拍摄了火星表面的细节图像",
@@ -594,6 +574,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW9nUV9kZ19yY3hvYXpVS0ZQc2tCZndZd2xyZFVWS3FhdUU0Y2gwUE5YMDhEd0lfQ3JjMndUekpTTUJkMVVZSmZBZmZKZmE1QktJNlI2RmtlZ2p0UDhwZzBveXAwYXltSVZwdjQ0Z19NTWxoS2xnTFJHRERJNWM0aDQzSFZVVW14NjBGdFh3?oc=5",
       "published_at": "2026-07-16T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "ab5b1285d6098629",
+      "category": "宇宙探索",
+      "title": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
+      "text": "经过十多年的捉迷藏，发现了地球上有史以来最暗的行星",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b29YcHhPZzY0Rlc3a1MtZjV6OWZlVE1DSVM4NW9sNzlKV0ZqYU9ZdUp5SkpaYzB1S0ZudlpYLUtkVlpzcUFQVm9XU1NWeHlueFE?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
+      "score": 96
     },
     {
       "id": "71f9598e7f8ec702",
