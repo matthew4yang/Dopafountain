@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-06T23:25:49.351210Z",
-  "count": 59,
+  "updated_at": "2026-11-07T03:05:40.782800Z",
+  "count": 60,
   "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
     {
-      "id": "ccb2088ee4e7f4ca",
+      "id": "f9a35042d9c4f837",
       "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96320fm-saturn-titan_f439w_v1-0_sci.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96320fm-saturn-titan_f439w_v1-0_sci.fits）",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963202m-saturn-titan_f555w_v1-0_img.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963202m-saturn-titan_f555w_v1-0_img.fits）",
       "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcFYycWFCZlVTSW4xR09Obl9FXzNmSzVmY09aYVZHT0ROcmcwRmgzNHNZaFh0V004VUdpZHhUNzIxNzhTTnNyV0RSd0xjYzllRXliTjJKVlYxZU50UnBXVDlEOU5QVjEzUzFGRHoxb1hUbVdfSUFHa1RWWTBmNkdoaEJ1Wjk1aGZRMUpUdnBDS2FmelczU09FRFVTUUh6SkpFZjJUR1ZPbVB2REYzMl9pc0tpd1ppT0NjalFLNEJaUWF0aU05?oc=5",
-      "published_at": "2026-11-06T09:36:05Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQWFoWDdIVmtBZ0V2NTRKUXd6YWlfS2taOGVfNFg3TXcyYzByTGY2UVpkR0VMSzlrcjZVUzdDN0xfT1ZHb0NYWmVwenZveVhnSlN6bzc2Q0RsVG9QYmJoaXBVMVlwUkVjU01KWjZBMDdQaDBveW11MXktN3B0akwydFJ6WW5KVWs2YlZoTE91bFRUcTFkWUF5SThYU3hqYWU3NUxvVUhPWWlVQnQyc3NPZURRLXowWWFoOFpITFdmTE9ncUQt?oc=5",
+      "published_at": "2026-11-06T14:40:57Z",
       "score": 83
     },
     {
@@ -124,6 +124,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRm9MaTgxTmpkQURqbEZheFl1WFpwN25OdlRzbFZnVjVZc3BBYVR2Nk1ZWHZ5Tm9TdnBkRl92M1BPZE5MQmNueDVxZ1NudVU2X0VEQWt3cmp2VXppT05fRWtpNkptMTZDRGJyVWhFNFRlN2ZJVVBlbDg1dFhXYjFIX1pqMHE5QUpjclRUcmpTWTdJWlVxbE93bExpS3NvQkt5VzdyeW5nck5mUQ?oc=5",
       "published_at": "2026-10-27T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "7edf8d2714dffb03",
+      "category": "粒子物理",
+      "title": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "text": "物理评论快报 - 已接受论文：形成超临界磁化无碰撞激波中反射离子和离子温度各向异性的实验证据",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdlAzcHZEMDZsNlFlRGo0Yml5eUtxbVJnMWM3cXFmaFVuc0FVMjVPSEZwZHk0UnZoQ3ZFdkstODZpdmlsX2s4cGVrc3M4Zk1uRmR1clQtZjE4dGxNaDZqbTRoV0RkUQ?oc=5",
+      "published_at": "2026-10-23T14:28:33Z",
+      "score": 90
     },
     {
       "id": "3a4bd23a93fc26e5",
@@ -528,8 +538,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
