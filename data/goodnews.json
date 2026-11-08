@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:07:56.547014Z",
+  "updated_at": "2026-11-08T18:27:34.995001Z",
   "count": 59,
   "auto_count": 62,
   "verified_seed_count": 2,
@@ -34,16 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW5ydHp1UXF5WS1YR0NpMTZOLVZwUWZRdW1ETjR5LUprUktKSnBGVWNjajMwZFdwOGd1Rmx1QUVOUUhRVzdscmZyOUtxVWRvLUlPRUptekFvakU3U1phSVpEaU92R2RJYUJDU1lrTUp0MExKY21QSWg3RzV0bVVRZUxBWlhDbXRPSVpEVGxhcFZLalcwUWM0NUdmN0FWMk9DajBBNk45aw?oc=5",
       "published_at": "2026-11-06T00:30:30Z",
       "score": 83
-    },
-    {
-      "id": "8c7f2f6ef8fc6969",
-      "category": "粒子物理",
-      "title": "“通过超导自旋混合磁力计搜索轴子暗物质”的补充数据",
-      "text": "“通过超导自旋混合磁力计搜索轴子暗物质”的补充数据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0NRZnJOeTNjeXhsTERJempOTWJ4ZzE0aXhxNjlYeENJNWxfeEZQU3MzaW5RdVR4UDM1dHkwQjFCdlA2M0tGeUpfVmhCVmVEdVk0SFMyMVlvZ3VSNmhTb1huOFp2aWpDS1lkVk44YWg4YjJITEtWYVFSbm0tVHdYOA?oc=5",
-      "published_at": "2026-11-05T14:53:09Z",
-      "score": 89
     },
     {
       "id": "f0c0882cba972365",
@@ -438,8 +428,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -558,8 +548,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
@@ -593,6 +583,16 @@
       "source": "NASA",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
       "published_at": "2026-07-17T07:00:00Z",
+      "score": 89
+    },
+    {
+      "id": "71f9598e7f8ec702",
+      "category": "粒子物理",
+      "title": "弱电精密数据镜头下的希格斯玻色子",
+      "text": "弱电精密数据镜头下的希格斯玻色子",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
       "score": 89
     }
   ]
