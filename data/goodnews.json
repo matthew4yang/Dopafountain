@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-09T09:33:04.315503Z",
-  "count": 57,
-  "auto_count": 61,
+  "updated_at": "2026-11-09T19:58:55.909071Z",
+  "count": 56,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "77493832d1e41484",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j9f74dduq-asteroid-23144_f775w_v1-0_img.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j9f74dduq-asteroid-23144_f775w_v1-0_img.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3JJbEEtMS02RjN3dDVKY3RKZUhROEw0UDM4ZzRWMWNpa1pqZU5uVjVidHlVcEp2NnBBN2hBYlJUNXB4aFVNak10TFFyd0VUZDJDdzlZVnlXMkRzcnJycjFCODFuMFVMdm9aU3lqSmxtT1JWSFdNZ0pRU2Fmc19taGd1bjdjVmV3SEpvNzBVOEVqZDFOTk9vM2pSekE5VlJhZHZSSDlsaTZNNW5LQTBtSGdmRFFxeHB5cVhCWXV4NDZrNU9RcDVuamR3?oc=5",
+      "published_at": "2026-11-09T07:01:02Z",
+      "score": 83
+    },
     {
       "id": "19f75221fae212be",
       "category": "宇宙探索",
@@ -13,16 +23,6 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSC1NQWZxVlNxREpUU2tZeHdtRTBJc0NjLTBFeGtNMzhTUFc0M1JwejQ2YjgtNjc0N3BRaFd2TjBKWVdQM3NyOEU5MFdsaFR1OHY3M25Ra292OFAzc1hwX0RPby1mVTlvQ0NrdDM2YnJyYW9Fby0tejc3V3A4bjVyQ3NGZ3paYVU?oc=5",
       "published_at": "2026-11-07T17:35:21Z",
-      "score": 83
-    },
-    {
-      "id": "1e45204c89c9bef8",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g304m-saturn-prometheus_f675w_v1-0_sci.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_u6l4g304m-saturn-prometheus_f675w_v1-0_sci.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHY3ZjdGenllNDJfSHRLemR2VDNfVHloMDBnRFdOR2ZQVXNSNUJvVi1LNkw5eWhHQVJBMWZrQ3B2ODRaUWJqd0tBSzNISDZFNlE2TFJHZjhPdU51dUpnOFVmREZjT0NzMl9qYnlYaWNlUXQxajZCZjc5VzhWdlZzNVZxeXZfRUNOV2k0YjNPd0xoY0JuNU1HZl9kc25hWS1YbWpNZWM3VUMtQk95RnEtYmtyMUZwa2tkSnFiSHU4UlF4OFQtMDJhNTJqcw?oc=5",
-      "published_at": "2026-11-07T06:21:17Z",
       "score": 83
     },
     {
@@ -54,16 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXNTWmx0TnUwZzdobjloZG10WE5UWkJ4aW5wcXdyY3A0YUt1elU3Sm9YNE1jUkJGc0JaNlVJdWVoRUJ6RWtCZE1aNHBMZlFnbmFVUjYwM1RJNzJjSnJNTVBBQnNjLTl1LV9YcFR2YjhvNU1mRWYwWkd4azhrVHMtUg?oc=5",
       "published_at": "2026-11-03T10:04:53Z",
       "score": 90
-    },
-    {
-      "id": "55caebf4296ddb1f",
-      "category": "粒子物理",
-      "title": "在大型强子对撞机中搜索扩展标量扇区",
-      "text": "在大型强子对撞机中搜索扩展标量扇区",
-      "source": "conference-indico",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTNHOVBwR1NrZE1FYkJFWDdEdjRjM2JKdFIxOVpIZUc0ejdwOVRRbnd6Mmk4VE45blZYSUtVaXBvSXY5eDhScGJwa0YtbjV5Y0JuRkNWaGRPY09tRFQzYy1odFFhazlHRlhCM1BydDJDTVNQNG1SOWw1Q1dHcm8xTEF2YXFkRHloLV81MnlzdzJrdUpKS1hsWDlxNE1XQUxxWlNZQ2RpZjYyRmtmbl9XR21B?oc=5",
-      "published_at": "2026-11-03T03:20:18Z",
-      "score": 83
     },
     {
       "id": "036f9d6cfb5779ba",
@@ -176,6 +166,16 @@
       "score": 83
     },
     {
+      "id": "60629ce80aa039c7",
+      "category": "古生物学",
+      "title": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
+      "text": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
+      "source": "Smithsonian",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KV2JwWG9WYVhXTUxPS3EwRXNXdnhRMVl3UHc3VTNwVTZkeTI2em9YR1Z0cm5HeHdscTJGVmNJSk9WMVhuMXhuWHBkU2VxcnJFX3AyeFE4cTlLd0pWWC1FZTJB?oc=5",
+      "published_at": "2026-10-19T22:41:50Z",
+      "score": 89
+    },
+    {
       "id": "325bf48634f7cbe4",
       "category": "古生物学",
       "title": "人类进化的化石证据古人类学研究简介 [作者] W. E. Le Gros Clark",
@@ -183,6 +183,16 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbl9FU3JBMnZQWmNPUlpFY2FmOWtjOG80TmpIUV8wbGlLUURxdmFmem1YZk1qMUJWWWdiWXJTdHVISFd3NWFhSF9hdnpSVi1HMXpqQUhiN28xMnMxcGxOdw?oc=5",
       "published_at": "2026-10-19T14:52:21Z",
+      "score": 83
+    },
+    {
+      "id": "977283c3d7407c85",
+      "category": "宇宙探索",
+      "title": "欧几里得发现新彗星",
+      "text": "欧几里得发现新彗星",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1U1ZlB1N3BjckgwVmlOVUZYNVZIS2FHc2p1WjNZcHdhbERyYnY4cF90NlBwLTNqVFRkcnZmN1pVdk0yMTJIQVNya2h2MFotLXV3RlNGR09CYjRBTDF0MVlBaVRLaERuT19Uemp0cHhCTVBOTzV1ZlJHRHQ1cWJkTDdSWDc1WmNKTVZ6cGlYQ2h1MXhZZzNj?oc=5",
+      "published_at": "2026-10-19T07:00:00Z",
       "score": 83
     },
     {
@@ -486,16 +496,6 @@
       "score": 89
     },
     {
-      "id": "bbe4903a032461c9",
-      "category": "宇宙探索",
-      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
-      "published_at": "2026-07-29T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
@@ -552,16 +552,6 @@
       "text": "超级神冈探测器关于大气中微子振荡的新结果 - DPF 2026",
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHJ0QjF2NDJVOFMydTNOUjVlSFNFc19BeENocVdPV1hQWVdISGs3MEhMalJNcF91OTYyTFRpNnN6S1RMeHRqaWpIbmhwY2hVbFlmdXFQS2tyQ1h2T3BoQ0x1Mm1fb2R0LWFEaUgydVJKT0xHdGp4OHo3UTBrVmpxSFZZRXRIX1JnRnJDU1g0MU1FQS1pQ1lLNU8ySXdyaXF5eDUw?oc=5",
-      "published_at": "2026-07-23T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "f9e678ffee003b4a",
-      "category": "粒子物理",
-      "title": "使用 ADMX 寻找 Axion 暗物质",
-      "text": "使用 ADMX 寻找 Axion 暗物质",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlocHJUNndINWNmTXpXd01sSDdwV0J3RkpFOElSZXZndENjOUtPTDRzdy1MX19CbEJ0Yk15bkRaY01GZnlxQjJlbUpONDFUMlVoNlYzazU2U21jOE5UM2xkUnNnNTNlc3BFZ29aQXNXUVk0Mk94aEV4S1J2ZXlwV21ZeUNqVENTenhlRHJlZzNIUEd2Z3FiU29YaThPaEVYZldDZFV6T09zaTA?oc=5",
       "published_at": "2026-07-23T07:00:00Z",
       "score": 89
     },
