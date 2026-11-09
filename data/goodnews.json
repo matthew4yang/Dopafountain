@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:24:32.448529Z",
+  "updated_at": "2026-11-09T01:54:36.921177Z",
   "count": 25,
   "auto_count": 61,
   "verified_seed_count": 2,
@@ -23,16 +23,6 @@
       "source": "Hubble Legacy Archive (HLA)",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHY3ZjdGenllNDJfSHRLemR2VDNfVHloMDBnRFdOR2ZQVXNSNUJvVi1LNkw5eWhHQVJBMWZrQ3B2ODRaUWJqd0tBSzNISDZFNlE2TFJHZjhPdU51dUpnOFVmREZjT0NzMl9qYnlYaWNlUXQxajZCZjc5VzhWdlZzNVZxeXZfRUNOV2k0YjNPd0xoY0JuNU1HZl9kc25hWS1YbWpNZWM3VUMtQk95RnEtYmtyMUZwa2tkSnFiSHU4UlF4OFQtMDJhNTJqcw?oc=5",
       "published_at": "2026-11-07T06:21:17Z",
-      "score": 83
-    },
-    {
-      "id": "e43c8c5837a06f74",
-      "category": "宇宙探索",
-      "title": "European orbiter detects hints of volcanic activity on Mars",
-      "text": "European orbiter detects hints of volcanic activity on Mars",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW5ydHp1UXF5WS1YR0NpMTZOLVZwUWZRdW1ETjR5LUprUktKSnBGVWNjajMwZFdwOGd1Rmx1QUVOUUhRVzdscmZyOUtxVWRvLUlPRUptekFvakU3U1phSVpEaU92R2RJYUJDU1lrTUp0MExKY21QSWg3RzV0bVVRZUxBWlhDbXRPSVpEVGxhcFZLalcwUWM0NUdmN0FWMk9DajBBNk45aw?oc=5",
-      "published_at": "2026-11-06T00:30:30Z",
       "score": 83
     },
     {
@@ -254,6 +244,16 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00TmNYUjNVZnZqdWZhQXU4ODF3eE9uTUhVSUZXZ0FReEp3b1FEZ05zTWdQRE4tSFp2T0R2bzBGSGVsekpDc21nX2VWeldzcEZtNzV4WTJmSmZsZm1PV1BZ?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "8e2923034357b498",
+      "category": "宇宙探索",
+      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
+      "text": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03OEZOdTF6Q2JZNHU3UVB2Y3dtMzBaZ3RQR1hRZmlDc015NHI5YmFndjJIVFN6MFlOa0l1RW14X3B1ektVUjM3cUJlN1lpM0NFbHc3bzRNZHp3QzJmdWdYSF92c3JuVHZKeF9fY3FKazRYeFBrSDU4N0d4MlplU3pCalNCVFRmREVmTEFLNVhmTHhoQk9iaQ?oc=5",
+      "published_at": "2026-07-17T07:00:00Z",
+      "score": 89
     }
   ]
 }
