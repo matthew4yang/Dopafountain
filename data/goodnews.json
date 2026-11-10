@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-10T18:35:16.322777Z",
+  "updated_at": "2026-11-10T23:41:37.029210Z",
   "count": 23,
-  "auto_count": 60,
+  "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -12,7 +12,7 @@
       "text": "Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iNk8tLXdXcmpHdEpoUnhoWEdldUFSLTVsX01JbmFnMUJkQmxPb05COURVS2RUekFMSGZvWC0tVTg0OEZkcE5yck45QlBWeVEyb2pPLUMtWQ?oc=5",
-      "published_at": "2026-11-10T18:07:29Z",
+      "published_at": "2026-11-10T18:07:18Z",
       "score": 83
     },
     {
@@ -166,14 +166,14 @@
       "score": 78
     },
     {
-      "id": "b2d84bfcf027a39a",
+      "id": "ba83eaa321aa8de2",
       "category": "粒子物理",
-      "title": "in vector-boson fusion production with the ATLAS detector",
-      "text": "in vector-boson fusion production with the ATLAS detector",
+      "title": "Fully Charm-Tetraquark Production at Hadronic Collisions with Gluon Radiation Effects",
+      "text": "Fully Charm-Tetraquark Production at Hadronic Collisions with Gluon Radiation Effects",
       "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJb0pyTVJIcUl5TmRJVWNEWnFqcVZUcWNpNDVDXy1tQTd3Wm5ROFN1cnBXY09waFBYMVZiM2ZoOVQ2ZGd0Y19la3dzZzVOWFAyaEJWUFhMWGQ0cENZRWQwUUhzVmZzZw?oc=5",
-      "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
+      "published_at": "2026-09-21T17:05:34Z",
+      "score": 89
     },
     {
       "id": "f2e543303f38f752",
@@ -226,14 +226,14 @@
       "score": 83
     },
     {
-      "id": "c569e87b3a3233ba",
+      "id": "71f9598e7f8ec702",
       "category": "粒子物理",
-      "title": "Oxygen collisions at the LHC show new indications of extreme state of matter – Home",
-      "text": "Oxygen collisions at the LHC show new indications of extreme state of matter – Home",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
-      "published_at": "2026-07-24T07:00:00Z",
-      "score": 83
+      "title": "The Higgs boson through the lens of electroweak precision data",
+      "text": "The Higgs boson through the lens of electroweak precision data",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
+      "published_at": "2026-07-10T07:00:00Z",
+      "score": 89
     }
   ]
 }
