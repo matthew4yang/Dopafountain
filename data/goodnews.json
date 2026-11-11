@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-10T23:41:37.029210Z",
-  "count": 23,
+  "updated_at": "2026-11-11T05:45:57.488741Z",
+  "count": 22,
   "auto_count": 63,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "7ac42d3a23eb99a1",
+      "category": "古生物学",
+      "title": "Exceptional preservation reveals the deep-time reproductive ecology and trophic breadth of Early Cretaceous viviparid gastropods",
+      "text": "Exceptional preservation reveals the deep-time reproductive ecology and trophic breadth of Early Cretaceous viviparid gastropods",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YQWNJall3aVg5am90RFhGNmY5aWtidXp4X2h1LU9ZbkxKSlFHNWpTRHV4T1dBLXctRmREWWVqRU5WRjJkLW1ub3dWS3BKWmpldDM4X29NS1M0eXUwdWdn?oc=5",
+      "published_at": "2026-11-10T19:03:14Z",
+      "score": 83
+    },
     {
       "id": "6f17505fc480d1fc",
       "category": "宇宙探索",
@@ -13,16 +23,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iNk8tLXdXcmpHdEpoUnhoWEdldUFSLTVsX01JbmFnMUJkQmxPb05COURVS2RUekFMSGZvWC0tVTg0OEZkcE5yck45QlBWeVEyb2pPLUMtWQ?oc=5",
       "published_at": "2026-11-10T18:07:18Z",
-      "score": 83
-    },
-    {
-      "id": "7ac42d3a23eb99a1",
-      "category": "古生物学",
-      "title": "Exceptional preservation reveals the deep-time reproductive ecology and trophic breadth of Early Cretaceous viviparid gastropods",
-      "text": "Exceptional preservation reveals the deep-time reproductive ecology and trophic breadth of Early Cretaceous viviparid gastropods",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YQWNJall3aVg5am90RFhGNmY5aWtidXp4X2h1LU9ZbkxKSlFHNWpTRHV4T1dBLXctRmREWWVqRU5WRjJkLW1ub3dWS3BKWmpldDM4X29NS1M0eXUwdWdn?oc=5",
-      "published_at": "2026-11-10T10:06:20Z",
       "score": 83
     },
     {
@@ -224,16 +224,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "71f9598e7f8ec702",
-      "category": "粒子物理",
-      "title": "The Higgs boson through the lens of electroweak precision data",
-      "text": "The Higgs boson through the lens of electroweak precision data",
-      "source": "DESY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGpGbU52SmtoM09HMGN1NGsyMzJQQXBhS2x2YVlTOHY0OFVnVGtfdnFQRlFPVzhfeFhaSzRfMHVTdVh0Z3J0M09aaVBMLV9LUEpfcjVvaVZoeEFoOURtQjhodlZSQ1pfeHNMVHRuTk4zb3ZhVEQtYlUybEtYZldDY1pnT3V4VGs5ZU43cVpPXzJIUQ?oc=5",
-      "published_at": "2026-07-10T07:00:00Z",
-      "score": 89
     }
   ]
 }
