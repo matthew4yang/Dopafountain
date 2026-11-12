@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T02:26:50.018926Z",
-  "count": 56,
-  "auto_count": 61,
+  "updated_at": "2026-11-12T10:08:58.792456Z",
+  "count": 55,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -28,8 +28,8 @@
     {
       "id": "1dc1bfad369dc01c",
       "category": "粒子物理",
-      "title": "寻找新物理学中中微子中性流和带电电流事件之间的互补性",
-      "text": "寻找新物理学中中微子中性流和带电电流事件之间的互补性",
+      "title": "寻找新物理学中中微子中性电流和带电电流事件之间的互补性",
+      "text": "寻找新物理学中中微子中性电流和带电电流事件之间的互补性",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
       "published_at": "2026-11-09T21:06:44Z",
@@ -346,16 +346,6 @@
       "score": 83
     },
     {
-      "id": "b2d84bfcf027a39a",
-      "category": "粒子物理",
-      "title": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
-      "text": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJb0pyTVJIcUl5TmRJVWNEWnFqcVZUcWNpNDVDXy1tQTd3Wm5ROFN1cnBXY09waFBYMVZiM2ZoOVQ2ZGd0Y19la3dzZzVOWFAyaEJWUFhMWGQ0cENZRWQwUUhzVmZzZw?oc=5",
-      "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "4165efc49ab77da0",
       "category": "粒子物理",
       "title": "使用 IceCube DeepCore 搜索稳态中微子发射",
@@ -438,21 +428,11 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
-      "text": "Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "2faedcd323d5a0d9",
-      "category": "古生物学",
-      "title": "小小探险家：化石发现者",
-      "text": "小小探险家：化石发现者",
-      "source": "Field Museum",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm50eXVHa1pKakZ4WGwxVTBwc2Q0QlozVVB3RGJLcjJSZzRiTlBVT1pVdHpZeG0wM1BGOTc2MWpXN3psQ3ZudlFEQkVJLUVrVGlVWU14ejh5WmNGYjJjbE1HQU43b1E2ZE9vbTE1RWlWTzVDX3VFblhITW1HaDJ0WWotX0ZjZ1dHQzNwYmNUeE15MlJkeFVaZVhuWllxcHRVeGdFZFQzYVU?oc=5",
-      "published_at": "2026-08-31T20:27:08Z",
       "score": 83
     },
     {
@@ -504,6 +484,16 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
       "published_at": "2026-08-05T16:10:25Z",
       "score": 89
+    },
+    {
+      "id": "bbe4903a032461c9",
+      "category": "宇宙探索",
+      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
+      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
     },
     {
       "id": "51ea8add2dba8082",
