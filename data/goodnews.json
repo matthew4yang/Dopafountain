@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-11-12T10:08:58.792456Z",
-  "count": 55,
-  "auto_count": 59,
+  "updated_at": "2026-11-12T18:32:52.936718Z",
+  "count": 58,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "344e88052199e1aa",
+      "category": "宇宙探索",
+      "title": "Euclid 为其有史以来最好的 3D 宇宙地图奠定了基础",
+      "text": "Euclid 为其有史以来最好的 3D 宇宙地图奠定了基础",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRURETUhOeHM3UTR5REJvODYyeXVUeE9PaGtKbkptZVBuQmZEMnN3Sm1qNC1SUi1XLUJhUTkzdk1oZVZpVWEyV2lRMXg4Q1Y4d0swT21jclFRYTF5c0JDc1dUbjMwMFA3a2Q1SHRyNzI4d1VyX1pxNjVhSGVpYVpSd19BYUtkWW1XTmxkeGtvNnVzVWYySjE0MEI4LUpGMzNPZldNYUoyT252Vmp5X2NUaFIza0I1YXo1Tzkxdmo5ZnRHSlRPMkQxS0dfOXJiZw?oc=5",
+      "published_at": "2026-11-12T13:55:15Z",
+      "score": 83
+    },
+    {
+      "id": "75a0b609eeffd7e5",
+      "category": "古生物学",
+      "title": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
+      "text": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
+      "published_at": "2026-11-11T14:57:47Z",
+      "score": 89
+    },
+    {
+      "id": "b77971a2ebcc0773",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjNwallFak1kaEI0UEZCOTFLbWQ1dXJkQXAwUFdQVEZiOWtnc05xVlFYYzBlRGtaSGItRUVtUWVWSXd2d0N1bV9pVERmSXAxZG1fakN4RWN3bXV1ZWN1SXJ3dDdueFdISTc1V3A0cXcydVJuY18zQjNxTW1zU0w0MkQ0dzZnZ3ltZGdLYXRRc0Z3MERjWUJVWXRGNzA3a2l2NElXQlZGSmpWMjU1dkFxRVBDaTlqeEo5VlVVbDZCV2RqQnZ6?oc=5",
+      "published_at": "2026-11-11T06:55:23Z",
+      "score": 83
+    },
     {
       "id": "7ac42d3a23eb99a1",
       "category": "古生物学",
@@ -33,16 +63,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
       "published_at": "2026-11-09T21:06:44Z",
-      "score": 83
-    },
-    {
-      "id": "77493832d1e41484",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j9f74dduq-asteroid-23144_f775w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_acs-hrc_j9f74dduq-asteroid-23144_f775w_v1-0_img.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3JJbEEtMS02RjN3dDVKY3RKZUhROEw0UDM4ZzRWMWNpa1pqZU5uVjVidHlVcEp2NnBBN2hBYlJUNXB4aFVNak10TFFyd0VUZDJDdzlZVnlXMkRzcnJycjFCODFuMFVMdm9aU3lqSmxtT1JWSFdNZ0pRU2Fmc19taGd1bjdjVmV3SEpvNzBVOEVqZDFOTk9vM2pSekE5VlJhZHZSSDlsaTZNNW5LQTBtSGdmRFFxeHB5cVhCWXV4NDZrNU9RcDVuamR3?oc=5",
-      "published_at": "2026-11-09T07:01:02Z",
       "score": 83
     },
     {
@@ -84,6 +104,16 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
       "published_at": "2026-11-02T08:00:00Z",
       "score": 99
+    },
+    {
+      "id": "edbfd352ed93d459",
+      "category": "粒子物理",
+      "title": "使用 ALPSII 进行任意光粒子搜索：第一个科学结果",
+      "text": "使用 ALPSII 进行任意光粒子搜索：第一个科学结果",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVTBLMzZzNG5hVTJvU1QxSzRTSDJfbmRodi1QUzFzR0tnZFZCaVZaSjBXdG9ib3lILUhOOVJ0TWFzVkJhTi1BaldmNXZ5M3hKVEVlQTFWcnlfNHU5bUtpVGZYc1gtQQ?oc=5",
+      "published_at": "2026-11-02T08:00:00Z",
+      "score": 97
     },
     {
       "id": "05ce6c30dde0f3ef",
@@ -188,11 +218,21 @@
     {
       "id": "60629ce80aa039c7",
       "category": "古生物学",
-      "title": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，附有Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
-      "text": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，附有Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
+      "title": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
+      "text": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KV2JwWG9WYVhXTUxPS3EwRXNXdnhRMVl3UHc3VTNwVTZkeTI2em9YR1Z0cm5HeHdscTJGVmNJSk9WMVhuMXhuWHBkU2VxcnJFX3AyeFE4cTlLd0pWWC1FZTJB?oc=5",
       "published_at": "2026-10-19T22:41:50Z",
+      "score": 89
+    },
+    {
+      "id": "989462b04211b37f",
+      "category": "宇宙探索",
+      "title": "彗星 C/2026 S1（欧几里得）观测背景",
+      "text": "彗星 C/2026 S1（欧几里得）观测背景",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
+      "published_at": "2026-10-19T07:00:00Z",
       "score": 89
     },
     {
@@ -486,16 +526,6 @@
       "score": 89
     },
     {
-      "id": "bbe4903a032461c9",
-      "category": "宇宙探索",
-      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
-      "published_at": "2026-07-29T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
@@ -538,8 +568,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
