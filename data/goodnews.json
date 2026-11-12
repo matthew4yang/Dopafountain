@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-12T18:32:52.936718Z",
-  "count": 58,
-  "auto_count": 61,
+  "updated_at": "2026-11-12T23:48:01.122616Z",
+  "count": 57,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "b14bc0cce8d7e347",
+      "category": "宇宙探索",
+      "title": "天炉座星系团的 VST 图像",
+      "text": "天炉座星系团的 VST 图像",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QVERCekdTR3FsakVyRzVPTkpvSHhySXpvTEpDUndOYS16Z2IwQnJEbGYzb2xMaW5fUXBuMXJNZ25EN0JEZFhZR1ZnRFhOWmpGcm84aWhZWjlobnM5MmNpLURvRVk1Ym1MVU9j?oc=5",
+      "published_at": "2026-11-12T16:02:57Z",
+      "score": 83
+    },
     {
       "id": "344e88052199e1aa",
       "category": "宇宙探索",
@@ -16,6 +26,16 @@
       "score": 83
     },
     {
+      "id": "44cc21fdcec768e6",
+      "category": "宇宙探索",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits）",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk9xOHR0QWNkUkg3MkFRSW52R2tsVi11c0NYa3JsSXlXMm5KcWFIamx6QUFobi11OUpNTGZ4V01mWjk1eGNqTF9ZSUFXb29mQ1pXSzJ0RWktRDVubWxCT0pXekJtN1p0WnFadmZndXhFbEVjaXVVNTdPclNHMThnTGx4R1dIa1NrS18wa2VrNjE0eUVZbTR6RjNCWVFyZ0xqWkxSd1BxbFo2Q2U2VEp1NGhWWG90bXAtTzhfWUVyam9ib2VR?oc=5",
+      "published_at": "2026-11-12T02:39:20Z",
+      "score": 83
+    },
+    {
       "id": "75a0b609eeffd7e5",
       "category": "古生物学",
       "title": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
@@ -24,16 +44,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
       "published_at": "2026-11-11T14:57:47Z",
       "score": 89
-    },
-    {
-      "id": "b77971a2ebcc0773",
-      "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits）",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjNwallFak1kaEI0UEZCOTFLbWQ1dXJkQXAwUFdQVEZiOWtnc05xVlFYYzBlRGtaSGItRUVtUWVWSXd2d0N1bV9pVERmSXAxZG1fakN4RWN3bXV1ZWN1SXJ3dDdueFdISTc1V3A0cXcydVJuY18zQjNxTW1zU0w0MkQ0dzZnZ3ltZGdLYXRRc0Z3MERjWUJVWXRGNzA3a2l2NElXQlZGSmpWMjU1dkFxRVBDaTlqeEo5VlVVbDZCV2RqQnZ6?oc=5",
-      "published_at": "2026-11-11T06:55:23Z",
-      "score": 83
     },
     {
       "id": "7ac42d3a23eb99a1",
@@ -58,8 +68,8 @@
     {
       "id": "1dc1bfad369dc01c",
       "category": "粒子物理",
-      "title": "寻找新物理学中中微子中性电流和带电电流事件之间的互补性",
-      "text": "寻找新物理学中中微子中性电流和带电电流事件之间的互补性",
+      "title": "寻找新物理学中中微子中性流和带电电流事件之间的互补性",
+      "text": "寻找新物理学中中微子中性流和带电电流事件之间的互补性",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
       "published_at": "2026-11-09T21:06:44Z",
@@ -213,36 +223,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
       "published_at": "2026-10-20T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "60629ce80aa039c7",
-      "category": "古生物学",
-      "title": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
-      "text": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KV2JwWG9WYVhXTUxPS3EwRXNXdnhRMVl3UHc3VTNwVTZkeTI2em9YR1Z0cm5HeHdscTJGVmNJSk9WMVhuMXhuWHBkU2VxcnJFX3AyeFE4cTlLd0pWWC1FZTJB?oc=5",
-      "published_at": "2026-10-19T22:41:50Z",
-      "score": 89
-    },
-    {
-      "id": "989462b04211b37f",
-      "category": "宇宙探索",
-      "title": "彗星 C/2026 S1（欧几里得）观测背景",
-      "text": "彗星 C/2026 S1（欧几里得）观测背景",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tSX0gxdGVUc1VENFFobDdhSnlzdng0MnFJX0VidDh6UURGQmtyVDJNMXV3ZXVzbENyT18tcFBVcUpHYVhXUXhVMWJZc09PNWhVZUphRkY3VWtkMjlNeFBsQVVqQmpBcXdVb2FWWUszZzNLT29MY1d0ZzFTNHQ3RUZCVUJyRFRfMzEtOV9QRTY3YkJFcmhJSlBxX00?oc=5",
-      "published_at": "2026-10-19T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "76183f437d1a232e",
-      "category": "粒子物理",
-      "title": "搜索 TeV 脉冲星发射的脉冲中微子",
-      "text": "搜索 TeV 脉冲星发射的脉冲中微子",
-      "source": "University of Wisconsin–Madison",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0xEUEVDLTZQaVlGdkY2b05XNXZ4NW4zU3I1UXM1djV5dGdjT1FiOWxaZlIwMlVlM1p3WlJOY0VTNEJyYUQzM0pzb0c2VzV4Ylh1ODRjQ2Q1UG1xdENLNEo4Nm1LR2dZNkdPVy1QOTRfUFRRRzZoZVVzWklOdHAwaHlYMzdKNUhyUkRUSEJaRnVDZFpLVkpjYURsMTVuU2s?oc=5",
-      "published_at": "2026-10-14T21:38:45Z",
       "score": 83
     },
     {
@@ -494,6 +474,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
       "published_at": "2026-08-24T07:00:00Z",
       "score": 83
+    },
+    {
+      "id": "dd2915b647dc0fa9",
+      "category": "粒子物理",
+      "title": "西北大学使用下一代 SuperCDMS HVeV 探测器进行电子反冲暗物质搜索，运行温度",
+      "text": "西北大学使用下一代 SuperCDMS HVeV 探测器进行电子反冲暗物质搜索，运行温度",
+      "source": "SLAC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGNaM0plcFFXVTROZm4xN1Awdkp3dnJtRmpELUNNYjI0emNaMFdlSEdMVTJMdXEtbjRmUmZ1ell6XzljaVVrQVViMUNHTEFqWDlZd1BmVkZGMmFjaUZNOGJfTVliR1B0UGdHdWZiNHNQalFrRXVuckF0OEhmQnAyTXJMTnNaZw?oc=5",
+      "published_at": "2026-08-20T07:00:00Z",
+      "score": 90
     },
     {
       "id": "b050ee82b7767fdd",
