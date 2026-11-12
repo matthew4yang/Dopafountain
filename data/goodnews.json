@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11T21:12:39.408128Z",
-  "count": 59,
-  "auto_count": 63,
+  "updated_at": "2026-11-12T02:26:50.018926Z",
+  "count": 56,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -166,16 +166,6 @@
       "score": 90
     },
     {
-      "id": "e9dd2c5c67108687",
-      "category": "粒子物理",
-      "title": "搜索低质量希格斯态@BABAR",
-      "text": "搜索低质量希格斯态@BABAR",
-      "source": "SLAC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdkJtVjFGVTJsWk9DdUY1dHlXSHZXSjdtdVFWbjdEaG9ZLUtMMUliYmZMbHo4bGFZRlVyZmhmS0xkY1h3a01MY0RQLVlqR0hvNWlVOER3eUs2UzU5Nk1TQjJia0JBWDZKc2xGdkp5bjEzUQ?oc=5",
-      "published_at": "2026-10-22T06:47:27Z",
-      "score": 83
-    },
-    {
       "id": "abff581823346a3c",
       "category": "粒子物理",
       "title": "质子中横向动量相关和共线帕子分布的首次同步分析",
@@ -198,8 +188,8 @@
     {
       "id": "60629ce80aa039c7",
       "category": "古生物学",
-      "title": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
-      "text": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，其中包含Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
+      "title": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，附有Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
+      "text": "博洛尼亚乔瓦尼·卡佩里尼古生物博物馆中的齿鲸类（鲸类）化石目录，附有Hoplocetus（Physeteridae）新种的描述 / Giorgio Pilleri 和 Olaf Pilleri",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KV2JwWG9WYVhXTUxPS3EwRXNXdnhRMVl3UHc3VTNwVTZkeTI2em9YR1Z0cm5HeHdscTJGVmNJSk9WMVhuMXhuWHBkU2VxcnJFX3AyeFE4cTlLd0pWWC1FZTJB?oc=5",
       "published_at": "2026-10-19T22:41:50Z",
@@ -244,16 +234,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "4a986067bda1f3f9",
-      "category": "古生物学",
-      "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
-      "text": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
     },
     {
       "id": "691aa25415ad83d2",
@@ -458,8 +438,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
+      "text": "Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -526,16 +506,6 @@
       "score": 89
     },
     {
-      "id": "bbe4903a032461c9",
-      "category": "宇宙探索",
-      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
-      "published_at": "2026-07-29T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
@@ -578,8 +548,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
