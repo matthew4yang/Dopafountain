@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T23:48:01.122616Z",
-  "count": 57,
-  "auto_count": 60,
+  "updated_at": "2026-11-13T06:09:04.929795Z",
+  "count": 58,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -26,13 +26,13 @@
       "score": 83
     },
     {
-      "id": "44cc21fdcec768e6",
+      "id": "d0ca33d25d05799f",
       "category": "宇宙探索",
-      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits）",
-      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits）",
+      "title": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96330hm-saturn-titan_f439w_v1-0_img.fits）",
+      "text": "fits2web 图像查看器（hlsp_mt_hst_wfpc2_ub96330hm-saturn-titan_f439w_v1-0_img.fits）",
       "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk9xOHR0QWNkUkg3MkFRSW52R2tsVi11c0NYa3JsSXlXMm5KcWFIamx6QUFobi11OUpNTGZ4V01mWjk1eGNqTF9ZSUFXb29mQ1pXSzJ0RWktRDVubWxCT0pXekJtN1p0WnFadmZndXhFbEVjaXVVNTdPclNHMThnTGx4R1dIa1NrS18wa2VrNjE0eUVZbTR6RjNCWVFyZ0xqWkxSd1BxbFo2Q2U2VEp1NGhWWG90bXAtTzhfWUVyam9ib2VR?oc=5",
-      "published_at": "2026-11-12T02:39:20Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZnNKUGhUNXl6VWVVaWwySk00WVRxNnJhOE1vRjdnc1RGMjUya2J6Tjh6UDN4S25QcEhtZ0hLbm8ycXNNbmpicUZoQm93YUJmaWVOMXBVVXZrR3kxbTZoVnhJSkt5b0F4ZkwzWnVhWThpSDN3NEwyLXVsZWlkV2IyLVVuVG1mQW04a0tQT1dkZEdtLU1GV19zYzlUTU9EMUNPQktFV05HWXBPY0NTRWZSWC12ZUF4anExX1dRLUxXdG1OWlll?oc=5",
+      "published_at": "2026-11-12T10:12:11Z",
       "score": 83
     },
     {
@@ -362,6 +362,16 @@
       "text": "史密森天体物理观测站从戈登和贝蒂摩尔基金会获得 360 万美元，用于推进下一代视界望远镜 |天体物理学中心|哈佛和史密森学会",
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYU93VW1NUUNzR3R3TEpoUGJLZFhweUpxcXR2X1dTQmx2WDRQc0ZxMjBQY2xrMUQ0NE0yaVhNcUF3QThHVE4yZDh6c0gxVUtyMnl6djh2emNEMkJqNVRUenpSOHJ5Zk15VFNrMVU5d1FLbWNqdWVyc3RvNE5tUU84X0d2d1FSVjNSSXI2bWFoUjNQbU83SjFfcVhQUGxpbGRuTjFka0dwZ0xhTG8xci1TcThpeVdWRVFPNUdKdXJfUDBTODA4TUpSakV3?oc=5",
+      "published_at": "2026-09-17T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "b2d84bfcf027a39a",
+      "category": "粒子物理",
+      "title": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
+      "text": "使用 ATLAS 探测器进行矢量-玻色子融合生产",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJb0pyTVJIcUl5TmRJVWNEWnFqcVZUcWNpNDVDXy1tQTd3Wm5ROFN1cnBXY09waFBYMVZiM2ZoOVQ2ZGd0Y19la3dzZzVOWFAyaEJWUFhMWGQ0cENZRWQwUUhzVmZzZw?oc=5",
       "published_at": "2026-09-17T07:00:00Z",
       "score": 83
     },
