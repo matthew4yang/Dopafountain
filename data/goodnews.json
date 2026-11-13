@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T14:52:26.295336Z",
-  "count": 24,
-  "auto_count": 61,
+  "updated_at": "2026-11-13T21:22:31.992515Z",
+  "count": 25,
+  "auto_count": 60,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -96,24 +96,14 @@
       "score": 89
     },
     {
-      "id": "5db2d32cf6ffadb1",
+      "id": "749e0c11e05e761b",
       "category": "粒子物理",
-      "title": "LHCb finds evidence of one-in-ten-billion particle decay",
-      "text": "LHCb finds evidence of one-in-ten-billion particle decay",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnk0M2NEdldYNUUwR21tbFNSQnBwcklaekNzZGd5U20wWDNneW01ZW55RFVUODduWUlGUVpiMndZc2lhYmY5V0RlX3VyaW1ISzVVVHlmS0tNLTJrTUxEWTlCU24wejc0cU05YjdUbEhDalNLVnRJOFl2NGM3ejR1Qm9iSWVZWGc?oc=5",
-      "published_at": "2026-11-03T09:36:04Z",
+      "title": "LHCb finds evidence of one-in-ten-billion particle decay – Home",
+      "text": "LHCb finds evidence of one-in-ten-billion particle decay – Home",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXNTWmx0TnUwZzdobjloZG10WE5UWkJ4aW5wcXdyY3A0YUt1elU3Sm9YNE1jUkJGc0JaNlVJdWVoRUJ6RWtCZE1aNHBMZlFnbmFVUjYwM1RJNzJjSnJNTVBBQnNjLTl1LV9YcFR2YjhvNU1mRWYwWkd4azhrVHMtUg?oc=5",
+      "published_at": "2026-11-03T08:00:00Z",
       "score": 90
-    },
-    {
-      "id": "036f9d6cfb5779ba",
-      "category": "古生物学",
-      "title": "Reconstruction of an extinct soundscape reveals ultrasonic communication in the Jurassic",
-      "text": "Reconstruction of an extinct soundscape reveals ultrasonic communication in the Jurassic",
-      "source": "PNAS",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRFZsRG1hejlQUDlyck1BYTZ1eUVydTZiRkdlVTRLZk5uU1B3MWU1OTNPN19oSGZINnZJUWhpV1piY0h3VUhwT3lub21wRGozUDVNZlNERWUzYWd1?oc=5",
-      "published_at": "2026-11-02T08:00:00Z",
-      "score": 99
     },
     {
       "id": "edbfd352ed93d459",
@@ -124,6 +114,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVTBLMzZzNG5hVTJvU1QxSzRTSDJfbmRodi1QUzFzR0tnZFZCaVZaSjBXdG9ib3lILUhOOVJ0TWFzVkJhTi1BaldmNXZ5M3hKVEVlQTFWcnlfNHU5bUtpVGZYc1gtQQ?oc=5",
       "published_at": "2026-11-02T08:00:00Z",
       "score": 97
+    },
+    {
+      "id": "20d23446e0200450",
+      "category": "古生物学",
+      "title": "Flying insects are 80 million years younger than first thought, reveals Natural History Museum fossil",
+      "text": "Flying insects are 80 million years younger than first thought, reveals Natural History Museum fossil",
+      "source": "Natural History Museum",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObU1ON2Vubng1Y2puTnJQQ3Nxb1FwdEFBOU94REdmT21pMjRjWEMxSXI2RHVRaEM3Rm9mVUMxMmZ6VVpCRldiVzc1TmMwU0Z2UTJ6Wk9FMnB5THNwOGw5WkJhYmMwcy0xNU5WVTB1Uk1lbE1FcnpGUHloWTh0MnltZ1l0UTNVV2p5aFN0eDBCVEJnY216OGdINjI3NF83eXc0X0tISXJabVctS3VjakthY2lqSVRVX1Fz?oc=5",
+      "published_at": "2026-10-29T07:00:00Z",
+      "score": 89
     },
     {
       "id": "dfe5b9c855704f7d",
@@ -166,6 +166,16 @@
       "score": 83
     },
     {
+      "id": "691aa25415ad83d2",
+      "category": "古生物学",
+      "title": "Ancient genomes reveal an extinct bovine species from mid-latitude Asia: Current Biology",
+      "text": "Ancient genomes reveal an extinct bovine species from mid-latitude Asia: Current Biology",
+      "source": "Cell Press",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lVUgtNHYyQTBLMThtMW5FanlVdkdGTlJHcDR1LWw3VFRIMXNiVkV5SXpMZ0ItZlI2bi0yUC1xZXQyOTdqT2JyelctN2RqYVJaRUJNVVdVMGdpRXU4Q3UxaWVLSkpiMXhSVllic2RJYURXci1KMFE?oc=5",
+      "published_at": "2026-10-05T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "3dca4b13fa57060f",
       "category": "宇宙探索",
       "title": "During Science Month: ALMA Opens Its Doors to Celebrate 15 Years of Observing the Universe",
@@ -174,6 +184,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-02T07:00:00Z",
       "score": 89
+    },
+    {
+      "id": "583253ef21e6f08a",
+      "category": "古生物学",
+      "title": "Paleoenvironmental Reconstruction Using Fossil Evidence - Latest research and news",
+      "text": "Paleoenvironmental Reconstruction Using Fossil Evidence - Latest research and news",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
+      "published_at": "2026-09-24T14:55:14Z",
+      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
@@ -233,16 +253,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "fedd2d9deb668160",
-      "category": "古生物学",
-      "title": "Fossil Footprints Reveal That an Ancient Human Relative Was Larger Than Previously Thought and Traveled in Groups 1.4 Million Years Ago",
-      "text": "Fossil Footprints Reveal That an Ancient Human Relative Was Larger Than Previously Thought and Traveled in Groups 1.4 Million Years Ago",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk0xV1EweGFHT1hOdElZS1dwcDl0MFZZNjlZM3ZIQXdNSVRxNHNidmxVeFJGZm9Kcjg4d0E2ZFEwcTFmZDNpMnAtX01RaTdsLWFRNHhfT2hncUlJekhsb20xdGhYaXMzU1gxbk9MbDBGc05GY3VJYmRuRHR1RWhNT1VEYjdUZjZ0R0paY0hZSEtHY0NwcW80VTJHN1Zfcks1MEhhMVZtam9wQmxOY1Q5NHBEWUtTR3ZoMVE?oc=5",
-      "published_at": "2026-07-27T07:00:00Z",
       "score": 83
     }
   ]
