@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-14T08:51:31.478650Z",
+  "updated_at": "2026-11-14T15:43:04.541621Z",
   "count": 24,
-  "auto_count": 59,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "218ea78dfa97d35d",
+      "category": "宇宙探索",
+      "title": "fits2web image viewer (hlsp_mt_hst_acs-hrc_j92003d6q-asteroid-17246_f775w_v1-0_sci.fits)",
+      "text": "fits2web image viewer (hlsp_mt_hst_acs-hrc_j92003d6q-asteroid-17246_f775w_v1-0_sci.fits)",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0N2MDRlTkttOU1lYjBiWHo4U0NiWUxZTDF2NzFyTEVCbmNKVE9CeFBJd3RoVHRYV2tBV2c5X04xaC01Ynd5ZVJGdUdweGpaYTY1b3Q2Ui1ZRGs2dVZCdmRlSUNuaXl4VWJtR0xEcmU4RkltbmtkVzUtNFFTTFRfVkxEWEVTeU1QV0hUMWxlZXotUjNqMHhOcFNBNlJoNm44V0tfZmdHMkJVcUJzcThvbjlzWHEybXBlTzVtQjByWXlrU0dXT3JtNll3?oc=5",
+      "published_at": "2026-11-13T22:14:50Z",
+      "score": 83
+    },
     {
       "id": "f7ec92e47ffaeb58",
       "category": "粒子物理",
@@ -13,16 +23,6 @@
       "source": "Brookhaven National Laboratory",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dVZ5LTIwSVZyYjBrSW5WRFd2aEpSbHpwSnFIUjVKZzk2d3NsOW9vX0xTc2EzbWFHSTE1VGd0VEllNnd1Z1p4azZTdW5rUjFPNFlqbW40aDdSUQ?oc=5",
       "published_at": "2026-11-13T11:09:59Z",
-      "score": 83
-    },
-    {
-      "id": "d3440042f45e56b1",
-      "category": "宇宙探索",
-      "title": "fits2web image viewer (hlsp_mt_hst_acs-hrc_j9f72fikq-asteroid-13379_f550m_v1-0_img.fits)",
-      "text": "fits2web image viewer (hlsp_mt_hst_acs-hrc_j9f72fikq-asteroid-13379_f550m_v1-0_img.fits)",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdV9xT1BFak5ETElCdHJ0QVJjSWpxeWNleVRzUHlsbWdGMVJ4Y3ZCMkpjeDJ2UHpWSFRjWnBjTjhpSE1WY2dscVd2UUJiT1VpSTJUdWdobVY0UGV4bWl6SE4tSExxQjZ5UVlWRHpCdEhqZjFhRVlVVFNldExFcmsxZG5LNDJFMVU5X3hWSjZMOWJFZ3BUZ0JldElvbldrMmpRdklMQnhROUtjMjV3ZDFuelduYkZVdnJxWVV6MkFFdXdKN1lOUXlKNVVB?oc=5",
-      "published_at": "2026-11-13T05:04:53Z",
       "score": 83
     },
     {
@@ -53,6 +53,16 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iNk8tLXdXcmpHdEpoUnhoWEdldUFSLTVsX01JbmFnMUJkQmxPb05COURVS2RUekFMSGZvWC0tVTg0OEZkcE5yck45QlBWeVEyb2pPLUMtWQ?oc=5",
       "published_at": "2026-11-10T18:07:18Z",
+      "score": 83
+    },
+    {
+      "id": "1dc1bfad369dc01c",
+      "category": "粒子物理",
+      "title": "Complementarity between neutrino neutral-current and charged-current events in the search for new physics",
+      "text": "Complementarity between neutrino neutral-current and charged-current events in the search for new physics",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
+      "published_at": "2026-11-09T21:06:44Z",
       "score": 83
     },
     {
@@ -186,16 +196,6 @@
       "score": 97
     },
     {
-      "id": "3ad10587cee2946c",
-      "category": "粒子物理",
-      "title": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
-      "text": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Vk42VzExNDZoS3BCOWo0enhKX29hTHBOQ3cxRVNLUllvNXpWX1h6eGwwWU9pZHRsaTJtSm80R0ZFWDl5NEdJX0s3OF9jZmtvRGZoTkFYaFI5elYyOWxFa1NIUEdkZw?oc=5",
-      "published_at": "2026-09-23T06:20:08Z",
-      "score": 99
-    },
-    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -204,6 +204,16 @@
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "published_at": "2026-09-23T00:00:00Z",
       "score": 78
+    },
+    {
+      "id": "ba83eaa321aa8de2",
+      "category": "粒子物理",
+      "title": "Fully Charm-Tetraquark Production at Hadronic Collisions with Gluon Radiation Effects",
+      "text": "Fully Charm-Tetraquark Production at Hadronic Collisions with Gluon Radiation Effects",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
+      "published_at": "2026-09-21T17:05:34Z",
+      "score": 89
     },
     {
       "id": "f2e543303f38f752",
@@ -226,23 +236,13 @@
       "score": 82
     },
     {
-      "id": "00697891cba65b5a",
+      "id": "b050ee82b7767fdd",
       "category": "粒子物理",
-      "title": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
-      "text": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
-      "published_at": "2026-08-24T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "5df570450b98c754",
-      "category": "宇宙探索",
-      "title": "Scientists Release Biggest 2D Map of the Universe",
-      "text": "Scientists Release Biggest 2D Map of the Universe",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
-      "published_at": "2026-08-10T07:00:00Z",
+      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
+      "text": "Muon g-2 experiment places new constraints on a forbidden property of muons",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
+      "published_at": "2026-08-12T07:00:00Z",
       "score": 83
     }
   ]
