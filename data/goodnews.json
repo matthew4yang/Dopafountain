@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T14:38:41.913642Z",
-  "count": 55,
-  "auto_count": 59,
+  "updated_at": "2026-11-15T20:16:25.386518Z",
+  "count": 52,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -58,8 +58,8 @@
     {
       "id": "75a0b609eeffd7e5",
       "category": "古生物学",
-      "title": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
-      "text": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
+      "title": "Nyana rooiwalensis：南非最早的近乎完整的蜥脚类恐龙头骨，出土于东开普省三叠纪晚期",
+      "text": "Nyana rooiwalensis：南非最早的近乎完整的蜥脚类恐龙头骨，出土于东开普省三叠纪晚期",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
       "published_at": "2026-11-11T14:57:47Z",
@@ -84,16 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSC1NQWZxVlNxREpUU2tZeHdtRTBJc0NjLTBFeGtNMzhTUFc0M1JwejQ2YjgtNjc0N3BRaFd2TjBKWVdQM3NyOEU5MFdsaFR1OHY3M25Ra292OFAzc1hwX0RPby1mVTlvQ0NrdDM2YnJyYW9Fby0tejc3V3A4bjVyQ3NGZ3paYVU?oc=5",
       "published_at": "2026-11-07T17:35:21Z",
       "score": 83
-    },
-    {
-      "id": "8c7f2f6ef8fc6969",
-      "category": "粒子物理",
-      "title": "“通过超导自旋混合磁力计搜索轴子暗物质”的补充数据",
-      "text": "“通过超导自旋混合磁力计搜索轴子暗物质”的补充数据",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0NRZnJOeTNjeXhsTERJempOTWJ4ZzE0aXhxNjlYeENJNWxfeEZQU3MzaW5RdVR4UDM1dHkwQjFCdlA2M0tGeUpfVmhCVmVEdVk0SFMyMVlvZ3VSNmhTb1huOFp2aWpDS1lkVk44YWg4YjJITEtWYVFSbm0tVHdYOA?oc=5",
-      "published_at": "2026-11-05T14:53:09Z",
-      "score": 89
     },
     {
       "id": "749e0c11e05e761b",
@@ -141,7 +131,7 @@
       "title": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
       "text": "美国宇航局资助的研究详细介绍了迄今为止发现的最古老的火星陨石之一",
       "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUZoeG9XUzhNbUJ4ajJtc0oySk1PSnVCTkRpcEhKS0E2Y2xTRTZ3NUxSdDZKeXQ0UmItUTZFVGhSeXp2NFVsTU1aSU41YjhveFFoQ2FYbmNzVFFta19sNG5ua1VKbWpKR1YzUW9rd3FVVXpWTGVPVlhiazE1NVVDdzJkMTV6T2xBSWxFYzJjOFlBbF9VVHBnS3JOZlV3RjI1b3hrenlvQ1dWN2txWHlVQVVJMHA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObEs0UzdnZHp1cHhudDNsa1BwX3p4eTc4REM4dzJ4ZnMwOWtTX3BubGdWSEdFMXVEeUFYU3AwNEJpRnFqdS1PMVcxbnBGR29yZWk5R2lhZ3h4cUhKemVvLWlfQ0RQakdZV28xUjdFa2tyclN1a2RwRjJKMDFuY19MUVpZa1UteWdjV1kwQkItdWFhU1VGdHRETkYwUjYyZw?oc=5",
       "published_at": "2026-10-29T07:00:00Z",
       "score": 83
     },
@@ -214,16 +204,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90Y0tBZG1ydGdHU0hSblRtazBzcHlHZzBsR19ROFRQX3ZDZko2ZWdYbmRLdXlmQ1F1Z0VIaUhib21KUzdHRjJaR0VlMmJZOGVnWUc0cUFhR1h1WDh6R25WNm5xVUptVFB1RHVJOQ?oc=5",
       "published_at": "2026-10-07T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "4a986067bda1f3f9",
-      "category": "古生物学",
-      "title": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
-      "text": "侏罗纪巨型猎人：最早的双普拉亚目及其对六足动物身体模式进化的影响",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
     },
     {
       "id": "691aa25415ad83d2",
@@ -428,8 +408,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -456,16 +436,6 @@
       "score": 99
     },
     {
-      "id": "00697891cba65b5a",
-      "category": "粒子物理",
-      "title": "Borexino 扩展数据集对非标准中微子相互作用的约束",
-      "text": "Borexino 扩展数据集对非标准中微子相互作用的约束",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
-      "published_at": "2026-08-24T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "b050ee82b7767fdd",
       "category": "粒子物理",
       "title": "μ 子 g-2 实验对 μ 子的禁忌特性提出了新的限制",
@@ -484,16 +454,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "7569b7f7ccaa212d",
-      "category": "宇宙探索",
-      "title": "SN 2026gzf 宿主星系爆炸前的鲁宾图像（2025 年 5 月至 2026 年 1 月）",
-      "text": "SN 2026gzf 宿主星系爆炸前的鲁宾图像（2025 年 5 月至 2026 年 1 月）",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zUUNRVW5Td1RWNUl5YVQtMzJ1cHdLNW5IV0NRdTByOUtLdktFdzVZb3BRYkVCb1hpX0wyaTVrUFFsNFVvMUtIZVVzcEVCRm5QRkJ4VFJ4SjBHX2s?oc=5",
-      "published_at": "2026-08-05T07:00:00Z",
-      "score": 89
     },
     {
       "id": "51ea8add2dba8082",
@@ -526,6 +486,16 @@
       "score": 83
     },
     {
+      "id": "2517175562575c7c",
+      "category": "古生物学",
+      "title": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "text": "能闻气味和发光的萤火虫亲戚：白垩纪萤火虫复杂信号系统的证据",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "fedd2d9deb668160",
       "category": "古生物学",
       "title": "脚印化石显示，140 万年前，远古人类亲戚的体形比之前想象的还要大，并且成群结队地迁徙",
@@ -538,8 +508,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
