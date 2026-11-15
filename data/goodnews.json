@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-14T20:33:44.822982Z",
+  "updated_at": "2026-11-15T00:09:17.596003Z",
   "count": 57,
   "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "dfe5b9c855704f7d",
+      "category": "古生物学",
+      "title": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
+      "text": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
+      "source": "PLOS",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmpiUkNYenhwRGVBUEJSTXdDUWU3VjlRRENIbXZyNkRlQjQ0UHJ4M2prbEIzVXI4SDF4R0NWUXVFZm5kNmxuWU9OenBWSlZfQndGQWRsTmJkalN0ZkE5VXFlb1E1YlB0am0waE1wa1A5bnRORlNaV0Y0cnFUUmFLX01haw?oc=5",
+      "published_at": "2026-11-14T09:22:59Z",
+      "score": 90
+    },
     {
       "id": "218ea78dfa97d35d",
       "category": "宇宙探索",
@@ -78,8 +88,8 @@
     {
       "id": "1dc1bfad369dc01c",
       "category": "粒子物理",
-      "title": "寻找新物理学中中微子中性电流和带电电流事件之间的互补性",
-      "text": "寻找新物理学中中微子中性电流和带电电流事件之间的互补性",
+      "title": "寻找新物理学中中微子中性流和带电电流事件之间的互补性",
+      "text": "寻找新物理学中中微子中性流和带电电流事件之间的互补性",
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
       "published_at": "2026-11-09T21:06:44Z",
@@ -164,16 +174,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUZoeG9XUzhNbUJ4ajJtc0oySk1PSnVCTkRpcEhKS0E2Y2xTRTZ3NUxSdDZKeXQ0UmItUTZFVGhSeXp2NFVsTU1aSU41YjhveFFoQ2FYbmNzVFFta19sNG5ua1VKbWpKR1YzUW9rd3FVVXpWTGVPVlhiazE1NVVDdzJkMTV6T2xBSWxFYzJjOFlBbF9VVHBnS3JOZlV3RjI1b3hrenlvQ1dWN2txWHlVQVVJMHA?oc=5",
       "published_at": "2026-10-29T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "dfe5b9c855704f7d",
-      "category": "古生物学",
-      "title": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
-      "text": "高分辨率古生物组重建突出了支撑全球陆地脊椎动物多样性的生态和历史动态",
-      "source": "PLOS",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmpiUkNYenhwRGVBUEJSTXdDUWU3VjlRRENIbXZyNkRlQjQ0UHJ4M2prbEIzVXI4SDF4R0NWUXVFZm5kNmxuWU9OenBWSlZfQndGQWRsTmJkalN0ZkE5VXFlb1E1YlB0am0waE1wa1A5bnRORlNaV0Y0cnFUUmFLX01haw?oc=5",
-      "published_at": "2026-10-27T08:46:17Z",
-      "score": 90
     },
     {
       "id": "9244156c25cfd2ee",
