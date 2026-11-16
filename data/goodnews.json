@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-16T07:10:36.157352Z",
-  "count": 23,
-  "auto_count": 59,
+  "updated_at": "2026-11-16T17:21:22.649445Z",
+  "count": 25,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "d08ddc4d518df1ad",
+      "category": "粒子物理",
+      "title": "Bringing particle detectors into the classroom – Home",
+      "text": "Bringing particle detectors into the classroom – Home",
+      "source": "CERN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZnJjekVXbjRGcVJwSXRVNHJLdTlqOF9VV1lsNUtNTU1GcFlMLVZPYkxEa1ZCWEFZQUNIcjNhc21wYU9WdDgwTVNNRFE3UUFzYXhNdWI1ekpwSFRjc2dTRnpCVDVmalg2NElpM1oyWXBmM3c?oc=5",
+      "published_at": "2026-11-16T15:44:46Z",
+      "score": 83
+    },
     {
       "id": "dfe5b9c855704f7d",
       "category": "古生物学",
@@ -63,6 +73,16 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iNk8tLXdXcmpHdEpoUnhoWEdldUFSLTVsX01JbmFnMUJkQmxPb05COURVS2RUekFMSGZvWC0tVTg0OEZkcE5yck45QlBWeVEyb2pPLUMtWQ?oc=5",
       "published_at": "2026-11-10T18:07:18Z",
+      "score": 83
+    },
+    {
+      "id": "1dc1bfad369dc01c",
+      "category": "粒子物理",
+      "title": "Complementarity between neutrino neutral-current and charged-current events in the search for new physics",
+      "text": "Complementarity between neutrino neutral-current and charged-current events in the search for new physics",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
+      "published_at": "2026-11-09T21:06:44Z",
       "score": 83
     },
     {
@@ -166,16 +186,6 @@
       "score": 97
     },
     {
-      "id": "3ad10587cee2946c",
-      "category": "粒子物理",
-      "title": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
-      "text": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Vk42VzExNDZoS3BCOWo0enhKX29hTHBOQ3cxRVNLUllvNXpWX1h6eGwwWU9pZHRsaTJtSm80R0ZFWDl5NEdJX0s3OF9jZmtvRGZoTkFYaFI5elYyOWxFa1NIUEdkZw?oc=5",
-      "published_at": "2026-09-23T06:20:08Z",
-      "score": 99
-    },
-    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -186,12 +196,22 @@
       "score": 78
     },
     {
+      "id": "ba83eaa321aa8de2",
+      "category": "粒子物理",
+      "title": "Fully Charm-Tetraquark Production at Hadronic Collisions with Gluon Radiation Effects",
+      "text": "Fully Charm-Tetraquark Production at Hadronic Collisions with Gluon Radiation Effects",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
+      "published_at": "2026-09-21T17:05:34Z",
+      "score": 89
+    },
+    {
       "id": "f2e543303f38f752",
       "category": "宇宙探索",
       "title": "RAGNAROC - RApid General-purpose Near-earth Asteroid Reconnaissance and Observation Concept",
       "text": "RAGNAROC - RApid General-purpose Near-earth Asteroid Reconnaissance and Observation Concept",
       "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSG95X3JNdHMxVS1xYUlITHBETkhWdEY4TkV6SWU0MXU5UUp2WEZ2RnhhcVlxYTllcmNQUW9wVTU5X0F3VGMwdm9XQkliNlV0RGMwc1FYdWZaU3lTMVJPS1hETDdZU1FTX3p2cFdmYnFfdGdEY0pLYzlrOHVRTkdNMUxrbGlLOFd6Z1hDeXlXZU5oTmJYUE8wdFZ5Wkp3blFHV2pQT1hob3QtS0d5Q0JMakFBY25kWDk5WG1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMU9HLWR4WHBiU3pVMnFRRmVrajBSdGNidzFMSlBfVkRMLTNpNm8zV3RiVW5PeWhwT25zXzhkbmNpMGptUGswQkdMSUVqX1MtaGJHeU5TNENvWGFoWVVrWjk5NDZTUEw1czBaVERneWNqQ1luSm12ZXNWRGxmWVg2ZG53SzJWdUZ5cHItVmhJcXFHMUliMG9fNFJEN2xTYmtvLWFTSWhqUkFJVlo0Q2tpOFlRUk1zd0FrVmxJSkZFelR1RFVRVmhzMGhFam1IckJOZzJYV3pvVEZxNTdmUjAwYkFVYWlVV05fc3pr?oc=5",
       "published_at": "2026-09-10T07:00:00Z",
       "score": 83
     },
@@ -206,13 +226,13 @@
       "score": 82
     },
     {
-      "id": "00697891cba65b5a",
+      "id": "b050ee82b7767fdd",
       "category": "粒子物理",
-      "title": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
-      "text": "Constraints on nonstandard neutrino interactions from the Borexino extended data set",
-      "source": "INFN - Istituto Nazionale di Fisica Nucleare",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0xNc1NubXB3ejR0LW1YN01sa2pxQU0wWENTX2dxeUFIX0NIdXdxZG9BV0RzQ0JwbGllYUJLa3hSRUxDeDVjSmRJeFlicXNsVFBVNlpXb21KSUdCa19YUUJVNEJQd3JrTFc4eFRzbEMwY1I1OC01ajNpcnNsak8tN1Q0QnlfOVBKajZr?oc=5",
-      "published_at": "2026-08-24T07:00:00Z",
+      "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
+      "text": "Muon g-2 experiment places new constraints on a forbidden property of muons",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
+      "published_at": "2026-08-12T07:00:00Z",
       "score": 83
     },
     {
