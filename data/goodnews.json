@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17T08:59:18.376379Z",
-  "count": 25,
-  "auto_count": 60,
+  "updated_at": "2026-11-17T18:23:56.187111Z",
+  "count": 24,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -116,6 +116,16 @@
       "score": 97
     },
     {
+      "id": "c10a633442aa2241",
+      "category": "古生物学",
+      "title": "Large intraplate earthquakes on an extinct oceanic plate reveal fracture zone reactivation",
+      "text": "Large intraplate earthquakes on an extinct oceanic plate reveal fracture zone reactivation",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJZjQxSGtYUnFkd1JRSzBBWjktTmh0M1pnak1rbUpLRXUwd1pQb0lYdkdEVWJKam9jeGUxMXFEcWhYRGZfTk1hdHV3dHBhQkZIOHNfV0djM3M2T0ZRenVzSlZVT3g?oc=5",
+      "published_at": "2026-10-30T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "20d23446e0200450",
       "category": "古生物学",
       "title": "Flying insects are 80 million years younger than first thought, reveals Natural History Museum fossil",
@@ -153,16 +163,6 @@
       "source": "Smithsonian",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
       "published_at": "2026-10-20T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "691aa25415ad83d2",
-      "category": "古生物学",
-      "title": "Ancient genomes reveal an extinct bovine species from mid-latitude Asia: Current Biology",
-      "text": "Ancient genomes reveal an extinct bovine species from mid-latitude Asia: Current Biology",
-      "source": "Cell Press",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lVUgtNHYyQTBLMThtMW5FanlVdkdGTlJHcDR1LWw3VFRIMXNiVkV5SXpMZ0ItZlI2bi0yUC1xZXQyOTdqT2JyelctN2RqYVJaRUJNVVdVMGdpRXU4Q3UxaWVLSkpiMXhSVllic2RJYURXci1KMFE?oc=5",
-      "published_at": "2026-10-05T07:00:00Z",
       "score": 83
     },
     {
@@ -233,16 +233,6 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "5df570450b98c754",
-      "category": "宇宙探索",
-      "title": "Scientists Release Biggest 2D Map of the Universe",
-      "text": "Scientists Release Biggest 2D Map of the Universe",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
-      "published_at": "2026-08-10T07:00:00Z",
       "score": 83
     },
     {
