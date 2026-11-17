@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T17:21:22.649445Z",
+  "updated_at": "2026-11-17T01:00:54.286573Z",
   "count": 25,
-  "auto_count": 62,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -12,7 +12,7 @@
       "text": "Bringing particle detectors into the classroom – Home",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZnJjekVXbjRGcVJwSXRVNHJLdTlqOF9VV1lsNUtNTU1GcFlMLVZPYkxEa1ZCWEFZQUNIcjNhc21wYU9WdDgwTVNNRFE3UUFzYXhNdWI1ekpwSFRjc2dTRnpCVDVmalg2NElpM1oyWXBmM3c?oc=5",
-      "published_at": "2026-11-16T15:44:46Z",
+      "published_at": "2026-11-16T16:03:32Z",
       "score": 83
     },
     {
@@ -26,13 +26,13 @@
       "score": 90
     },
     {
-      "id": "218ea78dfa97d35d",
+      "id": "c1390905804e8a83",
       "category": "宇宙探索",
-      "title": "fits2web image viewer (hlsp_mt_hst_acs-hrc_j92003d6q-asteroid-17246_f775w_v1-0_sci.fits)",
-      "text": "fits2web image viewer (hlsp_mt_hst_acs-hrc_j92003d6q-asteroid-17246_f775w_v1-0_sci.fits)",
+      "title": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96330dm-saturn-titan_f675w_v1-0_sci.fits)",
+      "text": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96330dm-saturn-titan_f675w_v1-0_sci.fits)",
       "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ0N2MDRlTkttOU1lYjBiWHo4U0NiWUxZTDF2NzFyTEVCbmNKVE9CeFBJd3RoVHRYV2tBV2c5X04xaC01Ynd5ZVJGdUdweGpaYTY1b3Q2Ui1ZRGs2dVZCdmRlSUNuaXl4VWJtR0xEcmU4RkltbmtkVzUtNFFTTFRfVkxEWEVTeU1QV0hUMWxlZXotUjNqMHhOcFNBNlJoNm44V0tfZmdHMkJVcUJzcThvbjlzWHEybXBlTzVtQjByWXlrU0dXT3JtNll3?oc=5",
-      "published_at": "2026-11-13T22:14:50Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGhzWjJ1Q0ZkVWI3dXFuZjNfYndKNlI1WTZDT1BFVGZLQko2VV8yNXBoSlo5V2ZhNVEzVEM1b2dmNUh5YnFPN0NtMHNNdW5VelJQLTRTWWdvWWlvX0RnYUVaNHVPeE90c2RkTUlObFMtYUlxUDlvRC1Hc1A2cjJqSXNDbFFQSDRCUEV2SHA2Vm9WVDI0Y24zekk3cnc1c2xKNTdpTU04QVptdEtwd0g5VEVJcGxNc1I4WlZMZEVOTkhYNGpw?oc=5",
+      "published_at": "2026-11-14T05:58:15Z",
       "score": 83
     },
     {
@@ -96,6 +96,16 @@
       "score": 83
     },
     {
+      "id": "8c7f2f6ef8fc6969",
+      "category": "粒子物理",
+      "title": "Supplemental Data for ‘Searching for Axion Dark Matter via Superconductor-Spin Hybrid Magnetometers’",
+      "text": "Supplemental Data for ‘Searching for Axion Dark Matter via Superconductor-Spin Hybrid Magnetometers’",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0NRZnJOeTNjeXhsTERJempOTWJ4ZzE0aXhxNjlYeENJNWxfeEZQU3MzaW5RdVR4UDM1dHkwQjFCdlA2M0tGeUpfVmhCVmVEdVk0SFMyMVlvZ3VSNmhTb1huOFp2aWpDS1lkVk44YWg4YjJITEtWYVFSbm0tVHdYOA?oc=5",
+      "published_at": "2026-11-05T14:53:09Z",
+      "score": 89
+    },
+    {
       "id": "749e0c11e05e761b",
       "category": "粒子物理",
       "title": "LHCb finds evidence of one-in-ten-billion particle decay – Home",
@@ -146,16 +156,6 @@
       "score": 83
     },
     {
-      "id": "fdc9823de901a7e8",
-      "category": "宇宙探索",
-      "title": "The gas around Milky Way's central black hole is rich in metals, study finds",
-      "text": "The gas around Milky Way's central black hole is rich in metals, study finds",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
-      "published_at": "2026-10-20T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "691aa25415ad83d2",
       "category": "古生物学",
       "title": "Ancient genomes reveal an extinct bovine species from mid-latitude Asia: Current Biology",
@@ -164,16 +164,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lVUgtNHYyQTBLMThtMW5FanlVdkdGTlJHcDR1LWw3VFRIMXNiVkV5SXpMZ0ItZlI2bi0yUC1xZXQyOTdqT2JyelctN2RqYVJaRUJNVVdVMGdpRXU4Q3UxaWVLSkpiMXhSVllic2RJYURXci1KMFE?oc=5",
       "published_at": "2026-10-05T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "3dca4b13fa57060f",
-      "category": "宇宙探索",
-      "title": "During Science Month: ALMA Opens Its Doors to Celebrate 15 Years of Observing the Universe",
-      "text": "During Science Month: ALMA Opens Its Doors to Celebrate 15 Years of Observing the Universe",
-      "source": "ALMA Observatory",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
-      "published_at": "2026-10-02T07:00:00Z",
-      "score": 89
     },
     {
       "id": "583253ef21e6f08a",
@@ -253,6 +243,16 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
       "published_at": "2026-07-22T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "eb401eb1ce158261",
+      "category": "宇宙探索",
+      "title": "The Beta Pictoris d exoplanet observed over the years",
+      "text": "The Beta Pictoris d exoplanet observed over the years",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfMHhsNVFVdzViS0pSMEhSYUowV3ZqMVlqSmhyQVBaajBSbTVPaXcyelQxVVdyMEVlYmg0WVBiX05ocnhFcjlUNWxDUHh0bEZ2VEx3emNB?oc=5",
+      "published_at": "2026-07-15T07:00:00Z",
       "score": 83
     }
   ]
