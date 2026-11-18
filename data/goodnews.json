@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-11-18T01:13:33.003047Z",
-  "count": 26,
-  "auto_count": 61,
+  "updated_at": "2026-11-18T17:56:44.197945Z",
+  "count": 28,
+  "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "6b6654147c0de29b",
+      "category": "古生物学",
+      "title": "Evidence for late Middle Pleistocene Homo erectus in mainland East Asia",
+      "text": "Evidence for late Middle Pleistocene Homo erectus in mainland East Asia",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzWWVUVzRFQmMzWEJrdVNMTklnaVJfU2NtU3J1LWxIUDU2Z3ZVZWlQNGFMb0tCU1RjcUVoZTZYZ0pFd3gyTlJBZ2hFbFI2am9laExRUUtaelJESld4T2Rr?oc=5",
+      "published_at": "2026-11-18T16:07:38Z",
+      "score": 83
+    },
+    {
+      "id": "f43c654d9a7335f8",
+      "category": "粒子物理",
+      "title": "First Indication of Low-Energy Solar Neutrino-Electron Scattering with PandaX-4T Run 2 Data",
+      "text": "First Indication of Low-Energy Solar Neutrino-Electron Scattering with PandaX-4T Run 2 Data",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVkplWmlTTnJFZGNtSWFXaEEtYkotQUJoOVM5Mlduc2JVVVdVRVdBQmZOV0FlaUZSOFVaVFhjd0p3N3pMY1FnNkdNcmtxaGstTE1YME80aHllTVJxUGdKNGNjN0ViUQ?oc=5",
+      "published_at": "2026-11-18T15:52:25Z",
+      "score": 83
+    },
+    {
+      "id": "958e8b069bd7adbe",
+      "category": "粒子物理",
+      "title": "Improved direct limit on the muon electric dipole moment",
+      "text": "Improved direct limit on the muon electric dipole moment",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DUVA0dDV2c3BxQTJQTW9vTlNqcFZTU3ZWbEhuNGtTVU9yTzYtcEFKbno5SldvOFNUZk9na1NIcWZ5SDktVkNfUVluS1JGMmpOVDZZTFI4Q3ZJM0RxZHBsUG8yeFlxdw?oc=5",
+      "published_at": "2026-11-18T15:52:24Z",
+      "score": 83
+    },
     {
       "id": "d2c7e1d684baefa4",
       "category": "宇宙探索",
@@ -22,7 +52,7 @@
       "text": "Bringing particle detectors into the classroom – Home",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZnJjekVXbjRGcVJwSXRVNHJLdTlqOF9VV1lsNUtNTU1GcFlMLVZPYkxEa1ZCWEFZQUNIcjNhc21wYU9WdDgwTVNNRFE3UUFzYXhNdWI1ekpwSFRjc2dTRnpCVDVmalg2NElpM1oyWXBmM3c?oc=5",
-      "published_at": "2026-11-16T16:03:32Z",
+      "published_at": "2026-11-16T15:44:46Z",
       "score": 83
     },
     {
@@ -34,16 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmpiUkNYenhwRGVBUEJSTXdDUWU3VjlRRENIbXZyNkRlQjQ0UHJ4M2prbEIzVXI4SDF4R0NWUXVFZm5kNmxuWU9OenBWSlZfQndGQWRsTmJkalN0ZkE5VXFlb1E1YlB0am0waE1wa1A5bnRORlNaV0Y0cnFUUmFLX01haw?oc=5",
       "published_at": "2026-11-14T09:22:59Z",
       "score": 90
-    },
-    {
-      "id": "c1390905804e8a83",
-      "category": "宇宙探索",
-      "title": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96330dm-saturn-titan_f675w_v1-0_sci.fits)",
-      "text": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96330dm-saturn-titan_f675w_v1-0_sci.fits)",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGhzWjJ1Q0ZkVWI3dXFuZjNfYndKNlI1WTZDT1BFVGZLQko2VV8yNXBoSlo5V2ZhNVEzVEM1b2dmNUh5YnFPN0NtMHNNdW5VelJQLTRTWWdvWWlvX0RnYUVaNHVPeE90c2RkTUlObFMtYUlxUDlvRC1Hc1A2cjJqSXNDbFFQSDRCUEV2SHA2Vm9WVDI0Y24zekk3cnc1c2xKNTdpTU04QVptdEtwd0g5VEVJcGxNc1I4WlZMZEVOTkhYNGpw?oc=5",
-      "published_at": "2026-11-14T05:58:15Z",
-      "score": 83
     },
     {
       "id": "f7ec92e47ffaeb58",
@@ -63,6 +83,16 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRURETUhOeHM3UTR5REJvODYyeXVUeE9PaGtKbkptZVBuQmZEMnN3Sm1qNC1SUi1XLUJhUTkzdk1oZVZpVWEyV2lRMXg4Q1Y4d0swT21jclFRYTF5c0JDc1dUbjMwMFA3a2Q1SHRyNzI4d1VyX1pxNjVhSGVpYVpSd19BYUtkWW1XTmxkeGtvNnVzVWYySjE0MEI4LUpGMzNPZldNYUoyT252Vmp5X2NUaFIza0I1YXo1Tzkxdmo5ZnRHSlRPMkQxS0dfOXJiZw?oc=5",
       "published_at": "2026-11-12T13:55:15Z",
+      "score": 83
+    },
+    {
+      "id": "44cc21fdcec768e6",
+      "category": "宇宙探索",
+      "title": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits)",
+      "text": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits)",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk9xOHR0QWNkUkg3MkFRSW52R2tsVi11c0NYa3JsSXlXMm5KcWFIamx6QUFobi11OUpNTGZ4V01mWjk1eGNqTF9ZSUFXb29mQ1pXSzJ0RWktRDVubWxCT0pXekJtN1p0WnFadmZndXhFbEVjaXVVNTdPclNHMThnTGx4R1dIa1NrS18wa2VrNjE0eUVZbTR6RjNCWVFyZ0xqWkxSd1BxbFo2Q2U2VEp1NGhWWG90bXAtTzhfWUVyam9ib2VR?oc=5",
+      "published_at": "2026-11-12T02:39:20Z",
       "score": 83
     },
     {
@@ -184,16 +214,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-02T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "Paleoenvironmental Reconstruction Using Fossil Evidence - Latest research and news",
-      "text": "Paleoenvironmental Reconstruction Using Fossil Evidence - Latest research and news",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "seed-nasa-prima-20260923",
