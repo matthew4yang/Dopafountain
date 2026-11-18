@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-17T18:23:56.187111Z",
-  "count": 24,
-  "auto_count": 62,
+  "updated_at": "2026-11-18T01:13:33.003047Z",
+  "count": 26,
+  "auto_count": 61,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "d2c7e1d684baefa4",
+      "category": "宇宙探索",
+      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+      "text": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcktfNTROLW9QM3M4dW5JT0ZrQUNiNHc0Sm9DNnFNV05sd0xiTGpSWFV5ODZ6OG8wcjc2ZkNkelJLcXc3RFc5RVRGMWNhM2ZyQjBXaVRVTUFQX0JhNDl1Y0ExY091TlJCWU9rV1pQdzdvS0FCdU9DU1ZJM1BPNFZzUnMxdE5iNzVVbkl4N2c1SXRxZHN1emN2cVFDQlpUOFU?oc=5",
+      "published_at": "2026-11-17T17:11:52Z",
+      "score": 83
+    },
     {
       "id": "d08ddc4d518df1ad",
       "category": "粒子物理",
@@ -233,6 +243,16 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "5df570450b98c754",
+      "category": "宇宙探索",
+      "title": "Scientists Release Biggest 2D Map of the Universe",
+      "text": "Scientists Release Biggest 2D Map of the Universe",
+      "source": "NOIRLab",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
+      "published_at": "2026-08-10T07:00:00Z",
       "score": 83
     },
     {
