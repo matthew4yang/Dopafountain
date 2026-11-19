@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19T00:10:38.660213Z",
-  "count": 27,
-  "auto_count": 65,
+  "updated_at": "2026-11-19T07:49:29.511504Z",
+  "count": 26,
+  "auto_count": 64,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -263,16 +263,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3db31d98b4ae38e6",
-      "category": "粒子物理",
-      "title": "Experimental Techniques for Precision HL-LHC Physics",
-      "text": "Experimental Techniques for Precision HL-LHC Physics",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
       "score": 83
     }
   ]
