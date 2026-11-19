@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T17:56:44.197945Z",
-  "count": 28,
+  "updated_at": "2026-11-19T00:10:38.660213Z",
+  "count": 27,
   "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
@@ -12,7 +12,27 @@
       "text": "Evidence for late Middle Pleistocene Homo erectus in mainland East Asia",
       "source": "Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzWWVUVzRFQmMzWEJrdVNMTklnaVJfU2NtU3J1LWxIUDU2Z3ZVZWlQNGFMb0tCU1RjcUVoZTZYZ0pFd3gyTlJBZ2hFbFI2am9laExRUUtaelJESld4T2Rr?oc=5",
-      "published_at": "2026-11-18T16:07:38Z",
+      "published_at": "2026-11-18T22:12:26Z",
+      "score": 83
+    },
+    {
+      "id": "57a637cac19d7918",
+      "category": "宇宙探索",
+      "title": "Watch live: Hera’s first images of post-impact asteroid Dimorphos",
+      "text": "Watch live: Hera’s first images of post-impact asteroid Dimorphos",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc1pNUlF4Zm45R2ttMjAtUEJEbG5nTEVyTThaMVhNVFlZd21zSEkwdnN3YnpsbGVKRnVMclF6THJad1pqd2FydjZSUjBjVm1JVmxqbkx3ZFlIekpSVk50bU9VWXB2ZGtCbGRfZkYzb0doSjdVS1VldF9NZi1yUm5ScGc2QUxYcnc5SmlYcFlia3NiN3ZaRTYyNF9oclZORHp6V3VTYldyQzlEWW1vZExtOWstdGhYQ0lObm1VNFc4UHVxODhicW9nR1NxVzlvTFprbEZZZ2trYndtRXZF?oc=5",
+      "published_at": "2026-11-18T20:37:15Z",
+      "score": 83
+    },
+    {
+      "id": "23d21dae812e8894",
+      "category": "粒子物理",
+      "title": "Plasma Conductivity from Warm Dense Matter to the Spitzer Limit Using Mean-Force Kinetic Theory",
+      "text": "Plasma Conductivity from Warm Dense Matter to the Spitzer Limit Using Mean-Force Kinetic Theory",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MU1RTZDVuNll3dGQ2eTh0ZjJWWndJd3pJdlVXSnNhRENmTzA3dTNma2RTbkJDSFlpd05xSWd4czBRa1dyU29aX3JIZVk5UmtJcEY2SHAzb3J0ZWRBZEdETk1TNUNNZw?oc=5",
+      "published_at": "2026-11-18T17:28:42Z",
       "score": 83
     },
     {
@@ -23,26 +43,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVkplWmlTTnJFZGNtSWFXaEEtYkotQUJoOVM5Mlduc2JVVVdVRVdBQmZOV0FlaUZSOFVaVFhjd0p3N3pMY1FnNkdNcmtxaGstTE1YME80aHllTVJxUGdKNGNjN0ViUQ?oc=5",
       "published_at": "2026-11-18T15:52:25Z",
-      "score": 83
-    },
-    {
-      "id": "958e8b069bd7adbe",
-      "category": "粒子物理",
-      "title": "Improved direct limit on the muon electric dipole moment",
-      "text": "Improved direct limit on the muon electric dipole moment",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DUVA0dDV2c3BxQTJQTW9vTlNqcFZTU3ZWbEhuNGtTVU9yTzYtcEFKbno5SldvOFNUZk9na1NIcWZ5SDktVkNfUVluS1JGMmpOVDZZTFI4Q3ZJM0RxZHBsUG8yeFlxdw?oc=5",
-      "published_at": "2026-11-18T15:52:24Z",
-      "score": 83
-    },
-    {
-      "id": "d2c7e1d684baefa4",
-      "category": "宇宙探索",
-      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "text": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcktfNTROLW9QM3M4dW5JT0ZrQUNiNHc0Sm9DNnFNV05sd0xiTGpSWFV5ODZ6OG8wcjc2ZkNkelJLcXc3RFc5RVRGMWNhM2ZyQjBXaVRVTUFQX0JhNDl1Y0ExY091TlJCWU9rV1pQdzdvS0FCdU9DU1ZJM1BPNFZzUnMxdE5iNzVVbkl4N2c1SXRxZHN1emN2cVFDQlpUOFU?oc=5",
-      "published_at": "2026-11-17T17:11:52Z",
       "score": 83
     },
     {
@@ -86,16 +86,6 @@
       "score": 83
     },
     {
-      "id": "44cc21fdcec768e6",
-      "category": "宇宙探索",
-      "title": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits)",
-      "text": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub963303m-saturn-titan_f675w_v1-0_img.fits)",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZk9xOHR0QWNkUkg3MkFRSW52R2tsVi11c0NYa3JsSXlXMm5KcWFIamx6QUFobi11OUpNTGZ4V01mWjk1eGNqTF9ZSUFXb29mQ1pXSzJ0RWktRDVubWxCT0pXekJtN1p0WnFadmZndXhFbEVjaXVVNTdPclNHMThnTGx4R1dIa1NrS18wa2VrNjE0eUVZbTR6RjNCWVFyZ0xqWkxSd1BxbFo2Q2U2VEp1NGhWWG90bXAtTzhfWUVyam9ib2VR?oc=5",
-      "published_at": "2026-11-12T02:39:20Z",
-      "score": 83
-    },
-    {
       "id": "75a0b609eeffd7e5",
       "category": "古生物学",
       "title": "Nyana rooiwalensis: South Africa's earliest near-complete sauropodomorph dinosaur skull from the Late Triassic of the Eastern Cape Province",
@@ -106,13 +96,23 @@
       "score": 89
     },
     {
+      "id": "b77971a2ebcc0773",
+      "category": "宇宙探索",
+      "title": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits)",
+      "text": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits)",
+      "source": "Hubble Legacy Archive (HLA)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjNwallFak1kaEI0UEZCOTFLbWQ1dXJkQXAwUFdQVEZiOWtnc05xVlFYYzBlRGtaSGItRUVtUWVWSXd2d0N1bV9pVERmSXAxZG1fakN4RWN3bXV1ZWN1SXJ3dDdueFdISTc1V3A0cXcydVJuY18zQjNxTW1zU0w0MkQ0dzZnZ3ltZGdLYXRRc0Z3MERjWUJVWXRGNzA3a2l2NElXQlZGSmpWMjU1dkFxRVBDaTlqeEo5VlVVbDZCV2RqQnZ6?oc=5",
+      "published_at": "2026-11-11T06:55:23Z",
+      "score": 83
+    },
+    {
       "id": "6f17505fc480d1fc",
       "category": "宇宙探索",
       "title": "Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
       "text": "Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iNk8tLXdXcmpHdEpoUnhoWEdldUFSLTVsX01JbmFnMUJkQmxPb05COURVS2RUekFMSGZvWC0tVTg0OEZkcE5yck45QlBWeVEyb2pPLUMtWQ?oc=5",
-      "published_at": "2026-11-10T18:07:18Z",
+      "published_at": "2026-11-10T08:00:00Z",
       "score": 83
     },
     {
@@ -234,16 +234,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ndDJQVlo5d3ZUUjJpR1BRSkVBYlBfQUlibS0ycDV2WUI5Z0RBVFBxeUFPT2lROFNCcVhLRktJR0Q0VTF4VlBNb2Yxb0dzeElidEdGRHhGVjdCRXkyODBtRDd1MFpBZw?oc=5",
       "published_at": "2026-09-21T17:05:34Z",
       "score": 89
-    },
-    {
-      "id": "f2e543303f38f752",
-      "category": "宇宙探索",
-      "title": "RAGNAROC - RApid General-purpose Near-earth Asteroid Reconnaissance and Observation Concept",
-      "text": "RAGNAROC - RApid General-purpose Near-earth Asteroid Reconnaissance and Observation Concept",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMU9HLWR4WHBiU3pVMnFRRmVrajBSdGNidzFMSlBfVkRMLTNpNm8zV3RiVW5PeWhwT25zXzhkbmNpMGptUGswQkdMSUVqX1MtaGJHeU5TNENvWGFoWVVrWjk5NDZTUEw1czBaVERneWNqQ1luSm12ZXNWRGxmWVg2ZG53SzJWdUZ5cHItVmhJcXFHMUliMG9fNFJEN2xTYmtvLWFTSWhqUkFJVlo0Q2tpOFlRUk1zd0FrVmxJSkZFelR1RFVRVmhzMGhFam1IckJOZzJYV3pvVEZxNTdmUjAwYkFVYWlVV05fc3pr?oc=5",
-      "published_at": "2026-09-10T07:00:00Z",
-      "score": 83
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
