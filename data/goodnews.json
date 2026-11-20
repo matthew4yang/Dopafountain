@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T16:01:07.334050Z",
-  "count": 23,
-  "auto_count": 57,
+  "updated_at": "2026-11-20T22:36:13.504415Z",
+  "count": 25,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -102,7 +102,7 @@
       "text": "Nyana rooiwalensis: South Africa's earliest near-complete sauropodomorph dinosaur skull from the Late Triassic of the Eastern Cape Province",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
-      "published_at": "2026-11-11T14:57:47Z",
+      "published_at": "2026-11-11T08:00:00Z",
       "score": 89
     },
     {
@@ -233,6 +233,26 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "bbe4903a032461c9",
+      "category": "宇宙探索",
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "text": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
+      "id": "3db31d98b4ae38e6",
+      "category": "粒子物理",
+      "title": "Experimental Techniques for Precision HL-LHC Physics",
+      "text": "Experimental Techniques for Precision HL-LHC Physics",
+      "source": "Fermilab",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
+      "published_at": "2026-07-22T07:00:00Z",
       "score": 83
     }
   ]
