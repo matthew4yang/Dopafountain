@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T06:50:47.223210Z",
-  "count": 27,
-  "auto_count": 60,
+  "updated_at": "2026-11-20T16:01:07.334050Z",
+  "count": 23,
+  "auto_count": 57,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -76,24 +76,34 @@
       "score": 83
     },
     {
+      "id": "b14bc0cce8d7e347",
+      "category": "宇宙探索",
+      "title": "VST image of the Fornax galaxy cluster",
+      "text": "VST image of the Fornax galaxy cluster",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QVERCekdTR3FsakVyRzVPTkpvSHhySXpvTEpDUndOYS16Z2IwQnJEbGYzb2xMaW5fUXBuMXJNZ25EN0JEZFhZR1ZnRFhOWmpGcm84aWhZWjlobnM5MmNpLURvRVk1Ym1MVU9j?oc=5",
+      "published_at": "2026-11-12T16:02:57Z",
+      "score": 83
+    },
+    {
       "id": "344e88052199e1aa",
       "category": "宇宙探索",
       "title": "Euclid lays the foundation for its best-ever 3D map of the Universe",
       "text": "Euclid lays the foundation for its best-ever 3D map of the Universe",
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRURETUhOeHM3UTR5REJvODYyeXVUeE9PaGtKbkptZVBuQmZEMnN3Sm1qNC1SUi1XLUJhUTkzdk1oZVZpVWEyV2lRMXg4Q1Y4d0swT21jclFRYTF5c0JDc1dUbjMwMFA3a2Q1SHRyNzI4d1VyX1pxNjVhSGVpYVpSd19BYUtkWW1XTmxkeGtvNnVzVWYySjE0MEI4LUpGMzNPZldNYUoyT252Vmp5X2NUaFIza0I1YXo1Tzkxdmo5ZnRHSlRPMkQxS0dfOXJiZw?oc=5",
-      "published_at": "2026-11-12T13:55:15Z",
+      "published_at": "2026-11-12T08:00:00Z",
       "score": 83
     },
     {
-      "id": "b77971a2ebcc0773",
-      "category": "宇宙探索",
-      "title": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits)",
-      "text": "fits2web image viewer (hlsp_mt_hst_wfpc2_ub96310em-saturn-titan_f439w_v1-0_img.fits)",
-      "source": "Hubble Legacy Archive (HLA)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjNwallFak1kaEI0UEZCOTFLbWQ1dXJkQXAwUFdQVEZiOWtnc05xVlFYYzBlRGtaSGItRUVtUWVWSXd2d0N1bV9pVERmSXAxZG1fakN4RWN3bXV1ZWN1SXJ3dDdueFdISTc1V3A0cXcydVJuY18zQjNxTW1zU0w0MkQ0dzZnZ3ltZGdLYXRRc0Z3MERjWUJVWXRGNzA3a2l2NElXQlZGSmpWMjU1dkFxRVBDaTlqeEo5VlVVbDZCV2RqQnZ6?oc=5",
-      "published_at": "2026-11-11T06:55:23Z",
-      "score": 83
+      "id": "75a0b609eeffd7e5",
+      "category": "古生物学",
+      "title": "Nyana rooiwalensis: South Africa's earliest near-complete sauropodomorph dinosaur skull from the Late Triassic of the Eastern Cape Province",
+      "text": "Nyana rooiwalensis: South Africa's earliest near-complete sauropodomorph dinosaur skull from the Late Triassic of the Eastern Cape Province",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
+      "published_at": "2026-11-11T14:57:47Z",
+      "score": 89
     },
     {
       "id": "6f17505fc480d1fc",
@@ -103,26 +113,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iNk8tLXdXcmpHdEpoUnhoWEdldUFSLTVsX01JbmFnMUJkQmxPb05COURVS2RUekFMSGZvWC0tVTg0OEZkcE5yck45QlBWeVEyb2pPLUMtWQ?oc=5",
       "published_at": "2026-11-10T08:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "1dc1bfad369dc01c",
-      "category": "粒子物理",
-      "title": "Complementarity between neutrino neutral-current and charged-current events in the search for new physics",
-      "text": "Complementarity between neutrino neutral-current and charged-current events in the search for new physics",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMU1YVUtpcDhzQXJGUVNpdk5DSGstdV9UQktpV01XYlZKNDJtVHpMMXp1Nm92Qm55NGowUlFzTHg1bWpaeDZFTS1UdE1sbklmTDlBTmNpRFUzcnl3SU5mNTNlV2hwZw?oc=5",
-      "published_at": "2026-11-09T21:06:44Z",
-      "score": 83
-    },
-    {
-      "id": "90e82e6ebd9328e3",
-      "category": "宇宙探索",
-      "title": "NOIRLab Nuggets: The Discovery of the Most Distant Galaxy Proto-Supercluster",
-      "text": "NOIRLab Nuggets: The Discovery of the Most Distant Galaxy Proto-Supercluster",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DMXNDUDJrajk1RlR6V1hhbnNyc296SUdDN3FTQUdtM3A5bzRVRlYtSW4wVDMtVVBXVllfT0JQRVd0ZXhHMmZVUU1SUFlSWUctc0pQelBLVFFEU3VjenNwZEVR?oc=5",
-      "published_at": "2026-11-05T19:39:02Z",
       "score": 83
     },
     {
@@ -176,16 +166,6 @@
       "score": 83
     },
     {
-      "id": "8f20e2a4a2c95005",
-      "category": "古生物学",
-      "title": "UK dinosaur fossil identified as new long-clawed predator",
-      "text": "UK dinosaur fossil identified as new long-clawed predator",
-      "source": "Natural History Museum",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVJiX0ZGOFRYSUFHM2htdmZfTXl2YlBxQVVsMnpLaDhldVpiRk5mRU9WeXo3bzlTYkJEcXNfZktRRnBiU0Nhc2lDcTFSZHNNNVhKTDFCVkdRVUo2SF9aa2hJUkJmVU1kbUFvZTN6NzByNm1SeEY1X1JQaGV6Rlg2VVMtQTNXaWRZS09hbTFIeXdpUmVOQi1FZVZDZDhpLUFzNnZuY3F0MWxqWklZcy14YnJB?oc=5",
-      "published_at": "2026-10-14T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "c172283fa26f4b8b",
       "category": "宇宙探索",
       "title": "ALMA Reveals Hidden Planet-Forming Structures in the Smallest Disks",
@@ -193,16 +173,6 @@
       "source": "ALMA Observatory",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
       "published_at": "2026-10-14T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "4a986067bda1f3f9",
-      "category": "古生物学",
-      "title": "A giant Jurassic hunter: the earliest dipluran and its implications for hexapod body pattern evolution",
-      "text": "A giant Jurassic hunter: the earliest dipluran and its implications for hexapod body pattern evolution",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3BxRTZBSXF2VFRPbW5wa0NhRVFSeTF2ZGNjZDNuSjhMODlOMlhyV0VHaExnZ2dicF9OYmhBRlNYZDA1dERzY243ZGllNlBwX1hTWTVvVGg1Ni1acEItZnkteEFpellvNjlJTzd6QkszNnp4MFdJX3ZfYWJkbnZ2VlVMMnh2cktoTzNodFVrNHFSUll6WGRMS1NNREctNm1ReVFaeE85Z2IwdlR1R3ZzOHVTY2tmMWptTTR3Qmc1OA?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
       "score": 83
     },
     {
@@ -216,6 +186,16 @@
       "score": 89
     },
     {
+      "id": "3ad10587cee2946c",
+      "category": "粒子物理",
+      "title": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+      "text": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+      "source": "APS Journals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Vk42VzExNDZoS3BCOWo0enhKX29hTHBOQ3cxRVNLUllvNXpWX1h6eGwwWU9pZHRsaTJtSm80R0ZFWDl5NEdJX0s3OF9jZmtvRGZoTkFYaFI5elYyOWxFa1NIUEdkZw?oc=5",
+      "published_at": "2026-09-23T06:20:08Z",
+      "score": 99
+    },
+    {
       "id": "seed-nasa-prima-20260923",
       "category": "宇宙探索",
       "title": "NASA选定PRIMA远红外望远镜进入下一阶段开发",
@@ -224,16 +204,6 @@
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "published_at": "2026-09-23T00:00:00Z",
       "score": 78
-    },
-    {
-      "id": "b2d84bfcf027a39a",
-      "category": "粒子物理",
-      "title": "in vector-boson fusion production with the ATLAS detector",
-      "text": "in vector-boson fusion production with the ATLAS detector",
-      "source": "APS Journals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJb0pyTVJIcUl5TmRJVWNEWnFqcVZUcWNpNDVDXy1tQTd3Wm5ROFN1cnBXY09waFBYMVZiM2ZoOVQ2ZGd0Y19la3dzZzVOWFAyaEJWUFhMWGQ0cENZRWQwUUhzVmZzZw?oc=5",
-      "published_at": "2026-09-17T07:00:00Z",
-      "score": 83
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
@@ -263,16 +233,6 @@
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
       "published_at": "2026-08-10T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "3db31d98b4ae38e6",
-      "category": "粒子物理",
-      "title": "Experimental Techniques for Precision HL-LHC Physics",
-      "text": "Experimental Techniques for Precision HL-LHC Physics",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzdOVnRBQUgtMkc3MW16UzdfekcxTVJEbzhlZE9PNHlZQy05SVBFWXNncEZhbkxzWTkzSmhyUk55WEJVQVpwWnBGT214ZUhrMGU3N04xeXpJdGt2WGsyWnlQdDFrWExLaThPZy04MTkyNG41OUU3U0t6VDJfd3NOOVUtOTBDZWJfWk5jbXFuRkFvbkFQb0RDc25wYW5TaDl3a1puVUo5MGJvdkk?oc=5",
-      "published_at": "2026-07-22T07:00:00Z",
       "score": 83
     }
   ]
