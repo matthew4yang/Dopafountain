@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T14:49:38.897242Z",
+  "updated_at": "2026-11-22T20:59:41.936054Z",
   "count": 59,
-  "auto_count": 59,
+  "auto_count": 58,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -86,20 +86,10 @@
       "score": 83
     },
     {
-      "id": "344e88052199e1aa",
-      "category": "宇宙探索",
-      "title": "Euclid 为其有史以来最好的 3D 宇宙地图奠定了基础",
-      "text": "Euclid 为其有史以来最好的 3D 宇宙地图奠定了基础",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Iyc0dleUc5RHczLWFhYmZFNi1QX192VGF4RENrckRMUmliNE5NemphY3dicGtWYkVGNVZQTlpIdmJOMWJhY2h3VlE3MTVWYjRLMmJZS3FwT21xYWNkNnlUeTR2LUFYMFBYdFJ6d2JkV19La1dUSFRNRko5ekFEeEtuXzNQM1JDWXFmUEtXdkRxQnRjckZocWlDakJ2MTVoWmxWYTBkWFRSWjEwS21USjRLSFJneUw1UVhubDBmVXBNbUVMWXJTU3J1STlaUnkwcVE?oc=5",
-      "published_at": "2026-11-12T20:15:47Z",
-      "score": 83
-    },
-    {
       "id": "75a0b609eeffd7e5",
       "category": "古生物学",
-      "title": "Nyana rooiwalensis：南非最早的近乎完整的蜥脚类恐龙头骨，出土于东开普省三叠纪晚期",
-      "text": "Nyana rooiwalensis：南非最早的近乎完整的蜥脚类恐龙头骨，出土于东开普省三叠纪晚期",
+      "title": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
+      "text": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
       "published_at": "2026-11-11T08:00:00Z",
@@ -118,8 +108,8 @@
     {
       "id": "8486edc7bbd64b85",
       "category": "宇宙探索",
-      "title": "美国宇航局小行星撞击四年后，欧空局的赫拉揭示了迪莫福斯发生了什么",
-      "text": "美国宇航局小行星撞击四年后，欧空局的赫拉揭示了迪莫福斯发生了什么",
+      "title": "美国宇航局小行星撞击四年后，欧洲航天局的赫拉揭示了迪莫福斯发生了什么",
+      "text": "美国宇航局小行星撞击四年后，欧洲航天局的赫拉揭示了迪莫福斯发生了什么",
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUpnR09GZzVGQWxxdWdqVG1tUzlnSFZhVEgydko3bHptR2Z1MjlPTzV1cGxlLXU0c2ZkcG1jV0twTFlTRERCR3hPZlNkUHRXYUQ1OWVtSDRpbTNPaTFsVXM3SktTMjNScVNXSU5wVmZLTGxwT0ZKdHBuMXdhRFB4Z2hDd3BZRG9oaEJYSUNUTE84T09ScTJxZFBrRGZLWnJ4cy0wRUhPNkNRUWI1RU55NlBZQWNkMWNHcTBoQWFlWQ?oc=5",
       "published_at": "2026-11-05T08:00:00Z",
@@ -166,13 +156,13 @@
       "score": 83
     },
     {
-      "id": "2bbdc1f01ba47642",
-      "category": "古生物学",
-      "title": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
-      "text": "埃迪卡拉纪中期至寒武纪早期，后生动物多样化的特点是进化速度加快",
-      "source": "Science",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2bVNUeEVPRkdZUjUzczRBNklsZXBkWERBZnc0Rm0wbnJWRThZMmZwcTc4bERaOUw0N05PU1pPQ2QxU0ljX2k3bm9iRkZkZk9hYVVCb0hJb29vNGVOZHNz?oc=5",
-      "published_at": "2026-10-30T07:00:00Z",
+      "id": "160c7525ebcf0784",
+      "category": "粒子物理",
+      "title": "II型跷跷板模型对撞机搜索的鲁棒性",
+      "text": "II型跷跷板模型对撞机搜索的鲁棒性",
+      "source": "DESY",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV3lxSDhqWUJ5bTIzeWZoX0xPM0JDZHNVTUhJbVp3SmVPbENwTjR1di0yNGVyR2VIcVc0cmg3X0FYOTEwOWlMbkdwODJBZm0yNFNEaWxWMzQ4QkJXcHZUQS1PbWpMaVc5VjJmaFNMTUFzaVJENk92T3p6U3p4TmRlOA?oc=5",
+      "published_at": "2026-10-30T03:43:05Z",
       "score": 83
     },
     {
@@ -478,8 +468,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
-      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -536,6 +526,16 @@
       "score": 89
     },
     {
+      "id": "bbe4903a032461c9",
+      "category": "宇宙探索",
+      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
+      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
+      "published_at": "2026-07-29T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
@@ -578,8 +578,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
