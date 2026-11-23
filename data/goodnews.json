@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T20:59:41.936054Z",
-  "count": 59,
-  "auto_count": 58,
+  "updated_at": "2026-11-23T01:29:41.718996Z",
+  "count": 58,
+  "auto_count": 59,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -86,10 +86,20 @@
       "score": 83
     },
     {
+      "id": "344e88052199e1aa",
+      "category": "宇宙探索",
+      "title": "Euclid 为其有史以来最好的 3D 宇宙地图奠定了基础",
+      "text": "Euclid 为其有史以来最好的 3D 宇宙地图奠定了基础",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjNQRmMzN3VCZXU5aXNqb1VqN0JsZlVGZHZzRmlhcTR6VUU1LUlpUHNDQ25FWlNoRmZxUzZDc3A2QXJaVTRZV3VURFlLQ0Y5bmZpbGk3WnZpSXFsUDV0WEhQRENkbVB6VkxfallrTmFib2F4S2pXbHpHQmFYcHNxWmEtWExuUVMxcnV2bkhGbjZBUUJodE5fdUhsQ2hsTFJYd3lVOGthNjBSTmQwdUJXc2Z1NzN3VFZ5ejc2T2ZOa2NGaG9LLW5xSmZlTkd0TGV4OXc?oc=5",
+      "published_at": "2026-11-12T08:00:00Z",
+      "score": 83
+    },
+    {
       "id": "75a0b609eeffd7e5",
       "category": "古生物学",
-      "title": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
-      "text": "Nyana rooiwalensis：来自东开普省晚三叠世的南非最早近乎完整的蜥脚类恐龙头骨",
+      "title": "Nyana rooiwalensis：南非最早的近乎完整的蜥脚类恐龙头骨，出土于东开普省三叠纪晚期",
+      "text": "Nyana rooiwalensis：南非最早的近乎完整的蜥脚类恐龙头骨，出土于东开普省三叠纪晚期",
       "source": "royalsocietypublishing.org",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjZycWpTLWY4Q0QtT0c3TmZGSWF2OEEyTldYMmZjcWs4ejVBMEhHX2VVZ2xpalN5azdDWUpvc1hBaDd4NGxkV09haW1NWXdBTFBZY1BfUFJ0Rm5xU1NvaEZ5a180em5YYzZZcUF3TElyWW9GUUViYzJ0UnlTeGJkQ2F0RzhiRVduT3RUVFBGT0pYZ3ZqUzZDN2llSHo3UXBhckpITVBCYWtSQ1o0aFU3NzIwWVpSQQ?oc=5",
       "published_at": "2026-11-11T08:00:00Z",
@@ -108,8 +118,8 @@
     {
       "id": "8486edc7bbd64b85",
       "category": "宇宙探索",
-      "title": "美国宇航局小行星撞击四年后，欧洲航天局的赫拉揭示了迪莫福斯发生了什么",
-      "text": "美国宇航局小行星撞击四年后，欧洲航天局的赫拉揭示了迪莫福斯发生了什么",
+      "title": "美国宇航局小行星撞击四年后，欧空局的赫拉揭示了迪莫福斯发生了什么",
+      "text": "美国宇航局小行星撞击四年后，欧空局的赫拉揭示了迪莫福斯发生了什么",
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUpnR09GZzVGQWxxdWdqVG1tUzlnSFZhVEgydko3bHptR2Z1MjlPTzV1cGxlLXU0c2ZkcG1jV0twTFlTRERCR3hPZlNkUHRXYUQ1OWVtSDRpbTNPaTFsVXM3SktTMjNScVNXSU5wVmZLTGxwT0ZKdHBuMXdhRFB4Z2hDd3BZRG9oaEJYSUNUTE84T09ScTJxZFBrRGZLWnJ4cy0wRUhPNkNRUWI1RU55NlBZQWNkMWNHcTBoQWFlWQ?oc=5",
       "published_at": "2026-11-05T08:00:00Z",
@@ -306,6 +316,16 @@
       "score": 83
     },
     {
+      "id": "31c5893fd9d18739",
+      "category": "宇宙探索",
+      "title": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "text": "成功飞越地球改善了 Juice 飞往木星的航线",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDBWMjM3alBkZGJ0aDdVa2NReEpMWTVZV3ZxcUdtaTFma003ZG1yNV9oeUQwelZaa0ZFNnN4VzlHQW1mMHV6ei01V2ZvYUxibzd3NGJGYzdJRWpoQXczb20zWmxEUDJxT1BrdkEtSVlvMmV3aFJLSlY0MjhTMXZEVGxhYmtGZ1BRVnpjaVZtT3hEYlh4U2Vta3hWcjhEWUZfUkpNVmQxUkQ2VUhLR2JHY3QwSEVteFJlaW5Kc2NXZw?oc=5",
+      "published_at": "2026-09-28T07:00:00Z",
+      "score": 83
+    },
+    {
       "id": "eef61633e40dd416",
       "category": "粒子物理",
       "title": "使用氩气吸收中微子的第一个证据",
@@ -314,16 +334,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4b0ZjNmloNV9TUVhNdjFjcTNpREJUQVhNeDdDTHpVYmpFWXBnQUhTZEQwRTg3aXh3Q1UwZUlzSmx1dzJ4VHRyVU5CR2VxRWRJcHphRkFJM1ZMY2ZBSHdSUDVYaGVpZw?oc=5",
       "published_at": "2026-09-25T07:00:00Z",
       "score": 90
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "利用化石证据重建古环境 - 最新研究和新闻",
-      "text": "利用化石证据重建古环境 - 最新研究和新闻",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "6187325b6e1eaaa7",
@@ -468,8 +478,8 @@
     {
       "id": "0def6259205820b8",
       "category": "宇宙探索",
-      "title": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
-      "text": "夏威夷学生命名闪闪发光的银河对双胞胎精神一起描绘生活的形象",
+      "title": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
+      "text": "夏威夷学生命名为闪闪发光的银河对双胞胎精神一起描绘生活的图像",
       "source": "NOIRLab",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PbmVGN0VRTU1ER3UtYXBXOTExU0dIM0tBWXowZHJnVldiY3V3WmgySnZfc2tCT3Jud2tWNEhTUGppWS1PUmdfbm01OGswQ1A2elZnUl9Kcw?oc=5",
       "published_at": "2026-09-01T07:00:00Z",
@@ -516,26 +526,6 @@
       "score": 83
     },
     {
-      "id": "d3fd5b81fc4873f2",
-      "category": "宇宙探索",
-      "title": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
-      "text": "超新星 SN 2026gzf 宿主星系爆炸前的 DECam 图像（2016 年 3 月 9 日）",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbDBkWUFJZGZUM1dwTGRLaTdUWEtfMEZmbW5hbTZKMWZfMklNVXVUeVBOUW5pZXNidHNCSndkNk1Tekc2SlFyRTI5R3JYSy1lTnFpcWJkZmRrRU0?oc=5",
-      "published_at": "2026-08-05T07:00:00Z",
-      "score": 89
-    },
-    {
-      "id": "bbe4903a032461c9",
-      "category": "宇宙探索",
-      "title": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "text": "美国宇航局好奇号火星探测器发现蜂窝状纹理区域",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
-      "published_at": "2026-07-29T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "51ea8add2dba8082",
       "category": "古生物学",
       "title": "寒武纪早期最早的带有管管的头足类动物",
@@ -578,8 +568,8 @@
     {
       "id": "c569e87b3a3233ba",
       "category": "粒子物理",
-      "title": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
-      "text": "大型强子对撞机的氧气碰撞显示出物质极端状态的新迹象 – 家",
+      "title": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
+      "text": "大型强子对撞机的氧气碰撞显示了物质极端状态的新迹象 – 家",
       "source": "CERN",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEpBOFEwd1NvMzVhWFctb2tER1FYazBHd2Z1dGZhYWR1ZElfejVpY1RvdjJaU3RDSjJLVWJfaXpUNzJ4QlA2Sjh5aHo2c1djTlNiNzBLalRTMUxleWNsNTZnRFMxcWdMTVNSMnowaVJkMUlsMkNPbDRhbW13ZV9RV1hqRTNONnMtRE1GMGJ5SzJESTlwOXI3UWJXRQ?oc=5",
       "published_at": "2026-07-24T07:00:00Z",
