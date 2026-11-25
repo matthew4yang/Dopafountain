@@ -1,10 +1,30 @@
 {
-  "updated_at": "2026-11-25T10:20:38.808530Z",
-  "count": 26,
-  "auto_count": 62,
+  "updated_at": "2026-11-25T20:06:57.877352Z",
+  "count": 24,
+  "auto_count": 65,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "b761f607b46b58ea",
+      "category": "宇宙探索",
+      "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
+      "text": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU2c4TXk0NWY3UEctYnpXX1VwTXJSSmxwQTZRN2IxTFhaTDF2TnhaV0w3azBTUXdFMkhuNTNwTG05N19xTzFJcHBOM1h5ZkVZb1dadEQzc0UwRm1BUVptcXNFeWQ2X1pfSjN5RUhFcHZrZXNLblg4cUJPT0h1YmxvdkppYThEeUdzWkl3R09KMldGbjdnQU9RRmY3QUxsNTlDemJHOUQ2OVIyZHY2UG0teHhsXzJnbEd4ckJHUExWbHdsd3ZGd281eXNCX3k5ZWhkR0hrUDFUdmROV1p1Tm5NOGl0bXhDU18zcGc?oc=5",
+      "published_at": "2026-11-25T19:39:41Z",
+      "score": 89
+    },
+    {
+      "id": "dacd12bac6b86638",
+      "category": "宇宙探索",
+      "title": "Hubble image of the galaxy cluster Abell 3827",
+      "text": "Hubble image of the galaxy cluster Abell 3827",
+      "source": "Eso.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBibjR1ejByLUR4WkFrQ2lpdnp3QmttdkZ5Vjl5UWdZdXl4RlpwbXdsS0dqWGVwNXVtQmwyOVVpbFFtb0lnSXRZdXJLVUdxd2hLdFlDMXNldmlWUW44MEVBdWVLRU9NdTFxZXpaN0Rn?oc=5",
+      "published_at": "2026-11-25T18:39:14Z",
+      "score": 89
+    },
     {
       "id": "b0237272f0c0e13d",
       "category": "宇宙探索",
@@ -66,6 +86,16 @@
       "score": 89
     },
     {
+      "id": "6b6654147c0de29b",
+      "category": "古生物学",
+      "title": "Evidence for late Middle Pleistocene Homo erectus in mainland East Asia",
+      "text": "Evidence for late Middle Pleistocene Homo erectus in mainland East Asia",
+      "source": "Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzWWVUVzRFQmMzWEJrdVNMTklnaVJfU2NtU3J1LWxIUDU2Z3ZVZWlQNGFMb0tCU1RjcUVoZTZYZ0pFd3gyTlJBZ2hFbFI2am9laExRUUtaelJESld4T2Rr?oc=5",
+      "published_at": "2026-11-18T22:12:26Z",
+      "score": 83
+    },
+    {
       "id": "f43c654d9a7335f8",
       "category": "粒子物理",
       "title": "First Indication of Low-Energy Solar Neutrino-Electron Scattering with PandaX-4T Run 2 Data",
@@ -83,16 +113,6 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DUVA0dDV2c3BxQTJQTW9vTlNqcFZTU3ZWbEhuNGtTVU9yTzYtcEFKbno5SldvOFNUZk9na1NIcWZ5SDktVkNfUVluS1JGMmpOVDZZTFI4Q3ZJM0RxZHBsUG8yeFlxdw?oc=5",
       "published_at": "2026-11-18T15:52:24Z",
-      "score": 83
-    },
-    {
-      "id": "687d883b1d3d3523",
-      "category": "宇宙探索",
-      "title": "Open Space Innovation Platform - OSIP - Idea: From LEO Rideshare to Asteroid Flyby",
-      "text": "Open Space Innovation Platform - OSIP - Idea: From LEO Rideshare to Asteroid Flyby",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREhOakM3N2VVbkpEanJ4WkthRTBXYlNhYk1MbDV3ZmNmbUNSNkJtRHBpZG94SEI2RGFKbmVsZm9kcUJzeWZvcldIc2NvdFZoT25qMUVzYmxLdkRVUFBheDVJM0pCQU5BeUpyLWhMa3ROR1VSZ2w5MjZteWl3aFNTVXprVVN0OUFLTDRJSTFSMWZlSTh4VkVuWWtZZEd2dkwxU3dIT2JTSEJTWWEta2RxOEJBMm5nQkpzWkpRRVZEUFNycm12WGFiZHBaazA0UXRDRVFFVE9KeGJ0bGdwZEZDNnZQSmFPc29kdFE?oc=5",
-      "published_at": "2026-11-15T12:34:47Z",
       "score": 83
     },
     {
@@ -176,16 +196,6 @@
       "score": 83
     },
     {
-      "id": "c172283fa26f4b8b",
-      "category": "宇宙探索",
-      "title": "ALMA Reveals Hidden Planet-Forming Structures in the Smallest Disks",
-      "text": "ALMA Reveals Hidden Planet-Forming Structures in the Smallest Disks",
-      "source": "ALMA Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
-      "published_at": "2026-10-14T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "3dca4b13fa57060f",
       "category": "宇宙探索",
       "title": "During Science Month: ALMA Opens Its Doors to Celebrate 15 Years of Observing the Universe",
@@ -194,16 +204,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-02T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "0a6640ca362cdb9c",
-      "category": "宇宙探索",
-      "title": "James Webb Space Telescope Infrared Image of the Crab Nebula",
-      "text": "James Webb Space Telescope Infrared Image of the Crab Nebula",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SbzN3R19JLXA0NVE4Mnc0SURNSDN1aklNMENZZWpWNXBiS0pWR0RNcjVQRzRWLS1HczU5SlBLY01NNWJTV3Faakp1TlhfTmdxZl9tZW90UnVEX293YmpubWRuX2xFMUdxek9FakdBYmNENGtveTBZ?oc=5",
-      "published_at": "2026-09-30T07:00:00Z",
-      "score": 83
     },
     {
       "id": "3ad10587cee2946c",
@@ -243,26 +243,6 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzB6bDhuWDdJLXh5ZWFmSWkyQkN1Qkc2cVU5S21mQmtrUVNyXzJuWWdLWEg0NFljQU9QZTlUMU5HT0kxMXh1cXI1bXJPMWVva0NlenhIdHJVcHoySi10RzBkT1ZURlh1cURsLWJqQ0RILVN3U1hWTC1OWW9fNWtBNUlwV0xNS1FET2xwcno2NkctU0NfYUh0c3A3c3hHOW5TRlRiZ3BIUDdxZw?oc=5",
       "published_at": "2026-08-12T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "5df570450b98c754",
-      "category": "宇宙探索",
-      "title": "Scientists Release Biggest 2D Map of the Universe",
-      "text": "Scientists Release Biggest 2D Map of the Universe",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOE9wMjdRcW42X1ZrOWtkNnVhRlZDWGZtYlpHeVpTNzBITzJMR1gwZDRkNGRza2k5VWVZc2RQREdLN2h1S1dVS25fdHBhVzBzLUg1TGl0QQ?oc=5",
-      "published_at": "2026-08-10T07:00:00Z",
-      "score": 83
-    },
-    {
-      "id": "2517175562575c7c",
-      "category": "古生物学",
-      "title": "A firefly relative that smelled and glowed: evidence for complex signalling systems in Cretaceous lampyroids",
-      "text": "A firefly relative that smelled and glowed: evidence for complex signalling systems in Cretaceous lampyroids",
-      "source": "royalsocietypublishing.org",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
-      "published_at": "2026-07-29T07:00:00Z",
       "score": 83
     }
   ]
