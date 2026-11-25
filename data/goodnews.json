@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-11-25T01:33:02.696680Z",
+  "updated_at": "2026-11-25T10:20:38.808530Z",
   "count": 26,
-  "auto_count": 61,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
+    {
+      "id": "b0237272f0c0e13d",
+      "category": "宇宙探索",
+      "title": "The Incredible Adventures of the Hera mission – The space detectives arrive",
+      "text": "The Incredible Adventures of the Hera mission – The space detectives arrive",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3htSGxCQkM3ZFlacmZCOEVnTXcwdExzLW0wUUpUQXkzQjhZZERxSmdlWlJDOFpfNzd4a3d5S0tGd3Y2QXR2TmdfZDdHZ2hwX1BWekswZ3ZjdDNqeUlPWmZLUEN2cnhIdVBEQWlLLUlKT3c3Z1VZY0htOXZ2eWpUR1BiWTEtVGExZGJ5WXNESXFHQW9JTk8xMUdRWE9pX1FCZFhV?oc=5",
+      "published_at": "2026-11-24T17:28:10Z",
+      "score": 83
+    },
     {
       "id": "b248a415fa1ceaf4",
       "category": "粒子物理",
@@ -13,6 +23,16 @@
       "source": "Fermilab",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1d5WndFdjhYNk1uRGdHTkk1YTd5Nlcybko2N2pjekxxNy13UFJ0OEdhWkFGVkdVejh2b3QwYXFzdU5OeTJHOVZhV1B0eXNzOEdwRWd3WV9jSkRhZW5aSldYNTZSVl9fTjVNZnR3TUdDSG5wdThETmFmOFRmeW9sdGEtdW9RUjFKc1hkeHhjRnd2Q2JrWjdWZmRBbFlra1U?oc=5",
       "published_at": "2026-11-24T14:32:11Z",
+      "score": 83
+    },
+    {
+      "id": "ad1d97b8e4d1dfba",
+      "category": "宇宙探索",
+      "title": "Webb finds most distant known galaxy",
+      "text": "Webb finds most distant known galaxy",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zYWRIWndDeVo0MkJKcjN0VFExQU5hZnlQcUI4NV80eHpvT2xRRUtEN0RqdTI0U3NSa3JhVVhfV0pIclNWTV90UVVOVnBFSUhkYlo2Zk1sZjVwMGVfTFRLRUJfSlZwbEdvU1NmS3dGbUMtd28?oc=5",
+      "published_at": "2026-11-24T10:19:35Z",
       "score": 83
     },
     {
@@ -36,6 +56,16 @@
       "score": 83
     },
     {
+      "id": "e1567dfbee30a260",
+      "category": "宇宙探索",
+      "title": "Seven-spacecraft observatory to study plasma universe",
+      "text": "Seven-spacecraft observatory to study plasma universe",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFZwRjdwQUk5M1VRWTFINkNGbTZua0pwUEVLY2dyWi1KV2hPZXhLOFdTZUtid3RPN3AzekRydnJRd3F4aG5MS3M3bW9sRlBHYXVpa2hZOUZha21waU1PWXZTNTMtVnEzeWhLZEE3bl9HajN2eGhXYXhzUzliLXpwQXdsUnJ3cmk2YkZuRml5Mm9hazU2LTF4M1lkQlFKeVVJcnA4aVVHTWE2ZlJ3UkxHMmZ3?oc=5",
+      "published_at": "2026-11-19T17:08:01Z",
+      "score": 89
+    },
+    {
       "id": "f43c654d9a7335f8",
       "category": "粒子物理",
       "title": "First Indication of Low-Energy Solar Neutrino-Electron Scattering with PandaX-4T Run 2 Data",
@@ -53,6 +83,16 @@
       "source": "APS Journals",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DUVA0dDV2c3BxQTJQTW9vTlNqcFZTU3ZWbEhuNGtTVU9yTzYtcEFKbno5SldvOFNUZk9na1NIcWZ5SDktVkNfUVluS1JGMmpOVDZZTFI4Q3ZJM0RxZHBsUG8yeFlxdw?oc=5",
       "published_at": "2026-11-18T15:52:24Z",
+      "score": 83
+    },
+    {
+      "id": "687d883b1d3d3523",
+      "category": "宇宙探索",
+      "title": "Open Space Innovation Platform - OSIP - Idea: From LEO Rideshare to Asteroid Flyby",
+      "text": "Open Space Innovation Platform - OSIP - Idea: From LEO Rideshare to Asteroid Flyby",
+      "source": "ESA",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREhOakM3N2VVbkpEanJ4WkthRTBXYlNhYk1MbDV3ZmNmbUNSNkJtRHBpZG94SEI2RGFKbmVsZm9kcUJzeWZvcldIc2NvdFZoT25qMUVzYmxLdkRVUFBheDVJM0pCQU5BeUpyLWhMa3ROR1VSZ2w5MjZteWl3aFNTVXprVVN0OUFLTDRJSTFSMWZlSTh4VkVuWWtZZEd2dkwxU3dIT2JTSEJTWWEta2RxOEJBMm5nQkpzWkpRRVZEUFNycm12WGFiZHBaazA0UXRDRVFFVE9KeGJ0bGdwZEZDNnZQSmFPc29kdFE?oc=5",
+      "published_at": "2026-11-15T12:34:47Z",
       "score": 83
     },
     {
@@ -126,16 +166,6 @@
       "score": 89
     },
     {
-      "id": "9244156c25cfd2ee",
-      "category": "宇宙探索",
-      "title": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
-      "text": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
-      "source": "NOIRLab",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lb0xCeUhzSkEwU3JrUHJFWVJCa3Ffc0htLVFPbk5BeFNieENxWS1DSFdwOXA2S1dYZ3JXTy1zWkU1ZU5nekFWNnpwaHFaMVA1dXhTb1BMZw?oc=5",
-      "published_at": "2026-10-27T07:00:00Z",
-      "score": 90
-    },
-    {
       "id": "abff581823346a3c",
       "category": "粒子物理",
       "title": "First Simultaneous Analysis of Transverse Momentum Dependent and Collinear Parton Distributions in the Proton",
@@ -146,13 +176,13 @@
       "score": 83
     },
     {
-      "id": "fdc9823de901a7e8",
+      "id": "c172283fa26f4b8b",
       "category": "宇宙探索",
-      "title": "The gas around Milky Way's central black hole is rich in metals, study finds",
-      "text": "The gas around Milky Way's central black hole is rich in metals, study finds",
-      "source": "Smithsonian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3RScWx4MUdCdEdaNFc4eFZiUElCdHZMaXg3dnpCTUVjOFpvaVVKd21VdmU4WmNrSkRJaUxpSmJ6dzhERk5MWTdaZ3BtRmZ3Rk9PX3B6Mm5pb3d0bUNENlNfMlNOZkJqWmdRZnpvVEdKeXk4d0ZzVmU2ZkxSWl9GU0xXR1pXaW53d255R3NIa3ZsakI1QTlEOW9WaV9uUQ?oc=5",
-      "published_at": "2026-10-20T07:00:00Z",
+      "title": "ALMA Reveals Hidden Planet-Forming Structures in the Smallest Disks",
+      "text": "ALMA Reveals Hidden Planet-Forming Structures in the Smallest Disks",
+      "source": "ALMA Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXBmellaaUh0MWxaSHhzRTIxanFFVU13XzFtTmVvOVNKZFEwNU9TTWNGaktZTWtWdmFyMlVjSjBncDVFVmsybU52UDZIYWI1TWdfUHBCSldkcjZTX200U3lZQkdSWkNLMVh0b2MtaTBTcnJDNURCenlTRGtyXzBkNXd2LVl4Z1hUM1RjSW1kcjAweTBVTDNTa3RFZ25tc0luSzRnUW5uS3BEeWZmZVZRWHdUT3ZSNGhkeGc?oc=5",
+      "published_at": "2026-10-14T07:00:00Z",
       "score": 83
     },
     {
@@ -174,16 +204,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SbzN3R19JLXA0NVE4Mnc0SURNSDN1aklNMENZZWpWNXBiS0pWR0RNcjVQRzRWLS1HczU5SlBLY01NNWJTV3Faakp1TlhfTmdxZl9tZW90UnVEX293YmpubWRuX2xFMUdxek9FakdBYmNENGtveTBZ?oc=5",
       "published_at": "2026-09-30T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "583253ef21e6f08a",
-      "category": "古生物学",
-      "title": "Paleoenvironmental Reconstruction Using Fossil Evidence - Latest research and news",
-      "text": "Paleoenvironmental Reconstruction Using Fossil Evidence - Latest research and news",
-      "source": "Nature",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc01XbENpVHdjMWN4WFJXMS1tcDhEX1FRTUVQcElzTnNzdS1uVTFvb29FUFFnSUZMcVNzSmctMVR1ZHhfbFRBYkYtWVFmbTVYdV90eTFJQVJLRm1NZ1lMUDFZRnlsSWJ0cDNmTmE5bHVHX2ViUENRbXhEc3FlaG1VV2pDRGJPRnM4MDhxNWstVWI?oc=5",
-      "published_at": "2026-09-24T14:55:14Z",
-      "score": 97
     },
     {
       "id": "3ad10587cee2946c",
@@ -216,16 +236,6 @@
       "score": 82
     },
     {
-      "id": "8484ae7aebe9d8a2",
-      "category": "宇宙探索",
-      "title": "Asteroid and Comet Mission Targets Observed by Radar",
-      "text": "Asteroid and Comet Mission Targets Observed by Radar",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d01LdEdLODR3eU8xZ3N1b0o2OUJfbGFkaFJVSlg0Qk05Q09TZnQzMkVzeTJMMV9HZG9iS0F6UEZMbUczOW5TWEJVZUhKRndBVExBcA?oc=5",
-      "published_at": "2026-08-28T07:00:00Z",
-      "score": 89
-    },
-    {
       "id": "b050ee82b7767fdd",
       "category": "粒子物理",
       "title": "Muon g-2 experiment places new constraints on a forbidden property of muons",
@@ -246,24 +256,14 @@
       "score": 83
     },
     {
-      "id": "bbe4903a032461c9",
-      "category": "宇宙探索",
-      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-      "text": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-      "source": "NASA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJ4T3JLd3drSGRBSWZ6bS1zc1hLZ2wwdG1KZkRSMGpzSjUzQTMwWEhCdkd1Zlk1MHFQZHR1VnIwc3Y4cTM1a0IyZmhwLVBnMEJnZWxPUXhXREd6c09pQkxQbXBwdVdEUHh2N2xPT0RPTTN4U0FmUmc0MHlkTW9FTnBFVzl1YmE2V0tVVDd6YVQ0RF9YV1BWRXhGMA?oc=5",
+      "id": "2517175562575c7c",
+      "category": "古生物学",
+      "title": "A firefly relative that smelled and glowed: evidence for complex signalling systems in Cretaceous lampyroids",
+      "text": "A firefly relative that smelled and glowed: evidence for complex signalling systems in Cretaceous lampyroids",
+      "source": "royalsocietypublishing.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFV3MFlyT1lHbml2ZmN6a0d5NE51Z2VoTEhmVEVKczloQ2NhTjNLWmJWaFN6bHJyM0czYzBDWUt3RU1yc3RuRHIxTlVMbTU4RS1MSUZkWGpaRUt1cU96VS04UE44YmRDODNQV1JhT0l0eXhVVmJjNWs5YWZYS2FMU1ZzLVA0dUNPVS1GaG5HcUw1NmdHODZ0N0JOMUZpY2JBaE1JMDI0Y0pDdUI0TDR6YW0zaWlXZw?oc=5",
       "published_at": "2026-07-29T07:00:00Z",
       "score": 83
-    },
-    {
-      "id": "f9e678ffee003b4a",
-      "category": "粒子物理",
-      "title": "Searching for Axion Dark Matter with ADMX",
-      "text": "Searching for Axion Dark Matter with ADMX",
-      "source": "Fermilab",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnlocHJUNndINWNmTXpXd01sSDdwV0J3RkpFOElSZXZndENjOUtPTDRzdy1MX19CbEJ0Yk15bkRaY01GZnlxQjJlbUpONDFUMlVoNlYzazU2U21jOE5UM2xkUnNnNTNlc3BFZ29aQXNXUVk0Mk94aEV4S1J2ZXlwV21ZeUNqVENTenhlRHJlZzNIUEd2Z3FiU29YaThPaEVYZldDZFV6T09zaTA?oc=5",
-      "published_at": "2026-07-23T07:00:00Z",
-      "score": 89
     }
   ]
 }
