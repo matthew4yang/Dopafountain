@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T22:37:56.047464Z",
-  "count": 26,
-  "auto_count": 63,
+  "updated_at": "2026-11-28T04:13:14.993497Z",
+  "count": 24,
+  "auto_count": 62,
   "verified_seed_count": 2,
   "policy": "ONLY 宇宙探索 / 粒子物理 / 古生物学; core facts only; authoritative-source whitelist",
   "items": [
@@ -43,6 +43,16 @@
       "source": "ESA",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zYWRIWndDeVo0MkJKcjN0VFExQU5hZnlQcUI4NV80eHpvT2xRRUtEN0RqdTI0U3NSa3JhVVhfV0pIclNWTV90UVVOVnBFSUhkYlo2Zk1sZjVwMGVfTFRLRUJfSlZwbEdvU1NmS3dGbUMtd28?oc=5",
       "published_at": "2026-11-24T10:19:35Z",
+      "score": 83
+    },
+    {
+      "id": "4e6f7ded87f53161",
+      "category": "宇宙探索",
+      "title": "NASA’s ESCAPADE Captures Parting Images of Earth on Its Way to Mars",
+      "text": "NASA’s ESCAPADE Captures Parting Images of Earth on Its Way to Mars",
+      "source": "NASA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTlxRy1kN0ROVUI3dnQzSWFBY2QtSURDM1BmSUdpSE1jU2tpQlNCY2V5RTlFcHlqWU9nWTVFbmc3U2pMX2pDVnlaSEpMWm1KNTVGN3lPSW5rVlA2Ukp4eHpacTNGaDFLNGIwN3UtbDB2Wi1zTXN0QmhOdlpiWDk4dVhRcGs3bXNmQXZfdTZBaHlSUVVSOU1DMnFmZjhaX1dUUDBSODVTNkJtWWdLNjU2YlFQaFQyVi1jOVE?oc=5",
+      "published_at": "2026-11-23T16:53:07Z",
       "score": 83
     },
     {
@@ -186,16 +196,6 @@
       "score": 83
     },
     {
-      "id": "65e8a1146a356eb2",
-      "category": "粒子物理",
-      "title": "Beam tests boost progress on detector technologies for the Future Circular Collider – Home",
-      "text": "Beam tests boost progress on detector technologies for the Future Circular Collider – Home",
-      "source": "CERN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3UwZmZLai0xb2I1S0dhZkU0SWhIcVNzV2l0QVRrclM1N0w5NmdPRnJKQ2FLUGVPYWYyYXlvN0hIdV92UzA0OTFIdHltLUo5Q1A1cDEyZ2ZHQklNTnc2azRTaVU0anpzTmM3RmVIS0hmcUNXYTJhNUZNa1ZGQjdlSWtJcDVzQUJTSXlRc2l1bmlaQXBVd19rekZpTkZfNEV2Yl9sRQ?oc=5",
-      "published_at": "2026-10-07T07:00:00Z",
-      "score": 83
-    },
-    {
       "id": "3dca4b13fa57060f",
       "category": "宇宙探索",
       "title": "During Science Month: ALMA Opens Its Doors to Celebrate 15 Years of Observing the Universe",
@@ -204,16 +204,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZEFRRkg1SE1mQmhSTVF3YWdXTlRJcjVXeTBCVkxON3YzSGN1OThFRkI4QlVjN3VSUUROcG9nR1BuUnFUMjI1LXZqWDZ0bE5waXM5TEhmbENlTzd4UEw3ZFJDdUgxaVItYVRpNlNzODFLTVRiVEJWNmk3eEdqbVd5dXd4RmlJNjREXzBycjlWQW02MzEzZFV3eVFyUm85MTVkTWJzaWh4QUJQMjduRVotX0dRYzlJOWllT2MtYU85QmI2UWtqTGlHelYtRWRlTUNhRmRSQVRR?oc=5",
       "published_at": "2026-10-02T07:00:00Z",
       "score": 89
-    },
-    {
-      "id": "31c5893fd9d18739",
-      "category": "宇宙探索",
-      "title": "Successful Earth flyby improves Juice’s course to Jupiter",
-      "text": "Successful Earth flyby improves Juice’s course to Jupiter",
-      "source": "ESA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcDBWMjM3alBkZGJ0aDdVa2NReEpMWTVZV3ZxcUdtaTFma003ZG1yNV9oeUQwelZaa0ZFNnN4VzlHQW1mMHV6ei01V2ZvYUxibzd3NGJGYzdJRWpoQXczb20zWmxEUDJxT1BrdkEtSVlvMmV3aFJLSlY0MjhTMXZEVGxhYmtGZ1BRVnpjaVZtT3hEYlh4U2Vta3hWcjhEWUZfUkpNVmQxUkQ2VUhLR2JHY3QwSEVteFJlaW5Kc2NXZw?oc=5",
-      "published_at": "2026-09-28T07:00:00Z",
-      "score": 83
     },
     {
       "id": "3ad10587cee2946c",
@@ -234,16 +224,6 @@
       "url": "https://www.jpl.nasa.gov/news/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "published_at": "2026-09-23T00:00:00Z",
       "score": 78
-    },
-    {
-      "id": "3fdcf5b6d435a1b9",
-      "category": "宇宙探索",
-      "title": "Revealing hidden stars and galaxies: new MOONS instrument at the Very Large Telescope makes first observations",
-      "text": "Revealing hidden stars and galaxies: new MOONS instrument at the Very Large Telescope makes first observations",
-      "source": "Eso.org",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DalZDUVBjSjhldHA0SzNrX00weW9oWXJfUEpsdTZpUGhTaVYzSGQtb3A0UGFMZ0Z0N0xFTmFDcl9vU1Q5U0xWNzRzUmtHUDEwUjkyNk9GM1VvMk1KbF9z?oc=5",
-      "published_at": "2026-09-03T07:00:00Z",
-      "score": 90
     },
     {
       "id": "seed-esa-bepicolombo-20260903",
